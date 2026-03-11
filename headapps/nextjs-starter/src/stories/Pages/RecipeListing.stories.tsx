@@ -8,8 +8,8 @@ import {
   createMockComponent,
   mockPageWithRoute,
   paramsArgs,
+  articleFactory,
 } from 'lib/helpers/storybook';
-import { recipeFactory } from 'lib/helpers/storybook/factory';
 import { getPageFromLoader } from 'lib/types';
 import { SitecoreProvider, ComponentPropsContext } from '@sitecore-content-sdk/nextjs';
 import components from '../../../.sitecore/component-map';
@@ -39,26 +39,37 @@ export const Default: Story = {
 
       // Static HeroBanner (no theme)
       const HeroBanner = mockHeroBanner(
-        'Discover Our Latest Insights',
-        'Stay updated with our expert articles, tips, and industry trends, all in one place.',
+        'Searching for dinner inspiration?',
+        'Browse our collection of recipes and find the perfect meal for your family.',
         '',
         ''
       );
 
       const Fields = {
-        heading: stringFieldArgs('Simple Page  Posts'),
+        heading: stringFieldArgs('Dinner Options'),
       };
 
-      // Themed SimplePageListing
-      const SimplePageListing = {
-        ...createMockComponent('SimplePageListing', Fields, undefined, {
+      const prepTimes = ['10 mins', '15 mins', '20 mins', '5 mins', '30 mins', '25 mins'];
+      const cookTimes = ['20 mins', '45 mins', '60 mins', '15 mins', '30 mins', '35 mins'];
+
+      const pageData = articleFactory(false).map((post, index) => ({
+        ...post,
+        datePublished: post.datePublished.formattedDateValue,
+        title: { jsonValue: stringFieldArgs(post.heading.jsonValue.value || '') },
+        prepTime: { jsonValue: stringFieldArgs(prepTimes[index % prepTimes.length]) },
+        cookTime: { jsonValue: stringFieldArgs(cookTimes[index % cookTimes.length]) },
+      }));
+
+      // Themed RecipePageListing
+      const RecipePageListing = {
+        ...createMockComponent('RecipePageListing', Fields, undefined, {
           ...paramsArgs(crypto.randomUUID(), 'Default', ''),
           Styles: themeStyles,
         }),
-        data: recipeFactory(),
+        data: pageData,
       };
 
-      const HeadlessMain = [HeroBanner, SimplePageListing];
+      const HeadlessMain = [HeroBanner, RecipePageListing];
 
       return mockPageWithRoute(mockLayoutRoute(HeadlessMain, 'Landing Page', 'Home'));
     },

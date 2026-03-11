@@ -28,7 +28,9 @@ function extractRecipeData(page: RecipePageDataType) {
     prepTime: page?.prepTime?.jsonValue?.value || '',
     cookTime: page?.cookTime?.jsonValue?.value || '',
     image: (imageGQL?.jsonValue ?? { value: undefined }) as ImageField,
-    imageMobile: ((imageMobileGQL?.jsonValue || imageGQL?.jsonValue) ?? { value: undefined }) as ImageField,
+    imageMobile: ((imageMobileGQL?.jsonValue || imageGQL?.jsonValue) ?? {
+      value: undefined,
+    }) as ImageField,
   };
 }
 
@@ -141,12 +143,16 @@ type RecipeCardWrapperProps = {
   direction?: 'row' | 'col';
 };
 
-const RecipeCardWrapper: React.FC<RecipeCardWrapperProps> = ({ page, children, direction = 'col' }) => {
+const RecipeCardWrapper: React.FC<RecipeCardWrapperProps> = ({
+  page,
+  children,
+  direction = 'col',
+}) => {
   const { effectiveTheme } = useFrame();
   const { page: sitecorePage } = useSitecore();
   const isEditing = sitecorePage?.mode.isEditing;
   const cardClasses = cn(
-    'no-link-style group flex h-full w-full gap-4 rounded-lg p-1 bg-surface text-content',
+    'no-link-style group flex h-full w-full gap-4 rounded-lg bg-surface p-1 text-content',
     direction === 'row' ? 'flex-row' : 'flex-col',
     effectiveTheme
   );
