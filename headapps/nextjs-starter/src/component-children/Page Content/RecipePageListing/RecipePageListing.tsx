@@ -2,7 +2,7 @@ import { useState, useMemo } from 'react';
 import { Text } from '@sitecore-content-sdk/nextjs';
 import { ContainedWrapper } from '../../Shared/Containers/ContainedWrapper';
 import { Pagination } from 'component-children/Shared/Pagination/Pagination';
-import { SimplePageListingProps } from 'lib/types/components/Page Content/simple-page-listing';
+import { RecipePageListingProps } from 'lib/types/components/Page Content/simple-page-listing';
 import { useContextPageTags } from 'lib/contexts/page-tags-context';
 import { hasMatchingTags, TagItem } from 'lib/helpers/merge-page-tags';
 import { useFrame } from 'lib/hooks/useFrame';
@@ -12,7 +12,7 @@ import { EditModeClickDisabler } from 'component-children/Shared/Containers/Edit
 import RecipeCard from 'component-children/Cards/RecipePreviewCard/RecipePreviewCard';
 import { RecipePageDataType } from 'lib/helpers/listing/recipe-listing';
 
-const RecipePageListingRendering: React.FC<SimplePageListingProps> = ({ fields, rendering }) => {
+const RecipePageListingRendering: React.FC<RecipePageListingProps> = ({ fields, rendering }) => {
   const { effectiveTheme } = useFrame();
   const { pageTags } = useContextPageTags();
   const [filteringFailed, setFilteringFailed] = useState(false);
@@ -87,7 +87,10 @@ type RecipeCardGridProps = {
   itemsPerPage?: number;
 };
 
-const RecipeCardGrid: React.FC<RecipeCardGridProps> = ({ pages, itemsPerPage: itemsPerPageProp }) => {
+const RecipeCardGrid: React.FC<RecipeCardGridProps> = ({
+  pages,
+  itemsPerPage: itemsPerPageProp,
+}) => {
   const itemsPerPage = getValidPageSize(itemsPerPageProp);
   const [currentPage, setCurrentPage] = useState(1);
   const totalPages = Math.ceil(pages.length / itemsPerPage);
@@ -100,12 +103,7 @@ const RecipeCardGrid: React.FC<RecipeCardGridProps> = ({ pages, itemsPerPage: it
         {paginatedResults.map((page, idx) => {
           if (!page) return null;
 
-          return (
-            <RecipeCard
-              key={idx}
-              page={page}
-            />
-          );
+          return <RecipeCard key={idx} page={page} />;
         })}
       </div>
       {totalPages > 1 && (

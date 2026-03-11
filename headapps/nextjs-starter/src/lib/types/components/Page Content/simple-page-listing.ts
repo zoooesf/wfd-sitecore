@@ -67,6 +67,7 @@ export type SimplePageListingProps = ComponentProps & {
   fields: SimplePageListingFields;
 };
 type RecipePageListingFields = {
+  heading?: Field<string>;
   title?: Field<string>;
   prepTime?: Field<string>;
   cookTime?: Field<string>;
