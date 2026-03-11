@@ -1,5 +1,8 @@
 import type { Meta, StoryObj } from '@storybook/nextjs';
-import { Default as RecipePreviewCard, ImageLeft as RecipePreviewCardImageLeft } from 'components/Cards/RecipePreviewCard/RecipePreviewCard';
+import {
+  Default as RecipePreviewCard,
+  ImageLeft as RecipePreviewCardImageLeft,
+} from 'components/Cards/RecipePreviewCard/RecipePreviewCard';
 import { loremIpsumGenerator } from 'lib/helpers';
 import {
   linkFieldArgs,
@@ -30,7 +33,7 @@ type Story = StoryObj<typeof meta>;
 const DefaultFields = {
   heading: stringFieldArgs('Recipe Name'),
   body: stringFieldArgs('yummy yummy recipe description'),
-  link: linkFieldArgs('/', 'Get Cookin\'', '_self'),
+  link: linkFieldArgs('/', "Get Cookin'", '_self'),
   image: tileImageFieldArgs(),
   imageMobile: tileImageFieldArgs(),
   title: stringFieldArgs('Recipe Name'),
@@ -129,12 +132,7 @@ export const RecipeList: Story = {
         <h2 className="heading-lg mb-6">Recipe Collection</h2>
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {recipes.map((recipeFields, index) => (
-            <RecipePreviewCard
-              key={index}
-              {...args}
-              fields={recipeFields}
-              params={params}
-            />
+            <RecipePreviewCard key={index} {...args} fields={recipeFields} params={params} />
           ))}
         </div>
       </div>

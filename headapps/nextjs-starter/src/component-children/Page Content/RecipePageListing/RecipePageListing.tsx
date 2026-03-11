@@ -9,10 +9,22 @@ import { useFrame } from 'lib/hooks/useFrame';
 import { useTranslation } from 'lib/hooks/useTranslation';
 import { getValidPageSize } from 'lib/helpers/page-size';
 import { EditModeClickDisabler } from 'component-children/Shared/Containers/EditModeClickDisabler';
-import RecipeCard from 'component-children/Cards/RecipePreviewCard/RecipePreviewCard';
+import RecipeCard, {
+  RecipeCardImageLeft,
+} from 'component-children/Cards/RecipePreviewCard/RecipePreviewCard';
 import { RecipePageDataType } from 'lib/helpers/listing/recipe-listing';
 
-const RecipePageListingRendering: React.FC<RecipePageListingProps> = ({ fields, rendering }) => {
+export type RecipeCardVariant = 'default' | 'imageLeft';
+
+type RecipePageListingRenderingProps = RecipePageListingProps & {
+  cardVariant?: RecipeCardVariant;
+};
+
+const RecipePageListingRendering: React.FC<RecipePageListingRenderingProps> = ({
+  fields,
+  rendering,
+  cardVariant = 'default',
+}) => {
   const { effectiveTheme } = useFrame();
   const { pageTags } = useContextPageTags();
   const [filteringFailed, setFilteringFailed] = useState(false);
@@ -75,7 +87,11 @@ const RecipePageListingRendering: React.FC<RecipePageListingProps> = ({ fields, 
         )}
 
         <EditModeClickDisabler>
-          <RecipeCardGrid pages={filteredPages} itemsPerPage={fields?.PageSizeCount?.value} />
+          <RecipeCardGrid
+            pages={filteredPages}
+            itemsPerPage={fields?.PageSizeCount?.value}
+            cardVariant={cardVariant}
+          />
         </EditModeClickDisabler>
       </div>
     </ContainedWrapper>
@@ -85,25 +101,34 @@ const RecipePageListingRendering: React.FC<RecipePageListingProps> = ({ fields, 
 type RecipeCardGridProps = {
   pages: RecipePageDataType[];
   itemsPerPage?: number;
+  cardVariant?: RecipeCardVariant;
 };
 
 const RecipeCardGrid: React.FC<RecipeCardGridProps> = ({
   pages,
   itemsPerPage: itemsPerPageProp,
+  cardVariant = 'default',
 }) => {
   const itemsPerPage = getValidPageSize(itemsPerPageProp);
   const [currentPage, setCurrentPage] = useState(1);
   const totalPages = Math.ceil(pages.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const paginatedResults = pages.slice(startIndex, startIndex + itemsPerPage);
+  const CardComponent = cardVariant === 'imageLeft' ? RecipeCardImageLeft : RecipeCard;
 
   return (
     <>
-      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div
+        className={
+          cardVariant === 'imageLeft'
+            ? 'grid grid-cols-1 gap-4 sm:grid-cols-2'
+            : 'grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3'
+        }
+      >
         {paginatedResults.map((page, idx) => {
           if (!page) return null;
 
-          return <RecipeCard key={idx} page={page} />;
+          return <CardComponent key={idx} page={page} />;
         })}
       </div>
       {totalPages > 1 && (

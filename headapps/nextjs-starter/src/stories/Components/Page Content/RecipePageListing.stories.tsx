@@ -1,6 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/nextjs';
 import { stringFieldArgs, articleFactory, mockTagCategories } from 'lib/helpers/storybook';
-import { Default as RecipePageListing } from 'components/Page Content/RecipePageListing/RecipePageListing';
+import {
+  Default as RecipePageListing,
+  ImageLeft as RecipePageListingImageLeft,
+} from 'components/Page Content/RecipePageListing/RecipePageListing';
 import { ComponentRendering, Page } from '@sitecore-content-sdk/nextjs';
 import { ContextPageTagsProvider } from 'lib/contexts/page-tags-context';
 import { PageDataType } from 'lib/types';
@@ -94,6 +97,23 @@ export const Default: Story = {
   render: (args, globals) => {
     const { params } = globals;
     return <RecipePageListing {...args} params={params} />;
+  },
+};
+export const ImageLeft: Story = {
+  args: {
+    fields: {
+      heading: stringFieldArgs('Discover more pages'),
+      selectedPage: mockSelectedPage,
+      filterByTags: { value: false },
+      tagsHeading: { value: '' },
+      noResultsText: { value: '' },
+    },
+    rendering: mockRendering,
+    params: { name: 'simple-page-listing' },
+  },
+  render: (args, globals) => {
+    const { params } = globals;
+    return <RecipePageListingImageLeft {...args} params={params} />;
   },
 };
 

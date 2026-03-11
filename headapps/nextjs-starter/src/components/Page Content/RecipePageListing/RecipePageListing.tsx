@@ -6,6 +6,7 @@ import {
   withDatasourceCheck,
 } from '@sitecore-content-sdk/nextjs';
 import RecipePageListingRendering from 'component-children/Page Content/RecipePageListing/RecipePageListing';
+export type { RecipeCardVariant } from 'component-children/Page Content/RecipePageListing/RecipePageListing';
 import {
   RecipePageListingProps,
   SelectedPage,
@@ -19,6 +20,14 @@ const RecipePageListingDefault = (props: RecipePageListingProps): JSX.Element =>
   return (
     <Frame params={props.params}>
       <RecipePageListingRendering {...props} />
+    </Frame>
+  );
+};
+
+const RecipePageListingImageLeft = (props: RecipePageListingProps): JSX.Element => {
+  return (
+    <Frame params={props.params}>
+      <RecipePageListingRendering {...props} cardVariant="imageLeft" />
     </Frame>
   );
 };
@@ -52,3 +61,4 @@ export const getComponentServerProps: GetComponentServerProps = async (
 };
 
 export const Default = withDatasourceCheck()<RecipePageListingProps>(RecipePageListingDefault);
+export const ImageLeft = withDatasourceCheck()<RecipePageListingProps>(RecipePageListingImageLeft);
