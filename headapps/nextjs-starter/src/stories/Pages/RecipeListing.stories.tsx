@@ -139,10 +139,10 @@ export const LeftImage: Story = {
         cookTime: { jsonValue: stringFieldArgs(cookTimes[index % cookTimes.length]) },
       }));
 
-      // Themed RecipePageListing
+      // Themed RecipePageListing - ImageLeft variant
       const RecipePageListing = {
         ...createMockComponent('RecipePageListing', Fields, undefined, {
-          ...paramsArgs(crypto.randomUUID(), 'Default', ''),
+          ...paramsArgs(crypto.randomUUID(), 'ImageLeft', ''),
           Styles: themeStyles,
         }),
         data: pageData,
