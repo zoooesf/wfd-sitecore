@@ -3,13 +3,14 @@ import { getGraphQlClient } from 'lib/graphql-client';
 import { PageDataType } from 'lib/types';
 import { ItemUrl } from 'lib/types/fields';
 import { TagItem } from 'lib/helpers/merge-page-tags';
-import { Field, ImageField } from '@sitecore-content-sdk/nextjs';
+import { Field } from '@sitecore-content-sdk/nextjs';
+import { ImageGQLType } from 'lib/types/graphql';
 
 export type RecipePageDataType = PageDataType & {
   title?: { jsonValue: Field<string> };
   prepTime?: { jsonValue: Field<string> };
   cookTime?: { jsonValue: Field<string> };
-  imageMobile?: { jsonValue: ImageField };
+  imageMobile?: ImageGQLType;
 };
 
 type PageListingResponse = {
