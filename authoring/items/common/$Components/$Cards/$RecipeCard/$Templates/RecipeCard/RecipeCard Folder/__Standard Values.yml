@@ -1,0 +1,43 @@
+﻿---
+ID: "981262f5-8989-4ddc-a505-792b0c856a5f"
+Parent: "bb9841b5-802d-4a40-b1d1-685aafd8e070"
+Template: "bb9841b5-802d-4a40-b1d1-685aafd8e070"
+Path: /sitecore/templates/Feature/Common/Cards/RecipeCard/RecipeCard Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {0CC3A0B3-E599-4152-BF32-A59D48B746E3}
+    {BBDDE3AE-0488-4CCB-90CC-97AFF2ED01E3}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ac68b308-dd28-4d37-a8c3-99a9bc8ed858"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241023T181724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8eb5c1fd-2a60-41d1-bf07-72e0c2cbb679"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T185253Z

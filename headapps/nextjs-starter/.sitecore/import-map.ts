@@ -18,7 +18,7 @@ import { Text, RichText, withDatasourceCheck, useSitecore, Placeholder, NextImag
 import { useTranslation } from 'lib/hooks/useTranslation';
 import { useFrame, FrameProvider } from 'lib/hooks/useFrame';
 import { getGraphQlClient } from 'lib/graphql-client';
-import { BUSINESS_PROFILE_TEMPLATE_ID, NEWS_TEMPLATE_ID, INSIGHTS_TEMPLATE_ID, LANDING_PAGE_TEMPLATE_ID, HEADER_CHILD_ID, HEADER_LINK_GROUP_ID, HEADER_LINK_ID, FOOTER_SOCIAL_LINK_TEMPLATE_ID, FOOTER_LINK_TEMPLATE_ID, ARTICLE_TEMPLATE_ID } from 'lib/graphql/id';
+import { BUSINESS_PROFILE_TEMPLATE_ID, NEWS_TEMPLATE_ID, INSIGHTS_TEMPLATE_ID, LANDING_PAGE_TEMPLATE_ID, RECIPE_PAGE_TEMPLATE_ID, HEADER_CHILD_ID, HEADER_LINK_GROUP_ID, HEADER_LINK_ID, FOOTER_SOCIAL_LINK_TEMPLATE_ID, FOOTER_LINK_TEMPLATE_ID, ARTICLE_TEMPLATE_ID } from 'lib/graphql/id';
 import { PRIMARY_THEME, TERTIARY_THEME, SECONDARY_THEME } from 'lib/const';
 import { getLayoutLanguage, getSiteName, fetchSiteRootInfo, contentRootIdNullChecker, extractHashParams, mergeHashParams, placeholderGenerator, cn as cn_ad38580a4d9ab18fff637eb37486c819409ee6c0, pageEditCheck, getPeoplePageDisplayName, downloadICS, normalizeSxaTags } from 'lib/helpers';
 import { GetBusinessProfiles, GetProductDocuments, GetTertiaryNavigation, GetItemById, GetSideNavigation, GetHeaderNavigation, GetContentTreeNavigation, GetFooterLegalSocialLinks, GetFooterColumnLinks, GetLatestArticles, GetLatestInsights, GetLatestNews } from 'graphql/generated/graphql-documents';
@@ -51,6 +51,8 @@ import PersonProfileRendering from 'component-children/People/PersonProfile/Pers
 import SimplePageListingRendering from 'component-children/Page Content/SimplePageListing/SimplePageListing';
 import { getPageListingWithDetails } from 'lib/helpers/listing/page-listing';
 import { cn } from 'lib/helpers/classname';
+import RecipePageListingRendering from 'component-children/Page Content/RecipePageListing/RecipePageListing';
+import { getRecipeListingWithDetails } from 'lib/helpers/listing/recipe-listing';
 import { FullWidthWrapper } from 'component-children/Shared/Containers/FullWidthWrapper';
 import { useImage } from 'lib/hooks/useImage';
 import { Wrapper } from 'component-children/Shared/Containers/Wrapper';
@@ -59,6 +61,7 @@ import { ContentBlockImageLeft } from 'component-children/Page Content/ContentBl
 import ContentBlock from 'component-children/Page Content/ContentBlock/ContentBlock';
 import { Button } from 'component-children/Shared/Button/Button';
 import Button_e5ef0f25383a4b5a7bc1027fc8ac4045058cb2fe from 'component-children/Shared/Button/Button';
+import { AwakeToggle } from 'component-children/Shared/Button/AwakeToggle';
 import { fetchAlertBannerData, AlertBanner, AlertBannerEditRendering } from 'component-children/Page Content/AlertBanner/AlertBanner';
 import { mainLanguage, availableLanguages } from 'lib/i18n/i18n-config';
 import { AccordionProvider, useAccordion } from 'lib/hooks/useAccordion';
@@ -102,6 +105,9 @@ import { pageView } from '@sitecore-cloudsdk/events/browser';
 import config from 'sitecore.config';
 import { ContainerProvider, useContainer } from 'lib/hooks/useContainer';
 import { BackgroundImage } from 'component-children/Shared/BackgroundImage/BackgroundImage';
+import { RecipeCardImageLeft } from 'component-children/Cards/RecipePreviewCard/RecipePreviewCard';
+import RecipePreviewCard from 'component-children/Cards/RecipePreviewCard/RecipePreviewCard';
+import RecipeCard from 'component-children/Cards/RecipeCard/RecipeCard';
 import CardCarousel from 'component-children/Cards/CardCarousel/CardCarousel';
 import CardBanner from 'component-children/Cards/CardBanner/CardBanner';
 import Card from 'component-children/Cards/Card/Card';
@@ -206,6 +212,7 @@ const importMap = [
       { name: 'NEWS_TEMPLATE_ID', value: NEWS_TEMPLATE_ID },
       { name: 'INSIGHTS_TEMPLATE_ID', value: INSIGHTS_TEMPLATE_ID },
       { name: 'LANDING_PAGE_TEMPLATE_ID', value: LANDING_PAGE_TEMPLATE_ID },
+      { name: 'RECIPE_PAGE_TEMPLATE_ID', value: RECIPE_PAGE_TEMPLATE_ID },
       { name: 'HEADER_CHILD_ID', value: HEADER_CHILD_ID },
       { name: 'HEADER_LINK_GROUP_ID', value: HEADER_LINK_GROUP_ID },
       { name: 'HEADER_LINK_ID', value: HEADER_LINK_ID },
@@ -431,6 +438,18 @@ const importMap = [
     ]
   },
   {
+    module: 'component-children/Page Content/RecipePageListing/RecipePageListing',
+    exports: [
+      { name: 'default', value: RecipePageListingRendering },
+    ]
+  },
+  {
+    module: 'lib/helpers/listing/recipe-listing',
+    exports: [
+      { name: 'getRecipeListingWithDetails', value: getRecipeListingWithDetails },
+    ]
+  },
+  {
     module: 'component-children/Shared/Containers/FullWidthWrapper',
     exports: [
       { name: 'FullWidthWrapper', value: FullWidthWrapper },
@@ -471,6 +490,12 @@ const importMap = [
     exports: [
       { name: 'Button', value: Button },
       { name: 'default', value: Button_e5ef0f25383a4b5a7bc1027fc8ac4045058cb2fe },
+    ]
+  },
+  {
+    module: 'component-children/Shared/Button/AwakeToggle',
+    exports: [
+      { name: 'AwakeToggle', value: AwakeToggle },
     ]
   },
   {
@@ -733,6 +758,19 @@ const importMap = [
     module: 'component-children/Shared/BackgroundImage/BackgroundImage',
     exports: [
       { name: 'BackgroundImage', value: BackgroundImage },
+    ]
+  },
+  {
+    module: 'component-children/Cards/RecipePreviewCard/RecipePreviewCard',
+    exports: [
+      { name: 'RecipeCardImageLeft', value: RecipeCardImageLeft },
+      { name: 'default', value: RecipePreviewCard },
+    ]
+  },
+  {
+    module: 'component-children/Cards/RecipeCard/RecipeCard',
+    exports: [
+      { name: 'default', value: RecipeCard },
     ]
   },
   {

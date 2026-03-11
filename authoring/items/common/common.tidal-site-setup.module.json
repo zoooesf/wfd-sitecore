@@ -1,6 +1,9 @@
 {
     "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
     "namespace": "common-tidal-site-setup",
+    "references": [
+        "demo-sitecollections-sites"
+    ],
     "items": {
         "path": "./",
         "includes": [

@@ -22,7 +22,8 @@ export type CardBadgeProps = {
 };
 
 export type CardFields = CardBadgeProps &
-  ImageProps & RecipeFields &{
+  ImageProps &
+  RecipeFields & {
     heading: Field<string>;
     body: RichTextField;
     link: LinkField;

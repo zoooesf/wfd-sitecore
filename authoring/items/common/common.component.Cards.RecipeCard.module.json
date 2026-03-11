@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Cards-RecipeCard",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules",
+        "common-component-Cards-Card"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Cards/$RecipeCard/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Cards/RecipeCard",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}
