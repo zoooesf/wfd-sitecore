@@ -1,0 +1,48 @@
+﻿---
+ID: "132cc353-7b31-4f9d-8140-139a909fb2c0"
+Parent: "39188ebc-975b-4c47-aab5-f5c17b7a549e"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Navigation/Content Tree Side Nav/Get Involved
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DE4792C6-E6E8-42DF-BB6C-2F7CD773619D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "eb72c6e5-0d55-433a-9e1d-79d336fab9c6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{4DAC141E-554B-4578-B390-13BADD6B135A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241105T173728Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Landing Page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f10ed3cb-f19d-4506-bf99-3a97a99768d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Get Involved
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T164433Z

@@ -1,0 +1,52 @@
+﻿---
+ID: "bfe57008-94e1-481d-a9af-0516c778b044"
+Parent: "beb62add-4b21-4513-827d-24fd79b712fa"
+Template: "6cf28231-ab4b-46da-a3cd-6b737b738b43"
+Path: "/sitecore/content/Sites/main/Data/Footer Legals/FooterLegal - AHA"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0a5e92c7-c3f5-4d63-9532-fc866bd41ecd"
+      Hint: cookiePolicyLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Cookie Policy" url="/Sites/main/Home" />
+    - ID: "19ae9aad-fde8-40ac-a652-d8bbb0aea4d7"
+      Hint: privacyPolicyLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Privacy Policy" url="/Sites/main/Home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T132127Z
+    - ID: "3962ec3d-78f2-4f30-bd11-7071db97be8e"
+      Hint: landAcknowledgement
+      Value: "The American Heart Association is a qualified 501(c)(3) tax-exempt organization. *Red Dress ™ DHHS, Go Red ™ AHA ; National Wear Red Day® is a registered trademark."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46f7b60d-a9c8-41e0-9557-4650ead827e6"
+    - ID: "92e101bb-01d4-40ea-bcc6-c1169c0f1aac"
+      Hint: tosLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Terms of Service" url="/Sites/main/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c364c6-fdc7-4d5b-80bb-041667fe76ed"
+      Hint: copyright
+      Value: American Heart Association, Inc. All rights reserved. Unauthorized use prohibited.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133553Z

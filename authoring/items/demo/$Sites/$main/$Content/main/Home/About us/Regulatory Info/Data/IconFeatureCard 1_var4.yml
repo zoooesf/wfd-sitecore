@@ -1,0 +1,47 @@
+﻿---
+ID: "ad963e9c-bd79-4255-b713-0ff5172ab231"
+Parent: "a1233e65-2c56-4e56-b656-1a2ed7b7ef1b"
+Template: "e61a1436-8633-4b68-9921-9db4f30cd33a"
+Path: /sitecore/content/Sites/main/Home/About us/Regulatory Info/Data/IconFeatureCard 1_var4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T175917Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "86daf9ae-26e1-47c2-8e0e-a07d398670bd"
+      Hint: imageIcon
+      Value: "{72BBDEF6-7751-449A-A4FE-88CBE3DA1C39}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d464c0ef-491e-4a05-8d4a-a533f8b2cda4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Access Control Policy
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: 
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" id="207ec0fb-5f30-489f-93fd-9247a2ac7831" target="" title="" linktype="media" text="Review Policy" url="/Files/Profit PDFs/bright_futures_brochure" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251128T204641Z

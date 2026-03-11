@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Products-ProductTechSpecs",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Products/$ProductTechSpecs/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Products/ProductTechSpecs",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}
+

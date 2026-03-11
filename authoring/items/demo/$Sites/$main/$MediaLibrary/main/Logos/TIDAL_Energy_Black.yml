@@ -1,0 +1,51 @@
+﻿---
+ID: "9ed2712d-8c30-4cd0-bc2d-92b11795acda"
+Parent: "a2cbc425-7db0-4af6-8db3-6f6a0c9e0511"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sites/main/Logos/TIDAL_Energy_Black
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9ed2712d8c304cd0bc2d92b11795acda.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "0029cecf-a0a9-4207-ba8f-ae7f4e6e6ac4"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iSW5kdXN0cnlfUmlnaHRfQmxhY2siIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgODc4LjIgMTI1LjMiPgogIDwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyOS44LjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiAyLjEuMSBCdWlsZCAyKSAgLS0+CiAgPGcgaWQ9IkluZHVzdHJpYWwiPgogICAgPGc+CiAgICAgIDxwb2x5Z29uIHBvaW50cz0iNDUzLjcgMi41IDQ3Ni43IDQ0LjkgNDQ3LjggNDQuOSA0MDMuOSAxMjQuMiA0NDAuNSAxMjQuMiA0ODAgNTEuMSA1MTkuNSAxMjQuMiA1NTYuMSAxMjQuMiA0ODguOCAyLjUgNDUzLjcgMi41Ii8+CiAgICAgIDxwYXRoIGQ9Ik0zMzEuNC43aC04Ny4xbDI4LjgsMzAuOGgtMjguNHY5Mi43aDg2LjhjMjcuOSwwLDUwLjUtMjEuMSw1MC41LTQ3di0yOS41YzAtMjUuOS0yMi43LTQ3LTUwLjUtNDdoMFpNMzUwLjksNzcuM2MwLDguOC04LjgsMTYtMTkuNiwxNmgtNTguMlYzMS43aDU4LjJjMTAuOCwwLDE5LjYsNy4yLDE5LjYsMTZ2MjkuNWgwWiIvPgogICAgICA8cmVjdCB4PSIxNzYuMSIgeT0iMSIgd2lkdGg9IjI4IiBoZWlnaHQ9IjEyMy4zIi8+CiAgICAgIDxwb2x5Z29uIHBvaW50cz0iODIuMiAzMS43IDEzNS45IDMxLjcgMTM1LjkgLjcgODEuOCAuNyA4Mi4yIDMxLjciLz4KICAgICAgPHBvbHlnb24gcG9pbnRzPSIwIC43IDAgMzEuNyA1My45IDMxLjcgNTMuOSAxMjQuMiA4MS45IDEyNC4yIDgxLjkgMzEuNyA4MiAzMS43IDUzLjIgLjcgMCAuNyIvPgogICAgICA8cmVjdCB4PSI1NzkuMyIgd2lkdGg9IjI4IiBoZWlnaHQ9IjkzLjIiLz4KICAgICAgPHJlY3QgeD0iNjA3LjYiIHk9IjkzLjIiIHdpZHRoPSIxMDcuNiIgaGVpZ2h0PSIzMSIvPgogICAgPC9nPgogICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICA8Zz4KICAgICAgICA8cGF0aCBkPSJNODU3LjIsMS41aC00MC44Yy0uMywyLjktLjMsMjAuNS0uMyw0MC40TDg1Ny4yLDEuNWgwWiIvPgogICAgICAgIDxwb2x5Z29uIHBvaW50cz0iODU3LjcgMS41IDg1Ny43IDEwNC44IDgxNi41IDEwNC44IDgxNS43IDEwNC44IDc3NC41IDEwNC44IDc3NC41IDQyLjQgODE2LjEgMS41IDc1My45IDEuNSA3NTMuOSAxMjUuMyA4NzguMiAxMjUuMyA4NzguMiAxLjUgODU3LjcgMS41Ii8+CiAgICAgIDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1252
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "36808ce6-baa5-4bcf-85f8-08b740ee21b2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251001T184519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e983d6f4-886c-403a-aefe-a55a4e413326"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251001T184519Z

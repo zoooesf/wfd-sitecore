@@ -1,0 +1,69 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-commonfolders",
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$CommonFolders/$PlaceholderSettings/$Feature",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$CommonFolders/$Renderings/$Feature",
+                "path": "/sitecore/layout/Renderings/Feature/Common",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$CommonFolders/$Layouts/$Feature",
+                "path": "/sitecore/layout/Layouts/Feature/Common",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$CommonFolders/$MediaLibrary/$Foundation",
+                "path": "/sitecore/media library/Foundation/Common",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$CommonFolders/$MediaLibrary/$Feature",
+                "path": "/sitecore/media library/Feature/Common",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$CommonFolders/$Settings/$Feature",
+                "path": "/sitecore/system/Settings/Feature/Common",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$CommonFolders/$Templates/$Foundation",
+                "path": "/sitecore/templates/Foundation/Common",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$CommonFolders/$Templates/$Feature",
+                "path": "/sitecore/templates/Feature/Common",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$CommonFolders/$Templates/$Project",
+                "path": "/sitecore/templates/Project/Common",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$CommonFolders/$BranchTemplates/$Foundation",
+                "path": "/sitecore/templates/Branches/Foundation/Common",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$CommonFolders/$BranchTemplates/$Feature",
+                "path": "/sitecore/templates/Branches/Feature/Common",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$CommonFolders/$ScriptLibrary",
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/Common",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

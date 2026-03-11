@@ -1,0 +1,137 @@
+﻿---
+ID: "20745787-8ff5-47fd-80f3-e39aa8bda658"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/The Non Profit Engine Trends in Grant Programs and Advocacy
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {E4398AA0-10ED-4623-94C5-2F1A04535B66}
+    {7873384A-BBFA-4F95-91F2-81D0EAA3F0FF}
+    {0E3FA551-F9DB-4A5A-A139-D43370DF8132}
+    {6F1ACC9A-9B0A-4A34-9991-1A844D61219A}
+    {A67CF5BD-CB3D-4C9F-B493-53D376C9DF37}
+    {C64D04D3-376D-4791-8D55-3E1AD40F6DF6}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0394C5B3-934C-413E-969D-4321C0DB373F}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1a9a494d-2fe0-4c5f-ba87-e9b6286c582a"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{F13F8206-5AAA-48D0-8523-C64C0BE96460}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{3BC6EC1D-DBA6-441A-A23E-903BFDD77F34}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T214823Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: The Non Profit Engine Trends in Grant Programs and Advocacy
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eaff77c6-4fc5-4a20-811f-62de8dd12603"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240425T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "The Non-Profit Engine: Trends in Grant Programs and Advocacy"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: "Analyzing the evolving funding landscape and the increasing demand for services among Associations &amp; Non-Profits."
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>The <strong>Associations &amp; Non-Profits</strong> sector plays a vital role, contributing a significant portion to the national economy. In 2022, non-profit institutions in Canada contributed <strong>$216.5 billion</strong> in economic activity, equivalent to <strong>8.2% of the gross domestic product</strong>. However, the sector is facing a growing challenge: demand is outpacing capacity.</p>
+        <p>In 2023, nearly half (<strong>46.1%</strong>) of non-profit organizations reported an <strong>increased demand</strong> for services, yet only <strong>24.3%</strong> reported an increase in their capacity to meet that demand. This gap underscores the critical need for effective funding strategies, including securing <strong>Grant Programs</strong> and building robust <strong>Advocacy</strong> efforts.</p>
+        <h3><strong>Primary Revenue Sources for Non-Profit Organizations (2023)</strong></h3>
+        <p>The funding mix varies significantly by organizational size and focus. The table below illustrates the diverse revenue streams.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Revenue Source</th>
+                    <th>% of Total Non-Profit Revenue</th>
+                    <th>Note</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Individual Donations</strong></td>
+                    <td style="text-align:left;">21.7%</td>
+                    <td style="text-align:left;">Main source for smaller organizations (1-4 employees: 31.6%).</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Membership Fees/Dues</strong></td>
+                    <td style="text-align:left;">17.7%</td>
+                    <td style="text-align:left;">Main source for non-registered charities.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Provincial/Territorial Transfers</strong></td>
+                    <td style="text-align:left;">10.5%</td>
+                    <td style="text-align:left;">Highest for Social Services (42.5%) and Health (43.6%) organizations.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Grant-Making/Fundraising</strong></td>
+                    <td style="text-align:left;">8.8% of organizations primarily focus on this.</td>
+                    <td style="text-align:left;">Crucial for expanding capacity.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong>Advocacy</strong> efforts are paramount, especially for organizations focused on social services and health, which experienced the highest demand increases (<strong>70.2%</strong> and <strong>69.7%</strong> respectively). Advocacy translates mission into policy, securing larger, more stable funding mechanisms like government transfers. For organizations seeking to secure non-governmental <strong>Grant Programs</strong>, having a strong digital profile that clearly articulates impact and mission is essential.</p>
+        <blockquote>
+        <p>"The ability to secure grant funding today relies heavily on transparent, data-driven reporting. Funders are looking beyond the narrative to quantifiable impact metrics, which is why strong Account Management and research capabilities are non-negotiable."</p>
+        </blockquote>
+        <p>The use of volunteers also remains a backbone, with over four-fifths (<strong>81.8%</strong>) of non-profits utilizing them. Successful non-profits effectively weave together advocacy, volunteer mobilization, and targeted grant acquisition to bridge the widening capacity gap.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154145Z

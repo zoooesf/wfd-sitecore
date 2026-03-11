@@ -1,0 +1,19 @@
+query GetPersonas($sitePath: String!, $language: String!) {
+  item(path: $sitePath, language: $language) {
+    id
+    children {
+      results {
+        ... on PersonaIdentity {
+          id
+          contentName {
+            value
+          }
+          description {
+            value
+          }
+        }
+      }
+    }
+  }
+}
+

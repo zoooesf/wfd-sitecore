@@ -1,0 +1,41 @@
+﻿---
+ID: "6e346a19-1924-48b7-8683-cc49a1256d7b"
+Parent: "eca187a1-be43-44d0-b49f-797834a74f74"
+Template: "f02bd809-c8e0-40cb-bfbf-26cc77a18a88"
+Path: /sitecore/content/Sites/main/Data/Footer Menus/Utilities/Contact and Support
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "aada36a2-96ac-4729-8ce9-867ea3af7afe"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251024T153527Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2bbfb50e-40b8-4e6c-8fcc-fd3bcf595c32"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Contact & Support
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251024T153533Z

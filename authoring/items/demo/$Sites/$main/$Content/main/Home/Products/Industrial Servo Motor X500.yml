@@ -1,0 +1,161 @@
+﻿---
+ID: "b2024932-4afa-46ad-b605-700679c936b2"
+Parent: "e5303bdd-b1a2-4d27-9ca8-81ad3c58055d"
+Template: "536bcaa5-048f-465f-8bf5-6a60f25eb040"
+Path: /sitecore/content/Sites/main/Home/Products/Industrial Servo Motor X500
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {15AC9F25-AC86-4BAD-953B-763F2BF5B8A9}
+    {646B4C01-FC62-42D6-81AB-3D949ECB1A2B}
+    {753F34D8-2254-41BF-B5ED-2919E3F4342F}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A6CCD247-4161-4F5F-B424-05BF098649A4}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "54073e17-575b-4991-a0a4-2ba61f41540b"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E34055A4-F917-4102-B708-26F94298855C}"
+          s:par="Styles=%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D" />
+        <r
+          uid="{27A0A6A7-C7A6-4C00-98E2-CC11BFFDFD7B}"
+          s:par="Styles=%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D" />
+        <r
+          uid="{E9C88298-A8F3-40AD-AC68-3BA01E95CB5D}"
+          s:par="Styles=%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D" />
+        <r
+          uid="{E919F173-9F32-4D0A-A1BA-87C5A23DAAC2}"
+          s:par="Styles=%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D" />
+        <r
+          uid="{A180E57E-44AD-4E3C-9167-4FD3ACD68F98}"
+          s:par="Styles=%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D" />
+        <r
+          uid="{F10030F8-E04C-46B4-BBFD-4EABD8CF13C9}"
+          s:par="Styles=%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{27A0A6A7-C7A6-4C00-98E2-CC11BFFDFD7B}"
+              s:par="Styles=%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7BC43DBB80-1227-448F-A7CE-C6045E56C758%7D" />
+            <r
+              uid="{E9C88298-A8F3-40AD-AC68-3BA01E95CB5D}"
+              s:par="Styles=%7C%7BC43DBB80-1227-448F-A7CE-C6045E56C758%7D" />
+            <r
+              uid="{E919F173-9F32-4D0A-A1BA-87C5A23DAAC2}"
+              s:par="Styles=%7C%7BC43DBB80-1227-448F-A7CE-C6045E56C758%7D" />
+            <r
+              uid="{A180E57E-44AD-4E3C-9167-4FD3ACD68F98}"
+              s:par="Styles=%7C%7BC43DBB80-1227-448F-A7CE-C6045E56C758%7D" />
+          </d>
+        </r>
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{80B8586A-6225-48D4-B89A-16B55961AD14}" />
+    - ID: "1dc00421-12e1-45fd-bd1c-f26fb904e1fc"
+      Hint: productOrderingInfo
+      Value: |
+        {9CA4553D-8BB4-4EE7-A3CF-CBE267C51D08}
+        {98FA4411-FE89-4024-883F-48CEB50730D9}
+        {A31B61C1-8B9C-4C24-BF7A-553BE5309EEE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251120T144107Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Industrial Servo Motor X500
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{80B8586A-6225-48D4-B89A-16B55961AD14}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "5c52655e-e49c-4e70-823b-4c429428720e"
+      Hint: productTechnicalSpecs
+      Value: "Sensing Range=8mm%20%28flush%20mount%29&Output Type=NPN%2C%20NO%2FNC&Operating Voltage=10-30V%20DC&Current Consumption=%E2%89%A415mA&Output Current=200mA&Response Time=%3C0.5ms&Protection Rating=IP67%2FIP69K&Housing Material=Stainless%20steel%20%28V4A%29&Operating Temperature=-25%C2%B0C%20to%20%2B70%C2%B0C&Connection Type=M12%20connector%2C%204-pin"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251120T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46746c1e-f6a8-46fb-a6e9-b49c92234649"
+    - ID: "98a91543-0830-4b7f-8a29-f1ffddaa7f18"
+      Hint: productName
+      Value: Industrial Servo Motor X500
+    - ID: "9c23e4f6-9ad8-4f27-b204-9ab8ccb3c503"
+      Hint: productSubheading
+      Value: "High-precision servo motor designed for demanding industrial automation applications. Features advanced torque control and energy-efficient operation."
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251120T000000Z
+    - ID: "b9f9cb36-a012-412e-953e-f26a5c540256"
+      Hint: productFeatures
+      Value: |
+        <div class="ck-content"><ul style="list-style-type:square;"><li>Advanced servo algorithm for smooth motion</li><li>Integrated encoder with 23-bit resolution</li><li>Overload protection and thermal monitoring</li><li>IP65-rated housing for harsh environments</li></ul></div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "be42064a-561b-4e48-8ba7-d315a3cffa89"
+      Hint: productResources
+      Value: |
+        {12BED6F5-5844-4E4E-99F2-D9D9028D2088}
+        {582C8F4A-8662-40FA-87FA-72DF18396298}
+        {71C85FF4-DE02-425C-A56B-CEE620E19088}
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Industrial Servo Motor X500
+    - ID: "c3130e5c-4737-449f-bbc5-f52029d41b59"
+      Hint: productSku
+      Value: "PLC-AC400-CTR"
+    - ID: "d0bae93a-306c-4bd6-a7a1-4c2282f810e7"
+      Hint: productDocumetation
+      Value: "{F28FDA6E-3639-4799-805E-F7312266945A}"
+    - ID: "d6bb92d3-9ab2-4093-9e1e-6ad90f54c060"
+      Hint: productDescription
+      Value: "High-precision servo motor designed for demanding industrial automation applications. Features advanced torque control and energy-efficient operation."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260113T192624Z
+    - ID: "f093866b-e504-4e04-8183-0711ccd13500"
+      Hint: productApplications
+      Value: |
+        <div class="ck-content"><ul style="list-style-type:square;"><li>CNC machining centers</li><li>Pick-and-place robotics</li><li>Packaging automation</li><li>Material handling systems</li></ul></div>
+    - ID: "fde2a671-e88e-4a2e-a193-0fc0525fef08"
+      Hint: productKeyBenefits
+      Value: |
+        <div class="ck-content"><ul style="list-style-type:square;"><li>High-precision torque control with 0.01% accuracy</li><li>Energy-efficient design reduces power consumption by 30%</li><li>Built-in safety features meet IEC 61508 SIL 3 standards</li><li>Compatible with all major fieldbus protocols</li></ul></div>

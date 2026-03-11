@@ -1,0 +1,63 @@
+﻿---
+ID: "aa262763-c690-417c-9208-89f05a5d2496"
+Parent: "c78a4dea-2e72-4881-8964-60a5738bb71f"
+Template: "7e89c966-e6e7-45ea-b2ed-bc7f7b40e6f4"
+Path: /sitecore/content/Sites/main/Data/Headers/Header/Components/Grids
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T161428Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4ee5a49-c5a3-4b59-8283-e305b8dc9dda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Grids" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{095F234C-EC38-4310-8616-F94ECD12681D}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T153306Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "71e416f5-85fd-4d9d-9dc0-7cb84a7f66ac"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Grilles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T160529Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "483b026b-4ebd-4ed6-a012-6a7417c3ecec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Grilles" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{095F234C-EC38-4310-8616-F94ECD12681D}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T160940Z

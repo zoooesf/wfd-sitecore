@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Events-EventDetails",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Events/$EventDetails/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Events/EventDetails",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Events/$EventDetails/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Events/EventDetails",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Events/$EventDetails/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Events/Events Headless Site Setup/Add Event Details Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

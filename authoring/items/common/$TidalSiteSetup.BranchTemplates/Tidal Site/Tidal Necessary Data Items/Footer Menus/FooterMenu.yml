@@ -1,0 +1,23 @@
+﻿---
+ID: "470b56da-e45f-4f17-bb69-e08099a0d565"
+Parent: "ffa6756f-6506-45a4-a63f-68efddff4d8b"
+Template: "94cb7584-231d-43ba-a00c-14642380ea2e"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Footer Menus/FooterMenu
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T225104Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b46a3e56-138c-4c3d-b41c-911c01132afd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241106T225104Z

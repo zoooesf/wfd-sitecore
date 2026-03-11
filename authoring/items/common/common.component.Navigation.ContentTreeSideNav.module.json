@@ -1,0 +1,18 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Navigation-ContentTreeSideNav",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Navigation/$ContentTreeSideNav/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Navigation/ContentTreeSideNav",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

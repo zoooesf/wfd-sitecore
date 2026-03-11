@@ -1,0 +1,41 @@
+﻿---
+ID: "b326138b-0da8-4fb7-bdc9-b94ea7a99449"
+Parent: "59049bd5-0155-483a-8bda-06c8be76e91d"
+Template: "e61a1436-8633-4b68-9921-9db4f30cd33a"
+Path: /sitecore/content/Sites/main/Home/Components/Grids/Icon Feature Card Grid/Data/IconFeatureCard 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T151147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "86daf9ae-26e1-47c2-8e0e-a07d398670bd"
+      Hint: imageIcon
+      Value: "{3AFA9650-BD18-4910-9B81-AD121D979284}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fd5fc19-62d5-47df-be79-ecbb27020152"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="b132d115-7893-49aa-a06f-f1719a8704e3" anchor="" querystring="" target="" class="" text="Learn More" title=""/>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251210T171017Z

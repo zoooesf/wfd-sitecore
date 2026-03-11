@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "demo-sites-main",
+    "references": [
+        "demo-sitecollections-sites"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Sites/$main/$Content",
+                "path": "/sitecore/content/Sites/main",
+                "scope": "ItemAndDescendants",
+                "rules": [
+                    {
+                        "path": "/Home/QA",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+            {
+                "name": "$Sites/$main/$MediaLibrary",
+                "path": "/sitecore/media library/Project/Sites/main",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}

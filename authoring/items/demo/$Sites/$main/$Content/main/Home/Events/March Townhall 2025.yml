@@ -1,0 +1,124 @@
+﻿---
+ID: "ecb3e038-a870-4c9c-9069-f7c84878e7db"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/March Townhall 2025
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{23468B66-C720-4C15-B463-703566F0550D}"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{E234D81F-361E-4CEE-9E7D-AAB49B78EE29}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2200
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{11F1284D-C0B6-4E6A-8428-D7160E811138}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "de48ec81-dfa2-4fce-b7e6-ccac0fe4ada1"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{76C73184-97A0-4559-8071-F1479A64AD81}"
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{4830664E-10BE-40E7-A50D-8FC1E1801494}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20250331T130000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241118T151249Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New Year
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20250331T140000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff0229b4-7997-419c-8209-b6b03236d63a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: New Year 2023
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204736Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "6c92d75f-a84d-40f0-aa97-6788fe41c083"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Mairie de mars 2025
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20250331T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T163256Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250814T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20250331T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0dd13513-2f58-4291-863e-cab84ec4d9f6"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250814T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Mairie de mars 2025
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250908T210305Z

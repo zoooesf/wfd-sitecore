@@ -1,0 +1,34 @@
+﻿---
+ID: "f13f8206-5aaa-48d0-8523-c64c0be96460"
+Parent: "630aa4ec-7188-4bc5-9fd8-7b7dcd4fc171"
+Template: "d5ef4dd8-448b-4a28-a7a5-f4427769d131"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Article Categories/Insights/Economic Outlook
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T155520Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27af50d8-b051-4323-b3b3-66ef188fc98f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "cadfdf77-ae09-45f2-8fc1-f57b25b70359"
+      Hint: pageCategory
+      Value: Economic Outlook
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251008T155520Z

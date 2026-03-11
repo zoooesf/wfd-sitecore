@@ -1,0 +1,44 @@
+﻿---
+ID: "249f3777-0abf-41a1-9df6-00c8e7a26d71"
+Parent: "28a81afc-fb8e-44aa-bf70-21a4a036e4d2"
+Template: "5685baa8-f223-4d06-869b-c2f14fafd488"
+Path: /sitecore/content/Sites/main/Home/Membership/Join Now/Data/CTABlock 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T164931Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84490304-cfca-4604-9798-1839593e9a66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Questions Before Applying?"
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="50938bd46609426cbebe89f4c6c2b673" anchor="" querystring="" target="" class="" text="Contact Membership Support" title=""/>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T165014Z

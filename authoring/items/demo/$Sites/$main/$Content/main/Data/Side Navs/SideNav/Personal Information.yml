@@ -1,0 +1,34 @@
+﻿---
+ID: "ddf9f786-877a-4024-b32f-954128f7bdb8"
+Parent: "cdfec404-45e4-40c4-bdd3-06a677d7ae97"
+Template: "b5661a7f-1ba0-4bea-9333-8894fdc37924"
+Path: /sitecore/content/Sites/main/Data/Side Navs/SideNav/Personal Information
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241128T150340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "498f6b74-8c0f-45f4-8e11-f016d89fa231"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Personal Information
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241129T194504Z

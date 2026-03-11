@@ -1,0 +1,131 @@
+﻿---
+ID: "d95f9e88-72fd-46c1-b5ac-86ee9a5a1297"
+Parent: "b132d115-7893-49aa-a06f-f1719a8704e3"
+Template: "aeba6e45-26a3-4f97-a7f0-e76a3f852d18"
+Path: /sitecore/content/Sites/main/Home/People
+SharedFields:
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: "{D23B4654-53A5-4589-8B1B-5665A763D144}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{460970DB-9948-4520-AAD9-FF48235EBBAE}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "81389567-0e04-4376-8a85-26d7d9475889"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BE75B76A-8B64-4EB2-B396-753DDEADE1BA}"
+          s:ds="local:/Data/PeopleSearch 1"
+          s:id="{DCE5F413-FEC0-4CBB-9C08-0F5A1D670A01}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7BD0081B53-46BE-4215-877D-B9643FBDDF06%7D%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B2A9FF35F-7FA0-4659-88E6-DF3B4689FEAE%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250709T190246Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: People
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250709T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56d528e3-8ce1-436c-980f-ad04be127e57"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250709T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: People
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251212T212222Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "847d8d63-7631-47d3-8dab-507af2d4b05b"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Personnes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T141149Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: personnes
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250814T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b8cb663-cc9b-4d3d-82d5-9cead155c767"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250814T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Personnes
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251216T181028Z

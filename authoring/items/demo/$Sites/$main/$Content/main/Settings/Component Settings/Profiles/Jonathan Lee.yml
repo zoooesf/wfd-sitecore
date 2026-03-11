@@ -1,0 +1,96 @@
+﻿---
+ID: "d6fa0696-9723-40fe-b361-a33c3222dd15"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Jonathan Lee
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {9014AB45-2B05-4AA3-AA89-09A5E91455BB}
+    {AE8F45E8-6587-4FB4-A042-C87DFDC11E42}
+    {4ABF1F5C-875A-4D46-BBC3-5CB4DF40A635}
+    {86A4AF93-7964-49E4-BB78-D61661A348FB}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{0799394F-25CC-4F83-99D3-16FE53E1AC3A}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Jonathan
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "88708d16-20e7-4628-8902-e650f26b374e"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Lee
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: jonathan.lee@nationalresearch.edu
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{F4D0B56D-1B3C-4A59-AF36-CB56E7B00883}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Vice President for Research
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T191753Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(919) 555-0501"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{F4D0B56D-1B3C-4A59-AF36-CB56E7B00883}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: National Research University
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2bb54182-6330-4297-9cdb-2d899a508e9e"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Dr. Jonathan Lee is an accomplished research administrator who has helped National Research University achieve record-breaking research funding levels. As Vice President for Research, he oversees the university's entire research enterprise, including sponsored programs, research compliance, technology transfer, and core research facilities. Under his leadership, annual research expenditures have grown from $450 million to over $800 million, and the university has established numerous industry partnerships that translate research into real-world applications.</p>
+        <p>Dr. Lee holds a Ph.D. in Biochemistry from Duke University and spent 10 years as a faculty researcher before transitioning to research administration. He has successfully built interdisciplinary research centers, streamlined grant application processes, and established programs supporting early-career researchers. Jonathan is nationally recognized for his expertise in research development and serves on several federal advisory committees. He is passionate about making research more accessible, efficient, and impactful for both the academic community and society at large.</p>
+        <!--<h2>Experience</h2>
+        <p>Dr. Lee has <strong>22 years in higher education</strong>, with 10 years in academic administration. She is responsible for curriculum development, faculty recruitment and evaluation, and maintaining academic standards across all departments.</p>
+        <h2>Achievements</h2>
+        <p>Orchestrated the successful launch of <strong>four interdisciplinary STEM graduate programs</strong>, increasing research funding opportunities by 45%. Revamped the tenure process to emphasize both teaching excellence and community engagement.</p>
+        <h2>Professional Involvement</h2>
+        <p>Member of the <strong>Association of American Colleges and Universities (AAC&amp;U)</strong>. Serves on the national advisory board for the <strong>Council of Independent Colleges (CIC)</strong>.</p>
+        <h2>Community Involvement</h2>
+        <p>Serves on the board of a non-profit focused on <strong>K-12 college readiness</strong> for underserved students. Volunteers time to counsel students on academic pathways and scholarship opportunities (aligning with the <strong>Dean's Student Life Award</strong> focus).</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Recipient of the <strong>Dean's Outstanding Administrative Service Award</strong> (internal) for contributions to faculty morale and efficiency. Awarded the <strong>Distinguished Faculty Service Award</strong> from the American Council on Education (ACE).</p>
+        <h2>Education</h2>
+        <p><strong>Ph.D. in Educational Leadership</strong> from <strong>New York University</strong>. <strong>M.A. in English Literature</strong> from <strong>Georgetown University</strong>.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200110Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

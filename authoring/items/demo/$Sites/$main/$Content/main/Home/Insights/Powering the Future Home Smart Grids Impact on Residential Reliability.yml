@@ -1,0 +1,137 @@
+﻿---
+ID: "d3dce55d-df7c-4ab0-be93-a9ef3373e83f"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Powering the Future Home Smart Grids Impact on Residential Reliability
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {8F2B35AD-DD81-42C8-A71C-45075E64D533}
+    {3AE499E3-1E19-4150-9831-76E5C10BBE30}
+    {501C010D-E961-4FA1-95AA-93C891E9AA32}
+    {8C666B5A-BF50-45D8-9E4B-C3B5FBA48E48}
+    {ED1F4BDC-39A3-40FC-B614-6EEDDBE189DC}
+    {47A7C857-9C50-401E-96F5-ACD38CA9F939}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{217A98F3-555C-4E4C-AF31-39836C6D706F}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a8a23052-a7ba-4aab-9c25-35812ed32d77"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{C960458F-38F4-40DB-8689-AD5E0F58D611}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{53B74AB5-9063-4A1F-9B52-7596D488422F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{7A4827D0-55C8-44DC-A4D9-D3D31DDE1046}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T220931Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Powering the Future Home Smart Grids Impact on Residential Reliability
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{7A4827D0-55C8-44DC-A4D9-D3D31DDE1046}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8428a8b-1340-4d4f-be74-0bbb81d5518d"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250301T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Powering the Future Home: Smart Grid's Impact on Residential Reliability"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: "How advanced automation and data-driven maintenance are minimizing power outages and enhancing service for Residential customers."
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>The modernization of the electrical infrastructure through <strong>Smart Grid</strong> technology is fundamentally changing the relationship between the <strong>Utilities &amp; Energy</strong> sector and its <strong>Residential</strong> customers. Beyond simply enabling <strong>Clean Energy</strong> integration, the smart grid's primary benefit for households is a dramatic improvement in power reliability and service quality.</p>
+        <p>The key to this enhanced reliability is the deployment of sensors, advanced communication networks, and automated control mechanisms throughout the grid. This allows utilities to achieve better situational awareness and implement autonomous actions to minimize the frequency and magnitude of power outages.</p>
+        <h3><strong>Reliability Metrics Improvement via Smart Grid Automation</strong></h3>
+        <p>Reliability in the energy sector is often measured by two metrics:</p>
+        <ul>
+            <li><strong>SAIDI (System Average Interruption Duration Index):</strong> The total duration of power outages for the average customer.</li>
+            <li><strong>SAIFI (System Average Interruption Frequency Index):</strong> The average number of power outages for the average customer.</li>
+        </ul>
+        <p>Smart grid technologies directly reduce both of these indices through automation.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Smart Grid Technology</th>
+                    <th>Impact on Power Outages (SAIDI/SAIFI)</th>
+                    <th>Mechanism</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Automated Switches/Reclosers</strong></td>
+                    <td style="text-align:left;"><strong>Significant Reduction</strong> in outage duration and spread.</td>
+                    <td style="text-align:left;">Quickly isolate faulted grid sections and reroute power flow to maintain supply.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Predictive Maintenance</strong></td>
+                    <td style="text-align:left;"><strong>Reduction</strong> in unplanned, long-duration outages.</td>
+                    <td style="text-align:left;">Uses real-time sensor data and algorithms to predict equipment failure before it occurs.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Data Analytics/AI</strong></td>
+                    <td style="text-align:left;"><strong>Faster Response Time</strong> to anomalies.</td>
+                    <td style="text-align:left;">Processes real-time data to detect and adjust grid operations automatically.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>The ability of automated switches to <strong>isolate faulted sections quickly</strong> prevents small issues from escalating into cascading, widespread failures. This is a game-changer for residential customers, who experience shorter and fewer disruptions.</p>
+        <blockquote>
+        <p>"The smart grid's reliability is achieved through a combination of advanced technologies, robust communication networks, and adaptive control mechanisms that ensure electricity availability with minimal interruptions."</p>
+        </blockquote>
+        <p>Furthermore, the smart grid facilitates demand response programs and better integration of distributed generation (like rooftop solar), which empowers the residential customer to become an active participant in grid stability, ultimately leading to a more resilient, higher-quality service.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154003Z

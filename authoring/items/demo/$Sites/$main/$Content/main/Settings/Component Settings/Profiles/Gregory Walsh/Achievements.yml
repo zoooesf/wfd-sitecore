@@ -1,0 +1,31 @@
+﻿---
+ID: "fa5d0535-bf36-4fef-bc36-253ddb49f4f4"
+Parent: "98e8e7ca-fe22-4e77-a678-f71b0c7df646"
+Template: "5aa570b6-85db-437c-b2e1-0a3e41bea26b"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Gregory Walsh/Achievements
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T151445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5975f11a-7d71-41eb-b189-a055a4ea8cad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T151445Z

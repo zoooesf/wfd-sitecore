@@ -1,0 +1,64 @@
+﻿---
+ID: "1bff0742-32b0-47dc-a816-f8a789071d83"
+Parent: "91cf657f-2f67-429d-997d-763f3d88b7d5"
+Template: "ff620970-7f18-43d0-a140-d85756ab9f92"
+Path: /sitecore/content/Sites/main/Data/Headers/Header/Listings/Sitecore Search Based/News Sitecore Search
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251001T180011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52bad56d-cb7b-4516-9884-299bb890868d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="News Sitecore Search" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3756F2F5-30A5-4EB8-A9DC-CE4D66BF9A67}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251001T181159Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251001T181206Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6af11df5-60f5-46c8-a5ec-f53ce88b5268"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="News Sitecore Search" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3756F2F5-30A5-4EB8-A9DC-CE4D66BF9A67}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251001T181218Z

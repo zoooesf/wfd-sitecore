@@ -1,0 +1,127 @@
+﻿---
+ID: "18131a7b-bacc-4fbd-b489-cb26e6c88555"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/May Townhall 2025
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{23468B66-C720-4C15-B463-703566F0550D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9C25FEF9-30A6-4023-96CC-16EF061F9570}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "02330071-e23f-4149-9ff6-b692ee5d2853"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{76C73184-97A0-4559-8071-F1479A64AD81}"
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{4830664E-10BE-40E7-A50D-8FC1E1801494}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20250521T130000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241118T151249Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New Year
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20250521T140000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f94797eb-5b57-40e7-9f98-f72349c02462"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: New Year 2023
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204736Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "175b3e81-1e4e-4bdc-b49c-31a693a682a8"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Mairie de mai 2025
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20250521T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T163318Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250814T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20250521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b16c8fa-f30f-43c1-b468-b7eb825d790c"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250814T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Mairie de mai 2025
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Le client est tr&egrave;s important merci, le client sera suivi par le client. &Eacute;n&eacute;e n'a pas de justice, pas de r&eacute;sultat, pas de ligula, et la vall&eacute;e veut la sauce.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: Le client est tr&egrave;s important merci, le client sera suivi par le client. &Eacute;n&eacute;e n'a pas de justice, pas de r&eacute;sultat, pas de ligula, et la vall&eacute;e veut la sauce. Morbi mais qui veut vendre une couche de contenu triste d'internet. &Ecirc;tre ivre maintenant, mais ne pas &ecirc;tre ivre maintenant, mon urne est d'une grande beaut&eacute;, mais elle n'est pas aussi bien faite que dans un livre. M&eacute;c&egrave;ne dans la vall&eacute;e de l'orc, dans l'&eacute;l&eacute;ment m&ecirc;me. Certaines des exigences faciles du budget, qu'il soit beaucoup de temps pour dignissim et. Je ne m'en fais pas chez moi, &ccedil;a va &ecirc;tre moche dans le vestibule. Mais aussi des prot&eacute;ines de Pour avant la fin de la semaine, qui conna&icirc;t le poison, le r&eacute;sultat.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250923T154034Z

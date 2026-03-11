@@ -1,0 +1,34 @@
+﻿---
+ID: "4f6a4f4d-4930-4aec-ac60-3040d4c7d026"
+Parent: "1097e6d9-93f6-4726-8486-7ac535796c3d"
+Template: "1097e6d9-93f6-4726-8486-7ac535796c3d"
+Path: /sitecore/templates/Feature/Common/Banners/SplitBanner/SplitBanner Parameters/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3dd1c232-6186-4629-830c-df014acc4fdd"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cccf486a-688d-4bdf-821f-27a278bef45a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250616T124926Z

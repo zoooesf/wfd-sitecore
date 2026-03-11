@@ -1,0 +1,81 @@
+﻿---
+ID: "4fc15e84-69aa-421e-ab6f-f00f6b6a5cbf"
+Parent: "6cdc3544-5705-4d58-aea6-b2ec6f1b0455"
+Template: "8ca06911-31f2-4dea-9233-8fd630e856dc"
+Path: /sitecore/content/Sites/main/Home/ArticlesSitecoreSearch/Data/ArticleListingWithFilters 1
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "360b8b61-9d87-421d-90ba-ae944ca7fc21"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T211923Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_12
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d78f1889-e943-4fbb-9411-ac97ff434090"
+    - ID: "a2461125-107b-4e8d-bd4f-4f574292476d"
+      Hint: PageSizeCount
+      Value: 2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dsekar@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260113T141714Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T212158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "84724478-3343-4df1-bb70-12ff1b5b6dc9"
+      Hint: tagsHeading
+      Value: " Filtré par tag(s) :"
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_12
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0f833e6-b915-40b6-918a-14bcdd3b2e06"
+    - ID: "b5f50f8f-e4fe-4417-9ab6-24ad823249af"
+      Hint: noResultsText
+      Value: " Aucun élément ne correspond à la condition de filtre, affichez-les tous à la place."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Titre de la liste d'articles
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251016T130048Z

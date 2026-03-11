@@ -1,0 +1,48 @@
+﻿---
+ID: "45a1e28d-05d1-4670-aad1-1e1fbb7ee5cf"
+Parent: "5a4a8f0d-154f-49f0-af0c-5b6516be41f7"
+Template: "0cc3a0b3-e599-4152-bf32-a59d48b746e3"
+Path: /sitecore/content/Sites/main/Home/Services and Solutions/Healthcare/Specialized Care/Data/Card 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="51259a56-7199-499c-8d26-c9e94f40c154" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T211603Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b93ad05-fd0f-41fa-8f88-ced8235bf27a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Neurology
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="b132d115-7893-49aa-a06f-f1719a8704e3" anchor="" querystring="" target="" class="" text="Learn More*" title=""/>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T190002Z

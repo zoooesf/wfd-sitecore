@@ -1,0 +1,31 @@
+﻿---
+ID: "14adb028-aac7-42a8-b03d-d50452c122d8"
+Parent: "a0c20eb8-406e-4aeb-b8f0-2aa44f89a8ca"
+Template: "cc642aa1-f099-4eb6-9c2b-7cf80092a243"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Aisha Patel/Education/Education1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T175258Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9649aa33-7d21-4950-995c-7cf1b5fe1471"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Ph.D. in Organizational Psychology, Stanford University<br />
+        <br />
+        MBA, Harvard Business School<br />
+        <br />
+        B.A. in Economics, Yale University</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251107T033042Z

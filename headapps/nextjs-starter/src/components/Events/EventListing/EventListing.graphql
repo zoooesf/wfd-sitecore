@@ -1,0 +1,31 @@
+query GetEventListingQuery(
+  $pageId: String!
+  $language: String!
+  $templateId: String!
+  $endCursor: String
+  $first: Int = 10
+  $sortOrder: OrderByDirection = ASC
+) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: CONTAINS }
+        { name: "_path", value: $pageId, operator: CONTAINS }
+        { name: "_language", value: $language, operator: EQ }
+      ]
+    }
+    orderBy: { name: "startDate", direction: $sortOrder }
+    first: $first
+    after: $endCursor
+  ) {
+    total
+    pageInfo {
+      endCursor
+      hasNext
+    }
+    results {
+      id
+      ...TagsDetailsFragment
+    }
+  }
+}

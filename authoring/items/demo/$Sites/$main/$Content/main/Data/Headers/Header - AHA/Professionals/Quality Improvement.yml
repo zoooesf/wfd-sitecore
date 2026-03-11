@@ -1,0 +1,52 @@
+﻿---
+ID: "290c1610-24fd-4e20-9902-e86e90d7ff2d"
+Parent: "9ac15456-3d6e-4032-a670-1041d57b43d4"
+Template: "7e89c966-e6e7-45ea-b2ed-bc7f7b40e6f4"
+Path: "/sitecore/content/Sites/main/Data/Headers/Header - AHA/Professionals/Quality Improvement"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T184747Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db41a77d-7e51-42f6-86b9-84cb3847da38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="" title="" linktype="internal" text="Quality Improvement" url="/Sites/main/Home" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133551Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T133551Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2df68be7-f7a8-45a3-9f9d-5c87dcdaa77b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" querystring="" anchor="" target="" title="" linktype="internal" text="Quality Improvement" url="/Sites/main/Home" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133551Z

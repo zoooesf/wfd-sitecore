@@ -1,0 +1,52 @@
+﻿---
+ID: "1f22b7f2-6fa0-4d27-bf5f-976bcb0ff2bb"
+Parent: "056ce9ff-b8ca-429d-8b05-ba748c2a4d7f"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Styles/Color Theme/Tertiary
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "theme:tertiary"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: |
+    {C03D8136-D9F7-498C-B6DC-A0DB7EF4AA91}
+    {E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}
+    {F22C31F6-9A23-406B-8285-4391A49926F7}
+    {A5968DB4-1D40-437E-9E9D-23733660F793}
+    {8C914279-4A11-4DE7-A6BC-EF0C9D9D253A}
+    {E276274F-5C13-4B76-AC83-D7A867975696}
+    {C152F7DC-6C01-4380-BABB-97C9F080CF00}
+    {45D05C34-9EDF-48D5-9226-FF2C7BC3ABB4}
+    {3C809C09-2839-4FEC-840C-43BF6F68ACC3}
+    {5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}
+    {15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e055f90c-a43f-40a9-bcb9-06af207a83db"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241217T212556Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf467963-c94d-496d-9adf-9804d5c1b7f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250425T150623Z

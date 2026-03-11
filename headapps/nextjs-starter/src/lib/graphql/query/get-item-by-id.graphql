@@ -1,0 +1,61 @@
+query GetItemById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+  }
+}
+
+query GetEventById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+    ...EventCardFieldsFragment
+  }
+}
+
+query GetSimplePageById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+    ...SimplePageListingFragment
+  }
+}
+
+query GetRecipePageById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+    ...RecipeCardFieldsFragment
+  }
+}
+
+query GetArticleById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+    ...ArticleCardFieldsFragment
+  }
+}
+
+query GetInsightById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+    ...InsightCardFieldsFragment
+  }
+}
+
+query GetNewsById($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    id
+    name
+    displayName
+    ...NewsCardFieldsFragment
+  }
+}

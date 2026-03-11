@@ -1,0 +1,37 @@
+﻿---
+ID: "337a9292-57ef-4a28-8039-c18eea6d598b"
+Parent: "76952f31-7ca6-4a70-ad87-479b4972b832"
+Template: "3374fc7c-bc84-45f6-a9dc-36ed93c75934"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Gregory Walsh/Involvements/Involvement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T153042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f21b7c99-9d7a-4781-8dee-deeb1c4ed970"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Professional Involvement
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Holds certifications in multiple equipment types. His maintenance strategies have been featured in industry publications.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T153053Z

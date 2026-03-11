@@ -1,0 +1,40 @@
+﻿---
+ID: "9574c481-63a7-48bb-b394-0e079b666c21"
+Parent: "5b7ddea7-f9f8-4f77-809c-6c957bb0ccc5"
+Template: "cbc97581-f28b-4a5c-964c-b6011fbfc0f4"
+Path: /sitecore/content/Sites/main/Data/Alert Banners/Information Sample
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06373d83-109d-4eb9-8b87-e907d8016720"
+      Hint: alertCategory
+      Value: information
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241114T182033Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bdac9c5-1c07-4b67-9683-dfa65b6649a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Don't Miss Out!"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: "Find out now how TIDAL can help your business!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T142743Z

@@ -1,0 +1,84 @@
+﻿---
+ID: "f12da390-ca94-46da-af62-8ef2257daceb"
+Parent: "b5fbd1fa-2103-46cd-8d66-733437409b44"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Partial Designs/Navigation/Home Header
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CAD5EEB3-333C-4C8D-BE7B-E820A5587607}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "52076290-a14c-4d5f-8f52-5281f8a9c95c"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{492B9C08-7AD7-4AA4-865D-D310AD974449}"
+          p:before="*"
+          s:ds="query:$site/Data/Alert Banners"
+          s:id="{E47956BB-0DD7-47FA-A28C-2C9B3358C0F9}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-header" />
+        <r
+          uid="{CC6091CE-A228-4482-BA99-F2340150A7AA}"
+          p:after="r[@uid='{492B9C08-7AD7-4AA4-865D-D310AD974449}']"
+          s:ds="query:$site/Data/Headers/Header"
+          s:id="{DDD5F8C3-6E84-404A-B49D-43BBF28D00F4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-header" />
+        <r
+          uid="{4A429951-8199-49E8-8FA9-C2DAA09E2186}"
+          p:after="r[@uid='{CC6091CE-A228-4482-BA99-F2340150A7AA}']"
+          s:ds="query:$site/Data/Tertiary Navs/TertiaryNav"
+          s:id="{5B957E87-7C1F-4FA6-B0F8-BE2E9DF59303}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-header/tertiarynav-1" />
+        <r
+          uid="{2D37EBE1-F7B8-40D9-B583-7795A6F4377F}"
+          p:after="r[@uid='{4A429951-8199-49E8-8FA9-C2DAA09E2186}']"
+          s:id="{1B6DDC7A-D7CF-4137-8B2D-95D40DE82D79}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-header/tertiarynav-1/tertiarynavcomponents-3" />
+        <r
+          uid="{70EBD80A-14FA-4F6E-871C-67B43F86F743}"
+          p:after="*[1=2]"
+          s:id="{0F8AF5FD-1363-456C-BB35-65625E1EE354}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-header/tertiarynav-1/tertiarynavcomponents-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T131959Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bef6fbe3-0702-4b63-8da1-d06c96c22964"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T205742Z

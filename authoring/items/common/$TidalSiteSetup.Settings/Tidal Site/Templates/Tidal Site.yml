@@ -1,0 +1,209 @@
+﻿---
+ID: "2cf83c07-9bba-4ddf-ab42-5bf2572928b5"
+Parent: "c926c55c-4c24-4841-9583-f0966aaf3f8f"
+Template: "1b2dfd3b-f2f2-4f40-a75c-f6c2490919c4"
+Path: /sitecore/system/Settings/Feature/JSS Experience Accelerator/Tidal Site/Templates/Tidal Site
+SharedFields:
+- ID: "41ac536a-923a-43f9-ac87-f3993f638125"
+  Hint: Tenant Modules
+  Value: |
+    {7B81B847-1891-43B2-BC13-5047A62EC32A}
+    {7BAAA4FC-3051-442D-9BD2-AD720B655E0B}
+    {0DC2E395-4A95-4773-88CA-75B22A130849}
+    {4346A98A-D6E9-491E-A0ED-CD12F524CF4E}
+    {4CBC64BF-8116-48A1-ABAC-DB19103897A6}
+    {7574F439-0B48-48BE-BA6B-94B1A3CE01A3}
+    {D912C30C-7A98-4A8D-A094-611D9AF9605D}
+    {6DE1F4E9-815D-491D-923D-D5038100DBEE}
+    {02CD7086-1F87-41EC-B40F-B92C1226895B}
+    {1B0A98C0-1801-44A0-85F2-845694FEAFF3}
+    {D315A501-6503-4545-A5D8-B9FECBA1097D}
+- ID: "a13aae24-a295-4cc3-b188-dfa59e2172a9"
+  Hint: "Built-in template"
+  Value: 1
+- ID: "c262443b-653d-461d-96c8-7cfaa0ef2b2d"
+  Hint: Site Modules
+  Value: |
+    {5A2F6A6F-3028-4210-AAD3-82C1365C4802}
+    {9F10010E-49E2-4DCD-A5A1-4DA752ADED2A}
+    {4342A029-0186-4B0D-8959-FFEF4FD998C2}
+    {AE5D1384-BB75-4C6B-A8B5-4B008C2AC5DA}
+    {C4658673-5D70-44ED-9004-D66EAC1DC718}
+    {CA502DCF-20D2-4618-A735-E4FCB6D5E114}
+    {E2AF1A41-799E-481B-8FDC-B2D33FB729A1}
+    {0F593039-9211-41E5-B469-3648BC93B5FB}
+    {66B9C663-2602-42B1-A5A2-3D04DB6C506A}
+    {1FD78E81-59A6-4513-90F1-165A95D4B16B}
+    {BEBF4026-24A3-4EA6-986A-518B76DBD71A}
+    {385F31BE-FF0C-4D84-A627-9ECD21295AFD}
+    {F0EA389E-F78D-440B-9429-F04FE735344A}
+    {AC1A27CA-6BF3-4D23-915E-668326D52CF1}
+    {D7EEAF4D-2B58-4029-B141-844221565EF0}
+    {1F35559F-2140-4774-8BC1-525BB722BAA2}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CC052858-CF59-4D37-A00C-DE61E0F982D3}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "245ea6a6-ee53-4bb5-81c5-d1aa6df6fcb9"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Grundlæggende site
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
+      Hint: Name
+      Value: Basis
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
+      Hint: Description
+      Value: Et eksempel på et enkelt website med startside, underside, navigation og footer
+- Language: "de-DE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d84fd831-bad7-4626-8647-8fa2d5f312f0"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Basis-Seite"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T223012Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
+      Hint: Name
+      Value: Grundlegend
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cf1a9eb-9739-44c9-b627-7d119c36aa4b"
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
+      Hint: Description
+      Value: Ein Beispiel für eine einfache Website mit Startseite, Unterseite, Navigation und Fußzeile
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T223012Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220610T074910Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
+      Hint: Name
+      Value: Tidal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b14b51bf-1549-44ae-a4f5-7adb4c694f32"
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
+      Hint: Description
+      Value: A fully functioning Tidal Site
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250815T161415Z
+    - ID: "da855368-e5f2-4932-ae55-7f8b08a5a205"
+      Hint: Content
+      Value: |
+        [{"name":"Pages","content":"Home, About"},{"name":"Components","content":"All Tidal SXA components"},{"name":"Integrations","content":"CDP Personalize and Analytics"}]
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d84fd831-bad7-4626-8647-8fa2d5f312f0"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 基本サイト
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T223012Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
+      Hint: Name
+      Value: ベーシック
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cf1a9eb-9739-44c9-b627-7d119c36aa4b"
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
+      Hint: Description
+      Value: ホームページ、サブページ、ナビゲーション、フッターのあるシンプルなWebサイトの例
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T223012Z
+- Language: "zh-CN"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d84fd831-bad7-4626-8647-8fa2d5f312f0"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 基本站点
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T223012Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
+      Hint: Name
+      Value: 基本
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cf1a9eb-9739-44c9-b627-7d119c36aa4b"
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
+      Hint: Description
+      Value: 带有主页、子页、导航和页脚的简单站点示例
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T223012Z

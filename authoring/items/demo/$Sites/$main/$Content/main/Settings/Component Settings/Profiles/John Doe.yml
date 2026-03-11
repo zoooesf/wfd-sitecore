@@ -1,0 +1,130 @@
+﻿---
+ID: "2c825391-cf0b-471e-9d3c-e8210106fd9b"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/John Doe
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {7A7530DD-77CF-43B1-AA1F-8419BC1BCF9D}
+    {14EF485F-5E22-49DF-AF9A-CA6FDFC9A144}
+    {9B883057-E729-4E63-8A42-E51B112E36DC}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: |
+    {99524D43-7353-40F7-A956-E20A2620050D}
+    {4830664E-10BE-40E7-A50D-8FC1E1801494}
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: John
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6ed55029-ddf9-423b-9f49-26761f8ba34c"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Doe
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: john.doe@example.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{4C4984D9-06B6-4CE4-8B6A-595D3007B0A8}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Developer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241114T192415Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "587-555-1234"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Fishtank
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec6491a1-95ec-43e2-93e6-670d9e0af540"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="My Blog" linktype="external" url="http://www.google.com" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit ad, et finibus iaculis imperdiet dignissim metus rhoncus, facilisi at ultricies malesuada pellentesque vehicula phasellus. Donec arcu scelerisque semper fermentum finibus proin diam, quam quis posuere justo aenean habitant lobortis mollis, netus lectus placerat dolor porta eros.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251222T201749Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="My Profile" linktype="external" url="http://www.microsoft.com" anchor="" target="_blank" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: john.doe@example.com
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Développeuse
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T185045Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16b54e2a-4a79-47ee-9c33-8c656db609bf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit ad, et finibus iaculis imperdiet dignissim metus rhoncus, facilisi at ultricies malesuada pellentesque vehicula phasellus. Donec arcu scelerisque semper fermentum finibus proin diam, quam quis posuere justo aenean habitant lobortis mollis, netus lectus placerat dolor porta eros.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251222T201832Z

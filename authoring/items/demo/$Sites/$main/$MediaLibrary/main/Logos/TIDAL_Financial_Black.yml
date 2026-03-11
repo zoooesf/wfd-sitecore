@@ -1,0 +1,51 @@
+﻿---
+ID: "150ff27a-621d-457c-a5aa-66c711fc28ad"
+Parent: "a2cbc425-7db0-4af6-8db3-6f6a0c9e0511"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sites/main/Logos/TIDAL_Financial_Black
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/150ff27a621d457ca5aa66c711fc28ad.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2913ca10-3362-42d1-ba71-bbc8158e8b74"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iSW5kdXN0cnlfUmlnaHRfQmxhY2siIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgODc4LjYgMTI1LjUiPgogIDwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyOS44LjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiAyLjEuMSBCdWlsZCAyKSAgLS0+CiAgPGcgaWQ9IkZpbmFuY2lhbCI+CiAgICA8Zz4KICAgICAgPHBvbHlnb24gcG9pbnRzPSI0NTMuNyAyLjUgNDc2LjYgNDQuOSA0NDcuOCA0NC45IDQwMy45IDEyNC4yIDQ0MC41IDEyNC4yIDQ4MCA1MS4yIDUxOS41IDEyNC4yIDU1Ni4xIDEyNC4yIDQ4OC44IDIuNSA0NTMuNyAyLjUiLz4KICAgICAgPHBhdGggZD0iTTMzMS40LjdoLTg3LjFsMjguOCwzMC44aC0yOC40djkyLjdoODYuOGMyNy45LDAsNTAuNS0yMS4xLDUwLjUtNDd2LTI5LjVjMC0yNS45LTIyLjctNDctNTAuNS00N2gwWk0zNTAuOSw3Ny4zYzAsOC44LTguOCwxNi0xOS42LDE2aC01OC4yVjMxLjdoNTguMmMxMC44LDAsMTkuNiw3LjIsMTkuNiwxNnYyOS41aDBaIi8+CiAgICAgIDxyZWN0IHg9IjE3Ni4xIiB5PSIxIiB3aWR0aD0iMjgiIGhlaWdodD0iMTIzLjMiLz4KICAgICAgPHBvbHlnb24gcG9pbnRzPSI4Mi4yIDMxLjcgMTM1LjkgMzEuNyAxMzUuOSAuNyA4MS44IC43IDgyLjIgMzEuNyIvPgogICAgICA8cG9seWdvbiBwb2ludHM9IjAgLjcgMCAzMS43IDUzLjkgMzEuNyA1My45IDEyNC4yIDgxLjkgMTI0LjIgODEuOSAzMS43IDgyIDMxLjcgNTMuMiAuNyAwIC43Ii8+CiAgICAgIDxyZWN0IHg9IjU3OS4zIiB3aWR0aD0iMjgiIGhlaWdodD0iOTMuMiIvPgogICAgICA8cmVjdCB4PSI2MDcuNiIgeT0iOTMuMiIgd2lkdGg9IjEwNy42IiBoZWlnaHQ9IjMxIi8+CiAgICA8L2c+CiAgICA8ZyBpZD0iTGF5ZXJfMSI+CiAgICAgIDxwb2x5Z29uIHBvaW50cz0iNzU0LjQgMS4zIDc1NC40IDk0LjIgODExLjMgMzcuNiA3OTYgMjIgODU3LjcgMjIgODU3LjcgODQuNiA4NDEuOCA2OC40IDc4NC43IDEyNS41IDg3OC42IDEyNS41IDg3OC42IDEuMyA3NTQuNCAxLjMiLz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1135
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "db57431c-14a9-4def-aa7c-17a3920efe43"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251001T184524Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2166db7a-40bc-433b-b5ab-19954218486e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251001T184524Z

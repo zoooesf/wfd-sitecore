@@ -1,0 +1,140 @@
+﻿---
+ID: "decfae1b-f1d2-4a8a-b878-51b9db47bd57"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Building Resilience Community Outreach and Advocacy for Emergency Preparedness
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {9DCC5736-4419-46B6-AEF2-B4F4FCF7FDBF}
+    {0E3FA551-F9DB-4A5A-A139-D43370DF8132}
+    {7873384A-BBFA-4F95-91F2-81D0EAA3F0FF}
+    {C64D04D3-376D-4791-8D55-3E1AD40F6DF6}
+    {28D97BA4-68DE-4820-904A-48B819E9058F}
+    {827D1007-4C86-49FB-B6B8-873BFABC9DD0}
+    {E4398AA0-10ED-4623-94C5-2F1A04535B66}
+    {0E59078D-1124-4E3D-8F3D-CC1FEA8C6CA6}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{180C6184-9BFA-483B-BF5F-38AEFEF10E40}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3d828aa9-41bd-4f0f-a388-a343d0c36153"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{5A5B0011-81E1-46CE-8DAF-5FA4F56D5448}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{7DEBB766-31C5-4867-88F2-40CAF7D73E8A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T224812Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Building Resilience Community Outreach and Advocacy for Emergency Preparedness
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9435fb2-4597-4f35-a341-0144e1e03fa4"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240515T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Building Resilience: Community Outreach & Advocacy for Emergency Preparedness"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        Empowering <span data-token-index="1" class="notion-enable-hover">Associations &amp; Non-Profits</span> to foster proactive <span data-token-index="3" class="notion-enable-hover">Emergency Preparedness</span> through targeted <span data-token-index="5" class="notion-enable-hover">Community Outreach</span> and effective <span data-token-index="7" class="notion-enable-hover">Advocacy</span> campaigns.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>In an era of increasing climate volatility and complex societal challenges, <strong>Emergency Preparedness</strong> has moved from a specialized government function to a crucial aspect of community resilience. For <strong>Associations &amp; Non-Profits</strong>, their unique position at the heart of local communities makes them indispensable in fostering a culture of proactive readiness. This requires strategic <strong>Community Outreach</strong> to educate and mobilize citizens, coupled with effective <strong>Advocacy</strong> to secure the necessary resources and policy support.</p>
+        <p>The scale of this challenge is significant. Data from the Federal Emergency Management Agency (FEMA) reveals that <strong>less than 50% of American households</strong> have a comprehensive emergency plan, highlighting a critical gap in public awareness and readiness. Non-profits often step in to fill this void, translating complex governmental guidelines into accessible, actionable steps for everyday citizens.</p>
+        <h3><strong>The Non-Profit's Role in a Comprehensive Emergency Preparedness Cycle</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Phase of Preparedness</th>
+                    <th>Non-Profit Contribution (Community Outreach &amp; Advocacy)</th>
+                    <th>Example Activities</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Prevention/Mitigation</strong></td>
+                    <td style="text-align:left;">Advocating for resilient infrastructure; educating on long-term risk reduction.</td>
+                    <td style="text-align:left;">Lobbying for stronger building codes; promoting fire-resistant landscaping.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Preparedness</strong></td>
+                    <td style="text-align:left;">Community education on individual/family plans; distributing preparedness kits.</td>
+                    <td style="text-align:left;">Workshops on "Go-Bags"; volunteer training for local response efforts.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Response</strong></td>
+                    <td style="text-align:left;">Coordinating volunteer relief efforts; providing immediate aid.</td>
+                    <td style="text-align:left;">Operating shelters; distributing food and water; search and rescue support.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Recovery</strong></td>
+                    <td style="text-align:left;">Long-term support for rebuilding; mental health services; policy advocacy for equitable recovery.</td>
+                    <td style="text-align:left;">Fundraising for affected families; advocating for disaster relief funding.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong>Community Outreach</strong> programs are the cornerstone of this effort. These programs go beyond simply handing out brochures; they involve interactive workshops, neighborhood-level drills, and the creation of accessible <strong>Planning Tools</strong> and <strong>Forms &amp; Documents</strong> that simplify the emergency planning process. Organizations often tailor their messaging to specific demographics, addressing unique vulnerabilities and cultural contexts.</p>
+        <blockquote>
+        <p>"Our ability to withstand future crises is directly linked to the strength of our community ties. Non-profits are the connective tissue, turning abstract emergency plans into tangible actions that save lives and preserve livelihoods."</p>
+        </blockquote>
+        <p>Furthermore, <strong>Advocacy</strong> plays a critical role in securing funding and policy changes necessary for long-term preparedness. Non-profits often lobby local, state, and national governments for increased investment in early warning systems, resilient infrastructure, and public education campaigns. They also advocate for equitable distribution of resources, ensuring that vulnerable populations are not left behind in disaster planning. <strong>Grant Programs</strong> are often a key target for these advocacy efforts, providing the financial backbone for crucial outreach initiatives.</p>
+        <p>Collaborations are also key. Non-profits often work in concert with local emergency services, healthcare providers, and schools to develop integrated preparedness plans. This ensures a coordinated response and maximizes resource utilization when disaster strikes. The ultimate goal is to build a resilient community where every individual is empowered to protect themselves and their neighbors, turning knowledge into action.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T153122Z

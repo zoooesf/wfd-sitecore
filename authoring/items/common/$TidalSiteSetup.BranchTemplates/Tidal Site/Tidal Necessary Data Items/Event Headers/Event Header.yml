@@ -1,0 +1,38 @@
+﻿---
+ID: "65decf5d-cb2e-411c-b19c-2a2d1fde2ab6"
+Parent: "14083811-2fa5-454d-af2f-2a9cc4b885e4"
+Template: "1603bc26-9207-435f-aa53-b5a43abd6cf5"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Event Headers/Event Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241112T173347Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "7aa43967-5b38-4208-9aab-8f2e68c979ca"
+      Hint: shareLabel
+      Value: Share
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "891fc13c-c272-4946-bb43-132f96cb0ad8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Register for the event" linktype="external" url="http://#" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133605Z

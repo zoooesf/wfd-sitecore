@@ -1,0 +1,35 @@
+﻿---
+ID: "7bd68279-b685-4566-b680-69e1fae524d3"
+Parent: "4cfc3280-a519-40bb-90b9-78828a4e19c3"
+Template: "1e43d8ef-fd59-49fa-9056-ee3ba474f58b"
+Path: /sitecore/content/Sites/main/Data/Footer Menus/Education/Quick Links/Visit Campus
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251023T163303Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df246025-e8b4-44f8-b2a2-fc4e33698d3d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Visit Campus" anchor="" linktype="internal" class="" title=""  querystring="" id="{29629A84-0B29-49B7-84AC-F162780CA8E4}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251023T163702Z

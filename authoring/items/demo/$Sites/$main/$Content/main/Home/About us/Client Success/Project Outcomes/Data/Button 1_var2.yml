@@ -1,0 +1,38 @@
+﻿---
+ID: "589f65bf-a122-47af-919d-4c27b29addbc"
+Parent: "53f90831-12d7-4b36-a5f2-297cb6372bde"
+Template: "4b5b1733-69bd-4c16-8e44-08b62ddfff3f"
+Path: /sitecore/content/Sites/main/Home/About us/Client Success/Project Outcomes/Data/Button 1_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T182950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59201c0d-a0fd-42be-85f6-10b0281b1755"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="065a51eb-1f09-45c6-86b4-68c4dd118001" anchor="" querystring="" target="" class="" text="Read More" title=""/>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T231008Z

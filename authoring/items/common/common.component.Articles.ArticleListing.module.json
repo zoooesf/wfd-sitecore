@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Articles-ArticleListing",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Articles/$ArticleListing/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Articles/ArticleListing",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Articles/$ArticleListing/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Articles/ArticleListing",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Articles/$ArticleListing/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Articles/Articles Headless Site Setup/Add Article Listings Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

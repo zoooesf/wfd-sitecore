@@ -1,0 +1,45 @@
+﻿---
+ID: "2bce6e18-8c8f-478d-8b67-08d968a1febb"
+Parent: "865b2f6e-5b3e-461c-89c7-549f6b10ca4d"
+Template: "9d23e387-6357-4396-85f2-38284c334d33"
+Path: /sitecore/content/Sites/main/Home/About us/Awards and Certifications/Data/HeroBanner 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T204317Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b34ae1e3-0b2a-4b5d-a573-d3c8b6b923a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "bfbb1f8c-0f06-4d81-ae1d-33d63f075859"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="03c11ca4-bd4f-4c8b-b130-b6b34d5658ea" />
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Recognized for Excellence and Commitment
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p><span style="color:hsl(0, 0%, 100%);">Our dedication to quality, innovation, and service has been recognized by industry leaders and regulatory bodies globally.</span></p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T204511Z

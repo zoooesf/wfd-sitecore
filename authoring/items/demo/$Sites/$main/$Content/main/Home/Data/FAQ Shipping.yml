@@ -1,0 +1,80 @@
+﻿---
+ID: "7bd6cd02-7b0c-4a11-b0e1-bb1ad80d2ce2"
+Parent: "4dc9f0c8-8a7e-45a7-bed4-977f265f342f"
+Template: "8ee1438c-df21-46c8-8f4e-e02793e54167"
+Path: /sitecore/content/Sites/main/Home/Data/FAQ Shipping
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241031T140052Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c7c96ab-dba5-4f2a-be41-879ccf9aef23"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "How long does shipping take?"
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="external" url="https://screamscape.com/" target="_blank" text="Shipping Policy" anchor=""/>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: "<p>Standard shipping typically takes 3-5 business days within the continental US. Expedited shipping options are available for faster delivery.</p>"
+    - ID: "d8f3251e-050e-4652-be8d-c32068e6bd7a"
+      Hint: link2
+      Value: |
+        <link linktype="external" url="https://screamscape.com/" target="_blank" text="Learn more" anchor=""/>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241105T150624Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T165619Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f78b452-ab2f-403d-86d3-7892bfdd697e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Combien de temps faut-il pour la livraison ?"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <span class="HwtZe"><span class="jCAhz ChMk0b"><span class="ryNqvb">La livraison standard prend g&eacute;n&eacute;ralement de 3 &agrave; 5 jours ouvrables aux &Eacute;tats-Unis continentaux.</span></span> <span class="jCAhz ChMk0b"><span class="ryNqvb">Des options de livraison express sont offertes pour une livraison plus rapide.</span></span></span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T183608Z

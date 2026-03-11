@@ -1,0 +1,23 @@
+﻿---
+ID: "b3c59ac6-4475-488d-a102-6e8290ca242c"
+Parent: "b3dcb0ab-b826-458e-b2e6-66394a852c54"
+Template: "412178fd-1df6-4ff6-81a0-7de9fbbf490a"
+Path: /sitecore/templates/Branches/Foundation/Common/Profile Manager/PeopleProfile/$name/Education
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T180223Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d92cd09-e50b-4326-96a6-b80ad571389a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T180223Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "5384627f-a507-4e42-a820-3a59e6d046ff"
+Parent: "ce0cc9c4-8fd4-4f8b-87db-c2150b88afc4"
+Template: "e61a1436-8633-4b68-9921-9db4f30cd33a"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Knowledge Center Landing/Data/IconFeatureCard 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251211T173336Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "86daf9ae-26e1-47c2-8e0e-a07d398670bd"
+      Hint: imageIcon
+      Value: "{3AFA9650-BD18-4910-9B81-AD121D979284}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "495039c1-654c-4b11-83c3-efca3e83584c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Collaboration Built-In"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>Multiple authors can contribute, review, and refine content together. Version control, comment threads, and approval workflows ensure accuracy while maintaining editorial control.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T173525Z

@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-PageContent-ContentBlock",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$PageContent/$ContentBlock/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Page Content/ContentBlock",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$PageContent/$ContentBlock/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Page Content/ContentBlock",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$PageContent/$ContentBlock/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Page Content/Page Content Headless Site Setup/Add Content Blocks Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

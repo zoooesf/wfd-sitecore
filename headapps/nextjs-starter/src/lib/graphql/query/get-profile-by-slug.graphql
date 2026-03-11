@@ -1,0 +1,129 @@
+# Write your query or mutation here
+query GetProfileBySlug($language: String!, $templateId: String!, $name: String!, $path: String!) {
+  search(
+    where: {
+      AND: [
+        { name: "_language", value: $language, operator: EQ }
+        { name: "_templates", value: $templateId, operator: EQ }
+        { name: "_path", value: $path, operator: EQ }
+        { name: "_name", value: $name, operator: EQ }
+      ]
+    }
+    first: 10
+  ) {
+    pageInfo {
+      hasNext
+      endCursor
+    }
+    results {
+      name
+      displayName
+      ... on PeopleProfile {
+        id
+        description {
+          value
+        }
+        email {
+          value
+        }
+        phone {
+          value
+        }
+        role {
+          value
+        }
+        company {
+          value
+        }
+        image {
+          src
+          alt
+          jsonValue
+        }
+        imageMobile {
+          jsonValue
+        }
+        expertise {
+          jsonValue
+        }
+        company {
+          value
+        }
+        firstName {
+          value
+        }
+        lastName {
+          value
+        }
+        location {
+          jsonValue
+        }
+      }
+    }
+  }
+}
+
+query GetProfileBySlugAdditional(
+  $language: String!
+  $templateId: String!
+  $name: String!
+  $path: String!
+) {
+  search(
+    where: {
+      AND: [
+        { name: "_language", value: $language, operator: EQ }
+        { name: "_templates", value: $templateId, operator: EQ }
+        { name: "_path", value: $path, operator: EQ }
+        { name: "_name", value: $name, operator: EQ }
+      ]
+    }
+    first: 1
+  ) {
+    pageInfo {
+      hasNext
+      endCursor
+    }
+    results {
+      ... on PeopleProfile {
+        website {
+          jsonValue
+        }
+        linkedInLink {
+          jsonValue
+        }
+        children {
+          results {
+            name
+            ... on Item {
+              children {
+                results {
+                  name
+                  displayName
+                  ... on Achievement {
+                    description {
+                      value
+                    }
+                  }
+                  ... on Education {
+                    description {
+                      value
+                    }
+                  }
+                  ... on Involvement {
+                    heading {
+                      value
+                    }
+                    description {
+                      value
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

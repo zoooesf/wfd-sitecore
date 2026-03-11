@@ -1,0 +1,45 @@
+﻿---
+ID: "5344e228-29a5-48a3-a2a2-f2e7c3b7a793"
+Parent: "bfe57008-94e1-481d-a9af-0516c778b044"
+Template: "2f2b1f95-051d-4b06-ad2a-ad0a243d1765"
+Path: "/sitecore/content/Sites/main/Data/Footer Legals/FooterLegal - AHA/YouTube"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 188
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "13cca867-3b44-4f5a-bace-3c584098dbf6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241101T132402Z
+    - ID: "4a653304-b180-4ac5-b23c-ffc68ed4a44c"
+      Hint: socialIcon
+      Value: youtube
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94a25075-e552-4529-998c-3aaff40eb65c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="American Heart Association YouTube" linktype="external" url="https://www.youtube.com/user/americanheartassoc" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250428T194611Z

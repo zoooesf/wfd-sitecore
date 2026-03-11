@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-feature-FEATURENAME",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Features/$FEATURENAME/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/FEATURE/FEATURE Headless Site Setup/Add FEATURENAMEs Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+﻿---
+ID: "da4c7e0e-ff64-4bca-94c9-27afad4325e0"
+Parent: "7ec030ed-b502-48aa-8a07-5bc990d70238"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Data/CommonRichtext 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251211T210559Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5492aeb9-3be2-4228-bf1c-33d9355214bf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><h2>Customized Access</h2><p>Access Control gives you granular command over your content security. Whether you need simple login protection or advanced attestation requirements, our flexible system scales with your needs. Set up custom access rules in minutes and protect sensitive information with enterprise-grade security that's easy to implement and manage.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T210643Z

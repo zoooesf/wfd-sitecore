@@ -1,0 +1,23 @@
+﻿---
+ID: "c3c914be-70c7-4c40-b886-b1ef07eb7ed8"
+Parent: "0d42b59a-ead1-4f28-9d34-cc80b81a3343"
+Template: "0d42b59a-ead1-4f28-9d34-cc80b81a3343"
+Path: /sitecore/templates/Project/Sites/Pages/Person Page/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250812T191500Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eae7c622-e3a0-4753-8a22-369dd14d386c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250812T191500Z

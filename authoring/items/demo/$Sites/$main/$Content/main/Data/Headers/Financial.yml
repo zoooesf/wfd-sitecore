@@ -1,0 +1,70 @@
+﻿---
+ID: "36a4091f-1e84-49b2-9cda-e303c40b9b58"
+Parent: "35f3f92c-6888-4d73-b88d-1b0de9a0aa04"
+Template: "02d8447d-46dd-4c43-aeb6-c83e03fb69d4"
+Path: /sitecore/content/Sites/main/Data/Headers/Financial
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250930T190552Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{150FF27A-621D-457C-A5AA-66C711FC28AD}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "844992fa-f961-4cdc-b7ea-c1074d566c64"
+      Hint: demo
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb106337-c583-47b7-a661-07c44d06872f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T191401Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T194538Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{150FF27A-621D-457C-A5AA-66C711FC28AD}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "844992fa-f961-4cdc-b7ea-c1074d566c64"
+      Hint: demo
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66e4a05b-5918-47f8-b8d7-56d62838402c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T194927Z

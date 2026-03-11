@@ -1,0 +1,50 @@
+﻿---
+ID: "dec609e9-69ca-40cf-b477-02ef85bc6b08"
+Parent: "f4896ade-6257-431e-94cb-878c2fa64982"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Common/Search/EventListingWithFilters/EventListingWithFilters
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/form_yellow_edit.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {2975609A-F5B5-4787-9B31-24834B91190A}
+    {10BE00FA-A487-4DB3-AE08-611F06FB1CF4}
+    {03D8588D-0C59-479E-9AC4-0F8D3CA3B42E}
+    {CFADFE88-2578-42D5-AA3D-080CB2EA5C4A}
+    {63B335AA-88BA-40AA-B655-C5754850719A}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b4014c27-6fb3-4163-a6f9-1943e3a2b053"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{6136C8FA-54AD-457F-8920-FBC5FC4D88F0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T171219Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fd66e0b-1347-41f1-8bf2-356d8bc178f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260108T160254Z

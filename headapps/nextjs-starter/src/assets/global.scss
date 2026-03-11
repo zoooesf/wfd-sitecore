@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind utilities;
+
+@import 'layer-components';
+@import 'components';
+@import 'editor';
+@import 'typography';
+
+/* Colors */
+@layer base {
+  :root {
+    --document-width: 1719px;
+
+    /* Brand Theme Colors */
+    /* Change to Primary, Secondary, Tertiary */
+
+    /* Main Colors */
+    --next-red: 209 47 54; /* Legacy red color - kept separate */
+    --next-maroon: 153 0 0; /* Legacy maroon color - kept separate */
+    --next-gray: 99 100 102; /* Legacy gray color - kept separate */
+
+    --next-black: 0 0 0;
+    --next-white: 255 255 255;
+
+    /* Theme Colors */
+    --next-primary-bg: 212 230 241; /* #D4E6F1 - Light blue */
+    --next-primary-text: 6 14 19; /* #060E13 - Dark Blue */
+    --next-primary-button-bg: 236 244 249; /* #ECF4F9 - lightest Blue - for button elements with primary class */
+
+    --next-secondary-bg: 6 14 19; /* #060E13 - Dark Blue */
+    --next-secondary-text: 212 230 241; /* #D4E6F1 - Light blue */
+    --next-secondary-button-bg: 28 66 89; /* #1C4259- Dark blue - for button elements with secondary class */
+
+    --next-tertiary-bg: 212 230 241; /* #D4E6F1 - Light blue */
+    --next-tertiary-text: 6 14 19; /* #060E13 - Dark Blue */
+    --next-tertiary-button-bg: 61 143 194; /* #3D8FC2 - Medium Blue - for button elements with tertiary class */
+
+    /* Link Colors */
+    --next-purple-link: 39 124 116; /* #277C74 - Green for light backgrounds */
+    --next-yellow-link: 201 205 238; /* #C9CDEE - Light Purple for dark backgrounds */
+
+    --bg: var(--next-white);
+    --text: var(--next-black);
+    --button-bg: var(--next-primary-button-bg); /* Default button background */
+    --link-color: var(--next-purple-link); /* Default link color */
+
+    /* Add focus ring color */
+    --focus-ring: 72 51 167; /* #4833A7 - Purple */
+  }
+
+  /* Update focus outline styles */
+  *:focus-visible {
+    @apply ring-2 ring-[rgb(var(--focus-ring))] ring-offset-2;
+    outline: none;
+    position: relative;
+  }
+
+  /* Even on dark themes, keep the bright blue ring for consistency */
+  .primary-theme *:focus-visible,
+  .secondary-theme *:focus-visible,
+  .tertiary-theme *:focus-visible,
+  .white-theme *:focus-visible,
+  .reverse *:focus-visible {
+    @apply ring-[rgb(var(--focus-ring))] ring-offset-2;
+  }
+
+  /* Global link styling - theme-aware using CSS variables */
+  a:not([class*="btn"]):not([class*="button"]):not(.no-link-style):not([data-component="Button"]):not(nav a):not([role="navigation"] a):not(.no-underline) {
+    @apply underline transition-colors duration-200;
+    color: rgb(var(--text));
+    
+    &:hover {
+      opacity: 0.8;
+    }
+
+    &:focus-visible {
+      @apply outline-none ring-2 ring-offset-2 rounded-sm;
+      box-shadow: 0 0 0 2px rgb(var(--text) / 0.5);
+    }
+
+    &:active {
+      opacity: 0.9;
+    }
+  }
+  
+  /* Rich text links - theme-aware colors */
+  .primary .richtext a,
+  .primary .richtext a:visited,
+  .tertiary .richtext a,
+  .tertiary .richtext a:visited {
+    color: #4833A7 !important;
+    
+    &:focus-visible {
+      box-shadow: 0 0 0 2px rgba(72, 51, 167, 0.5) !important;
+    }
+  }
+
+  .secondary .richtext a,
+  .secondary .richtext a:visited {
+    color: #F7E36A !important;
+    
+    &:focus-visible {
+      box-shadow: 0 0 0 2px rgba(247, 227, 106, 0.5) !important;
+    }
+  }
+  
+  /* Visited state - slightly muted */
+  a:visited:not([class*="btn"]):not([class*="button"]):not(.no-link-style):not([data-component="Button"]):not(nav a):not([role="navigation"] a) {
+    color: rgb(var(--text) / 0.8);
+    
+    &:hover {
+      color: rgb(var(--text) / 0.8);
+    }
+  }
+}
+
+/* Theme Mixin */
+@mixin theme-variant($color, $text-color, $button-bg: null, $link-color: null) {
+  --bg: var(#{$color});
+  --text: var(#{$text-color});
+  @if $button-bg {
+    --button-bg: var(#{$button-bg});
+  }
+  @if $link-color {
+    --link-color: var(#{$link-color});
+  }
+}
+
+/* Theme Classes */
+.primary {
+  @include theme-variant(--next-primary-bg, --next-primary-text, --next-primary-button-bg, --next-purple-link);
+}
+
+.secondary {
+  @include theme-variant(--next-secondary-bg, --next-secondary-text, --next-secondary-button-bg, --next-yellow-link);
+}
+
+.tertiary {
+  @include theme-variant(--next-tertiary-bg, --next-tertiary-text, --next-tertiary-button-bg, --next-purple-link);
+}
+
+.white {
+  @include theme-variant(--next-white, --next-black);
+}
+
+.black {
+  @include theme-variant(--next-black, --next-white);
+}
+
+/* Search highlighting styles */
+mark {
+  @apply font-semibold;
+  @apply bg-transparent;
+}
+
+/* Search cancel button styles */
+input[type="search"]::-webkit-search-cancel-button:hover { 
+  @apply cursor-pointer; 
+}

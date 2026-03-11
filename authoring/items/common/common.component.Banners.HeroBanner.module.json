@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Banners-HeroBanner",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Banners/$HeroBanner/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Banners/HeroBanner",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Banners/$HeroBanner/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Banners/HeroBanner",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Banners/$HeroBanner/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Banners/Banners Headless Site Setup/Add Hero Banners Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

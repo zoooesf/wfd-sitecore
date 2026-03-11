@@ -1,0 +1,26 @@
+﻿---
+ID: "8d2f8f13-6e5e-4c1b-bb74-5662424cabfe"
+Parent: "470b56da-e45f-4f17-bb69-e08099a0d565"
+Template: "f02bd809-c8e0-40cb-bfbf-26cc77a18a88"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Footer Menus/FooterMenu/Footer Column 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T225254Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e96f5a62-3c0b-4dbf-ae5d-391992fd9ea2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Footer Column 3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T183438Z

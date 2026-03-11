@@ -1,0 +1,31 @@
+﻿---
+ID: "90b94a9f-beb5-4e95-adc2-d26c86df83b3"
+Parent: "04161e76-4d8e-493c-8f95-c78d7f3ef33f"
+Template: "817348e5-9a0e-437b-9dcf-1f27e771b30c"
+Path: /sitecore/content/Sites/main/Home/About us/Leadership Team/Data/FullWidth 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T165830Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e3ac7e7-6e4b-4785-828e-fb0ff8c9a909"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T165830Z

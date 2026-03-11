@@ -1,0 +1,33 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Navigation-TertiaryNav",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Navigation/$TertiaryNav/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Navigation/TertiaryNav",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Navigation/$TertiaryNav/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Navigation/TertiaryNav",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Navigation/$TertiaryNav/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/Navigation/TertiaryNav",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Navigation/$TertiaryNav/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Navigation/Navigation Headless Site Setup/Add Tertiary Navs Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

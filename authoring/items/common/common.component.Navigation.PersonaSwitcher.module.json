@@ -1,0 +1,23 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Navigation-PersonaSwitcher",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Navigation/$PersonaSwitcher/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Navigation/PersonaSwitcher",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Navigation/$PersonaSwitcher/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Navigation/PersonaSwitcher",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

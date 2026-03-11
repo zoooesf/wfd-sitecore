@@ -1,0 +1,10 @@
+query GetPageAuth($path: String!, $siteName: String!, $language: String!) {
+  layout(site: $siteName, routePath: $path, language: $language) {
+    item {
+      field(name: "pageRequiresAuth") {
+        name
+        value
+      }
+    }
+  }
+}

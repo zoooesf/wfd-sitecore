@@ -1,0 +1,18 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-templates-project",
+    "references": [
+        "common-commonfolders",
+        "common-component-*"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$ProjectTemplates",
+                "path": "/sitecore/templates/Project/Common",
+                "scope": "DescendantsOnly"
+            }
+        ]
+    }
+}

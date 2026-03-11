@@ -1,0 +1,101 @@
+﻿---
+ID: "fbfd3ffc-ff23-48d1-b953-cde7c3193d77"
+Parent: "a017f997-3fde-4fc4-9875-18551875c698"
+Template: "740d9507-e20d-486d-9f70-c89210c503d8"
+Path: /sitecore/content/Sites/main/Home/News/Grant Programs Fuel Student Research in Clean Energy Technology
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {E4398AA0-10ED-4623-94C5-2F1A04535B66}
+    {07E79D59-0018-4869-B819-1EDA03D735FE}
+    {8F2B35AD-DD81-42C8-A71C-45075E64D533}
+    {504D9C9A-8BB3-42E1-84B9-4FEEDC657492}
+    {8C666B5A-BF50-45D8-9E4B-C3B5FBA48E48}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FC2A3655-59F3-4FFC-8734-3C7F9707B0EF}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8e9012f3-0c2c-40aa-a554-f3958f61b9ad"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{5EC6AE89-D843-4876-BF4C-FB7023648330}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1D9C2F46-1B25-4507-92CF-EE6C3722D516}"
+          s:par="GridParameters&amp;FieldNames={970E953E-6B00-433C-B314-A809DF4372EB}&amp;Styles={598C7743-668A-438C-8B64-048F7F1FD3A3}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" />
+        <r
+          uid="{D833E4BD-8439-4641-85F8-E8CBD9204817}"
+          s:par="GridParameters&amp;FieldNames={970E953E-6B00-433C-B314-A809DF4372EB}&amp;Styles={598C7743-668A-438C-8B64-048F7F1FD3A3}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2" />
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames={970E953E-6B00-433C-B314-A809DF4372EB}&amp;Styles={598C7743-668A-438C-8B64-048F7F1FD3A3}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{26E9C9EE-A683-493A-9F3A-62732CF47344}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D70A1CC4-0D85-47CA-BA87-C12D062353F9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T173408Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Grant Programs Fuel Student Research in Clean Energy Technology
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D70A1CC4-0D85-47CA-BA87-C12D062353F9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "671a5055-f51b-4b26-8296-d2c92017ecbe"
+      Hint: displayDateTime
+      Value: 20250405T100000Z
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee7e765a-771d-4ccb-9932-12835b8ea0a7"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250405T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Grant Programs Fuel Student Research in Clean Energy Technology
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: University Partnership Focuses R&amp;D Capabilities on Sustainable Smart Grid Development.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        A new round of Grant Programs has been announced in partnership with the local university. The funding is specifically directed towards <span data-token-index="1" class="notion-enable-hover">Student Research</span> and <span data-token-index="3" class="notion-enable-hover">Faculty Research</span> exploring <span data-token-index="5" class="notion-enable-hover">Clean Energy</span> applications and ways to improve <span data-token-index="7" class="notion-enable-hover">Smart Grid</span> efficiency, fostering long-term <span data-token-index="9" class="notion-enable-hover">R&amp;D Capabilities</span> in sustainable technology.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251121T162201Z

@@ -1,0 +1,7 @@
+query GetItemPath($itemId: String!, $language: String!) {
+  item(path: $itemId, language: $language) {
+    url {
+      path
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Navigation-Login",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Navigation/$Login/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Navigation/Login",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Navigation/$Login/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Navigation/Login",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

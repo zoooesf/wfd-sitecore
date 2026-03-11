@@ -1,0 +1,46 @@
+﻿---
+ID: "fdac16d9-2295-49c9-a90d-50bd8d43a1a0"
+Parent: "187f8dfc-f481-4454-b41a-845db25eb95a"
+Template: "d7129f3e-903b-48c6-9a0c-00924c601d05"
+Path: /sitecore/content/Sites/main/Data/Knowledge Center Resources/Growth Drivers and Challenges in the Global EdTech and Smart Classrooms Market 20252030 TIDAL SAMPL
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {0E59078D-1124-4E3D-8F3D-CC1FEA8C6CA6}
+    {F30F840E-3C93-4833-9E00-D6F24840DF00}
+    {A67CF5BD-CB3D-4C9F-B493-53D376C9DF37}
+    {8478DEB8-C43B-4A4C-96A3-2E273A1E5442}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "46c53812-9cb8-484a-a57b-2896533648d6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T004657Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d33c89a4-3a91-4b16-88b9-51d742136e18"
+    - ID: "95b9b827-2ee6-4465-901b-f963242b1684"
+      Hint: file
+      Value: |
+        <file mediaid="{2B0D8BDF-E704-429C-ABD4-AC87312EA13D}" src="-/media/2b0d8bdfe704429cabd4ac87312ea13d.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T004804Z

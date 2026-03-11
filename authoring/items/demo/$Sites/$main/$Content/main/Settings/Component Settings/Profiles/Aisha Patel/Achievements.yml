@@ -1,0 +1,23 @@
+﻿---
+ID: "ff50b07c-d4f1-4f27-bacc-2bd2455a3432"
+Parent: "3bc6ec1d-dba6-441a-a23e-903bfdd77f34"
+Template: "5aa570b6-85db-437c-b2e1-0a3e41bea26b"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Aisha Patel/Achievements
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T175208Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb6b2a41-4075-462c-837e-27b9921108c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T175208Z

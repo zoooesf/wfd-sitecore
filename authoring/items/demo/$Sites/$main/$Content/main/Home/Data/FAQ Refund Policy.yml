@@ -1,0 +1,79 @@
+﻿---
+ID: "65909b48-7eb8-4457-94f8-ab6af461009f"
+Parent: "4dc9f0c8-8a7e-45a7-bed4-977f265f342f"
+Template: "8ee1438c-df21-46c8-8f4e-e02793e54167"
+Path: /sitecore/content/Sites/main/Home/Data/FAQ Refund Policy
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241105T145740Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19a55ef4-5769-4bd8-b47b-a64dd9d91684"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "What is your refund policy?"
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="external" url="" target="" text="RefundPolicy" title="" class=""/>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: "<p>We offer a 30-day money-back guarantee on all unopened products. Opened items may be eligible for store credit or exchange, subject to inspection.</p>"
+    - ID: "d8f3251e-050e-4652-be8d-c32068e6bd7a"
+      Hint: link2
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241202T202431Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T165616Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c808de54-fb43-4f65-a175-7af1d96176b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Quelle est votre politique de remboursement ?"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <span class="HwtZe"><span class="jCAhz ChMk0b"><span class="ryNqvb">Nous offrons une garantie de satisfaction ou de remboursement de 30&nbsp;jours pour tous les produits non ouverts.</span></span> <span class="jCAhz ChMk0b"><span class="ryNqvb">Les articles ouverts peuvent donner droit &agrave; un avoir ou &agrave; un &eacute;change, sous r&eacute;serve d'inspection.</span></span></span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T183534Z

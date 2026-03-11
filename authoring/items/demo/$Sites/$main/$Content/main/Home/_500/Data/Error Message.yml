@@ -1,0 +1,98 @@
+﻿---
+ID: "807ed5a9-cec7-425a-a719-1fd47c761f3b"
+Parent: "8b0cab23-c60e-485c-ac56-46d27cd427b1"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Home/_500/Data/Error Message
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241212T163420Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6e63071-abd9-4f14-90dd-2a6a96aafd69"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+          <div style="margin-bottom:24px; margin-top:24px; max-width:120px; margin-left:auto; margin-right:auto;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" style="display: block;">
+              <!--Yellow triangle background-->
+              <path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7 .2 40.1S486.3 480 472 480H40c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8 .2-40.1l216-368C228.7 39.5 241.8 32 256 32z" fill="#fbbf24"></path>
+              <!--Black exclamation mark-->
+              <path d="M256 160c-13.3 0-24 10.7-24 24V296c0 13.3 10.7 24 24 24s24-10.7 24-24V184c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z" fill="#000000"></path>
+            </svg>
+          </div>
+        
+          <h2 style="text-align:center;">Server Error</h2>
+          <h4 style="text-align:center;">There was an issue delivering the page. Try again later.</h4>
+        </div>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250718T162102Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d525108b-d7f9-4564-8949-f729d04feff5"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Message d'erreur
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T160358Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60061009-9502-4d8c-a3cd-b295b6daa056"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <div style="margin-bottom:24px; margin-top:24px; max-width:120px; margin-left:auto; margin-right:auto;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" style="display: block;">
+        <!--Yellow triangle background-->
+        <path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7 .2 40.1S486.3 480 472 480H40c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8 .2-40.1l216-368C228.7 39.5 241.8 32 256 32z" fill="#fbbf24"></path>
+        <!--Black exclamation mark-->
+        <path d="M256 160c-13.3 0-24 10.7-24 24V296c0 13.3 10.7 24 24 24s24-10.7 24-24V184c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z" fill="#000000"></path>
+        </svg>
+        </div>
+        <h2 style="text-align:center;">Erreur serveur</h2>
+        <h4 style="text-align:center;">Il y a eu un probl&egrave;me lors de la livraison de cette page. Veuillez r&eacute;essayer plus tard.</h4>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250910T163210Z

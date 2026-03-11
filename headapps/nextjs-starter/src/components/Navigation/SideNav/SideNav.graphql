@@ -1,0 +1,27 @@
+query GetSideNavigation(
+  $datasourcePath: String!
+  $language: String!
+  $sideNavGroupTemplateId: String!
+  $sideNavLinkTemplateId: String!
+) {
+  item(path: $datasourcePath, language: $language) {
+    children(includeTemplateIDs: [$sideNavGroupTemplateId]) {
+      results {
+        ... on SideNavGroups {
+          heading {
+            value
+          }
+          children(includeTemplateIDs: [$sideNavLinkTemplateId]) {
+            results {
+              ... on SideNavLinks {
+                link {
+                  ...LinkFieldFragment
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

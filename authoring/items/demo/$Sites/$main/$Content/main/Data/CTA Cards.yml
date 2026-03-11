@@ -1,0 +1,23 @@
+﻿---
+ID: "a96a9f6f-9b94-42af-b905-e6e46eea8bcb"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "faaebd9c-27ef-4943-948b-c86415242b17"
+Path: /sitecore/content/Sites/main/Data/CTA Cards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241129T155653Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3230813-9d00-4b95-ba1f-a118b09ec7af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T173551Z

@@ -1,0 +1,112 @@
+﻿---
+ID: "870a22b6-10c3-48de-80ca-c1b65d6c5dcc"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Anna Example
+SharedFields:
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Anna
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "89c187d4-9481-4fbb-9467-78afa92cdd33"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Example 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: AnnaExample@example.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{4DAC141E-554B-4578-B390-13BADD6B135A}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Senior Web Developer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241114T205017Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "587-555-1234"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Amazing Branded Company Incorporated
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c48ccde2-ce0b-4a2f-a7f6-8e520d04e2db"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet consectetur adipiscing elit ad, et finibus iaculis imperdiet dignissim metus rhoncus, facilisi at ultricies malesuada pellentesque vehicula phasellus. Donec arcu scelerisque semper fermentum finibus proin diam, quam quis posuere justo aenean habitant lobortis mollis, netus lectus placerat dolor porta eros.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251119T174534Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: AnnaExample@example.com
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Développeur Web
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T185003Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ebf28043-e2be-4fba-8361-fa0f704d6e6a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet consectetur adipiscing elit ad, et finibus iaculis imperdiet dignissim metus rhoncus, facilisi at ultricies malesuada pellentesque vehicula phasellus. Donec arcu scelerisque semper fermentum finibus proin diam, quam quis posuere justo aenean habitant lobortis mollis, netus lectus placerat dolor porta eros.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251222T201844Z

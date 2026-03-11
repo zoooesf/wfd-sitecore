@@ -1,0 +1,59 @@
+﻿---
+ID: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Parent: "df6e418d-e91c-42cd-83bc-99510c7b40ca"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Common/Profile Manager/PeopleProfile
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/pawn_glass_blue.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {9C9F4E9E-7A85-4E28-B362-CE46976A56E3}
+    {26B5C52A-65E8-4324-9F2D-7DE1D1C91E6F}
+    {904D58E8-0518-4599-8689-40395569B258}
+    {B6A9ADA6-289B-4AD3-9FBF-4D5F494EC97A}
+    {67DC1D15-B5C2-41F2-BAA3-5695CA6C870B}
+    {A7F6559A-9425-4383-836B-DAE7BCC051BA}
+    {6044B5F5-C51A-4590-A4E5-BE289311DD40}
+    {DFE7A3C6-3416-45CD-B243-DFC8C5598CA4}
+    {FC13C4CD-F1D1-4542-8CAA-8329EE906B82}
+    {17E969DB-CEE8-468D-BD7F-5245D6F9292C}
+    {4414A1F9-826A-4647-8DF4-ED6A95E64C43}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "294fc516-5be6-4e5c-8bc0-43aa6e16dc22"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{58D30579-0436-4F43-A133-A7DE780462DE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241114T190037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3e827c6-37a9-487d-b351-7e08d80c16e3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251002T155220Z

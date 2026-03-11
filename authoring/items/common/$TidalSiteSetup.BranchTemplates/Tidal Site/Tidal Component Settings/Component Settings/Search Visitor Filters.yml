@@ -1,0 +1,23 @@
+﻿---
+ID: "b930a777-745b-4b06-9624-c15d848926b9"
+Parent: "72177c46-942d-49db-99cc-6c4370d55776"
+Template: "0d06ab70-4565-4d91-a58f-ed2a6dd4c126"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Component Settings/Component Settings/Search Visitor Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250819T230138Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac31dcf3-5b95-46a8-9c93-7f348c27db24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250819T230138Z

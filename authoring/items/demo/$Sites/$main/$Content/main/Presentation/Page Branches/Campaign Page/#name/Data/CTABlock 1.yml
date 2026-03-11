@@ -1,0 +1,45 @@
+﻿---
+ID: "cbd2dd10-a9ca-45f6-ab61-4468dcec40ec"
+Parent: "b1b462e1-a9c4-4018-836c-33aca32cbf91"
+Template: "5685baa8-f223-4d06-869b-c2f14fafd488"
+Path: /sitecore/content/Sites/main/Presentation/Page Branches/Campaign Page/$name/Data/CTABlock 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251023T034744Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8306f17c-9fc9-47ba-85d5-8d9e3e0af1c4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Your call to action heading
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="b132d115-7893-49aa-a06f-f1719a8704e3" anchor="" querystring="" target="" class="" text="Your Call To Action" title=""/>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Your call to action here...</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251023T035028Z

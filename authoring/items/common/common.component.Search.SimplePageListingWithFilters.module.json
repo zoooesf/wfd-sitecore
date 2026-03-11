@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-SimplePageListingWithFilters",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$SimplePageListingWithFilters/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/SimplePageListingWithFilters",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$SimplePageListingWithFilters/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/SimplePageListingWithFilters",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$SimplePageListingWithFilters/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add Simple Page Listing With Filters Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

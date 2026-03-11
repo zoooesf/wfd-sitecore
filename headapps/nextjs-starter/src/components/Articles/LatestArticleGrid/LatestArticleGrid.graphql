@@ -1,0 +1,63 @@
+query GetLatestArticles(
+  $language: String!
+  $templateId: String!
+  $homePath: String!
+  $limit: Int!
+) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: CONTAINS }
+        { name: "_path", value: $homePath, operator: CONTAINS }
+        { name: "_language", value: $language, operator: EQ }
+      ]
+    }
+    first: $limit
+    orderBy: { name: "datePublished", direction: DESC }
+  ) {
+    results {
+      ...ArticleCardFieldsFragment
+    }
+  }
+}
+
+query GetLatestInsights(
+  $language: String!
+  $templateId: String!
+  $homePath: String!
+  $limit: Int!
+) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: CONTAINS }
+        { name: "_path", value: $homePath, operator: CONTAINS }
+        { name: "_language", value: $language, operator: EQ }
+      ]
+    }
+    first: $limit
+    orderBy: { name: "datePublished", direction: DESC }
+  ) {
+    results {
+      ...InsightCardFieldsFragment
+    }
+  }
+}
+
+query GetLatestNews($language: String!, $templateId: String!, $homePath: String!, $limit: Int!) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: CONTAINS }
+        { name: "_path", value: $homePath, operator: CONTAINS }
+        { name: "_language", value: $language, operator: EQ }
+      ]
+    }
+    first: $limit
+    orderBy: { name: "datePublished", direction: DESC }
+  ) {
+    results {
+      ...NewsCardFieldsFragment
+    }
+  }
+}

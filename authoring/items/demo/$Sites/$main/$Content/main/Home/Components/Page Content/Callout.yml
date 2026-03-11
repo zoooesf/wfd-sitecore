@@ -1,0 +1,96 @@
+﻿---
+ID: "8f2a2d45-be92-4e23-b121-06dd4198d2b4"
+Parent: "d2df9782-d261-4ea2-87c8-e9414050ace6"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Page Content/Callout
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{17A56C3B-EB78-48E3-9481-D9D56B577452}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "dca1a15c-8fa0-4104-a7a5-470d87e2f08c"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{4F153E44-2847-4E5E-A723-DAC579A0C1A2}"
+          p:before="*"
+          s:ds="local:/Data/New content item"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+        <r
+          uid="{82CBCF69-18F1-475B-8E11-98FCAACCE9DD}"
+          p:after="r[@uid='{4F153E44-2847-4E5E-A723-DAC579A0C1A2}']"
+          s:ds="a9e3696d-e6f8-4c60-b312-03d9c9977b4b"
+          s:id="{A5968DB4-1D40-437E-9E9D-23733660F793}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{FEC95585-6572-4E20-9B34-C60DB64C5535}"
+          p:after="r[@uid='{82CBCF69-18F1-475B-8E11-98FCAACCE9DD}']"
+          s:ds="57c7fdda-3d0b-45b6-a22a-54b7269b8389"
+          s:id="{A5968DB4-1D40-437E-9E9D-23733660F793}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{2BC202EA-CC78-4A3B-A17F-6F36CA22FCB0}"
+          p:after="*[1=2]"
+          s:ds="c602e1a3-b974-44c1-9d4b-5703efa30a2f"
+          s:id="{A5968DB4-1D40-437E-9E9D-23733660F793}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T214814Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Callout
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20241210T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee94e1ff-6d98-4709-a5ea-e2a59297a5ae"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20241210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Callout
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251002T172358Z

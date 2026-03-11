@@ -1,0 +1,52 @@
+.card-carousel {
+  @apply relative overflow-hidden;
+
+  .slick-list {
+    @apply mx-auto w-full pt-8;
+  }
+
+  .slick-track {
+    @apply flex max-w-none;
+  }
+
+  .slick-slide {
+    @apply h-auto;
+    > div {
+      @apply h-full p-3;
+    }
+
+    img.mobile-only {
+      @apply lg:hidden;
+    }
+
+    img.desktop-only {
+      @apply hidden lg:block;
+    }
+  }
+
+  &.edit-mode {
+    @apply flex-wrap;
+
+    > * {
+      @apply max-w-80;
+    }
+  }
+
+  .slick-dots {
+    @apply relative bottom-0 flex items-center justify-center gap-4 pb-2;
+
+    &.slick-dots-primary {
+      li.slick-active button:before,
+      li:not(.slick-active) button:before {
+        @apply text-primary;
+      }
+    }
+
+    &.slick-dots-secondary {
+      li.slick-active button:before,
+      li:not(.slick-active) button:before {
+        @apply text-secondary;
+      }    
+    }
+  }
+}

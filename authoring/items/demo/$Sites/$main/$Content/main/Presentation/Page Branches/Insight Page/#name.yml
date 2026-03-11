@@ -1,0 +1,63 @@
+﻿---
+ID: "3fa1de96-e96b-49ad-917d-989c8ef76051"
+Parent: "07fefc8d-0246-415e-8105-9246e29b099b"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Presentation/Page Branches/Insight Page/$name
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9264A0F0-ABEE-4BEC-9234-F1435555E48E}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3d989ca9-29d1-490f-97c8-ec72b2c41f9b"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1D9C2F46-1B25-4507-92CF-EE6C3722D516}"
+          s:par="GridParameters&amp;FieldNames=%7B3A20ECF0-4AA6-4F83-8524-F25F1C598D15%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" />
+        <r
+          uid="{D833E4BD-8439-4641-85F8-E8CBD9204817}"
+          s:par="GridParameters&amp;FieldNames=%7B20040993-12CF-43F9-95DB-C73822F85B83%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames=%7B5403E6BF-9BD2-4D61-A162-9F374DD6F52C%7D&amp;Styles=%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251119T192451Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251119T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89ffd7d8-50d8-4b34-8bb3-aaafc382a507"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251119T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251119T192646Z

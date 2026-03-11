@@ -1,0 +1,45 @@
+﻿---
+ID: "7b518d6c-f402-4dab-ac6f-b7b583f0f46a"
+Parent: "7dcd819e-3ebb-46f9-b4a4-94a8096d2e6b"
+Template: "e2af24b0-74f1-4053-a5d1-80b32bb71714"
+Path: /sitecore/content/Sites/main/Home/Components/Navigation/Content Tree Side Nav/Get Involved/Data/Callout item
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241203T164242Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e0097c2-d8b1-47eb-9ab6-12e53a71dea1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Callout item
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum odor amet, consectetuer adipiscing elit. Facilisi duis sed imperdiet convallis nullam enim enim. Nullam varius a condimentum vivamus lacus curabitur!</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250908T210246Z

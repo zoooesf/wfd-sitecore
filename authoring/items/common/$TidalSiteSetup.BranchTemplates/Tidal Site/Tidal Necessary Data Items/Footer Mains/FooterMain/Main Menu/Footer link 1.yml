@@ -1,0 +1,35 @@
+﻿---
+ID: "88550a32-dc73-47d1-b768-087d35d1e20c"
+Parent: "d87f68f4-4831-44aa-95af-484fc1946c96"
+Template: "1e43d8ef-fd59-49fa-9056-ee3ba474f58b"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Footer Mains/FooterMain/Main Menu/Footer link 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T141006Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "209b593b-0ba4-4b12-b4d7-3e5f85915c4b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Footer Link" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T182957Z

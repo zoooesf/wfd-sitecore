@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-People-PersonProfile",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$People/$PersonProfile/$Templates",
+                "path": "/sitecore/templates/Feature/Common/People/PersonProfile",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$People/$PersonProfile/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/People/PersonProfile",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$People/$PersonProfile/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/People/personprofile",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+---
+description: Testing strategies and patterns for XM Cloud starter applications
+alwaysApply: false
+globs:
+  - "**/*.test.ts"
+  - "**/*.test.tsx"
+  - "**/*.spec.ts"
+  - "**/*.spec.tsx"
+  - "**/jest.config.js"
+  - "**/vitest.config.ts"
+---
+
+# Testing Patterns
+
+## Testing Strategy
+
+Component Testing:
+- Test component rendering with various XM Cloud field configurations
+- Mock XM Cloud services and API calls
+- Test error scenarios (missing fields, API failures)
+- Verify proper handling of editing vs. preview modes
+- Test responsive behavior and accessibility
+
+## Testing Tools
+
+Recommended Stack:
+- **Storybook** for component documentation and testing
+
+XM Cloud Mocking:
+- Create mock data that matches XM Cloud field structures
+- Mock layout service responses
+- Simulate both connected and disconnected modes
+- Test with various content scenarios
+
+```typescript
+// Mock XM Cloud field data
+const mockHeroFields = {
+  title: { value: 'Test Hero Title', editable: false },
+  subtitle: { value: 'Test Hero Subtitle', editable: false },
+  backgroundImage: {
+    value: {
+      src: '/test-image.jpg',
+      alt: 'Test Image',
+      width: 1200,
+      height: 600,
+    },
+    editable: false,
+  },
+};
+```
+
+## Component Testing Patterns
+
+Field Validation Testing:
+- Test components with missing fields
+- Test components with empty field values
+- Test components with various field types
+- Verify proper fallback rendering
+
+## Test Data Management
+
+XM Cloud Test Data:
+- Create realistic test data that matches XM Cloud structures
+- Use factories for generating test data
+- Maintain test data consistency across tests
+- Update test data when XM Cloud schemas change
+
+```typescript
+// Test data factory
+export const createMockLayoutData = (overrides = {}) => ({
+  sitecore: {
+    context: {
+      pageEditing: false,
+      language: 'en',
+      site: { name: 'test-site' },
+    },
+    route: {
+      name: 'Test Page',
+      displayName: 'Test Page',
+      fields: {},
+      placeholders: {},
+      ...overrides,
+    },
+  },
+});
+```
+
+## Testing Commands
+
+Package Scripts:
+- `npm run storybook` - Start Storybook
+- `npm run test-storybook` - Test all storybook stories while Storybook is running
+- `npm run build-storybook` - Builds Storybook for production
+
+Coverage Requirements:
+- Tests should be comprehensive enough to cover business logic and to validate that sites and componenets are working as intended
+- Ensure different rendering options and  scenarios are considered such as Design Library, Page Editor, Preview mode, Hosted Vercel Sites and Local Deployments
+- Test error scenarios and edge cases
+- Maintain test quality over quantity
+
+## Continuous Integration
+
+CI/CD Testing:
+- Run all tests on pull requests
+- Check for accessibility violations
+
+Quality Gates:
+- All tests must pass before merging
+- Coverage thresholds must be met
+- No linting errors allowed
+- Performance budgets must be maintained
+- Security scans must pass
+
+Referenced:
+@headapps/nextjs-starter/src/

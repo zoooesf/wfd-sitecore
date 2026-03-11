@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-IconFeatureCards-IconFeatureCard",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCard/$Templates",
+                "path": "/sitecore/templates/Feature/Common/IconFeatureCards/IconFeatureCard",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCard/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/IconFeatureCards/IconFeatureCard",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCard/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/IconFeatureCards/IconFeatureCards Headless Site Setup/Add Icon Feature Cards Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

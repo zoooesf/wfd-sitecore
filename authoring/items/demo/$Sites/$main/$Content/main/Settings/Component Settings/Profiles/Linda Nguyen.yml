@@ -1,0 +1,94 @@
+﻿---
+ID: "1a9da7db-cf28-4334-8229-64eef7416e12"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Linda Nguyen
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {4F99EB35-B0E1-4FCE-A715-2678635A2686}
+    {F4F2EF05-3216-49B2-BEFD-15BC72088FA0}
+    {69165005-E86B-49B1-8B12-08272531FF9D}
+    {389973AB-D785-48E6-87C4-926FF150FCEC}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{5B995F55-9680-472F-8B92-18CF37A5221A}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Linda
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7f623694-c8f3-47dd-9ea3-57df0bfbd103"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Nguyen
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: linda.nguyen@communityfirstalliance.org
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{6FDEA829-C492-4917-9AD4-504FB0480766}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Executive Director
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T173707Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(503) 555-0678"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{6FDEA829-C492-4917-9AD4-504FB0480766}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Community First Alliance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffc1040d-e909-4abf-9cbb-365bc3afc99b"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Linda Nguyen is a passionate community advocate with 14 years of experience in nonprofit leadership and social impact work. As Executive Director of Community First Alliance, she oversees programs that serve over 50,000 individuals annually, focusing on housing security, workforce development, and food access. Under her leadership, the organization has doubled its funding base and expanded services to three major cities on the West Coast.</p>
+        <p>Linda began her career as a community organizer and has dedicated her life to addressing systemic inequities. She holds a Master's degree in Public Policy from UC Berkeley and has successfully secured over $20 million in grants from foundations, government agencies, and corporate partners. Linda serves on multiple nonprofit boards and is a sought-after speaker on topics including community-led development, strategic partnerships, and sustainable nonprofit growth. Her collaborative approach has built strong coalitions across sectors to create lasting community impact.</p>
+        <!--<h2>Experience</h2>
+        <p>14 years of experience in nonprofit leadership and social impact work. She oversees programs that serve over 50,000 individuals annually. She began her career as a community organizer.</p>
+        <h2>Achievements</h2>
+        <p>Under her leadership, the organization has doubled its funding base and expanded services to three major cities. She successfully secured over $20 million in grants.</p>
+        <h2>Professional Involvement</h2>
+        <p>She serves on multiple nonprofit boards. She is a sought-after speaker on topics including community-led development and sustainable nonprofit growth.</p>
+        <h2>Community Involvement</h2>
+        <p>Dedicated her life to addressing systemic inequities. Her collaborative approach has built strong coalitions across sectors to create lasting community impact.&nbsp;</p>
+        <h2>Education</h2>
+        <p>Master's degree in Public Policy from UC Berkeley.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200126Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

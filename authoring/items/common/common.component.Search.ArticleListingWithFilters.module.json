@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-ArticleListingWithFilters",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$ArticleListingWithFilters/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/ArticleListingWithFilters",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$ArticleListingWithFilters/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/ArticleListingWithFilters",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$ArticleListingWithFilters/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add Article Listing With Filters Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+﻿---
+ID: "687883dd-ab25-46a4-97ae-fdea0d872c6b"
+Parent: "d2df9782-d261-4ea2-87c8-e9414050ace6"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Page Content/CTA Block
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D7D74F40-BD71-4F71-971B-7EC8AF9A6940}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b5167a8c-cae0-484c-b141-af563b29c643"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F57332A8-6AA3-4E10-A94E-83EEC2754FA2}"
+          p:before="*"
+          s:ds="local:/Data/CTA Block"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=5"
+          s:ph="headless-main" />
+        <r
+          uid="{9CE244D0-2DA2-460C-8D38-8946B0A8C528}"
+          p:after="r[@uid='{F57332A8-6AA3-4E10-A94E-83EEC2754FA2}']"
+          s:ds="local:/Data/CTABlock - Regular"
+          s:id="{E276274F-5C13-4B76-AC83-D7A867975696}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{02BF8CEF-2183-44E2-B705-9DEDF163D769}"
+          p:after="r[@uid='{9CE244D0-2DA2-460C-8D38-8946B0A8C528}']"
+          s:ds="local:/Data/CTABlock - Red Colour Theme"
+          s:id="{E276274F-5C13-4B76-AC83-D7A867975696}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B7F361860-74DF-4AA2-8C8D-21356F99DE43%7D&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{076C0830-DC37-4623-ADED-6CA74F6EBC33}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/CTABlock 1"
+          s:id="{E276274F-5C13-4B76-AC83-D7A867975696}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T214851Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: CTA Block
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20241210T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73bd2d58-a45f-4268-ba8f-70ef7dd8db42"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20241210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: CTA Block
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T174511Z

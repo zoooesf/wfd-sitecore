@@ -1,0 +1,35 @@
+﻿---
+ID: "0116e808-15e0-45ed-8b16-3803afee3564"
+Parent: "ed6f7652-b664-4d83-ab93-9912d703b4b8"
+Template: "ff620970-7f18-43d0-a140-d85756ab9f92"
+Path: "/sitecore/content/Sites/main/Data/Headers/Header - AHA/Healthy Living/Healthy Eating/Add Color"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T162911Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c56bc915-4d41-48a9-8ac7-70fe44b0e967"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" querystring="" id="{5B482D7D-2687-4552-9533-26F1AE2DD6A1}" anchor="" target="|Custom" title="" linktype="internal" text="Add Color" url="/Sites/main/Home/Components/Banners/Article Banner" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250824T153308Z

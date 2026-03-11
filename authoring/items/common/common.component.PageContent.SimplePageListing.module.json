@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-PageContent-SimplePageListing",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$PageContent/$SimplePageListing/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Page Content/SimplePageListing",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$PageContent/$SimplePageListing/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Page Content/SimplePageListing",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$PageContent/$SimplePageListing/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Page Content/Page Content Headless Site Setup/Add Simple Page Listings Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+﻿---
+ID: "b1562a43-64ad-4ff2-bab0-67cf87713754"
+Parent: "36a4091f-1e84-49b2-9cda-e303c40b9b58"
+Template: "1da6bf90-0437-449b-8c53-b854a3d934fe"
+Path: /sitecore/content/Sites/main/Data/Headers/Financial/About
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251014T011526Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9e26118-4d41-4210-868d-06b7bbe94f94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="About" anchor="" linktype="internal" class="" title=""  querystring="" id="{B3288EBF-9E89-41D8-AD71-7110F25B7F91}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251014T011750Z

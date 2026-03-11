@@ -1,0 +1,161 @@
+﻿---
+ID: "ee97491c-29ee-462d-9e03-d8054e168129"
+Parent: "b1bbf454-6060-4596-9d2c-0ea4aa414a9d"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Contact us/FAQ
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6B4F2492-B500-40E5-BC11-C3F95EB70D95}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "53953e83-4466-4889-9eb5-71e0ea8a77ab"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{43412861-0A30-4446-AB50-4369BB9E8065}"
+          p:before="*"
+          s:ds="local:/Data/HeroBanner 1"
+          s:id="{5E9D7B60-F61B-407B-B04B-2EEBA60B0EC0}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B23986C32-060E-4E72-B55F-89ACF00D7B71%7D&amp;Styles=%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{2C5EB098-C2EF-4F5C-BAEB-59E4A90AEA6D}"
+          p:after="r[@uid='{43412861-0A30-4446-AB50-4369BB9E8065}']"
+          s:ds="local:/Data/Accordion 2"
+          s:id="{8CB91616-D630-4732-B520-4D3A0C4931E4}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{C901F787-226E-4545-B1DE-84E01030B53E}"
+          p:after="r[@uid='{2C5EB098-C2EF-4F5C-BAEB-59E4A90AEA6D}']"
+          s:ds="local:/Data/Accordion 2_var2"
+          s:id="{8CB91616-D630-4732-B520-4D3A0C4931E4}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="headless-main" />
+        <r
+          uid="{C7AE8313-B632-4CBF-889B-90D9F56ED984}"
+          p:after="r[@uid='{C901F787-226E-4545-B1DE-84E01030B53E}']"
+          s:ds="local:/Data/Accordion 2_var3"
+          s:id="{8CB91616-D630-4732-B520-4D3A0C4931E4}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="headless-main" />
+        <r
+          uid="{E49BD509-811F-4AAF-A8EC-EAF2EA6D60A2}"
+          p:after="r[@uid='{C7AE8313-B632-4CBF-889B-90D9F56ED984}']"
+          s:ds="local:/Data/CTABlock 1"
+          s:id="{E276274F-5C13-4B76-AC83-D7A867975696}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="headless-main" />
+        <r
+          uid="{23392797-BDDA-4D04-BDCE-CBB7A4092EE6}"
+          p:after="r[@uid='{E49BD509-811F-4AAF-A8EC-EAF2EA6D60A2}']"
+          s:ds="local:/Data/AccordionDrawer 1"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/accordion-2" />
+        <r
+          uid="{0773617F-35DB-47E4-BC71-6478D1E1ED30}"
+          p:after="r[@uid='{23392797-BDDA-4D04-BDCE-CBB7A4092EE6}']"
+          s:ds="local:/Data/AccordionDrawer 1_var2"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/accordion-2" />
+        <r
+          uid="{30B28925-DAF1-4D66-9D85-F83A963A8314}"
+          p:after="r[@uid='{0773617F-35DB-47E4-BC71-6478D1E1ED30}']"
+          s:ds="local:/Data/Button 1"
+          s:id="{C152F7DC-6C01-4380-BABB-97C9F080CF00}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/accordion-2/buttons-4" />
+        <r
+          uid="{B80AAC21-C33B-4A5E-B7DE-D49E31AB6416}"
+          p:after="r[@uid='{30B28925-DAF1-4D66-9D85-F83A963A8314}']"
+          s:ds="local:/Data/AccordionDrawer 1_var4"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/accordion-7" />
+        <r
+          uid="{0D8B0080-8D83-4F14-95E7-A6404BCBFBD2}"
+          p:after="r[@uid='{B80AAC21-C33B-4A5E-B7DE-D49E31AB6416}']"
+          s:ds="local:/Data/AccordionDrawer 1_var5"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/accordion-7" />
+        <r
+          uid="{E400F41E-E860-4FF9-9769-1347D13F0BFC}"
+          p:after="r[@uid='{0D8B0080-8D83-4F14-95E7-A6404BCBFBD2}']"
+          s:ds="local:/Data/AccordionDrawer 1_var6"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/accordion-10" />
+        <r
+          uid="{4F22DD92-3029-4F40-8B21-5969FA752556}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/AccordionDrawer 1_var7"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/accordion-10" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{A7735275-7613-4958-966A-7C6B70951482}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T225208Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FAQ
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{A7735275-7613-4958-966A-7C6B70951482}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251010T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "083900c0-35c1-4276-b54a-99c5403dd4da"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251010T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: FAQ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T225946Z

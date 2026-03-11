@@ -1,0 +1,41 @@
+﻿---
+ID: "c7cab970-a6a2-4102-9d09-ea408767643d"
+Parent: "7ff7bbb2-c772-44d2-bec6-5f7205c5f9a2"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Insights Landing/Data/TabItem 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bac61174-e883-45b2-93fa-36c5b9723fef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Search Functionality
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>The core search experience begins with a prominent search bar that accepts natural language queries. As you type, our autocomplete system suggests relevant terms, popular searches, and related topics. The search algorithm examines document titles, abstracts, full text, metadata tags, and author profiles to determine relevance. Results appear instantly, with highlighted snippets showing where your search terms appear in context. Each result displays the content type, publication date, author, estimated reading time, and a brief excerpt to help you quickly assess relevance.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T222722Z

@@ -1,0 +1,85 @@
+﻿---
+ID: "c018864a-090e-43a6-916f-fe57bc3b9cb9"
+Parent: "5aab0e07-c4fe-4fe2-ba16-a22166b1ca50"
+Template: "0565a426-63ab-445f-b122-2dbdfbf41a40"
+Path: /sitecore/content/Sites/main/Data/Footer Mains/Education
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T132123Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{EDA1D495-2E3B-47B4-A7D7-B9FC37B09ADC}" />
+    - ID: "5795e0c3-b800-4ffc-8a83-fcc877a810e6"
+      Hint: newsletterLink
+      Value: |
+        <link text="Get in touch" anchor="" linktype="internal" class="" title=""  querystring="" id="{B1BBF454-6060-4596-9D2C-0EA4AA414A9D}" />
+    - ID: "844992fa-f961-4cdc-b7ea-c1074d566c64"
+      Hint: demo
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9984486-b8eb-4023-824c-d3ffb861a6f6"
+    - ID: "aa4c201b-b59d-453e-9e64-0f63414c87e5"
+      Hint: newsletterBody
+      Value: "Need help or have a question? Connect with the right team or find the resource you're looking for."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251023T183541Z
+    - ID: "e1422fd6-78c9-4e3d-8388-44a05308fe63"
+      Hint: newsletterHeading
+      Value: Contact us
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T195341Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{EDA1D495-2E3B-47B4-A7D7-B9FC37B09ADC}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "5795e0c3-b800-4ffc-8a83-fcc877a810e6"
+      Hint: newsletterLink
+      Value: |
+        <link linktype="internal" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" querystring="" target="" class="" text="Subscribe" title=""/>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "844992fa-f961-4cdc-b7ea-c1074d566c64"
+      Hint: demo
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "406f388a-2a63-48b2-9130-ead1b5c66605"
+    - ID: "aa4c201b-b59d-453e-9e64-0f63414c87e5"
+      Hint: newsletterBody
+      Value: Subscribe to our newsletter and get early access to new releases, special offers, and curated content. We only send what’s worth reading.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T195422Z
+    - ID: "e1422fd6-78c9-4e3d-8388-44a05308fe63"
+      Hint: newsletterHeading
+      Value: Subscribe to our newsletter

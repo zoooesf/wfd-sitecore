@@ -1,0 +1,44 @@
+﻿---
+ID: "d00f865f-7e66-427e-ad14-ff399894ea4f"
+Parent: "947dcfff-8157-4cc3-81e8-edaf518d11ab"
+Template: "7eff4219-56e8-4e00-85e5-8fa69ff511b4"
+Path: /sitecore/content/Sites/main/Data/Card Banners/Default Sample
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241216T180711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae42eece-b3bd-4944-9360-93c39d4fb7ff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "bfbb1f8c-0f06-4d81-ae1d-33d63f075859"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="4dac141e-554b-4578-b390-13badd6b135a" />
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Default Sample
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250612T231715Z

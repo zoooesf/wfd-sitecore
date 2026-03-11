@@ -1,0 +1,23 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Articles-ArticleBanner",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Articles/$ArticleBanner/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Articles/ArticleBanner",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Articles/$ArticleBanner/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Articles/ArticleBanner",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

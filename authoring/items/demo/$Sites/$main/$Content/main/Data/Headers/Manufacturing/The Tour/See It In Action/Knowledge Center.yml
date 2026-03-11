@@ -1,0 +1,35 @@
+﻿---
+ID: "254f27d2-9a48-47c3-9f3e-8d50871f0e72"
+Parent: "73563242-9cec-4c65-a3b5-59d80b67d1c2"
+Template: "ff620970-7f18-43d0-a140-d85756ab9f92"
+Path: /sitecore/content/Sites/main/Data/Headers/Manufacturing/The Tour/See It In Action/Knowledge Center
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251211T152536Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ad84df6-fa6c-4183-a7a3-8b89b20fc6cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Knowledge Center" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FF1999F6-4A8F-4B29-98BA-30507D477233}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251212T174539Z

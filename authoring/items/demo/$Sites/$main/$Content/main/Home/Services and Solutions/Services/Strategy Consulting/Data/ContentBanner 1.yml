@@ -1,0 +1,45 @@
+﻿---
+ID: "8f13d080-94f9-447c-875a-0f8b68ffa80e"
+Parent: "71b0f511-63b4-49e8-a809-11e075b08f97"
+Template: "481be0bd-e46e-45c7-b6f5-67baf48551b2"
+Path: /sitecore/content/Sites/main/Home/Services and Solutions/Services/Strategy Consulting/Data/ContentBanner 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T190832Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b1a76f8-bad2-4da8-bb69-645bbbf8546f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "bfbb1f8c-0f06-4d81-ae1d-33d63f075859"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Strategy Consulting: Charting Your Future Growth"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p><span class="notion-enable-hover" data-token-index="0"><strong>Strategy Consulting</strong></span> is essential for aligning your capabilities with market opportunities. We bring a data-driven approach and decades of expertise to your challenges.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T170549Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "2ad39c96-8ead-4db3-9b97-0f561a86b07f"
+Parent: "fe416437-1846-4fc3-a9ea-f58c7cca254c"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/Common/Containers/FullWidth/fullwidth
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "fullwidth-{*}"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {E78B588A-A213-411D-BFAE-DD607FFD2C8B}
+    {8C914279-4A11-4DE7-A6BC-EF0C9D9D253A}
+    {8CB91616-D630-4732-B520-4D3A0C4931E4}
+    {45D05C34-9EDF-48D5-9226-FF2C7BC3ABB4}
+    {A5968DB4-1D40-437E-9E9D-23733660F793}
+    {C152F7DC-6C01-4380-BABB-97C9F080CF00}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241211T213751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41aff017-d0f0-47fa-b424-8588d5aea615"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241216T160826Z

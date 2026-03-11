@@ -1,0 +1,40 @@
+﻿---
+ID: "039cf2bb-ea9f-4ff3-a0be-12cc795234a3"
+Parent: "e31673b2-bfc1-47dd-ae3b-abbc2f9dd693"
+Template: "e31673b2-bfc1-47dd-ae3b-abbc2f9dd693"
+Path: /sitecore/templates/Foundation/Common/Business/Business Profile/BusinessProfileFolder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {BB7ADDC1-3A17-4088-AA73-6E53E0177CA1}
+    {E31673B2-BFC1-47DD-AE3B-ABBC2F9DD693}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d6d67c2c-1b65-405a-bdf4-a2efafdd9c76"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T204101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a01909fd-77d5-49b5-b3af-4d1e0e254be6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T204133Z

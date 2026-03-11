@@ -1,0 +1,42 @@
+﻿---
+ID: "36cfe108-e5e2-40b5-8db2-13e74c3da115"
+Parent: "240c4f0e-2a55-49d1-b88b-a07662e180ec"
+Template: "1da6bf90-0437-449b-8c53-b854a3d934fe"
+Path: "/sitecore/content/Sites/main/Data/Tertiary Navs/TertiaryNav - AHA/Heart Attack and Stroke Symptoms"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "fe29aff0-a32c-4fa5-a76f-2d3062b2ec66"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241121T213049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5a1212a-1ecc-441f-8628-f20c2a5bc8cf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" id="{2323C2D8-8424-4DF9-86F4-5975A85F4E30}" querystring="" anchor="" target="" title="" linktype="internal" text="Heart Attack and Stroke Symptoms" url="/Sites/main/Home/Events" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133605Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "e0d1442a-74ea-4c27-be9b-a902b5d566f3"
+Parent: "355186da-b1f2-49f5-a0eb-411c5408c130"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/People Landing/Data/TabItem 1_var4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d9a8146-8643-4534-a688-fbbfb657edbf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: For Membership Portals
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Integrate Event Search Listing directly into member dashboards and portals using iframe embeds with pre-applied filters. Display "Recommended for You" sections by filtering events based on member profile data or previous attendance history. Create member tier-specific event views where premium members see exclusive content through filtered URLs, adding value to upgraded memberships.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T215940Z

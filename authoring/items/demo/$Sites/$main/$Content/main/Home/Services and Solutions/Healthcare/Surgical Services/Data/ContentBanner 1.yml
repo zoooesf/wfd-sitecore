@@ -1,0 +1,35 @@
+﻿---
+ID: "458e993b-1c6e-4470-9f08-99810e7aca94"
+Parent: "2eeb46b6-9f9d-4b94-aca5-e5ac8f1bc960"
+Template: "481be0bd-e46e-45c7-b6f5-67baf48551b2"
+Path: /sitecore/content/Sites/main/Home/Services and Solutions/Healthcare/Surgical Services/Data/ContentBanner 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T215130Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "506476ea-d0a0-452b-968f-4d7c4f9de4f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "bfbb1f8c-0f06-4d81-ae1d-33d63f075859"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="{7A4827D0-55C8-44DC-A4D9-D3D31DDE1046}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T184337Z

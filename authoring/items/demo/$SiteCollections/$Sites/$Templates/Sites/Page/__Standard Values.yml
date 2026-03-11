@@ -1,0 +1,40 @@
+﻿---
+ID: "3212fc4c-9d7c-4137-904c-5e1cb0b82a9a"
+Parent: "6bd1c89b-7cfd-41f8-92d3-8ec544962eca"
+Template: "6bd1c89b-7cfd-41f8-92d3-8ec544962eca"
+Path: /sitecore/templates/Project/Sites/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6BD1C89B-7CFD-41F8-92D3-8EC544962ECA}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T131343Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32ec6185-efbd-43ab-9d2c-be249ee11c24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241030T131349Z
+    - ID: "e36ab3eb-ad9b-4706-8f26-5c0a95cf5927"
+      Hint: Title
+      Value: $name

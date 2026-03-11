@@ -1,0 +1,35 @@
+﻿---
+ID: "9ca4553d-8bb4-4ee7-a3cf-cbe267c51d08"
+Parent: "932fb357-6dfa-4b2e-9f34-4e0b25f9a636"
+Template: "fa0f4003-17d3-48a7-8b05-f40de95830b6"
+Path: /sitecore/content/Sites/main/Data/Parts/Part 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1647db46-6bb8-4777-af6c-62f94814d48b"
+      Hint: partLeadTime
+      Value: 4 weeks
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251117T200614Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df6ea146-d4e3-4806-bb32-8e87324369bb"
+    - ID: "aa048ded-ccab-4894-9ad5-1f7a914c8c4f"
+      Hint: partNumber
+      Value: "X500-5K-400V"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: <span>Standard model, 400V AC </span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251117T200721Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Part 1

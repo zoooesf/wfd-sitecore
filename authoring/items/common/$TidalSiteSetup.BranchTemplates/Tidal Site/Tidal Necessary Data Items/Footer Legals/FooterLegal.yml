@@ -1,0 +1,46 @@
+﻿---
+ID: "d609a572-0f4f-4c93-afac-4700d278a542"
+Parent: "b2059172-a18f-48b5-a25f-08e427eaf43c"
+Template: "6cf28231-ab4b-46da-a3cd-6b737b738b43"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Footer Legals/FooterLegal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a5e92c7-c3f5-4d63-9532-fc866bd41ecd"
+      Hint: cookiePolicyLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Cookie Policy" url="/Sites/main/Home" />
+    - ID: "19ae9aad-fde8-40ac-a652-d8bbb0aea4d7"
+      Hint: privacyPolicyLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Privacy Policy" url="/Sites/main/Home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T132127Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb362409-13e4-48c7-98ba-2761c23e6475"
+    - ID: "92e101bb-01d4-40ea-bcc6-c1169c0f1aac"
+      Hint: tosLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Terms of Service" url="/Sites/main/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c364c6-fdc7-4d5b-80bb-041667fe76ed"
+      Hint: copyright
+      Value: Your Company Name
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133552Z

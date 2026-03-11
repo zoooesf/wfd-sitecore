@@ -1,0 +1,33 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Containers-FullWidth",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Containers/$FullWidth/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Containers/FullWidth",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Containers/$FullWidth/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Containers/FullWidth",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Containers/$FullWidth/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/Containers/FullWidth",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Containers/$FullWidth/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Containers/Containers Headless Site Setup/Add Full Widths Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

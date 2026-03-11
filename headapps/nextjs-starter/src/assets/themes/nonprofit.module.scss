@@ -1,0 +1,12 @@
+.vars {
+  /* Main Colors - Nonprofit Green Theme */
+  /* Converting reds to greens while maintaining brightness relationships */
+  
+  /* Primary: Convert from red (209 47 54) to neutral green */
+  /* Original: #CF222B -> New: #4A7C59 (muted, professional green) */
+  --next-primary: 74 124 89;
+  
+  /* Secondary: Convert from dark red (153 0 0) to neutral dark green */
+  /* Original: #990000 -> New: #2F4F3F (muted, professional dark green) */
+  --next-secondary: 47 79 63;
+}

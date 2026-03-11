@@ -1,0 +1,96 @@
+﻿---
+ID: "3c219086-c972-4522-a997-4790df5944b1"
+Parent: "ca05b187-fa4a-43a2-945e-5d665ce13b82"
+Template: "bb7addc1-3a17-4088-aa73-6e53e0177ca1"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Business Profiles/Stampede Solutions
+SharedFields:
+- ID: "34fb2379-2954-47a6-9d91-779c49de0983"
+  Hint: lat
+  Value: 51.0454
+- ID: "78126368-682d-4190-9fff-a7f904a509d0"
+  Hint: long
+  Value: "-114.0632"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a58d20a8-ee5d-43ba-8ac8-22e3066d7e62"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: calgary@stampedesolutions.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T163102Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(403) 555-9876"
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 123 8 Ave SW, Calgary, AB T2P 1B5
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b240f33-5ed4-4a0b-8d31-33482b473abb"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="stampedesolutions.com" linktype="external" url="https://www.stampedesolutions.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T163252Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Stampede Solutions
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: "Monday-Friday:8am-5pm"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: calgary@stampedesolutions.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T163301Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(403) 555-9876"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 123 8 Ave SW, Calgary, AB T2P 1B5
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50353ed5-3a96-4729-b481-d499ed40f8cf"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="stampedesolutions.com" linktype="external" url="https://www.stampedesolutions.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T163413Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Stampede Solutions
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: "Monday-Friday:8am-5pm"

@@ -1,0 +1,45 @@
+﻿---
+ID: "06619968-0d5e-4402-9f03-78de7759345f"
+Parent: "4e41389b-4041-4302-b3e4-4ac5bf1fab3d"
+Template: "e61a1436-8633-4b68-9921-9db4f30cd33a"
+Path: /sitecore/content/Sites/main/Home/Services and Solutions/Customers/Emergency Preparedness/Data/IconFeatureCard 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T055136Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1f98b82-69b4-4c28-b0e2-c7aa1cd48fb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Restoration Tracker
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>View real-time status of service repairs in your area.</p></div>
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="b132d115-7893-49aa-a06f-f1719a8704e3" anchor="" querystring="" target="" class="" text="View Map*" title=""/>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T060338Z

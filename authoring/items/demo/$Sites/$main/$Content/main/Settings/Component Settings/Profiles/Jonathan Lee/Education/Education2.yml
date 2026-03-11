@@ -1,0 +1,34 @@
+﻿---
+ID: "19cbe3ac-bc78-4cf6-9974-60e1570c8ece"
+Parent: "5d8ef54a-14b1-4e4b-ab54-bc6939e6ee18"
+Template: "cc642aa1-f099-4eb6-9c2b-7cf80092a243"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Jonathan Lee/Education/Education2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T154228Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "474d9979-5a63-4a77-9421-0b886d096872"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: M.A. in English Literature from Georgetown University.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T154234Z

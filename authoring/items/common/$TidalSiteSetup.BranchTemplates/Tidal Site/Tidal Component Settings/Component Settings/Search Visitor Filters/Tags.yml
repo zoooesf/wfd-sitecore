@@ -1,0 +1,41 @@
+﻿---
+ID: "b86d6160-21ca-4852-b963-7fea1596ab3d"
+Parent: "b930a777-745b-4b06-9624-c15d848926b9"
+Template: "89572a31-eb4a-4225-a787-6e3a1c2567a7"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Component Settings/Component Settings/Search Visitor Filters/Tags
+SharedFields:
+- ID: "92dd23b5-56a0-499d-b325-55dc906e9afe"
+  Hint: searchAttribute
+  Value: m_keywords
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0daa7f0a-7f89-4b89-949f-871a6e67f102"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb44a8a-7a5f-4da1-b01f-bc29068322d6"
+      Hint: label
+      Value: Tags
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250819T230157Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63a4c361-cb58-4f3c-a9e4-d32006a41846"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250819T231115Z

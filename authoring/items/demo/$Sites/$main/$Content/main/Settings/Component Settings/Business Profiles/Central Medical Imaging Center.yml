@@ -1,0 +1,60 @@
+﻿---
+ID: "fdea6026-e9cd-4f10-8ad2-c7a91094ecf4"
+Parent: "ca05b187-fa4a-43a2-945e-5d665ce13b82"
+Template: "bb7addc1-3a17-4088-aa73-6e53e0177ca1"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Business Profiles/Central Medical Imaging Center
+SharedFields:
+- ID: "34fb2379-2954-47a6-9d91-779c49de0983"
+  Hint: lat
+  Value: 32.7767
+- ID: "78126368-682d-4190-9fff-a7f904a509d0"
+  Hint: long
+  Value: "-96.7970"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4ab3745b-8bd9-4518-ad9a-0c8da6353f65"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: referral@cmicdallas.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T020910Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(214) 555-7003"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 100 Main St, Dallas, TX 75202, USA
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85442906-ee1b-47fc-b6f7-023c5605cda9"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="www.cmicdallas.com" linktype="external" url="http://www.cmicdallas.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T020941Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Central Medical Imaging Center
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: "Mon-Sat: 7:00 AM - 9:00 PM"

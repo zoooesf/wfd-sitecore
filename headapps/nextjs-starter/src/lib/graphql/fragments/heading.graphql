@@ -1,0 +1,5 @@
+fragment HeadingFieldFragment on _Heading {
+  heading {
+    jsonValue
+  }
+}

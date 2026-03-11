@@ -1,0 +1,62 @@
+﻿---
+ID: "b7e89a2a-ca26-40ad-b364-be082cf47b82"
+Parent: "cdefdb9c-6bde-4d69-9ff7-f40c4f028ff5"
+Template: "cdefdb9c-6bde-4d69-9ff7-f40c4f028ff5"
+Path: /sitecore/templates/Project/Common/Pages/Common News Page/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1314da84-0a1a-4443-a232-be7e03d581b0"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          ds="{0FFAE310-14BF-45B3-BE6B-83355725987D}"
+          id="{3FB16CCE-B455-4A98-8610-A025E9F96C6C}"
+          par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          ph="headless-main"
+          uid="{1D9C2F46-1B25-4507-92CF-EE6C3722D516}" />
+        <r
+          ds="{48A4027E-4925-4D1E-BA99-CA9E42A53E84}"
+          id="{231F637C-0461-4BC6-A18A-683E039A884C}"
+          par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          ph="headless-main"
+          uid="{D833E4BD-8439-4641-85F8-E8CBD9204817}" />
+        <r
+          ds="{7E7C11C4-E8BD-40DA-AE9E-61BDA63276AD}"
+          id="{07B66E75-E473-4F15-8880-509E6A6FF54C}"
+          par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          ph="headless-main"
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250825T164717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a14fea87-f015-4230-9343-8cc4433294bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251027T182825Z

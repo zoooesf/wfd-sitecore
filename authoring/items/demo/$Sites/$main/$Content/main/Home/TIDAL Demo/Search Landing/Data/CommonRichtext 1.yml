@@ -1,0 +1,38 @@
+﻿---
+ID: "21ff4bfc-ee78-4f66-a89c-972d149bce44"
+Parent: "ee447e33-05db-4251-9d91-7722ecb7ae1a"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Search Landing/Data/CommonRichtext 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251211T211840Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ddd6aae-d205-42b2-8d12-40bb77569101"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>The Unified Search Listing is your command center for organizational knowledge. We have consolidated disparate content repositories into a single, lightning-fast search experience. By indexing diverse content types—including News, Events, Articles, and Author profiles—our system ensures you no longer need to navigate multiple silos. The intelligent platform uses content-specific metadata and deep linking to deliver precise, categorized results, making information retrieval efficient and highly productive.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T211858Z

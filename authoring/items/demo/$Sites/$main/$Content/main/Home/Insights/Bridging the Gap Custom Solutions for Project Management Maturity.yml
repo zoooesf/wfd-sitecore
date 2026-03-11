@@ -1,0 +1,129 @@
+﻿---
+ID: "0aa9943e-a83a-4453-81c1-57e797790f85"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Bridging the Gap Custom Solutions for Project Management Maturity
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {D9518380-54CC-40B4-BDB1-30BA616F9DB4}
+    {3AE499E3-1E19-4150-9831-76E5C10BBE30}
+    {CD7E8CB2-4DF0-42F1-B30E-094D39B55E68}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {51958C7A-2629-4C41-88B3-1317A08263F5}
+    {8544A62E-1ECF-4B1E-8B7D-A58991250FC8}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A14A22C1-AAE2-40F9-A936-E3B389F62F79}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c2f349e4-395b-46b9-ab64-ab9f73ba78c3"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{5A5B0011-81E1-46CE-8DAF-5FA4F56D5448}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{6A0B9814-D0D3-484E-8305-ED1BDF835C60}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{4D519105-082C-4B81-A904-C46C4D71F390}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T221544Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bridging the Gap Custom Solutions for Project Management Maturity
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{4D519105-082C-4B81-A904-C46C4D71F390}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c12fb11d-ed5d-4c25-8ea0-9e3c83067e86"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240501T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Bridging the Gap: Custom Solutions for Project Management Maturity"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: "Moving beyond one-size-fits-all frameworks to deliver tailored strategies that enhance organizational Project Management capabilities."
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p>In many complex industries, the challenge isn't the lack of a <strong>Project Management</strong> framework, but the gap between the theoretical framework and its practical, consistent application across different teams and projects. <strong>Custom Solutions</strong> consulting is becoming essential to bridge this maturity gap, moving organizations from ad-hoc execution to predictable, high-performance delivery.</p>
+        <p>The most common hurdle is applying a standard methodology (like Waterfall or Agile) to diverse projects&mdash;from an IT implementation to a large-scale manufacturing overhaul. A custom approach tailors the governance, reporting structure, and risk tolerance to the specific organizational culture and strategic objectives.</p>
+        <h3><strong>Project Management Maturity Stages and Tailored Interventions</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Maturity Stage</th>
+                    <th>Characteristics</th>
+                    <th>Required Custom Solution Intervention</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>Level 1: Ad-Hoc</strong></td>
+                    <td style="text-align: left;">Processes are disorganized and reactive; highly dependent on individual heroes.</td>
+                    <td style="text-align: left;"><strong>Initial Assessment &amp; Framework Development</strong> (defining basic roles, templates, and reporting).</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Level 3: Defined</strong></td>
+                    <td style="text-align: left;">Standard methodologies exist but are inconsistently applied; training is general.</td>
+                    <td style="text-align: left;"><strong>Process Optimization</strong> &amp; <strong>Training &amp; Development</strong> (tailored training on specific tools, and change management).</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Level 5: Optimized</strong></td>
+                    <td style="text-align: left;">Continuous improvement culture; high success rates; predictable outcomes.</td>
+                    <td style="text-align: left;"><strong>Quality Assurance</strong> Audits &amp; Advanced Analytics (focus on predictive modeling and process tuning).</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>The delivery of a custom solution often involves a dedicated consulting team performing a deep <strong>Business Analysis</strong> of past project performance to identify specific failure points. For instance, a common finding is that project managers spend too much time on manual reporting instead of proactive risk identification.</p>
+        <blockquote>
+        <p>"True project management maturity is not about adopting the latest software; it's about embedding a repeatable, disciplined process that is flexible enough to handle the 80/20 rule&mdash;80% standard, 20% customized for unique project needs."</p>
+        </blockquote>
+        <p>By focusing on a tailored integration of people, process, and tools, organizations can achieve measurable gains: reduced project overruns, increased stakeholder satisfaction, and a clearer pipeline of strategic deliverables.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T153102Z

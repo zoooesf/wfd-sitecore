@@ -1,0 +1,42 @@
+﻿---
+ID: "6561bdfe-bb81-494d-b1be-77cc7c6d39b7"
+Parent: "1ed93979-8d3c-435a-b30c-1684023471a4"
+Template: "92b1576c-9c14-4063-b80e-6f62f49bccab"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Sponsors/Sitecore
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250812T190600Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{1207CFBF-A252-4B4F-83D0-DA5014263BE2}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cea955d7-23a1-4a46-88c3-ad7793261276"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="external" url="https://www.sitecore.com/" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251001T154709Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Sitecore

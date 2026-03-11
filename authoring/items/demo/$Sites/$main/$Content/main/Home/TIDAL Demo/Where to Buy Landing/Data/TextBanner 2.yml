@@ -1,0 +1,41 @@
+﻿---
+ID: "4846fc47-c2ce-46a5-adef-ed859db72560"
+Parent: "e5586d7d-e79c-4bdf-b345-8e2dd637384d"
+Template: "592f504d-7041-43a7-a38a-9c6dc755bc3f"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Where to Buy Landing/Data/TextBanner 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T162004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04b019a3-f53a-4c64-a7b4-e4ac9bf4fc26"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Don't Lose Customers at the Critical Moment
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>73% of consumers research online before buying in-store, but fragmented buying experiences cause drop-offs. When customers can't easily find where to purchase your products, they turn to competitors. Where to Buy bridges the gap between product interest and actual purchase by providing accurate, real-time availability information across all your retail channels.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T164953Z

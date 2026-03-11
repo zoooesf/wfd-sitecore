@@ -1,0 +1,13 @@
+query GetTertiaryNavigation($datasourcePath: String!, $language: String!, $templateId: String!) {
+  item(path: $datasourcePath, language: $language) {
+    links: children(includeTemplateIDs: [$templateId]) {
+      results {
+        ... on HeaderChild {
+          link {
+            ...LinkFieldFragment
+          }
+        }
+      }
+    }
+  }
+}

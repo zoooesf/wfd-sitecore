@@ -1,0 +1,210 @@
+﻿---
+ID: "15bfb2d9-9d84-4ff5-9886-49faa409005a"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/December Townhall 2025
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{23468B66-C720-4C15-B463-703566F0550D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C83047F1-9F6E-4E47-95D9-A80EA21FB9F4}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ef3d2021-6ab6-4bce-9a7b-3cf7acc948bf"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{76C73184-97A0-4559-8071-F1479A64AD81}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {870A22B6-10C3-48DE-80CA-C1B65D6C5DCC}
+    {FEBABBDA-3F17-40CC-B2BE-904202DB8EE3}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{4830664E-10BE-40E7-A50D-8FC1E1801494}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {6561BDFE-BB81-494D-B1BE-77CC7C6D39B7}
+        {9D7C3FDD-2A0A-4737-A2FC-1FF5404B0BA1}
+        {9FE914F6-32D9-4844-8CF8-695A1D811C52}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20251215T130000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241118T151249Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New Year
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "780fd510-12f3-4330-86df-1570a6989efb"
+      Hint: eventLinkTitle
+      Value: "Register the event!"
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "12:00 PM MST"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251130T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20251215T140000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1746fc64-4a44-4ced-ac43-fc0769f45645"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251130T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: December Townhall 2025
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod, urna eget
+        feugiat gravida, nibh ipsum volutpat augue, ut volutpat sapien arcu a justo. 
+        </p>
+        
+    - ID: "d2ba9aca-6440-4135-a175-542349732b3a"
+      Hint: eventLink
+      Value: |
+        <link text="Event" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+          <h2>Overview</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod, urna eget
+            feugiat gravida, nibh ipsum volutpat augue, ut volutpat sapien arcu a justo. Curabitur
+            non nibh vitae orci tincidunt sollicitudin. Praesent nec turpis id sapien semper
+            mollis. Aenean ultricies, risus vitae pulvinar laoreet, magna erat convallis augue,
+            vitae cursus erat tortor vitae est.
+          </p>
+          <p>
+            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+            Sed sit amet justo et eros interdum faucibus. Suspendisse potenti. Phasellus id augue
+            non arcu tincidunt dictum. Donec facilisis, metus at efficitur gravida, tortor libero
+            fermentum lorem, vitae feugiat enim neque in magna.
+          </p>
+        
+          <h2>Event Details</h2>
+          <p><strong>Time:</strong> 10:00 AM — 12:00 PM</p>
+          <p><strong>Location:</strong> Auditorium &amp; Live Stream</p>
+          <p><strong>Host:</strong> Leadership Team</p>
+          <p><strong>RSVP:</strong> <a href="#">Click here to RSVP</a></p>
+        
+          <h2>Agenda</h2>
+          <ul>
+            <li>
+              <strong>10:00 — 10:10</strong> Welcome &amp; Opening Remarks  
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </li>
+            <li>
+              <strong>10:10 — 10:30</strong> Company Highlights  
+              <p>Donec porttitor, nisl non dictum hendrerit, arcu neque posuere elit.</p>
+            </li>
+            <li>
+              <strong>10:30 — 10:50</strong> Product Roadmap  
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </li>
+            <li>
+              <strong>10:50 — 11:10</strong> People &amp; Culture Update  
+              <p>Fusce fermentum, arcu sit amet fringilla dictum, leo odio dictum urna.</p>
+            </li>
+            <li>
+              <strong>11:10 — 11:30</strong> Q&amp;A  
+              <p>Aliquam erat volutpat. Vestibulum id risus sed metus blandit sodales.</p>
+            </li>
+            <li>
+              <strong>11:30 — 12:00</strong> Closing &amp; Next Steps  
+              <p>Morbi a nibh eget tortor facilisis fermentum.</p>
+            </li>
+          </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204734Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "c311c6f3-4808-4874-8bfa-7a91f8659683"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Mairie de décembre 2025
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: "{6561BDFE-BB81-494D-B1BE-77CC7C6D39B7}"
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20251215T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T163318Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "12:00 MST"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250814T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20251215T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00d299be-d9f3-4433-9d64-b13b4d8fb1fc"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250814T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Mairie de décembre 2025
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250908T214729Z

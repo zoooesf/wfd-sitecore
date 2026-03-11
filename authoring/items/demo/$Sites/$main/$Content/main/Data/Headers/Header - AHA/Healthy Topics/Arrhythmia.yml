@@ -1,0 +1,35 @@
+﻿---
+ID: "57a81e1f-326a-460a-abfc-c2f14b3f28de"
+Parent: "7c14e405-43c9-4a0f-b890-d468300c5c6b"
+Template: "ff620970-7f18-43d0-a140-d85756ab9f92"
+Path: "/sitecore/content/Sites/main/Data/Headers/Header - AHA/Healthy Topics/Arrhythmia"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241205T173807Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6caa8ab2-8d4a-4173-82a3-1bf993714a14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" id="{2323C2D8-8424-4DF9-86F4-5975A85F4E30}" querystring="" anchor="" target="" title="" linktype="internal" text="Arrhythmia" url="/Sites/main/Home/Events" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133605Z

@@ -1,0 +1,117 @@
+﻿---
+ID: "831255f8-5eb4-4740-b7be-162b160a1190"
+Parent: "3d0abd5f-73e5-47b7-8e03-b4f878441620"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/JSS SXA/Tidal Site/Functions/Replace Tidal Placeholder Settings
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    function Invoke-ModuleScriptBody {
+        [CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0)]
+            [Item]$Site,
+    
+            [Parameter(Mandatory = $true, Position = 1)]
+            [Item[]]$TenantTemplates
+        )
+    
+        begin {
+            Write-Verbose "Invoke-ModuleScriptBody - Begin"
+        }
+    
+        process {
+            $sitePath = $Site.Paths.Path
+            Write-Verbose "Target site: $sitePath"
+    
+            # Paths
+            $branchPath = "/sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Placeholder Settings"
+            $branch = Get-Item -Path $branchPath
+    
+            if (-not $branch) {
+                Write-Warning "Branch template not found at $branchPath"
+                return
+            }
+    
+            $branchChild = Get-ChildItem -Path $branch.Paths.Path | Where-Object { $_.Name -eq "Partial Design" }
+            if (-not $branchChild) {
+                Write-Warning "Branch template does not contain 'Partial Design'"
+                return
+            }
+    
+            # Destination: site’s Placeholder Settings folder
+            $phSettingsPath = "$sitePath/Presentation/Placeholder Settings"
+            $phSettings = Get-Item -Path $phSettingsPath -ErrorAction SilentlyContinue
+            if (-not $phSettings) {
+                Write-Warning "Placeholder Settings folder not found at $phSettingsPath"
+                return
+            }
+    
+            # Find existing site Partial Design
+            $targetPartialDesign = Get-ChildItem -Path $phSettings.Paths.Path | Where-Object { $_.Name -eq "Partial Design" }
+            $tempItem = $null
+            $tempName = $null
+    
+            if ($targetPartialDesign) {
+                $tempName = "Partial Design_BACKUP_" + [guid]::NewGuid().ToString("N")
+                Write-Verbose "Renaming existing 'Partial Design' to $tempName"
+                Rename-Item -Path $targetPartialDesign.Paths.Path -NewName $tempName
+                $tempItem = Get-ChildItem -Path $phSettings.Paths.Path | Where-Object { $_.Name -eq $tempName }
+            }
+    
+            # Copy new Partial Design from branch
+            Write-Verbose "Copying branch 'Partial Design' into site Placeholder Settings"
+            Copy-Item -Path $branchChild.Paths.Path -Destination $phSettings.Paths.Path -Recurse
+    
+            # Validate copy worked
+            $newPartial = Get-ChildItem -Path $phSettings.Paths.Path | Where-Object { $_.Name -eq "Partial Design" }
+            if ($newPartial) {
+                Write-Verbose "New 'Partial Design' copied successfully"
+                if ($tempItem) {
+                    Write-Verbose "Removing old backup Partial Design"
+                    Remove-Item -Path $tempItem.Paths.Path -Recurse -Force
+                }
+            }
+            else {
+                Write-Warning "New 'Partial Design' did not copy correctly. Restoring backup..."
+                if ($tempItem -and $tempName) {
+                    Rename-Item -Path $tempItem.Paths.Path -NewName "Partial Design"
+                    Write-Verbose "Backup restored as 'Partial Design'"
+                }
+            }
+        }
+    
+        end {
+            Write-Verbose "Invoke-ModuleScriptBody - End"
+        }
+    }
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b30c4ec6-1477-4818-b101-328e0b584a02"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T194223Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec5ce6c7-82b0-4738-8ef5-a56f29c08a5b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T194543Z

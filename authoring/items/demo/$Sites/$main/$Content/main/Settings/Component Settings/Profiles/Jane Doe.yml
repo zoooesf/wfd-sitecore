@@ -1,0 +1,101 @@
+﻿---
+ID: "899df5ba-801b-4601-9bef-088a7d46ef3b"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Jane Doe
+SharedFields:
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Jane
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "436d68a9-cdfc-48bd-a6d4-75c2f47b1dcd"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Doe
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{215081DA-0A6B-4EBE-9CE9-3C59B01E4683}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Designer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241114T192525Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "587-555-1234"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e7f5457-e675-46ac-84ac-709dcd92bda0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <span style="color: #000000;">Jane Doe is a designer and travel enthusiast, blending creativity with exploration. Her work captures the beauty of diverse cultures and landscapes, inspiring others to see the world differently.&nbsp;</span>Through her journeys, she finds endless inspiration, bringing a fresh perspective to every project she undertakes.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251222T201742Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Designer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T185018Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61bc676f-7312-48c2-acfc-80559b23834d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Jane Doe est une créatrice passionnée de voyages, alliant créativité et exploration. Son travail capture la beauté de cultures et de paysages variés, inspirant ainsi les autres à voir le monde différemment. Ses voyages lui apportent une inspiration inépuisable, apportant un regard neuf à chacun de ses projets.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251222T201824Z

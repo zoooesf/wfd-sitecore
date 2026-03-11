@@ -1,0 +1,38 @@
+﻿---
+ID: "463a7e11-3317-4dd0-b347-37cfffa61775"
+Parent: "7ff7bbb2-c772-44d2-bec6-5f7205c5f9a2"
+Template: "8ee1438c-df21-46c8-8f4e-e02793e54167"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Insights Landing/Data/AccordionDrawer 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185700Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "077af9f0-3c70-48e4-b915-430161bebb02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Can I combine multiple filters at once?"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Yes! Our deep linking system supports multiple query parameters simultaneously. You can combine event types, date ranges, and topics in a single URL. For example, "#type=webinar&amp;topic=leadership&amp;month=june" would show only leadership webinars happening in June. This creates highly targeted entry points for specific audience segments and specialized campaigns.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T215800Z

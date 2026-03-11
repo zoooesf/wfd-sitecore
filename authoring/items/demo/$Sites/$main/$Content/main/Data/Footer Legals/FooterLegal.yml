@@ -1,0 +1,92 @@
+﻿---
+ID: "77625470-60c4-4906-a9e1-ceefb68b1629"
+Parent: "beb62add-4b21-4513-827d-24fd79b712fa"
+Template: "6cf28231-ab4b-46da-a3cd-6b737b738b43"
+Path: /sitecore/content/Sites/main/Data/Footer Legals/FooterLegal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0a5e92c7-c3f5-4d63-9532-fc866bd41ecd"
+      Hint: cookiePolicyLink
+      Value: |
+        <link text="Cookie Policy" anchor="" linktype="internal" class="" title=""  querystring="" id="{FF3886F8-24C4-4A66-A73C-9A65FF2391D4}" />
+    - ID: "19ae9aad-fde8-40ac-a652-d8bbb0aea4d7"
+      Hint: privacyPolicyLink
+      Value: |
+        <link text="Privacy Policy" anchor="" linktype="internal" class="" title=""  querystring="" id="{7FD7C0AE-9573-4703-A2AE-9DC6F2369A63}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T132127Z
+    - ID: "3962ec3d-78f2-4f30-bd11-7071db97be8e"
+      Hint: landAcknowledgement
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15a79bec-b667-4872-8b85-beab1282c445"
+    - ID: "92e101bb-01d4-40ea-bcc6-c1169c0f1aac"
+      Hint: tosLink
+      Value: |
+        <link text="Terms of Service" anchor="" linktype="internal" class="" title=""  querystring="" id="{E4769315-5D71-4975-947C-A5AFFF4FF4E1}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c3c364c6-fdc7-4d5b-80bb-041667fe76ed"
+      Hint: copyright
+      Value: All rights reserved
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251024T201514Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a5e92c7-c3f5-4d63-9532-fc866bd41ecd"
+      Hint: cookiePolicyLink
+      Value: |
+        <link text="Politique d'utilisation des témoins" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "19ae9aad-fde8-40ac-a652-d8bbb0aea4d7"
+      Hint: privacyPolicyLink
+      Value: |
+        <link text="Politique de confidentialité" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T195907Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3138fcc6-64e4-4342-b022-29e33782e198"
+    - ID: "92e101bb-01d4-40ea-bcc6-c1169c0f1aac"
+      Hint: tosLink
+      Value: |
+        <link text="Conditions de service" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c364c6-fdc7-4d5b-80bb-041667fe76ed"
+      Hint: copyright
+      Value: Tous droits réservés
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T200118Z

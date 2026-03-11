@@ -1,0 +1,43 @@
+﻿---
+ID: "879964a6-c621-483f-8623-db11e03f8fbd"
+Parent: "39b2dad4-0862-4d80-85d5-ac75d4685df1"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Sites/main/Presentation/Available Renderings/Banners
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {C03D8136-D9F7-498C-B6DC-A0DB7EF4AA91}
+    {5E9D7B60-F61B-407B-B04B-2EEBA60B0EC0}
+    {F22C31F6-9A23-406B-8285-4391A49926F7}
+    {E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}
+    {77685258-DCA2-4A26-90AB-1844F73548F7}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7361cc15-2dd4-4ed8-9ccb-70ac6fedeee2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241107T162759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8be3cbe-016b-487f-a411-7b6ad6fafecf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250529T152720Z

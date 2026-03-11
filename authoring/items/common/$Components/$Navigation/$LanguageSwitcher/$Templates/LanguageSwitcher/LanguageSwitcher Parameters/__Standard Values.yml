@@ -1,0 +1,34 @@
+﻿---
+ID: "15988c67-cac9-4000-a819-156321aa5622"
+Parent: "b427c5a2-aac5-467e-93b5-af0cb74f55b8"
+Template: "b427c5a2-aac5-467e-93b5-af0cb74f55b8"
+Path: /sitecore/templates/Feature/Common/Navigation/LanguageSwitcher/LanguageSwitcher Parameters/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "eefc5f51-5764-41c7-9da1-3c17824356d7"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f181f04-73ab-4435-bd19-f3328874a345"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250617T152836Z

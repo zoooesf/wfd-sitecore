@@ -1,0 +1,34 @@
+﻿---
+ID: "c6e77f55-2a1f-4df5-83ef-bba405c4cd03"
+Parent: "9023bcc5-ea22-4874-8e1b-d3890f0f93c1"
+Template: "cc642aa1-f099-4eb6-9c2b-7cf80092a243"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Maria Gonzalez/Education/Education1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T173438Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e64c30d6-8150-4b76-8f1c-55214625d45a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Medical degree from UCLA and a Master's in Public Health from Johns Hopkins University.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T173446Z

@@ -1,0 +1,148 @@
+﻿---
+ID: "28478e63-7e1a-4999-a32e-3cd11925f9d8"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Emergency Preparedness and Public Safety Summit
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {827D1007-4C86-49FB-B6B8-873BFABC9DD0}
+    {9DCC5736-4419-46B6-AEF2-B4F4FCF7FDBF}
+    {0E3FA551-F9DB-4A5A-A139-D43370DF8132}
+    {91D274C3-5803-44C4-8F6A-63B817FF57A4}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F424C60D-1B99-44B0-957B-0F7048968042}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "55cf2366-9f0e-4233-b71c-1a7ca42d3420"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{D6608D89-1823-4B60-99FC-16FB7E9B4D61}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {1A9DA7DB-CF28-4334-8229-64EEF7416E12}
+    {EFA68045-6826-42FC-B40F-EDA8C61A6062}
+    {0281D04A-9FDA-4586-B6D4-DBD82CCF6F1E}
+    {19C736D2-EEAB-4BCE-A08D-2EFE4C191586}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{5DE87B57-2A66-4BAE-B8E3-1A3B60EE7E94}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {460274F7-EE12-4F94-A06C-4B1F56244522}
+        {892B089C-330C-4506-8231-3F9E902B8748}
+        {8E69F72D-F511-4AF8-97A5-44F8A3454669}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260408T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T225307Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Emergency Preparedness and Public Safety Summit
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:00am-5:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260409T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ded78354-4bd3-41f1-983b-fc8eecb633e0"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Emergency Preparedness and Public Safety Summit
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Coordinated Response for Community Resilience</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This critical summit brings together emergency management professionals, public safety officials, utility providers, and community organizations to enhance coordinated emergency response capabilities. Participants will explore best practices for disaster preparedness, inter-agency coordination, public communication strategies, and infrastructure protection during emergency situations.</p>
+        <h2>What to Expect</h2>
+        <p>A two-day summit featuring an opening keynote by <strong>Rachel Thompson</strong> on "Building Resilient Communities", a panel on <strong>Utility Infrastructure Emergency Response</strong> with <strong>Linda Nguyen</strong>, a <strong>Tabletop Exercise</strong> for a multi-agency response, and a session on <strong>Safety Guidelines</strong> by <strong>Michael Torres</strong>.</p>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - April 8</strong></p>
+        <ul>
+            <li>8:00am - Registration &amp; Coffee</li>
+            <li>9:00am - Opening Keynote: "Building Resilient Communities" by Rachel Thompson</li>
+            <li>10:30am - Panel: Utility Infrastructure Emergency Response by Linda Nguyen</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Workshop: Emergency Communication Protocols</li>
+            <li>3:30pm - Tabletop Exercise: Multi-Agency Response Scenario</li>
+            <li>5:00pm - Day 1 Conclusion</li>
+        </ul>
+        <p><strong>Day 2 - April 9</strong></p>
+        <ul>
+            <li>8:00am - Breakfast</li>
+            <li>9:00am - Community Outreach and Public Education by Angela Davis</li>
+            <li>10:30am - Technology Solutions for Emergency Management</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Safety Guidelines and Compliance by Michael Torres</li>
+            <li>3:00pm - Resource Sharing and Mutual Aid Agreements</li>
+            <li>4:30pm - Closing Remarks</li>
+        </ul>
+        <h2>Who Should Attend</h2>
+        <ul>
+            <li>Emergency Management Professionals</li>
+            <li>Public Safety Officials</li>
+            <li>Utility Providers and Community Organizations</li>
+            <li>Individuals focused on Emergency Preparedness, Public Safety, and Community Outreach</li>
+        </ul>
+        <h2>Industry Testimonials</h2>
+        <blockquote>
+        <p>"The tabletop exercise was an incredibly realistic stress-test of our current communication protocols. We left with a clear list of inter-agency gaps to address immediately." &mdash; <em>Captain Leo Vance, Public Safety Coordinator, Metro Fire Department</em></p>
+        </blockquote>
+        <blockquote>
+        <p>"The session on utility infrastructure protection was vital for our team. It provided the latest best practices for securing and rapidly restoring power during major incidents." &mdash; <em>Linda Nguyen, Crisis Management Lead, Regional Power Co.</em></p>
+        </blockquote>
+        <h2>Location Details</h2>
+        <p><strong>Denver Emergency Operations Center</strong></p>
+        <p>2000 W 1st Ave<br />
+        Denver, CO <br />
+        80223</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204735Z

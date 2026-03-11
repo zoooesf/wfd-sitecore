@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-feature-KnowledgeCenter",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Features/$KnowledgeCenter/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Knowledge Center/Knowledge Center Headless Site Setup/Add Knowledge Center Resource Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

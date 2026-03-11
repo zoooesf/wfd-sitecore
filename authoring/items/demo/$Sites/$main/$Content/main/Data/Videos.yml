@@ -1,0 +1,23 @@
+﻿---
+ID: "e4ff4c23-ec93-4013-bf5d-7d41467cbe39"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "c6256d09-f10a-4b69-8c48-10be4a7073b3"
+Path: /sitecore/content/Sites/main/Data/Videos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241213T234750Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16cb5498-bbfe-4741-a947-9045f6b66d46"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T175006Z

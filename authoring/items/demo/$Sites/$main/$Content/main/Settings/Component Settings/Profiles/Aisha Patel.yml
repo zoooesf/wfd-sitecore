@@ -1,0 +1,98 @@
+﻿---
+ID: "3bc6ec1d-dba6-441a-a23e-903bfdd77f34"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Aisha Patel
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {509AA833-DF3D-4D4B-8EA6-97F56156E7CA}
+    {2F2E5EE1-CF02-4CF6-A3D5-DA3A9E0A447F}
+    {84BE1033-4AF5-4858-BACE-47758B9D2FE4}
+    {03A33E11-7C8E-4650-9922-5C911926A823}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{00EB4F82-C69C-4D76-A119-F18776F4986F}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Aisha
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6de384d8-926e-45ec-97ad-99f4629deb4d"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Patel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: aisha.patel@uamericas.edu
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{6FDEA829-C492-4917-9AD4-504FB0480766}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Dean of Academic Affairs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T172916Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(512) 555-0923"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{6FDEA829-C492-4917-9AD4-504FB0480766}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: University of the Americas
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b372c858-8f14-40ff-82c5-9fcbceb8819f"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Dr. Aisha Patel is an accomplished academic administrator with 16 years of experience in higher education leadership. As Dean of Academic Affairs at University of the Americas, she oversees curriculum development, faculty development, and academic program assessment for over 15,000 students. Her innovative approach to education has led to the development of interdisciplinary programs that bridge traditional academic boundaries and prepare students for the evolving workforce.</p>
+        <p>Dr. Patel earned her Ph.D. in Educational Leadership from Stanford University and has published extensively on pedagogy, student retention, and inclusive education practices. She has championed initiatives that have increased graduation rates by 18% and improved first-generation student success. Passionate about educational equity, Dr. Patel has established partnerships with community colleges to create seamless transfer pathways and has been recognized with the National Academic Leadership Award.</p>
+        <!--
+        <h2>Experience</h2>
+        <p>Dr. Patel has <strong>16 years of experience</strong> in higher education leadership, overseeing curriculum development, faculty development, and academic program assessment for over <strong>15,000 students</strong>.</p>
+        <h2>Achievement</h2>
+        <p>Her innovative approach led to the development of interdisciplinary programs. She championed initiatives that have increased <strong>graduation rates by 18%</strong> and improved first-generation student success.</p>
+        <h2>Professional Involvement</h2>
+        <p>She has <strong>published extensively</strong> on pedagogy, student retention, and inclusive education practices.</p>
+        <h2>Community Involvement</h2>
+        <p>Dr. Patel is passionate about <strong>educational equity</strong>. She established partnerships <strong>with community colleges</strong> to create seamless transfer pathways.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Recognized with the <strong>National Academic Leadership Award</strong>.</p>
+        <h2>Education</h2>
+        <p>Ph.D. in <strong>Educational Leadership</strong> from <strong>Stanford University</strong>.</p>
+        -->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T195949Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

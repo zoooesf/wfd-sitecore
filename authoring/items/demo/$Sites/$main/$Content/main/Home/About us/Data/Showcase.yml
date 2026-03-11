@@ -1,0 +1,37 @@
+﻿---
+ID: "92d86d67-390b-46e9-abf7-518c039e15ec"
+Parent: "4fca0b7c-58a5-421b-a519-fb57ebb9712f"
+Template: "481be0bd-e46e-45c7-b6f5-67baf48551b2"
+Path: /sitecore/content/Sites/main/Home/About us/Data/Showcase
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241113T225132Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ee8c1a8-c73c-4fb3-a7b3-360fda6d9b02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "bfbb1f8c-0f06-4d81-ae1d-33d63f075859"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="4dac141e-554b-4578-b390-13badd6b135a" />
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Content Banner
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit ad, et finibus iaculis imperdiet dignissim metus rhoncus, facilisi at ultricies malesuada pellentesque vehicula phasellus. Donec arcu scelerisque semper fermentum finibus proin diam, quam quis posuere justo aenean habitant lobortis mollis, netus lectus placerat dolor porta eros.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250610T135221Z

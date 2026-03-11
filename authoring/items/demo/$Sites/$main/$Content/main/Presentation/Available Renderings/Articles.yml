@@ -1,0 +1,45 @@
+﻿---
+ID: "c2469249-b0a1-4cb2-ae6f-7beb5825f221"
+Parent: "39b2dad4-0862-4d80-85d5-ac75d4685df1"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Sites/main/Presentation/Available Renderings/Articles
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {C764D302-9571-4FA3-B2C0-A239C6A77A7D}
+    {231F637C-0461-4BC6-A18A-683E039A884C}
+    {07B66E75-E473-4F15-8880-509E6A6FF54C}
+    {3FB16CCE-B455-4A98-8610-A025E9F96C6C}
+    {358EAADD-3A03-4FE8-8A04-6D0BF849BF13}
+    {91821AA1-E6BE-4404-8D00-CF6E859CDF0B}
+    {25A997F3-9AFA-483D-94D8-7AF9C9F9D9C9}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "40349219-7889-4e3e-9ce3-fe66ad9131b0"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241109T003956Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2632f0bc-2ad5-498c-b320-ba020e42e107"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250824T152917Z

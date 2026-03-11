@@ -1,0 +1,82 @@
+﻿---
+ID: "96b375e1-9d59-4d9e-92cc-f6b5d62d440f"
+Parent: "4dc9f0c8-8a7e-45a7-bed4-977f265f342f"
+Template: "66569dfc-30f1-4878-991d-0fd182e3346c"
+Path: /sitecore/content/Sites/main/Home/Data/Content A
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="c03cf5f8-bb03-4c08-b86c-cd5edbc46fe7" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T220950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60a26ef8-f8cd-4186-b0a2-e281fb9faaa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Explore New Horizons
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p>Experience a new level of performance with tools crafted to fit your unique needs. Our solutions streamline your workflow, maximize efficiency, and help you achieve your goals faster.<br />
+        <br />
+        </p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251017T185301Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T165545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1adb6a7-2771-43cd-8993-4d248a3922ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Explorez de nouveaux horizons
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <span class="HwtZe"><span class="jCAhz ChMk0b"><span class="ryNqvb">D&eacute;couvrez un niveau de performance sans pr&eacute;c&eacute;dent gr&acirc;ce &agrave; des outils con&ccedil;us pour r&eacute;pondre &agrave; vos besoins sp&eacute;cifiques.</span></span> <span class="jCAhz ChMk0b"><span class="ryNqvb">Nos solutions simplifient votre flux de travail, optimisent votre efficacit&eacute; et vous aident &agrave; atteindre vos objectifs plus rapidement.</span></span></span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T170014Z

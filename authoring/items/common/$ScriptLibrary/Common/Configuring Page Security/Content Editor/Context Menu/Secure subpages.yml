@@ -1,0 +1,130 @@
+﻿---
+ID: "09c265fd-d07c-4643-8630-d5e72fc80d5f"
+Parent: "003cdce4-4623-4a1c-9b0f-ea98d4a236d5"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Common/Configuring Page Security/Content Editor/Context Menu/Secure subpages
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    # Secure Subpages: sets the "pageRequiresAuth" field to true on the selected item and all its sub-items across all language versions.
+    function Set-PageRequiresAuth {
+        param(
+            [Item]$currentItem
+        )
+    
+        try {
+            if ($null -eq $currentItem) {
+                Write-Log -Log Error "Null item encountered. Skipping..."
+                return
+            }
+    
+            # Get all language versions of the current item that actually have content
+            $languageVersions = $currentItem.Languages | ForEach-Object { 
+                try {
+                    Get-Item -Path $currentItem.Paths.FullPath -Language $_.Name 
+                }
+                catch {
+                    Write-Log -Log Warning "Could not get item $($currentItem.Paths.FullPath) in language $($_.Name): $($_.Exception.Message)"
+                    return $null
+                }
+            } | Where-Object { $null -ne $_ -and $_.Versions.Count -gt 0 }
+            
+            foreach ($languageItem in $languageVersions) {
+                try {
+                    # Check if the item has the pageRequiresAuth field
+                    if ($languageItem.Fields["pageRequiresAuth"]) {
+                        $languageItem.Editing.BeginEdit()
+                        try {
+                            $languageItem["pageRequiresAuth"] = "1"   # Checkbox checked = true
+                            $languageItem.Editing.EndEdit()
+                            Write-Log -Log Info "Updated $($languageItem.Paths.FullPath) in language: $($languageItem.Language.Name)"
+                        }
+                        catch {
+                            $languageItem.Editing.CancelEdit()
+                            Write-Log -Log Error "Failed to update $($languageItem.Paths.FullPath) in language $($languageItem.Language.Name): $($_.Exception.Message)"
+                        }
+                    }
+                    else {
+                        Write-Log -Log Info "Item $($languageItem.Paths.FullPath) in language $($languageItem.Language.Name) does not have pageRequiresAuth field"
+                    }
+                }
+                catch {
+                    Write-Log -Log Error "Error processing $($languageItem.Paths.FullPath) in language $($languageItem.Language.Name): $($_.Exception.Message)"
+                }
+            }
+        }
+        catch {
+            Write-Log -Log Error "Unexpected error on $($currentItem.Paths.FullPath): $($_.Exception.Message)"
+        }
+    }
+    
+    # Main script execution
+    try {
+        Write-Log -Log Info "Starting pageRequiresAuth update script for all language versions..."
+        
+        # Get the current item (the item the script is run against)
+        $parentItem = Get-Item .
+        
+        Write-Log -Log Info "Processing parent item: $($parentItem.Paths.FullPath)"
+        
+        # Update the parent item in all its language versions
+        Set-PageRequiresAuth -currentItem $parentItem
+        
+        Write-Log -Log Info "Processing child items recursively..."
+        
+        # Get all child items recursively and update them in all their language versions
+        Get-ChildItem -Path $parentItem.FullPath -Recurse | ForEach-Object { 
+            Write-Log -Log Info "Processing item: $($_.Paths.FullPath)"
+            Set-PageRequiresAuth -currentItem $_ 
+        }
+        
+        Write-Log -Log Info "Successfully completed updating pageRequiresAuth for all items and their language versions."
+    }
+    catch {
+        Write-Log -Log Error "Script execution failed: $($_.Exception.Message)"
+        Write-Log -Log Error "Stack trace: $($_.ScriptStackTrace)"
+    }
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "53bcfa42-b34f-401b-973f-1bae8bb20831"
+- ID: "f62c67b4-28b6-4a6f-91cb-db78cf054f4e"
+  Hint: EnableRule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{C436FFBC-7191-4E8C-A871-D7199FEB7DCA}">
+        <conditions>
+          <condition
+            id="{D0810F9D-734C-452D-BBB6-4730368D68F1}"
+            uid="5C91AD3183D44A2CA4B02E69F7B99865"
+            templateid="{F34E99C9-9782-4E4B-AA95-9FF88394F3F2}" />
+        </conditions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T181329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eed6ba42-398c-4aea-b1f6-49f88c053192"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T135908Z

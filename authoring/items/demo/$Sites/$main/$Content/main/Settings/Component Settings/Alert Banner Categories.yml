@@ -1,0 +1,23 @@
+﻿---
+ID: "a3fa3509-342a-40a7-99d6-1f94dff6d2c6"
+Parent: "54872288-fbde-460f-9b56-1375d80f284a"
+Template: "cbc49d14-a75f-4acd-8e3b-bd1e3d8f6b20"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Alert Banner Categories
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241107T144802Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15f51637-b6bc-44dc-9b91-870fa49a271c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241113T221400Z

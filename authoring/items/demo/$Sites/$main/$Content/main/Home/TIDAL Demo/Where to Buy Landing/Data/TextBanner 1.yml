@@ -1,0 +1,31 @@
+﻿---
+ID: "3740c465-d87d-47b2-92fb-15c8c922d994"
+Parent: "e5586d7d-e79c-4bdf-b345-8e2dd637384d"
+Template: "592f504d-7041-43a7-a38a-9c6dc755bc3f"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Where to Buy Landing/Data/TextBanner 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T161945Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e4fae73-6410-4a1f-bfc8-eec8b01ce70a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T161945Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "d6e476b1-26df-4909-abcd-ac90fb76e483"
+Parent: "ecf34e75-5e21-455d-8cf4-c48617399100"
+Template: "9d23e387-6357-4396-85f2-38284c334d33"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Attestation Landing/Data/HeroBanner 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251208T190554Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c108a77e-1664-4b60-a8a0-e75e1b7d2ce2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "bfbb1f8c-0f06-4d81-ae1d-33d63f075859"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="dc55c6d1-976f-4607-a143-eea333b67ed7" />
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Ensure Informed Consent Before Content Access
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>Require users to explicitly acknowledge terms, conditions, or agreements before viewing protected content. Create auditable consent records that support compliance and legal requirements.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251208T192331Z

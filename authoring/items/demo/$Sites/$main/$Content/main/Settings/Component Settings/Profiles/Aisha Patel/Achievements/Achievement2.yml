@@ -1,0 +1,26 @@
+﻿---
+ID: "dbefed36-4c53-4f1b-aa72-bac4653b97eb"
+Parent: "ff50b07c-d4f1-4f27-bacc-2bd2455a3432"
+Template: "4e773ebc-ccf1-4fa9-9da1-fbeda98fc280"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Aisha Patel/Achievements/Achievement2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T175408Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab05a6e1-acc5-4437-b053-02cdd8399663"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Published over 30 articles in leading business journals including Harvard Business Review, Forbes, and MIT Sloan Management Review
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251107T030952Z

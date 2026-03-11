@@ -1,0 +1,35 @@
+﻿---
+ID: "598f7e52-ed41-44a8-92f7-4f0fae8a1307"
+Parent: "394770ef-6478-46c4-9259-b7e95222e5da"
+Template: "1e43d8ef-fd59-49fa-9056-ee3ba474f58b"
+Path: /sitecore/content/Sites/main/Data/Footer Menus/Utilities/Safety and Transparency/Regulatory Filings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251024T153507Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71c0789a-6bc3-462c-9ad4-682194b682ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Regulatory Filings" anchor="" linktype="internal" class="" title=""  querystring="" id="{D64F07E8-2789-4D3E-B5BA-65A5A66C0ED4}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251024T153511Z

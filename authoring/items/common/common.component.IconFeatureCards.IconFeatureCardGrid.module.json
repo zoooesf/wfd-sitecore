@@ -1,0 +1,33 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-IconFeatureCards-IconFeatureCardGrid",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCardGrid/$Templates",
+                "path": "/sitecore/templates/Feature/Common/IconFeatureCards/IconFeatureCardGrid",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCardGrid/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/IconFeatureCards/IconFeatureCardGrid",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCardGrid/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/IconFeatureCards/IconFeatureCardGrid",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$IconFeatureCards/$IconFeatureCardGrid/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/IconFeatureCards/IconFeatureCards Headless Site Setup/Add Icon Feature Card Grids Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+﻿---
+ID: "e87f4b79-41f5-4620-892a-87e840027224"
+Parent: "9eed4d98-dcfa-4dfb-9bae-6896a970270c"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Data/Common Richtexts/CommonRichtext B
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241128T174337Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "123f6d7e-1917-4704-b92a-a760a337fba2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Heading 2</h2>
+        <p>&nbsp;</p>
+        <p><span style="background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in semper augue. Proin ultrices velit neque, et iaculis lectus posuere id. Aliquam risus lacus, scelerisque vitae dolor in, vulputate vestibulum leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas suscipit finibus ex, a varius sem porttitor vel. Pellentesque bibendum ultrices ligula, a ornare nisl scelerisque et. Nam sit amet nulla quam. Fusce viverra diam quis purus eleifend, in lobortis arcu malesuada. Donec tristique auctor libero sit amet accumsan. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam viverra odio lectus. Etiam eget augue in urna mattis vulputate a vel mauris.</span></p>
+        <p><span style="background-color: #ffffff;">&nbsp;</span></p>
+        <p>
+        </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Heading 1</th>
+                    <th>Heading 2</th>
+                    <th>Heading 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Title 1</td>
+                    <td>Title 2</td>
+                    <td>Title 3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                </tr>
+            </tbody>
+        </table>
+        <blockquote>
+        <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis in semper augue.</q>
+        <h5>Author</h5>
+        <p>Position</p>
+        </blockquote>
+        <h3>Heading 3</h3>
+        <p><span style="background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in semper augue. Proin ultrices velit neque, et iaculis lectus posuere id. Aliquam risus lacus, scelerisque vitae dolor in, vulputate vestibulum leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas suscipit finibus ex, a varius sem porttitor vel. Pellentesque bibendum ultrices ligula, a ornare nisl scelerisque et. Nam sit amet nulla quam. Fusce viverra diam quis purus eleifend, in lobortis arcu malesuada. Donec tristique auctor libero sit amet accumsan. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam viverra odio lectus. Etiam eget augue in urna mattis vulputate a vel mauris.</span></p>
+        <p><span style="background-color: #ffffff;">﻿</span></p>
+        <ul>
+            <li>First Item</li>
+            <li class="rte-indent-2">Testing</li>
+            <li>Second Item</li>
+            <ul>
+                <li>First Item</li>
+                <li class="rte-indent-2">Testing</li>
+                <li>Second Item</li>
+                <ul>
+                    <li>First Item</li>
+                    <li class="rte-indent-2">Testing</li>
+                    <li>Second Item</li>
+                    <ul>
+                        <li>First Item</li>
+                        <li class="rte-indent-2">Testing</li>
+                        <li>Second Item</li>
+                    </ul>
+                </ul>
+            </ul>
+        </ul>
+        <p>&nbsp;</p>
+        <ol>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three</li>
+            <ol>
+                <li>One</li>
+                <li>Two</li>
+                <li>Three</li>
+                <ol>
+                    <li>One</li>
+                    <li>Two</li>
+                    <li>Three</li>
+                    <ol>
+                        <li>One</li>
+                        <li>Two</li>
+                        <li>Three</li>
+                    </ol>
+                </ol>
+            </ol>
+        </ol>
+        <p>&nbsp;</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241128T233316Z

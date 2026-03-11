@@ -1,0 +1,146 @@
+﻿---
+ID: "eeb7f6cf-910f-43af-8d16-795902bf9438"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Strategic Business Transformation Workshop
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {C518AC87-4A6B-4790-8EB9-FAFFBCA9BEDF}
+    {19CC4CAA-4025-4CF5-B12B-A122EE7A755B}
+    {CD7E8CB2-4DF0-42F1-B30E-094D39B55E68}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FDED31E4-E2B2-448E-8A80-E6C3161EE791}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "791edf7c-ac6e-4dd0-9384-ce3e3761077c"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{4F7ED673-AD85-4C4C-894F-9E93102616DA}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {A1C82039-5039-4471-B179-C0A212C5322F}
+    {902053F2-5639-45A4-9588-D57107E543F8}
+    {98E8E7CA-FE22-4E77-A678-F71B0C7DF646}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{4C2758AF-2148-4F2C-B155-464DADDD3716}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {892B089C-330C-4506-8231-3F9E902B8748}
+        {4CA9104A-652F-41EC-91A2-5A7930ABE336}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260422T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T205104Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Strategic Business Transformation Workshop
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:30am-4:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260423T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "deeef2bc-2d18-4665-8888-62209e3015b4"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Strategic Business Transformation Workshop
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Implementing Change in Professional Services Organizations</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This intensive two-day workshop equips consulting and professional services leaders with the frameworks and tools needed to successfully guide clients through major business transformations. Participants will engage in hands-on exercises, case study analysis, and peer collaboration to master change management methodologies and strategic planning techniques that deliver measurable results.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li>The <strong>Art and Science of Change</strong></li>
+            <li>Mastering <strong>Change Management</strong> Methodologies</li>
+            <li><strong>Business Analysis</strong> and Strategic Planning</li>
+            <li><strong>Stakeholder Mapping and Engagement</strong></li>
+            <li>Developing a <strong>Transformation Roadmap</strong></li>
+            <li><strong>Overcoming Resistance to Change</strong></li>
+        </ul>
+        <h2>What to Expect</h2>
+        <p>A two-day, immersive workshop format featuring a presentation by <strong>James Patterson</strong> on "The Art and Science of Change", exercises like <strong>Stakeholder Mapping</strong>, a deep dive into <strong>Business Analysis</strong> with <strong>Jennifer Kim</strong>, and a <strong>Best Practices Panel</strong> with <strong>Gregory Walsh</strong>.</p>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - April 22</strong></p>
+        <ul>
+            <li>8:30am - Registration &amp; Coffee</li>
+            <li>9:00am - Workshop Opening: "The Art and Science of Change" by James Patterson</li>
+            <li>10:30am - Exercise: Stakeholder Mapping and Engagement</li>
+            <li>12:00pm - Working Lunch</li>
+            <li>1:00pm - Business Analysis Deep Dive with Jennifer Kim</li>
+            <li>3:00pm - Group Activity: Transformation Roadmap Development</li>
+            <li>4:00pm - Day 1 Wrap-up</li>
+        </ul>
+        <p><strong>Day 2 - April 23</strong></p>
+        <ul>
+            <li>8:30am - Continental Breakfast</li>
+            <li>9:00am - Strategy Implementation Framework</li>
+            <li>10:30am - Workshop: Overcoming Resistance to Change</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Case Study Presentations</li>
+            <li>2:30pm - Best Practices Panel with Gregory Walsh</li>
+            <li>3:30pm - Certificate Presentation &amp; Closing</li>
+        </ul>
+        <h2>Who Should Attend</h2>
+        <ul>
+            <li>Consulting Leaders</li>
+            <li>Professional Services Leaders</li>
+            <li>Individuals focused on Strategy Consulting, Change Management, Business Analysis, and Operations</li>
+        </ul>
+        <h2>Location Details</h2>
+        <p><strong>Boston Business Institute</strong></p>
+        <p>225 Franklin St<br />
+        Boston, MA <br />
+        02110</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204737Z

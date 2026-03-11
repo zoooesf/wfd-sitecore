@@ -1,0 +1,155 @@
+﻿---
+ID: "a612e9a9-5c85-4e9d-9110-f2851cff6f70"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Healthcare Operations Excellence Conference
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {4DA2E751-BAD8-4F69-9C70-850504662FDD}
+    {51958C7A-2629-4C41-88B3-1317A08263F5}
+    {B475771B-2A39-452D-99A4-64A20EC4C796}
+    {F30F840E-3C93-4833-9E00-D6F24840DF00}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C7A4B1C4-80F1-4746-9334-D506E8EEDD60}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9b0bdae1-96dc-4d1a-be00-b036e69c31de"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{98519373-B6DD-442B-8EA7-F18B6BB5DA10}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {834F83C1-9E24-4E8A-BA4F-6D8F7911ACA0}
+    {53B74AB5-9063-4A1F-9B52-7596D488422F}
+    {89EA0B3F-FD4A-49A1-9115-AE5EBD996A43}
+    {8318640F-8801-4556-A743-D4DC60CE780C}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{74C9C9E6-AA0B-45EF-9EE0-617C8F45E239}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: "{4CA9104A-652F-41EC-91A2-5A7930ABE336}"
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{4D519105-082C-4B81-A904-C46C4D71F390}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260505T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T223216Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Healthcare Operations Excellence Conference
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{4D519105-082C-4B81-A904-C46C4D71F390}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:30am-5:30pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260507T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23f5f585-eedf-462a-ac5d-eee438148f0b"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Healthcare Operations Excellence Conference
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Optimizing Patient Care Through Process Innovation</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>The annual Healthcare Operations Excellence Conference brings together hospital administrators, clinical leaders, and healthcare operations professionals to explore strategies for improving operational efficiency while maintaining the highest standards of patient care. This three-day event covers process optimization, quality assurance, regulatory compliance, and the integration of healthcare technology to drive better outcomes.</p>
+        <h2>What to Expect</h2>
+        <p>A three-day annual conference featuring an opening keynote by <strong>Sarah Mitchell</strong>, a workshop on <strong>Lean Healthcare Methodologies</strong>, a presentation on <strong>Healthcare Technology Integration</strong> by <strong>David Kowalski</strong>, and an update on <strong>Compliance and Regulatory</strong> issues by <strong>Patricia Johnson</strong>.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li>The Future of <strong>Healthcare Operations</strong></li>
+            <li>Improving <strong>Operational Efficiency</strong> and <strong>Process Optimization</strong></li>
+            <li><strong>Lean Healthcare Methodologies</strong></li>
+            <li><strong>Quality Assurance</strong></li>
+            <li><strong>Compliance and Regulatory Update</strong></li>
+            <li><strong>Healthcare Technology Integration</strong></li>
+            <li><strong>Patient Experience</strong> and Operational Excellence</li>
+        </ul>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - May 5</strong></p>
+        <ul>
+            <li>8:30am - Registration &amp; Breakfast</li>
+            <li>9:30am - Opening Keynote: "The Future of Healthcare Operations" by Sarah Mitchell</li>
+            <li>11:00am - Clinical Operations Track Sessions</li>
+            <li>12:30pm - Networking Lunch</li>
+            <li>2:00pm - Workshop: Lean Healthcare Methodologies</li>
+            <li>4:00pm - Quality Assurance Panel</li>
+            <li>5:30pm - Welcome Reception</li>
+        </ul>
+        <p><strong>Day 2 - May 6</strong></p>
+        <ul>
+            <li>8:30am - Breakfast</li>
+            <li>9:30am - Healthcare Technology Integration by David Kowalski</li>
+            <li>11:00am - Compliance and Regulatory Update by Patricia Johnson</li>
+            <li>12:30pm - Lunch</li>
+            <li>2:00pm - Case Studies: Operational Transformation Success Stories</li>
+            <li>4:00pm - Interactive Workshops</li>
+            <li>5:30pm - Networking Event</li>
+        </ul>
+        <p><strong>Day 3 - May 7</strong></p>
+        <ul>
+            <li>8:30am - Breakfast</li>
+            <li>9:30am - Patient Experience and Operational Excellence</li>
+            <li>11:00am - Closing Keynote: "Leading Change in Healthcare" by Maria Gonzalez</li>
+            <li>12:30pm - Conference Closing</li>
+        </ul>
+        <h2>Who Should Attend</h2>
+        <ul>
+            <li>Hospital Administrators</li>
+            <li>Clinical Leaders</li>
+            <li>Healthcare Operations Professionals</li>
+            <li>Individuals focused on Healthcare, Operations, Quality Assurance, and Compliance Solutions</li>
+        </ul>
+        <h2>Location Details</h2>
+        <p><strong>Phoenix Medical Center Convention Wing</strong></p>
+        <p>1234 N Central Ave<br />
+        Phoenix, AZ <br />
+        85004</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204735Z

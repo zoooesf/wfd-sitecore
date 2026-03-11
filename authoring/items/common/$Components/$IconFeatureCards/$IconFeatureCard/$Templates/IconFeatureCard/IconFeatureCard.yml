@@ -1,0 +1,50 @@
+﻿---
+ID: "e61a1436-8633-4b68-9921-9db4f30cd33a"
+Parent: "1b5b0455-ad6c-4cda-81be-da8b12c82b16"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Common/IconFeatureCards/IconFeatureCard/IconFeatureCard
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/text_italics.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {2975609A-F5B5-4787-9B31-24834B91190A}
+    {1FD69E19-1783-4654-8213-F8048BFD6AEC}
+    {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
+    {07B3EA36-333F-4792-BC0B-CA4678BDA15B}
+    {931EC4CD-A43F-4B4C-81BB-8496D73C9539}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e91360b1-dacb-4682-9802-83d795e88f1b"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{6CFD1037-DBDF-44AC-BC0F-9FAD13A19714}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241023T180112Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "505fccb9-0c12-43e0-bc4f-08ef1cad4048"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250609T201727Z

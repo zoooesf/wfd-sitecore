@@ -1,0 +1,165 @@
+﻿---
+ID: "e162d535-1b1d-4808-84e2-d76df2181d78"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Professional Development Training Program
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {D9518380-54CC-40B4-BDB1-30BA616F9DB4}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {CD7E8CB2-4DF0-42F1-B30E-094D39B55E68}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2800
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F7C5F557-BEBD-421F-A751-2721AF56BBB8}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2060abc9-a1e2-44e3-97b2-20d90b84adbd"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{4F7ED673-AD85-4C4C-894F-9E93102616DA}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {A1C82039-5039-4471-B179-C0A212C5322F}
+    {98E8E7CA-FE22-4E77-A678-F71B0C7DF646}
+    {7DEBB766-31C5-4867-88F2-40CAF7D73E8A}
+    {D6FA0696-9723-40FE-B361-A33C3222DD15}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{C1430F82-59CA-4F37-AE75-DC606E031A27}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {F2441B30-B744-48E8-8A91-BCEED1F2C95C}
+        {460274F7-EE12-4F94-A06C-4B1F56244522}
+        {C5C74771-6E6B-4099-B2F8-72D79D7D6451}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D70A1CC4-0D85-47CA-BA87-C12D062353F9}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260616T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T224628Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Professional Development Training Program
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D70A1CC4-0D85-47CA-BA87-C12D062353F9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "9:00am-5:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260620T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "049730dd-01a9-45c4-8ca5-5825402157df"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Professional Development Training Program
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Advanced Project Management Certification Bootcamp</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This intensive five-day certification bootcamp prepares project management professionals for advanced certification while providing practical skills that can be immediately applied in the workplace. Through a combination of instruction, case studies, and hands-on exercises, participants will master advanced project management methodologies, stakeholder engagement techniques, and business analysis fundamentals.</p>
+        <h2>What to Expect: Your 5-Day Intensive PM Bootcamp</h2>
+        <ul>
+            <li>Hands-on, Practical Skill Mastery: Move beyond theory with a Project Planning Workshop, real-world Case Study Analysis, and collaborative Group Projects focused on immediately applicable skills in risk, stakeholder, and business analysis.</li>
+            <li>Expert-Led Advanced Content: Master cutting-edge methodologies, including Agile and Hybrid Frameworks, delivered by featured industry leaders like James Patterson and Samantha Brooks.</li>
+            <li>Direct Path to Certification: Benefit from structured Exam Preparation and a Final Review Session, culminating in the Certification Exam on Day 5, followed by a certificate ceremony.</li>
+            <li>Networking &amp; Leadership Insights: Engage in study group formation and participate in a Project Leadership Panel with experts Gregory Walsh and Jonathan Lee to gain career-shaping advice.</li>
+        </ul>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - June 16</strong></p>
+        <ul>
+            <li>9:00am - Program Opening &amp; Introductions</li>
+            <li>9:30am - Advanced Project Management Framework by James Patterson</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Project Planning Workshop</li>
+            <li>4:00pm - Study Group Formation</li>
+            <li>5:00pm - Day 1 Close</li>
+        </ul>
+        <p><strong>Day 2 - June 17</strong></p>
+        <ul>
+            <li>9:00am - Risk Management and Mitigation</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Stakeholder Management Techniques</li>
+            <li>4:00pm - Practice Exercises</li>
+            <li>5:00pm - Day 2 Close</li>
+        </ul>
+        <p><strong>Day 3 - June 18</strong></p>
+        <ul>
+            <li>9:00am - Business Analysis Integration by Samantha Brooks</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Case Study Analysis</li>
+            <li>4:00pm - Group Projects</li>
+            <li>5:00pm - Day 3 Close</li>
+        </ul>
+        <p><strong>Day 4 - June 19</strong></p>
+        <ul>
+            <li>9:00am - Agile and Hybrid Methodologies</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Project Leadership Panel with Gregory Walsh and Jonathan Lee</li>
+            <li>4:00pm - Exam Preparation</li>
+            <li>5:00pm - Day 4 Close</li>
+        </ul>
+        <p><strong>Day 5 - June 20</strong></p>
+        <ul>
+            <li>9:00am - Final Review Session</li>
+            <li>11:00am - Certification Exam</li>
+            <li>2:00pm - Exam Conclusion &amp; Certificate Ceremony</li>
+        </ul>
+        <h2>A Must-Attend Event For</h2>
+        <p>Project management professionals seeking <strong>advanced certification</strong> and practical, immediately applicable skills in a five-day intensive format.</p>
+        <h2>Location Details</h2>
+        <p><strong>Atlanta Professional Training Center</strong></p>
+        <p>3350 Peachtree Rd NE<br />
+        Atlanta, GA <br />
+        30326</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204736Z

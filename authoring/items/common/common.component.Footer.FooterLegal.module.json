@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Footer-FooterLegal",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Footer/$FooterLegal/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Footer/FooterLegal",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Footer/$FooterLegal/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Footer/FooterLegal",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Footer/$FooterLegal/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Footer/Footer Headless Site Setup/Add Footer Legals Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

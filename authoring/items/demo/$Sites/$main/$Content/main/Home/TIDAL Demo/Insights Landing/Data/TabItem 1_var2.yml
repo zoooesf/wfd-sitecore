@@ -1,0 +1,41 @@
+﻿---
+ID: "40364d57-ef58-4c4b-9396-8c9408126bcc"
+Parent: "7ff7bbb2-c772-44d2-bec6-5f7205c5f9a2"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Insights Landing/Data/TabItem 1_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e751b1ae-146b-434f-be41-8ab72fda20ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Filtering & Refinement
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>After executing a search, powerful filtering tools appear in a sidebar panel. You can refine results by publication date ranges, specific authors, topics and tags, content types, industries, and geographic regions. Filters can be combined to create highly specific result sets. For example, you might filter for "white papers published in the last 6 months about renewable energy in Europe." Active filters display as removable chips above the results, and you can save filter combinations for future use. The system remembers your most-used filters to streamline recurring research tasks.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T222731Z

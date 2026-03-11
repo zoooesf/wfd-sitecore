@@ -1,0 +1,31 @@
+query GetArticleListing(
+  $pageID: String!
+  $language: String!
+  $endCursor: String
+  $first: Int = 5
+  $templateId: String!
+  $sortOrder: OrderByDirection = DESC
+) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: CONTAINS }
+        { name: "_path", value: $pageID, operator: CONTAINS }
+        { name: "_language", value: $language, operator: EQ }
+      ]
+    }
+    orderBy: { name: "datePublished", direction: $sortOrder }
+    first: $first
+    after: $endCursor
+  ) {
+    total
+    pageInfo {
+      endCursor
+      hasNext
+    }
+    results {
+      id
+      ...TagsDetailsFragment
+    }
+  }
+}

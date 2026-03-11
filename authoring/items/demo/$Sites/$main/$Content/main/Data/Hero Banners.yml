@@ -1,0 +1,23 @@
+﻿---
+ID: "1efe9675-6940-48fe-87f2-2918d19bf2f1"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "8aee718d-11ac-4c2c-ba2b-9b55e03523d1"
+Path: /sitecore/content/Sites/main/Data/Hero Banners
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T131844Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a456896-625b-47b9-99c1-7a855ab1fe6a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T173253Z

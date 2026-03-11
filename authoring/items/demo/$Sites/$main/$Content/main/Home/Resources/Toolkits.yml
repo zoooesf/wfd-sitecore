@@ -1,0 +1,129 @@
+﻿---
+ID: "cc487de3-308c-4aaf-9c33-0e79227a9d0e"
+Parent: "ce0ca687-ab7f-4a66-8f35-7d1c0ce263e1"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Resources/Toolkits
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{706B014D-5F98-4B2C-B1B4-D0B47BB75ABC}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a54f5ed2-07cd-4534-af4d-02d7ab68461a"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{482FDB14-2180-4F9C-811A-0230727F1E25}"
+          p:before="*"
+          s:ds="local:/Data/Button 1"
+          s:id="{C152F7DC-6C01-4380-BABB-97C9F080CF00}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/buttons-2" />
+        <r
+          uid="{582B9DF0-4DD1-4255-913E-96FEAB919B4E}"
+          p:after="r[@uid='{482FDB14-2180-4F9C-811A-0230727F1E25}']"
+          s:ds="local:/Data/Card 1"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/cardgrid-4" />
+        <r
+          uid="{F9AF7D2E-F97B-4E5A-A858-50A8D42832E0}"
+          p:after="r[@uid='{582B9DF0-4DD1-4255-913E-96FEAB919B4E}']"
+          s:ds="local:/Data/Card 2"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/cardgrid-4" />
+        <r
+          uid="{036B01CC-B331-4343-BEE4-FC4AC5363998}"
+          p:after="r[@uid='{F9AF7D2E-F97B-4E5A-A858-50A8D42832E0}']"
+          s:ds="local:/Data/Card 3"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/cardgrid-4" />
+        <r
+          uid="{E8AFE8BE-FC8C-4B3F-8017-E1CE88F15344}"
+          p:after="r[@uid='{036B01CC-B331-4343-BEE4-FC4AC5363998}']"
+          s:ds="local:/Data/ContentBanner 1"
+          s:id="{C03D8136-D9F7-498C-B6DC-A0DB7EF4AA91}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{A1E0F90A-DBD5-4B30-82A9-F4A318F8A8BB}"
+          p:after="r[@uid='{E8AFE8BE-FC8C-4B3F-8017-E1CE88F15344}']"
+          s:ds="local:/Data/CardGrid 1"
+          s:id="{E78B588A-A213-411D-BFAE-DD607FFD2C8B}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BABC9BB79-78D5-4294-8398-DACD0752D20D%7D&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+        <r
+          uid="{193BC378-187D-40E0-B904-830A0A9B3E28}"
+          p:after="r[@uid='{A1E0F90A-DBD5-4B30-82A9-F4A318F8A8BB}']"
+          s:ds="local:/Data/TextBanner 1"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{F439B70F-B4AC-47C1-AC28-8DD479B81F77}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/CTABlock 1"
+          s:id="{E276274F-5C13-4B76-AC83-D7A867975696}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{EF447068-4F4F-4967-81CB-05251F8E4EDF}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251013T221943Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Toolkits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251013T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9edcb34b-dc32-436c-ad9d-833766a47a5f"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251013T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Toolkits
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251014T013631Z

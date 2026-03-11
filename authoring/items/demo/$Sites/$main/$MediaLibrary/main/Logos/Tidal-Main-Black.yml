@@ -1,0 +1,51 @@
+﻿---
+ID: "30bcc9b1-d549-4024-9b1d-e9f2ae3a5462"
+Parent: "a2cbc425-7db0-4af6-8db3-6f6a0c9e0511"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Sites/main/Logos/Tidal-Main-Black"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/30bcc9b1d54940249b1de9f2ae3a5462.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4852825d-d05c-425b-bd1b-3410649415b9"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA3MTUuMiAxMjQuMiI+CiAgPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI5LjguMiwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDIuMS4xIEJ1aWxkIDMpICAtLT4KICA8cG9seWdvbiBwb2ludHM9IjQ1My43IDIuNSA0NzYuNyA0NC45IDQ0Ny44IDQ0LjkgNDAzLjkgMTI0LjIgNDQwLjUgMTI0LjIgNDgwIDUxLjEgNTE5LjUgMTI0LjIgNTU2LjEgMTI0LjIgNDg4LjggMi41IDQ1My43IDIuNSIvPgogIDxwYXRoIGQ9Ik0zMzEuNC43aC04Ny4ybDI4LjcsMzAuOGgtMjguNHY5Mi43aDg2LjhjMjcuOSwwLDUwLjUtMjEuMSw1MC41LTQ3di0yOS42YzAtMjUuOS0yMi43LTQ3LTUwLjUtNDdoMFpNMzUwLjksNzcuMmMwLDguOC04LjgsMTYtMTkuNiwxNmgtNTguM1YzMS42aDU4LjNjMTAuOCwwLDE5LjYsNy4yLDE5LjYsMTZ2MjkuNloiLz4KICA8cmVjdCB4PSIxNzYuMSIgeT0iMSIgd2lkdGg9IjI4IiBoZWlnaHQ9IjEyMy4zIi8+CiAgPHBvbHlnb24gcG9pbnRzPSI4Mi4yIDMxLjcgMTM1LjkgMzEuNyAxMzUuOSAuNiA4MS44IC42IDgyLjIgMzEuNyIvPgogIDxwb2x5Z29uIHBvaW50cz0iMCAuNiAwIDMxLjcgNTQgMzEuNyA1NCAxMjQuMiA4MS45IDEyNC4yIDgxLjkgMzEuNyA4MiAzMS43IDUzLjIgLjYgMCAuNiIvPgogIDxyZWN0IHg9IjU3OS4zIiB3aWR0aD0iMjgiIGhlaWdodD0iOTMuMiIvPgogIDxyZWN0IHg9IjYwNy42IiB5PSI5My4yIiB3aWR0aD0iMTA3LjYiIGhlaWdodD0iMzEiLz4KPC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 873
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4d88407d-717d-4462-bc65-6220c9832a7c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251003T174541Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4469c2f6-e133-41b6-826a-121a1a93b211"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\athomas@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251003T174542Z

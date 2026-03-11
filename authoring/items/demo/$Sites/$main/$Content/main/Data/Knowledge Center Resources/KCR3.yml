@@ -1,0 +1,65 @@
+﻿---
+ID: "51efc8ef-ee7c-47aa-b4d6-d61bcd2020be"
+Parent: "187f8dfc-f481-4454-b41a-845db25eb95a"
+Template: "d7129f3e-903b-48c6-9a0c-00924c601d05"
+Path: /sitecore/content/Sites/main/Data/Knowledge Center Resources/KCR3
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {9195CB69-F856-49D6-BCAD-519B9BED071B}
+    {501C010D-E961-4FA1-95AA-93C891E9AA32}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e1782ae0-e032-482e-ba03-bf443fb39c83"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T181152Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24179a40-4bf5-4d97-859b-3a2548f9c457"
+    - ID: "95b9b827-2ee6-4465-901b-f963242b1684"
+      Hint: file
+      Value: |
+        <file mediaid="{207EC0FB-5F30-489F-93FD-9247A2AC7831}" src="-/media/207ec0fb5f30489f93fd9247a2ac7831.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250930T152450Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251002T142917Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ffe7dd9-4bab-44c5-be9f-a352171551dc"
+    - ID: "95b9b827-2ee6-4465-901b-f963242b1684"
+      Hint: file
+      Value: |
+        <file mediaid="{207EC0FB-5F30-489F-93FD-9247A2AC7831}" src="-/media/207ec0fb5f30489f93fd9247a2ac7831.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251002T142929Z

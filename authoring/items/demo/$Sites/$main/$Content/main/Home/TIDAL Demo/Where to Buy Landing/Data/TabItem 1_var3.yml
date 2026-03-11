@@ -1,0 +1,41 @@
+﻿---
+ID: "41f6656e-a72c-46a7-af6b-5c6ca2665d15"
+Parent: "e5586d7d-e79c-4bdf-b345-8e2dd637384d"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Where to Buy Landing/Data/TabItem 1_var3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T162104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80246010-fef3-421b-af29-c1d31ab6c730"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Analytics Dashboard
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p><strong>Data-Driven Insights</strong></p><p>Understand customer buying patterns with comprehensive analytics. Track search behaviors, popular locations, conversion paths, and channel performance. Use these insights to optimize retail partnerships and inventory distribution.</p><ul><li>Search volume by product/region</li><li>Click-through rates by retailer</li><li>Conversion attribution</li><li>Geographic heat maps</li><li>Device and platform usage</li></ul></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T172410Z

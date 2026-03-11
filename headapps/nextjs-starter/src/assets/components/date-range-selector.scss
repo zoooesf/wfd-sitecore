@@ -1,0 +1,45 @@
+/* Custom styles for react-day-picker calendar */
+
+.date-range-selector {
+  @apply bg-surface font-ppmori text-content;
+  .rdp-caption_label {
+    @apply copy-sm;
+  }
+
+  .rdp-month_grid {
+    @apply border-spacing-0;
+  }
+  /* Remove any margins/padding from cells */
+  .rdp-day,
+  .rdp-weekday {
+    @apply m-0 p-0;
+  }
+
+  /* Day button */
+  .rdp-day_button {
+    @apply copy-sm;
+  }
+
+  /* Today */
+  .rdp-day_today,
+  .rdp-today:not(.rdp-outside) {
+    @apply font-bold text-content;
+  }
+
+  /* Selected day, range start and end */
+  .rdp-range_start,
+  .rdp-range_middle,
+  .rdp-range_end {
+    @apply bg-none bg-content; // need bg-none to override the default background attribute then apply bg color here
+  }
+  .rdp-selected .rdp-day_button,
+  .rdp-range_start .rdp-day_button,
+  .rdp-range_end .rdp-day_button {
+    @apply rounded-none border-none bg-content text-surface;
+  }
+
+  /* hide native month caption */
+  .rdp-month_caption {
+    @apply hidden;
+  }
+}

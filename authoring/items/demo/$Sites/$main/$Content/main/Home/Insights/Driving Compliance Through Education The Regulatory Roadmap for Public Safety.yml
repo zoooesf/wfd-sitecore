@@ -1,0 +1,135 @@
+﻿---
+ID: "3c17d34b-4bf3-4f43-9880-7aa655f0ac30"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Driving Compliance Through Education The Regulatory Roadmap for Public Safety
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {76596B5B-2EA6-417F-ACB2-C181B008C925}
+    {827D1007-4C86-49FB-B6B8-873BFABC9DD0}
+    {0E59078D-1124-4E3D-8F3D-CC1FEA8C6CA6}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {07D87122-7046-4CA8-A89B-747B7897CD6A}
+    {1860D515-6E7C-47D4-BCF9-358FD4D29DB2}
+    {ED49228C-0995-4A3B-95C0-E013CEAE170C}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{BB54CC13-0540-4CBE-9391-8A6BC055008B}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8a4917b4-4fc4-42d8-b012-482dc37cff29"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{D16507AB-6524-48B9-9BC8-100C2C8F22F4}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{98E8E7CA-FE22-4E77-A678-F71B0C7DF646}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{03C11CA4-BD4F-4C8B-B130-B6B34D5658EA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T222108Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Driving Compliance Through Education The Regulatory Roadmap for Public Safety
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{03C11CA4-BD4F-4C8B-B130-B6B34D5658EA}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "298c0715-39f5-4d8e-aa22-33a5a2782e7a"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240720T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Driving Compliance Through Education: The Regulatory Roadmap for Public Safety"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: How educational programs and compliance solutions are critical to ensuring public safety standards are met across industrial and government sectors.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p>For agencies focused on <strong>Public Safety</strong> within the <strong>Government</strong> and <strong>Industrial</strong> sectors, achieving <strong>Regulatory Compliance</strong> is an ongoing, complex challenge. The most effective strategy to ensure adherence to safety and environmental standards is to embed a culture of compliance through comprehensive <strong>Educational</strong> and <strong>Training &amp; Development</strong> programs.</p>
+        <p>Compliance is not just about having the right <strong>Compliance Docs</strong>; it&rsquo;s about making sure every employee, from the floor worker to the senior manager, understands and follows the protocols. This is particularly true for industrial facilities that handle hazardous materials, where environmental and safety legislation is stringent.</p>
+        <h3><strong>Compliance-Driven Education Modules and Outcomes</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Training Module</th>
+                    <th>Target Audience</th>
+                    <th>Key Compliance Outcome</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>Hazard Communication</strong></td>
+                    <td style="text-align: left;">Industrial Facility Staff</td>
+                    <td style="text-align: left;">Proper labeling, handling, and storage of dangerous goods.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Incident Management</strong></td>
+                    <td style="text-align: left;">Supervisors, Management</td>
+                    <td style="text-align: left;">Timely and orderly decision-making and reporting post-incident.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Data Governance</strong></td>
+                    <td style="text-align: left;">Government Staff</td>
+                    <td style="text-align: left;">Adherence to data privacy and security laws; reducing risk exposure.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Emergency Procedures</strong></td>
+                    <td style="text-align: left;">All Personnel</td>
+                    <td style="text-align: left;">Mastery of evacuation and shelter-in-place protocols, reducing injury risk.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>The move towards standardized educational tools, such as the use of Learning Management Systems (LMS), allows organizations to track training completion and certify competencies, directly feeding into compliance audits. The goal is to shift from reactive enforcement to proactive, preventative education.</p>
+        <blockquote>
+        <p>"A proactive regulatory compliance program is fundamentally an education program. When employees understand the why behind the regulation, they become advocates for safety, not just reluctant participants in a rule-following exercise."</p>
+        </blockquote>
+        <p>By investing in customized training, organizations can reduce the incidence of non-compliance, thereby avoiding costly fines and litigation, and, most importantly, enhancing the safety of their communities and environment.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T153159Z

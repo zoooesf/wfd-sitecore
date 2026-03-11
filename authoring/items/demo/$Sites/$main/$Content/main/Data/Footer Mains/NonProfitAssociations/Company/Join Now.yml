@@ -1,0 +1,35 @@
+﻿---
+ID: "763b5f6f-fb1b-4e78-ad7c-086e95a728e3"
+Parent: "062fb1d4-d718-4bc4-9cbd-5b978d5fa265"
+Template: "1e43d8ef-fd59-49fa-9056-ee3ba474f58b"
+Path: /sitecore/content/Sites/main/Data/Footer Mains/NonProfitAssociations/Company/Join Now
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T083553Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7253abb8-b615-4656-8ed7-830a6d9d949c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Join Now" anchor="" linktype="internal" class="" title=""  querystring="" id="{50938BD4-6609-426C-BEBE-89F4C6C2B673}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T130950Z

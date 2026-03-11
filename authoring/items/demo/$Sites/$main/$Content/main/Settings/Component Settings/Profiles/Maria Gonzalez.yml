@@ -1,0 +1,94 @@
+﻿---
+ID: "89ea0b3f-fd4a-49a1-9115-ae5ebd996a43"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Maria Gonzalez
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {0B914EAA-F6EA-4945-83AF-2BDA2BC63065}
+    {5601E406-C088-4B5B-8BC1-8188F5E22DBF}
+    {D9C4A29D-2BF5-48AE-84F9-F1B5A2282C5F}
+    {3B0DD003-A019-46A1-8404-F3EFA6E231DF}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{84DF715B-35FC-46C2-B06C-6F6FDDA3055D}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Maria
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ecf81c9a-113d-4a75-9279-958ddd5a5ab8"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Gonzalez
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: maria.gonzalez@statehealth.gov
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{35071D59-D022-406A-B5B9-7ACD9E7022B6}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Director of Public Health Programs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T191148Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(916) 555-0812"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{35071D59-D022-406A-B5B9-7ACD9E7022B6}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: State Department of Health
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c5eaa51-0cdb-4a5a-a6fd-162938505f3d"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Dr. Maria Gonzalez is a public health leader with 18 years of experience designing and implementing programs that improve population health outcomes. As Director of Public Health Programs for the State Department of Health, she oversees initiatives addressing chronic disease prevention, maternal and child health, infectious disease control, and health equity. Her evidence-based approach to program development has resulted in measurable improvements in vaccination rates, reduced health disparities, and improved access to preventive care services.</p>
+        <p>Dr. Gonzalez earned her medical degree from UCLA and a Master's in Public Health from Johns Hopkins University. She has led the state's response to multiple public health emergencies and has built strong partnerships with local health departments, community organizations, and healthcare providers. Maria is an advocate for addressing social determinants of health and has secured federal funding for innovative programs targeting underserved populations. She regularly publishes research on health policy and presents at national public health conferences.</p>
+        <!--<h2>Experience</h2>
+        <p>18 years of experience designing and implementing programs that improve population health outcomes. She oversees initiatives addressing chronic disease prevention, maternal and child health, and infectious disease control.</p>
+        <h2>Achievements</h2>
+        <p>Her evidence-based approach resulted in measurable improvements in vaccination rates and reduced health disparities. She has led the state's response to multiple public health emergencies and secured federal funding for innovative programs.</p>
+        <h2>Professional Involvement</h2>
+        <p>She regularly publishes research on health policy and presents at national public health conferences.</p>
+        <h2>Community Involvement</h2>
+        <p>She is an advocate for addressing social determinants of health. She built strong partnerships with local health departments, community organizations, and healthcare providers.</p>
+        <h2>Education</h2>
+        <p>Medical degree from UCLA and a Master's in Public Health from Johns Hopkins University.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200141Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

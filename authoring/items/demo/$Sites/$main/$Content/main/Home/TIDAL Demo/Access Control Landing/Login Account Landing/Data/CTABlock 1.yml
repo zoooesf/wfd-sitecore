@@ -1,0 +1,45 @@
+﻿---
+ID: "b775fbe5-ce0e-4904-8bec-dcac1320e317"
+Parent: "d982b405-ed2d-423c-996d-d05ea118ef28"
+Template: "5685baa8-f223-4d06-869b-c2f14fafd488"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Login Account Landing/Data/CTABlock 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251208T191005Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea6fdf5d-6a17-4808-b6a7-d19827f0496e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Protect Your Content in Minutes
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="ac35f22974634217a15bad0c0f9a9ed4" anchor="" querystring="" target="" class="" text="Back to Access Control" title=""/>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Start securing your valuable resources with user authentication today. Login Account Locked Down gives you enterprise-grade access control without the enterprise complexity.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251208T191947Z

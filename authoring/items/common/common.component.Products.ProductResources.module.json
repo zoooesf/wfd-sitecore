@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Products-ProductResources",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Products/$ProductResources/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Products/ProductResources",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}
+

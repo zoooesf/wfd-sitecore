@@ -1,0 +1,34 @@
+﻿---
+ID: "a56cf243-e47d-4140-a227-7207f4c71f31"
+Parent: "8edf5388-5d2b-4ce4-b93c-bd6a86b88856"
+Template: "4e773ebc-ccf1-4fa9-9da1-fbeda98fc280"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Michael Torres/Achievements/Achievement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T173731Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d7d9b63-c0b1-4ce7-b7af-9c74e615ecf3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: He grew membership by 40% over five years. He successfully organized annual conferences attracting over 5,000 attendees and developed continuing education programs that became revenue drivers.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T173742Z

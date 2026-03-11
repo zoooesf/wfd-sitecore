@@ -1,0 +1,3 @@
+fragment LinkFieldFragment on LinkField {
+  jsonValue
+}

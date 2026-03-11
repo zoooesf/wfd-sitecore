@@ -1,0 +1,94 @@
+﻿---
+ID: "0281d04a-9fda-4586-b6d4-dbd82ccf6f1e"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Angela Davis
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {15A92B63-6E53-4612-99B4-559C427B9A54}
+    {FB24AA0A-87C0-407F-A57E-E193CDAAD3E8}
+    {D08056E7-3312-4AF0-8A4C-F87C0874E16F}
+    {B52E5980-F212-4B15-9AD7-86FB89C87D91}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{1251E901-DEE8-42F2-8953-32408468D8E2}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Angela
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f2dc3b46-bc53-43b1-bbee-b3d8797a9b20"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Davis
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: angela.davis@globalenterprises.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{5F6DDFB0-A082-40BD-8B59-A7CC148E8A06}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Chief Human Resources Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T191559Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(212) 555-0374"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{5F6DDFB0-A082-40BD-8B59-A7CC148E8A06}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Global Enterprises Inc
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3d2bff2-5fab-4a2d-a1fd-d50aa5b28d80"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Angela Davis is a strategic HR leader with 19 years of experience building high-performance organizations through innovative people practices. As Chief Human Resources Officer at Global Enterprises Inc, she oversees all aspects of human capital management for a workforce of 35,000 employees across multiple countries. Angela has transformed the organization's talent strategy, implementing data-driven approaches to recruitment, development, and retention that have improved employee engagement scores by 35% and reduced turnover by 28%.</p>
+        <p>Angela holds a Master's degree in Industrial-Organizational Psychology from NYU and is a Senior Certified Professional (SHRM-SCP). She has led major organizational transformations, including post-merger integrations, culture change initiatives, and digital workplace transformations. Angela is a champion for diversity, equity, and inclusion, having established programs that have significantly improved representation at all organizational levels. She serves on the board of the Society for Human Resource Management and is a sought-after speaker on the future of work and employee experience design.</p>
+        <!--<h2>Experience</h2>
+        <p>19 years of experience in strategic HR leadership. She oversees all aspects of human capital management for a workforce of 35,000 employees across multiple countries. She has led major organizational transformations, including post-merger integrations and culture change initiatives.</p>
+        <h2>Achievements</h2>
+        <p>She improved employee engagement scores by 35% and reduced turnover by 28%. She successfully implemented a new data-driven approach to recruitment and retention.</p>
+        <h2>Professional Involvement</h2>
+        <p>She is a Senior Certified Professional (SHRM-SCP). She serves on the board of the Society for Human Resource Management.</p>
+        <h2>Community Involvement</h2>
+        <p>She is a champion for diversity, equity, and inclusion (DEI) and has established programs that improved representation at all organizational levels. She is a sought-after speaker on the future of work.</p>
+        <h2>Education</h2>
+        <p>Master's degree in Industrial-Organizational Psychology from NYU.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T194712Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

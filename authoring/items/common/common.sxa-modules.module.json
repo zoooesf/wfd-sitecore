@@ -1,0 +1,72 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-sxamodules",
+    "references": [
+        "common-commonfolders"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$SxaModules/$Accordions",
+                "path": "/sitecore/system/Settings/Feature/Common/Accordions",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Banners",
+                "path": "/sitecore/system/Settings/Feature/Common/Banners",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Articles",
+                "path": "/sitecore/system/Settings/Feature/Common/Articles",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Cards",
+                "path": "/sitecore/system/Settings/Feature/Common/Cards",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Containers",
+                "path": "/sitecore/system/Settings/Feature/Common/Containers",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Events",
+                "path": "/sitecore/system/Settings/Feature/Common/Events",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Footer",
+                "path": "/sitecore/system/Settings/Feature/Common/Footer",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$IconFeatureCards",
+                "path": "/sitecore/system/Settings/Feature/Common/IconFeatureCards",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Navigation",
+                "path": "/sitecore/system/Settings/Feature/Common/Navigation",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Page Content",
+                "path": "/sitecore/system/Settings/Feature/Common/Page Content",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$Tabs",
+                "path": "/sitecore/system/Settings/Feature/Common/Tabs",
+                "scope": "ItemAndChildren"
+            },
+            {
+                "name": "$SxaModules/$KnowledgeCenter",
+                "path": "/sitecore/system/Settings/Feature/Common/Knowledge Center",
+                "scope": "ItemAndChildren"
+            }
+        ]
+    }
+}

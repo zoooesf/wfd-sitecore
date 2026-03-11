@@ -1,0 +1,38 @@
+﻿---
+ID: "131c94be-d8fe-4017-b0d4-5055dd083e69"
+Parent: "1ed93979-8d3c-435a-b30c-1684023471a4"
+Template: "92b1576c-9c14-4063-b80e-6f62f49bccab"
+Path: "/sitecore/content/Sites/main/Settings/Component Settings/Sponsors/TIDAL Non-Profits"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T195007Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{AAFAE270-E69C-4042-A987-54F263D6EA14}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f32da04-18e7-4ce8-857a-b29c66d74153"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T195021Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: "TIDAL Non-Profits"

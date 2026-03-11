@@ -1,0 +1,47 @@
+fragment LinkListFieldFragment on Item {
+  links: children(includeTemplateIDs: [$linkTemplateId]) {
+    results {
+      displayName
+      ... on HeaderLink {
+        link {
+          jsonValue
+        }
+      }
+    }
+  }
+}
+
+query GetHeaderNavigation(
+  $datasourcePath: String!
+  $linkTemplateId: String!
+  $childTemplateId: String!
+  $linkGroupTemplateId: String!
+  $language: String = "en"
+) {
+  item(path: $datasourcePath, language: $language) {
+    id
+    name
+    links: children(includeTemplateIDs: [$childTemplateId]) {
+      results {
+        displayName
+        ... on HeaderChild {
+          ...LinkListFieldFragment
+          link {
+            jsonValue
+          }
+          linkGroup: children(includeTemplateIDs: [$linkGroupTemplateId]) {
+            results {
+              displayName
+              ... on HeaderLinkGroup {
+                ...LinkListFieldFragment
+                link {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

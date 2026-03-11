@@ -1,0 +1,35 @@
+﻿---
+ID: "bebfe4e0-9749-4e34-9c06-c0686272d943"
+Parent: "3295466c-74f9-4ec4-a9b9-dca68c3b40c2"
+Template: "ff620970-7f18-43d0-a140-d85756ab9f92"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Headers/Header/Nav Dropdown/Dropdown Col 1/Dropdown Col Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250820T155639Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7cd8deb-5919-4e84-9007-6d9cdd4fbad7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Dropdown Col Link" anchor="" linktype="internal" class="" title=""  querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T155656Z

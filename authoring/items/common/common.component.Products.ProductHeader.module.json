@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Products-ProductHeader",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Products/$ProductHeader/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Products/ProductHeader",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}
+

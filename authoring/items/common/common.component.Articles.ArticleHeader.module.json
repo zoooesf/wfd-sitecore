@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Articles-ArticleHeader",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Articles/$ArticleHeader/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Articles/ArticleHeader",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Articles/$ArticleHeader/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Articles/ArticleHeader",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Articles/$ArticleHeader/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Articles/Articles Headless Site Setup/Add Article Headers Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

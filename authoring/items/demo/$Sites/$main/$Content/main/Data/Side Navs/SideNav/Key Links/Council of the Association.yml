@@ -1,0 +1,35 @@
+﻿---
+ID: "dd9b1d82-6ed3-45e2-9bb6-fb5afa4dd40a"
+Parent: "34ef4cce-4cad-42ff-9148-848255aae0a7"
+Template: "93193400-f14b-4614-bc49-a888e15373e7"
+Path: /sitecore/content/Sites/main/Data/Side Navs/SideNav/Key Links/Council of the Association
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241129T153406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffb8be8d-a27f-436a-91e1-298b8c91e9a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" id="{B1BBF454-6060-4596-9D2C-0EA4AA414A9D}" querystring="" anchor="" target="" title="" linktype="internal" text="Council of the Association" url="/Sites/main/Home/Contact us" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133604Z

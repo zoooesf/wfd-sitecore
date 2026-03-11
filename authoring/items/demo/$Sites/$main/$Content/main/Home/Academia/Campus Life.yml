@@ -1,0 +1,136 @@
+﻿---
+ID: "04cba479-812d-4276-9e92-38697faf96ec"
+Parent: "bfe402c4-ffea-40c6-be36-e485d2710fd1"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Academia/Campus Life
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{12F56033-345B-415C-994F-38B2891FF77D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0f0d40f7-b54e-444e-a2f4-bd8c1d0fd27a"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E294852B-04CF-4E94-BFF3-2EC3AF4A0F98}"
+          p:before="*"
+          s:ds="local:/Data/ContentBanner 1"
+          s:id="{C03D8136-D9F7-498C-B6DC-A0DB7EF4AA91}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{11845C78-59E9-4CFF-A9A3-2E1EFE690C4A}"
+          p:after="r[@uid='{E294852B-04CF-4E94-BFF3-2EC3AF4A0F98}']"
+          s:ds="local:/Data/CardCarousel 1"
+          s:id="{4180EDC5-2601-4B67-BEA5-586BDD311311}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFBA38897-0C49-4DDA-8B0F-C5814D3AED41%7D&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="headless-main" />
+        <r
+          uid="{C86FCE88-C259-405A-A2FF-5C57B1ECCA7B}"
+          p:after="r[@uid='{11845C78-59E9-4CFF-A9A3-2E1EFE690C4A}']"
+          s:ds="local:/Data/SplitBanner 1"
+          s:id="{F22C31F6-9A23-406B-8285-4391A49926F7}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B36F210AA-1394-41F8-ADED-D27773E973FA%7D&amp;Styles=%7C%7B4D210A39-E795-4213-8AFE-2EDE4319389A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="headless-main" />
+        <r
+          uid="{A9C8F427-64F5-4C90-856D-543A927D0F05}"
+          p:after="r[@uid='{C86FCE88-C259-405A-A2FF-5C57B1ECCA7B}']"
+          s:ds="local:/Data/CTABlock 1"
+          s:id="{E276274F-5C13-4B76-AC83-D7A867975696}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="headless-main" />
+        <r
+          uid="{609382D9-9092-4376-9B75-5004EE81DC1A}"
+          p:after="r[@uid='{A9C8F427-64F5-4C90-856D-543A927D0F05}']"
+          s:ds="local:/Data/Button 1"
+          s:id="{C152F7DC-6C01-4380-BABB-97C9F080CF00}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/buttons-7" />
+        <r
+          uid="{1A7991EF-8BA2-443E-B596-9A8B63032656}"
+          p:after="r[@uid='{609382D9-9092-4376-9B75-5004EE81DC1A}']"
+          s:ds="local:/Data/Card 1"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/cardcarousel-10" />
+        <r
+          uid="{49022D20-F3DC-48E1-810F-D9B7602E497D}"
+          p:after="r[@uid='{1A7991EF-8BA2-443E-B596-9A8B63032656}']"
+          s:ds="local:/Data/Card 3"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/cardcarousel-10" />
+        <r
+          uid="{A4A5255E-11C2-41FD-8059-39010CCFA2FB}"
+          p:after="r[@uid='{49022D20-F3DC-48E1-810F-D9B7602E497D}']"
+          s:ds="local:/Data/Card 2"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/cardcarousel-10" />
+        <r
+          uid="{76D9F045-F280-4BD2-8846-224BCFD9B604}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Card 4"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BC2CF07D9-FCEC-459A-A820-69469F79DA65%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/cardcarousel-10" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{03C11CA4-BD4F-4C8B-B130-B6B34D5658EA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T141930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Campus Life
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251009T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8bd71995-b42e-4d13-97c9-a7162504bafe"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251009T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Campus Life
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T155343Z

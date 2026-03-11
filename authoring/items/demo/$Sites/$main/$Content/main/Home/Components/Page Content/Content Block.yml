@@ -1,0 +1,120 @@
+﻿---
+ID: "6d4d67d5-4a84-4cd2-9854-efe757f89ce9"
+Parent: "d2df9782-d261-4ea2-87c8-e9414050ace6"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Page Content/Content Block
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F633D0F8-B408-4BCD-90ED-BAAE207BAB58}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "12941136-c6b5-4bed-80c3-07fa8107d610"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F80935DD-88A6-4290-B937-D33432B41FA2}"
+          p:before="*"
+          s:ds="local:/Data/Content Block Banner"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7c%7b3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7d&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=16"
+          s:ph="headless-main" />
+        <r
+          uid="{21BACA00-3827-450D-B8D7-8FF66F45EE70}"
+          p:after="r[@uid='{F80935DD-88A6-4290-B937-D33432B41FA2}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="Styles8&amp;DynamicPlaceholderId=17&amp;ColumnWidth8&amp;ColumnWidth2=%7b37B8F625-37B3-41B9-BA85-D31AA5A44463%7d%7c%7bF61E01E9-711A-4C99-AE30-4E28463E1DF7%7d&amp;Styles6&amp;ColumnWidth4&amp;RenderingIdentifier&amp;Styles5&amp;EnabledPlaceholders=1%2c2&amp;Styles2&amp;ColumnWidth5&amp;FieldNames&amp;Styles&amp;Styles1&amp;SplitterSize=2&amp;GridParameters=%7bF61E01E9-711A-4C99-AE30-4E28463E1DF7%7d&amp;Styles4&amp;ColumnWidth7&amp;Styles7&amp;ColumnWidth3&amp;ColumnWidth1=%7b37B8F625-37B3-41B9-BA85-D31AA5A44463%7d%7c%7bF61E01E9-711A-4C99-AE30-4E28463E1DF7%7d&amp;CSSStyles&amp;ColumnWidth6&amp;Styles3"
+          s:ph="headless-main" />
+        <r
+          uid="{56BDBA1D-1DB2-488D-ACF6-B5BD6C5F3865}"
+          p:after="r[@uid='{21BACA00-3827-450D-B8D7-8FF66F45EE70}']"
+          s:ds="local:/Data/Full Width"
+          s:id="{3C809C09-2839-4FEC-840C-43BF6F68ACC3}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7c%7b978AC174-854C-4843-A212-2DBF89F24653%7d%7c%7bEC0CD525-02B9-4253-A46A-71F9038434D3%7d%7c%7b789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7d&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{DBBB8E19-B070-491E-8D68-83ED1EFFF52E}"
+          p:after="r[@uid='{56BDBA1D-1DB2-488D-ACF6-B5BD6C5F3865}']"
+          s:ds="8e136269-1c78-4e97-bb1c-30c423ce51fd"
+          s:id="{C152F7DC-6C01-4380-BABB-97C9F080CF00}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/column-1-17/buttons-5" />
+        <r
+          uid="{8D082888-B098-45E5-8DE5-D984BCDAB55A}"
+          p:after="r[@uid='{DBBB8E19-B070-491E-8D68-83ED1EFFF52E}']"
+          s:ds="8e136269-1c78-4e97-bb1c-30c423ce51fd"
+          s:id="{C152F7DC-6C01-4380-BABB-97C9F080CF00}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/column-2-17/buttons-7" />
+        <r
+          uid="{BB68A92E-8D34-46D7-ADF0-C655B3558FB7}"
+          p:after="r[@uid='{8D082888-B098-45E5-8DE5-D984BCDAB55A}']"
+          s:ds="local:/Data/Image Left Variant"
+          s:id="{8C914279-4A11-4DE7-A6BC-EF0C9D9D253A}"
+          s:par="FieldNames=%7b772F732A-5CC1-42AE-868E-77F4909A951D%7d&amp;RenderingIdentifier&amp;Styles=%7c%7bB5BE3145-F380-455F-B064-9D75F8DD01B3%7d&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/fullwidth-14" />
+        <r
+          uid="{942E9534-B6AA-4170-ABFD-763F645339D7}"
+          p:after="r[@uid='{BB68A92E-8D34-46D7-ADF0-C655B3558FB7}']"
+          s:ds="local:/Data/ContentBlock - Default"
+          s:id="{8C914279-4A11-4DE7-A6BC-EF0C9D9D253A}"
+          s:par="FieldNames=%7bE1C3FBF6-7B32-4098-81E6-3607F3522776%7d&amp;RenderingIdentifier&amp;Styles=%7c%7b3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7d&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/column-1-17" />
+        <r
+          uid="{6C199611-F8E5-4236-8459-FDB76719A02B}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/ContentBlock - No Image"
+          s:id="{8C914279-4A11-4DE7-A6BC-EF0C9D9D253A}"
+          s:par="FieldNames=%7bE1C3FBF6-7B32-4098-81E6-3607F3522776%7d&amp;RenderingIdentifier&amp;Styles=%7c%7b3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7d&amp;CSSStyles&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/column-2-17" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T214844Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Content Block
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20241210T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd70a871-8cc1-4d89-a5ff-40e2e65903a0"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20241210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Content Block
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T145846Z

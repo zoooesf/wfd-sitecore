@@ -1,0 +1,84 @@
+﻿---
+ID: "15bab1fd-34a2-4da0-9132-70b307a775e2"
+Parent: "eff918ac-0333-40cb-8e6e-3a48ecdf2633"
+Template: "dec609e9-69ca-40cf-b477-02ef85bc6b08"
+Path: /sitecore/content/Sites/main/Home/MonthlyEventsSitecoreSearch/Data/EventListingWithFilters 1
+SharedFields:
+- ID: "61dbd30e-a5eb-4922-878e-6b0e05131060"
+  Hint: filterByKeyword
+  Value: "{F1EE9552-FE23-4650-A938-787BDBCC91AE}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0d4f1576-d122-41f2-92d8-31e79a59b3b8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T203007Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_11
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "283c7437-1b97-4fd0-a54b-81b2cab62f41"
+    - ID: "91e37c57-2ef2-48a3-8c9c-18b0ba46aae8"
+      Hint: filterByTags
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Monthly Events (Sitecore Search)
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T170901Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T203907Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d699d62-1485-4f85-af26-11ca42a822bd"
+    - ID: "b5f50f8f-e4fe-4417-9ab6-24ad823249af"
+      Hint: noResultsText
+      Value: "Aucun élément ne correspond à la condition de filtre, affichez-les tous à la place."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Événements mensuels (Sitecore Search)
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T170901Z

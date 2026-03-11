@@ -1,0 +1,12 @@
+query GetPeoplePageDisplayNamePerLanguage($itemId: String!) {
+  item(path: $itemId, language: "en") {
+    id
+    path
+    languages {
+      language {
+        name
+      }
+      displayName
+    }
+  }
+}

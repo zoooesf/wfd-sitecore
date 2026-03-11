@@ -1,0 +1,23 @@
+﻿---
+ID: "5889ebfa-937e-4eba-93b6-71523d3cf46b"
+Parent: "9da7a6a1-3b43-4043-80b7-0f8b20588dd4"
+Template: "6c671e4d-1e3e-44a1-8d18-94a3dbbc44cc"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Article Footers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250508T191252Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88c056f3-0e0f-4423-a79b-999d4d8681e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T191355Z

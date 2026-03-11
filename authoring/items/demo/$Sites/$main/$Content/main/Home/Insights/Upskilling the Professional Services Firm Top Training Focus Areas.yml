@@ -1,0 +1,141 @@
+﻿---
+ID: "34aeaa09-5b91-4d4f-a926-f2272a05b633"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Upskilling the Professional Services Firm Top Training Focus Areas
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {D9518380-54CC-40B4-BDB1-30BA616F9DB4}
+    {8544A62E-1ECF-4B1E-8B7D-A58991250FC8}
+    {89A9EBF8-4E5C-43B4-BCFA-F8044A429819}
+    {5022F605-C8EB-4AE4-8C5F-36DD5C8E3E8F}
+    {06972DD5-7B19-454D-82FF-67BA05FF5481}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AF8BDB1B-0829-4BBD-AFC6-3FE0240716D0}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b202707f-5bdf-4164-9331-91d0cb6772f7"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{2FEF8849-5C1B-41D9-BDCD-009EEE6634A3}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{902053F2-5639-45A4-9588-D57107E543F8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T220438Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Upskilling the Professional Services Firm Top Training Focus Areas
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e299b73-afe0-44b9-a499-a1321530b1c5"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250215T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Upskilling the Professional Services Firm: Top Training Focus Areas"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Targeting leadership, communication, and digital competency to drive performance and growth in Professional Services.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>In the highly competitive <strong>Professional Services</strong> landscape, continuous <strong>Training &amp; Development</strong> is the engine of growth and client retention. Firms must invest in upskilling their talent to keep pace with digital disruption and evolving client expectations. Key focus areas are shifting from pure technical proficiency to soft skills that foster leadership and effective client interaction.</p>
+        <p>Research indicates that focusing on five core areas&mdash;Management, Communication, Leadership, Customer Service, and Sales skills&mdash;has the greatest impact on employee performance and organizational success.</p>
+        <h3><strong>Critical Professional Development Focus Areas for 2024</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Training Focus Area</th>
+                    <th>Core Skills to Develop</th>
+                    <th>Impact on Firm Growth</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Leadership</strong></td>
+                    <td style="text-align:left;">Emotional intelligence, strategic vision, mentorship.</td>
+                    <td style="text-align:left;"><strong>Improved retention</strong> of high-potential employees; better project outcomes.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Communication</strong></td>
+                    <td style="text-align:left;">Active listening, conflict resolution, impactful presentation skills.</td>
+                    <td style="text-align:left;"><strong>Stronger client relationships</strong> and reduced scope creep on <strong>Project Management</strong>.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Management</strong></td>
+                    <td style="text-align:left;">Team motivation, delegation, performance management.</td>
+                    <td style="text-align:left;"><strong>Higher productivity</strong> (up to 13% higher for organizations prioritizing well-being).</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Digital Competency</strong></td>
+                    <td style="text-align:left;">AI tool integration, data analytics, new software proficiency.</td>
+                    <td style="text-align:left;"><strong>Increased efficiency</strong> and ability to deliver data-driven insights.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Customer Service</strong></td>
+                    <td style="text-align:left;">Client empathy, proactive account management, relationship building.</td>
+                    <td style="text-align:left;"><strong>Higher client satisfaction</strong> and repeat business.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>A successful training strategy requires an initial needs assessment&mdash;getting feedback from employees about what they need help with, rather than simply implementing new programs dictated from the top.</p>
+        <blockquote>
+        <p>"Employee training is most effective when leaders are demonstrative. Be very clear about what this is supposed to change. Help people understand the impact and why you're training people."</p>
+        </blockquote>
+        <p>For senior consultants, this training is often behavioral and long-term, requiring bite-sized lessons and a "waterfall" approach&mdash;moving from large group training sessions to small, granular discussion groups. This model allows consultants to wrestle with new concepts and test their knowledge individually, securing long-term adoption of new strategies.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154156Z

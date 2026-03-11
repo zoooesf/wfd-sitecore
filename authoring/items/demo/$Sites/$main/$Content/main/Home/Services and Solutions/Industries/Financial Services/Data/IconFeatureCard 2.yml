@@ -1,0 +1,44 @@
+﻿---
+ID: "0c98019a-2e7c-4cac-a28c-c5596a01fc96"
+Parent: "d4f345aa-2f88-42e5-b285-f5462f0c489a"
+Template: "e61a1436-8633-4b68-9921-9db4f30cd33a"
+Path: /sitecore/content/Sites/main/Home/Services and Solutions/Industries/Financial Services/Data/IconFeatureCard 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T043107Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "86daf9ae-26e1-47c2-8e0e-a07d398670bd"
+      Hint: imageIcon
+      Value: "{BF88E7BC-0660-4A1C-A7C7-D673212A0016}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f73b0b44-58b2-47b2-88e3-a0b9d1a94cf8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Regulatory Compliance
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>Ensuring adherence to stringent global regulations (e.g., AML, Basel III).</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T183543Z

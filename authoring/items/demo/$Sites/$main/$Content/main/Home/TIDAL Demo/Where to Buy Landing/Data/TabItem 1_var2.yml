@@ -1,0 +1,41 @@
+﻿---
+ID: "f07cdb7b-3b1a-4b84-8d58-f882aed943bf"
+Parent: "e5586d7d-e79c-4bdf-b345-8e2dd637384d"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Where to Buy Landing/Data/TabItem 1_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T162104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "978eca8d-73a3-47e9-8612-f902ea285c6d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Online Channels
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p><strong>Omnichannel Purchase Options</strong></p><p>Beyond physical locations, direct customers to your e-commerce site, marketplace listings, and authorized online retailers. Set priority rankings, display promotional pricing, and track which channels drive the most conversions.<br />Channel Types:</p><ul><li>Brand direct e-commerce</li><li>Amazon, eBay, Walmart.com</li><li>Specialty online retailers</li><li>Subscription services</li><li>Mobile app purchases</li></ul></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T171956Z

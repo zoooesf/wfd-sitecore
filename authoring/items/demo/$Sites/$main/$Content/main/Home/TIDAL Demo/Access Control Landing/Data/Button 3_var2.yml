@@ -1,0 +1,38 @@
+﻿---
+ID: "21237b65-c54f-48db-ae67-3678f17bd704"
+Parent: "7ec030ed-b502-48aa-8a07-5bc990d70238"
+Template: "4b5b1733-69bd-4c16-8e44-08b62ddfff3f"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Data/Button 3_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251205T232129Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a67ce3eb-1998-4f31-86c1-db3c76c0cefe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="0f0d54a3a8704806b469c649a716ee0e" anchor="" querystring="" target="" class="" text="Attestation Lockdown" title=""/>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251208T192829Z

@@ -1,0 +1,134 @@
+﻿---
+ID: "333fd206-f8ae-4fcc-b189-63ce4ea5f224"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Digital Twins and the Aerospace Factory Floor Optimizing Production
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {FC702CC2-555E-45B9-8801-FD46AF52C7DB}
+    {3AD028EF-640B-47C9-9DC4-8F15539A5D2E}
+    {2E806A86-403F-470E-BAA9-9A5D3C18B5B3}
+    {51958C7A-2629-4C41-88B3-1317A08263F5}
+    {501C010D-E961-4FA1-95AA-93C891E9AA32}
+    {8C666B5A-BF50-45D8-9E4B-C3B5FBA48E48}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2E35B212-2A66-4B3E-B361-CF356F83E934}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "061a44bc-7782-4f22-a01e-4c8de556874c"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{E27B183D-DF12-4079-A47D-3EA2D50B3837}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{4CC6E145-BC9C-4C1B-9F46-76C5DAA4E809}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{DC55C6D1-976F-4607-A143-EEA333B67ED7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T215231Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Digital Twins and the Aerospace Factory Floor Optimizing Production
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{DC55C6D1-976F-4607-A143-EEA333B67ED7}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b57ecdf-c775-4441-b007-fbcc1a36ab5b"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240601T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Digital Twins and the Aerospace Factory Floor Optimizing Production
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: How digital transformation and AI technologies are delivering unprecedented process optimization and operational efficiency improvements to help aerospace manufacturers address and resolve the massive aircraft backlog that continues to challenge global supply chains.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p>The <strong>Aerospace</strong> industry is grappling with a monumental challenge: meeting surging demand against a backlog of over <strong>15,000 aircraft</strong> for major manufacturers by 2025. To close this gap without hiring a plethora of new workers, the industry is accelerating its digital transformation, with manufacturers forecast to spend <strong>$33.6 billion on digitalization in 2024</strong>, rising to <strong>$53.8 billion by 2034</strong>.</p>
+        <p>The key technology driving this surge in <strong>Process Optimization</strong> is the <strong>Digital Twin</strong>. This virtual replica of a physical process, product, or system allows manufacturers to simulate changes, identify bottlenecks, and test new production flows without disrupting the actual factory floor.</p>
+        <h3><strong>Impact of Digital Technology on Aerospace Manufacturing</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Technology</th>
+                    <th>Impact on Manufacturing Process</th>
+                    <th>Optimization Metric</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>Digital Twins</strong></td>
+                    <td style="text-align: left;">Virtual modification of production lines and robot scheduling.</td>
+                    <td style="text-align: left;"><strong>Reduced Bottleneck Time</strong> (up to 15% in complex assembly).</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>CNC Machining</strong></td>
+                    <td style="text-align: left;">High-precision fabrication of lightweight materials (Titanium, Carbon Fiber).</td>
+                    <td style="text-align: left;"><strong>Improved Part Performance</strong> (tighter tolerances, less material waste).</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>AI/Data Analytics</strong></td>
+                    <td style="text-align: left;">Automation of simple decision-making processes.</td>
+                    <td style="text-align: left;"><strong>Quicker Decision-Making</strong> (allowing engineers to focus on complex problems).</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Asset Tracking</strong></td>
+                    <td style="text-align: left;">Real-time visibility of tools and equipment.</td>
+                    <td style="text-align: left;"><strong>Reduced Downtime</strong> (preventing lost tool/equipment search time).</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>This digital thread, which connects the entire supply chain and manufacturing operations, is crucial for maintaining the stringent <strong>Quality Assurance</strong> and safety standards of the industry. The ability to monitor Operational Technology (OT) assets and provide real-time visibility is also essential for cybersecurity, mitigating risks that could lead to financial losses or, critically, safety failures.</p>
+        <blockquote>
+        <p>"To scale the production of planes and related equipment, manufacturers must adopt digital technologies that provide visibility into operations/supply chains. They must build a digital thread across their supply chain and manufacturing operations."</p>
+        </blockquote>
+        <p>The integration of advanced Computer Numerical Control (<strong>CNC</strong>) machining continues to be fundamental, ensuring the high-precision required for components like those made from Titanium (45% lighter than steel, with greater strength) and Carbon Fiber.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T153135Z

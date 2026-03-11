@@ -1,0 +1,23 @@
+﻿---
+ID: "5910e95f-0326-43e0-927c-5667d1d00ac4"
+Parent: "3ff57d19-4aa5-4c44-b046-e7d142c57950"
+Template: "a1fefd6a-a6eb-40b4-8c5d-669d61d0d4d1"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Partial Designs/Article
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T212359Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d255f7ea-db8c-4e22-b7f3-b0a382e8a325"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241106T212359Z

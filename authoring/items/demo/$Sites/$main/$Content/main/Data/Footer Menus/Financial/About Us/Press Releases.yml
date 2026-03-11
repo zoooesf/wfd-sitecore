@@ -1,0 +1,42 @@
+﻿---
+ID: "b0d2038a-9917-4a20-81b0-8d972f0c5361"
+Parent: "bad994d7-6dd1-4e30-ac97-4d3e70bd4a6b"
+Template: "1e43d8ef-fd59-49fa-9056-ee3ba474f58b"
+Path: /sitecore/content/Sites/main/Data/Footer Menus/Financial/About Us/Press Releases
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ead098e5-2ceb-4f87-b464-0e7a57ee24ed"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251014T014643Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "149bb15d-e912-4b2f-8cdf-a04e104cab5a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Press Releases" anchor="" linktype="internal" class="" title=""  querystring="" id="{A017F997-3FDE-4FC4-9875-18551875C698}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251014T014701Z

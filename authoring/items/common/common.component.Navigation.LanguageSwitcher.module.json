@@ -1,0 +1,23 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Navigation-LanguageSwitcher",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Navigation/$LanguageSwitcher/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Navigation/LanguageSwitcher",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Navigation/$LanguageSwitcher/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Navigation/LanguageSwitcher",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

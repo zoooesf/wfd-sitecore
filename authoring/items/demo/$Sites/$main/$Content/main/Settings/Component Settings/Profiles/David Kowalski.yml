@@ -1,0 +1,94 @@
+﻿---
+ID: "53b74ab5-9063-4a1f-9b52-7596d488422f"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/David Kowalski
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {FC4BA8A1-739B-4FD0-B76E-A65B93A1C65D}
+    {42FA0148-D75D-4DA4-AE5D-FDA995DA6BAA}
+    {40CE8693-9052-4BBB-9597-001ECC1FE384}
+    {CADD138F-44A7-4747-AB35-7C728966FCCD}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{11EEA854-2687-45BA-B5D4-AF066644520F}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: David
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "bffeb2d3-94d3-42ec-844c-f4f5889e9767"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Kowalski
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: david.kowalski@safeworkind.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{DD06C36B-AB26-49E5-B3FA-193FEF532BC8}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Director of Safety & Compliance
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T174056Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(713) 555-0245"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{DD06C36B-AB26-49E5-B3FA-193FEF532BC8}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: SafeWork Industrial Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73800170-9ad7-47b0-ac96-59dbe79af492"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>David Kowalski is a recognized expert in industrial safety with 19 years of experience protecting workers in high-risk environments. At SafeWork Industrial Solutions, he develops and implements comprehensive safety programs for clients in oil and gas, chemical processing, and heavy manufacturing industries. His systematic approach to risk assessment and safety culture development has helped client organizations reduce workplace incidents by an average of 55%.</p>
+        <p>A Certified Safety Professional (CSP) and Certified Industrial Hygienist (CIH), David has conducted thousands of safety audits and trained over 10,000 workers in safe work practices. He started his career as a safety engineer in the petrochemical industry and has witnessed firsthand the critical importance of proactive safety management. David holds a degree in Occupational Safety and Health from Texas A&amp;M University and regularly contributes to OSHA standard development committees. He is passionate about creating workplaces where every employee returns home safely.</p>
+        <!--<h2>Experience</h2>
+        <p>19 years of experience in industrial safety, protecting workers in high-risk environments. He develops and implements comprehensive safety programs for clients in oil and gas, chemical processing, and heavy manufacturing.</p>
+        <h2>Achievements</h2>
+        <p>His systematic approach to risk assessment has helped client organizations reduce workplace incidents by an average of 55%. He has conducted thousands of safety audits and trained over 10,000 workers.</p>
+        <h2>Professional Involvement</h2>
+        <p>He is a Certified Safety Professional (CSP) and Certified Industrial Hygienist (CIH). He regularly contributes to OSHA standard development committees.</p>
+        <h2>Community Involvement</h2>
+        <p>Passionate about creating workplaces where every employee returns home safely.&nbsp;</p>
+        <h2>Education</h2>
+        <p>Holds a degree in Occupational Safety and Health from Texas A&amp;M University.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200003Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

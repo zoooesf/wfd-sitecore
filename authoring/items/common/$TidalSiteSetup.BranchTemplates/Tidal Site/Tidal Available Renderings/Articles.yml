@@ -1,0 +1,44 @@
+﻿---
+ID: "be939be8-fbbe-45c1-94d4-fe5bc6af4b7e"
+Parent: "f268de7b-87ad-4624-9495-daa73d2e35cc"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Available Renderings/Articles
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {C764D302-9571-4FA3-B2C0-A239C6A77A7D}
+    {231F637C-0461-4BC6-A18A-683E039A884C}
+    {07B66E75-E473-4F15-8880-509E6A6FF54C}
+    {3FB16CCE-B455-4A98-8610-A025E9F96C6C}
+    {358EAADD-3A03-4FE8-8A04-6D0BF849BF13}
+    {91821AA1-E6BE-4404-8D00-CF6E859CDF0B}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7b27a515-b643-4bf8-9ce5-3d6e1cbe5907"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241109T003956Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3af98cb5-e4ed-4829-9850-d9637d82c5b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251209T205144Z

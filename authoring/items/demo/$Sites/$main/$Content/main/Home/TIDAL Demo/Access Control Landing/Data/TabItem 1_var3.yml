@@ -1,0 +1,41 @@
+﻿---
+ID: "e9522904-1459-411a-a035-d5773ce0c199"
+Parent: "7ec030ed-b502-48aa-8a07-5bc990d70238"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Data/TabItem 1_var3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72154b53-b4d0-4683-bb47-3933ea783d41"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Attestation Requirements
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p><strong>Documented Consent and Acknowledgment</strong><br />Attestation Locked Down requires users to explicitly agree to terms, policies, or acknowledgments before accessing content. This creates an auditable record of user consent and ensures compliance with legal and regulatory requirements.</p><p><strong>Key Capabilities:</strong></p><ul><li>Fully customizable attestation text and terms</li><li>Time-stamped consent records for compliance auditing</li><li>Version control for updated terms and conditions</li><li>Required re-attestation when terms change</li></ul><p><strong>Ideal Use Cases:</strong><br />Legal documents, compliance training materials, regulated content, terms of service agreements, confidentiality requirements, and any content requiring documented user acknowledgment.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251205T231101Z

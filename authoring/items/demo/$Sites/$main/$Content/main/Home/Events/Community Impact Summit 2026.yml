@@ -1,0 +1,139 @@
+﻿---
+ID: "758042e8-5149-4281-97af-c966485cc32d"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Community Impact Summit 2026
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {7873384A-BBFA-4F95-91F2-81D0EAA3F0FF}
+    {0E3FA551-F9DB-4A5A-A139-D43370DF8132}
+    {E4398AA0-10ED-4623-94C5-2F1A04535B66}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{52942D29-7DA7-47D3-B34F-1B8E5A4AE560}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7679e003-6887-4aa3-90cd-955263ed0c01"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{98519373-B6DD-442B-8EA7-F18B6BB5DA10}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {834F83C1-9E24-4E8A-BA4F-6D8F7911ACA0}
+    {3BC6EC1D-DBA6-441A-A23E-903BFDD77F34}
+    {EFA68045-6826-42FC-B40F-EDA8C61A6062}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{1B3238AA-6815-4CEB-B75C-7EBA334C4EE1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {AEE6043C-8520-499A-B941-C600AE2A0992}
+        {9D7C3FDD-2A0A-4737-A2FC-1FF5404B0BA1}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{03C11CA4-BD4F-4C8B-B130-B6B34D5658EA}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260315T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T200254Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Community Impact Summit 2026
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{03C11CA4-BD4F-4C8B-B130-B6B34D5658EA}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:00am"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260315T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a63afee-9c1d-44bf-919a-2ea79a58e300"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Community Impact Summit 2026
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Empowering Organizations to Drive Social Change</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>Join us for the annual Community Impact Summit, where nonprofit leaders, community organizers, and social impact professionals gather to explore innovative strategies for driving meaningful change. This year's summit focuses on maximizing grant effectiveness, building sustainable advocacy programs, and measuring community outcomes. Attendees will gain practical insights from industry experts and connect with peers facing similar challenges in the nonprofit sector.</p>
+        <h2>What to Expect</h2>
+        <p>A single-day summit featuring a keynote by <strong>Sarah Mitchell</strong> on "Building Resilient Nonprofit Organizations", workshop sessions including a <strong>Grant Writing Masterclass</strong>, a panel discussion on <strong>Community Outreach in the Digital Age</strong>, breakout sessions, and a closing <strong>Reception</strong>.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li>Maximizing <strong>Grant Effectiveness</strong></li>
+            <li>Building <strong>Sustainable Advocacy Programs</strong></li>
+            <li>Measuring <strong>Community Outcomes</strong> and Social Impact</li>
+            <li><strong>Grant Writing</strong> Masterclass</li>
+            <li><strong>Community Outreach</strong> in the Digital Age</li>
+            <li><strong>Donor Engagement</strong> Strategies</li>
+        </ul>
+        <h2>Agenda</h2>
+        <ul>
+            <li>8:00am - Registration &amp; Continental Breakfast</li>
+            <li>9:00am - Keynote: "Building Resilient Nonprofit Organizations" by Sarah Mitchell</li>
+            <li>10:30am - Workshop Sessions: Grant Writing Masterclass, Advocacy Campaign Development</li>
+            <li>12:00pm - Networking Lunch</li>
+            <li>1:30pm - Panel Discussion: Community Outreach in the Digital Age</li>
+            <li>3:00pm - Breakout Sessions: Measuring Social Impact, Donor Engagement Strategies</li>
+            <li>4:30pm - Closing Remarks by Rachel Thompson</li>
+            <li>5:00pm - Reception</li>
+        </ul>
+        <h2>A Must-Attend Event For</h2>
+        <p>Professionals facing challenges in the nonprofit sector who want to gain <strong>practical insights</strong> and <strong>connect with peers</strong> to drive meaningful change.&nbsp;</p>
+        <h2>Industry Testimonials</h2>
+        <blockquote>
+        <p>"The practical strategies we learned for measuring social impact directly led to a 15% increase in our grant application success rate. A truly indispensable summit for any nonprofit leader." &mdash; <em>Maria Chen, Executive Director, Hope Foundation</em></p>
+        </blockquote>
+        <blockquote>
+        <p>"I came away with a complete framework for building a sustainable advocacy program. The session on community outreach in the digital age was particularly valuable and immediately actionable." &mdash; <em>David Lee, Program Manager, Local Community Initiatives</em></p>
+        </blockquote>
+        <h2>Location Details</h2>
+        <p><strong>Chicago Convention Center</strong></p>
+        <p>2301 S Martin Luther King Dr<br />
+        Chicago, IL<br />
+        60616</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204733Z

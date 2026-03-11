@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-PageContent-Button",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$PageContent/$Button/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Page Content/Button",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$PageContent/$Button/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Page Content/Button",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$PageContent/$Button/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Page Content/Page Content Headless Site Setup/Add Buttons Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

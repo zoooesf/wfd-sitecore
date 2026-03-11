@@ -1,0 +1,33 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Cards-CardCarousel",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Cards/$CardCarousel/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Cards/CardCarousel",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Cards/$CardCarousel/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Cards/CardCarousel",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Cards/$CardCarousel/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/Cards/CardCarousel",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Cards/$CardCarousel/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Cards/Cards Headless Site Setup/Add Card Carousels Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

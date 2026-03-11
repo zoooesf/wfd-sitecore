@@ -1,0 +1,27 @@
+﻿---
+ID: "68c93fca-ddf2-4e76-9f9a-ef475c0d208e"
+Parent: "6e7e744e-bba1-48b2-84ee-0b9ff699cab7"
+Template: "7e89c966-e6e7-45ea-b2ed-bc7f7b40e6f4"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Headers/Header/Nav Dropdown/Dropdown Col 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T161411Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09f1c1e8-d5fd-42dc-bd36-809183c2aa4e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Dropdown Col 2" anchor="" linktype="internal" class="" title=""  querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T155836Z

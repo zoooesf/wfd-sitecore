@@ -1,0 +1,123 @@
+﻿---
+ID: "255cae06-2066-41e0-a464-fc0d35013775"
+Parent: "3d0abd5f-73e5-47b7-8e03-b4f878441620"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/JSS SXA/Tidal Site/Functions/Map Tidal Partial Designs
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    function Invoke-ModuleScriptBody {
+        [CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0)]
+            [Item]$Site,
+    
+            [Parameter(Mandatory = $true, Position = 1)]
+            [Item[]]$TenantTemplates
+        )
+    
+        begin {
+            Write-Verbose "Invoke-ModuleScriptBody - Begin"
+        }
+    
+        process {
+            $sitePath = $Site.Paths.Path
+            Write-Verbose "Target site: $sitePath"
+    
+            # Path to Page Designs
+            $pageDesignsPath = "$sitePath/Presentation/Page Designs"
+            $pageDesigns = Get-ChildItem -Path $pageDesignsPath -ErrorAction SilentlyContinue
+    
+            if (-not $pageDesigns) {
+                Write-Warning "No Page Designs found at $pageDesignsPath"
+                return
+            }
+    
+            foreach ($pageDesign in $pageDesigns) {
+                Write-Verbose "Processing Page Design: $($pageDesign.Name)"
+    
+                $fieldValue = $pageDesign.Fields["PartialDesigns"].Value
+                if ([string]::IsNullOrWhiteSpace($fieldValue)) {
+                    continue
+                }
+    
+                $updatedIds = @()
+                $ids = $fieldValue -split "\|"
+    
+                foreach ($id in $ids) {
+                    $oldItem = Get-ItemByIdSafe $id
+                    if (-not $oldItem) {
+                        Write-Warning "Could not resolve item for ID $id"
+                        continue
+                    }
+    
+                    # Get relative path after "Tidal Partial Designs"
+                    $relativePath = $null
+                    if ($oldItem.Paths.Path -match "Tidal Partial Designs(.*)$") {
+                        $relativePath = $Matches[1]
+                    }
+    
+                    if (-not $relativePath) {
+                        Write-Warning "Could not determine relative path for $($oldItem.Paths.Path)"
+                        continue
+                    }
+    
+                    # Build new site path
+                    $newPath = "$sitePath/Presentation/Partial Designs$relativePath"
+                    $newItem = Get-Item -Path $newPath -ErrorAction SilentlyContinue
+    
+                    if ($newItem) {
+                        Write-Verbose "Mapping $($oldItem.Paths.Path) → $($newItem.Paths.Path)"
+                        $updatedIds += $newItem.ID.ToString()
+                    }
+                    else {
+                        Write-Warning "Could not find new item at $newPath"
+                        # fallback to old ID to avoid breaking field completely
+                        $updatedIds += $id
+                    }
+                }
+    
+                if ($updatedIds.Count -gt 0) {
+                    $newValue = [string]::Join("|", $updatedIds)
+                    Write-Verbose "Updating PartialDesigns field for $($pageDesign.Name)"
+                    $pageDesign.Editing.BeginEdit()
+                    $pageDesign.Fields["PartialDesigns"].Value = $newValue
+                    $pageDesign.Editing.EndEdit()
+                }
+            }
+        }
+    
+        end {
+            Write-Verbose "Invoke-ModuleScriptBody - End"
+        }
+    }
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "10223d0a-b677-4d52-8511-929c2c8b5b9c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250819T142049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0d1e710-7867-4f8a-be5c-8edaf35ff94c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250819T142101Z

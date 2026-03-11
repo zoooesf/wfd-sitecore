@@ -1,0 +1,29 @@
+﻿---
+ID: "161fc50b-5758-4bc3-a7f1-3ed1c4f2835e"
+Parent: "3a60c4f4-534e-4fda-b98f-df4cd02d6d55"
+Template: "3374fc7c-bc84-45f6-a9dc-36ed93c75934"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Aisha Patel/Involvements/Involvement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T175303Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3375941b-16c4-4ddd-86ef-09cc6974f847"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Board Member, Global Education Initiative
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Serves on the board of directors, focusing on expanding educational access to underserved communities globally. Chairs the Strategic Planning Committee.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251107T045048Z

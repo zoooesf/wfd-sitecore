@@ -1,0 +1,34 @@
+﻿---
+ID: "2d4e8735-5605-469f-8480-19c349454429"
+Parent: "04db3135-c16e-4172-bd7e-26c93dff85e9"
+Template: "4e773ebc-ccf1-4fa9-9da1-fbeda98fc280"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Samantha Brooks/Achievements/Achievement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T174742Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2436cdd-fc39-4fd1-a122-10260f58687c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Protected clients from major breaches and helped them maintain compliance with regulations including GDPR and CCPA. She built a security operations center that monitors threats 24/7.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T174748Z

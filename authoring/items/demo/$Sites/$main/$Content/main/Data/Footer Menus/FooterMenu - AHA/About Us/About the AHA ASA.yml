@@ -1,0 +1,42 @@
+﻿---
+ID: "41952533-6c57-44fc-8715-99e45bb7b23f"
+Parent: "e7e8c194-2d35-4b3b-9167-fb9b9095d44b"
+Template: "1e43d8ef-fd59-49fa-9056-ee3ba474f58b"
+Path: "/sitecore/content/Sites/main/Data/Footer Menus/FooterMenu - AHA/About Us/About the AHA ASA"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "da6359a9-bdd8-4628-94a6-83a170ef1dd2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T225150Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6a0823e-0743-47bc-8374-970423b2af1b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="About the AHA/ASA" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DAD6E888-5B57-4F64-B39F-51DAF3D5B524}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T153028Z

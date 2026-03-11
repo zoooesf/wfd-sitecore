@@ -1,0 +1,31 @@
+﻿---
+ID: "75d3a3a1-f1bf-4317-8808-2d4f411428bd"
+Parent: "cef631b6-001c-4fcc-908c-3da40c8deb44"
+Template: "66569dfc-30f1-4878-991d-0fd182e3346c"
+Path: /sitecore/content/Sites/main/Home/About us/Client Success/Long term Partnerships/Data/ContentBlock 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T182433Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "710f1478-805f-49c0-8838-1685c95500ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T182433Z

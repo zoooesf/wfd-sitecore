@@ -1,0 +1,14 @@
+fragment TagsDetailsFragment on CommonBasePage {
+  sxaTags {
+    targetItems {
+      name
+      id
+      displayName
+      ... on Tag {
+        title {
+          value
+        }
+      }
+    }
+  }
+}

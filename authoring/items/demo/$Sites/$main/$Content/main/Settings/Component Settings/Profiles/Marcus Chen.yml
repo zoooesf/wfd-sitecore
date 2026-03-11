@@ -1,0 +1,96 @@
+﻿---
+ID: "4cc6e145-bc9c-4c1b-9f46-76c5daa4e809"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Marcus Chen
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {FC85028A-39C3-41E4-BF22-1BF6AB0A4F6E}
+    {908CF21A-F0B3-4757-A74E-5D8D4E83913D}
+    {9B91D30A-AC9E-4DD2-9305-9D38EA2581AC}
+    {6871299F-DF6A-4F95-B1C9-C8608145DC1E}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{887E53A3-1DAA-4E9D-A45C-542C441C9066}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Marcus
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2b2d43d1-d6a0-4a55-8415-419a981cb1c3"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Chen
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: marcus.chen@powergridinnovations.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{EA1B0EEB-6B19-4291-A9EF-C7B89CEECA0B}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: VP of Engineering
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T190025Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(415) 555-0892"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{EA1B0EEB-6B19-4291-A9EF-C7B89CEECA0B}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: PowerGrid Innovations
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ccfb18e-e2bb-4b97-ad82-c6f4327e3959"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Marcus Chen is a visionary engineer with 15 years of experience in the energy sector, focusing on renewable energy integration and smart grid technologies. At PowerGrid Innovations, he leads a team of 200+ engineers developing next-generation energy management systems that optimize power distribution and maximize renewable energy utilization. Marcus has been instrumental in deploying smart grid solutions across major metropolitan areas, reducing energy waste by up to 30%.</p>
+        <p>His work has earned recognition from the Department of Energy and multiple industry awards for innovation in clean technology. Marcus holds a Ph.D. in Electrical Engineering from MIT and has authored over 40 peer-reviewed papers on energy systems. He is passionate about accelerating the transition to sustainable energy and regularly collaborates with policy makers to shape energy infrastructure standards.</p>
+        <!--<h2>Experience</h2>
+        <p>Marcus has <strong>25 years of experience</strong> in power systems engineering, specializing in large-scale renewable energy integration and grid modernization projects. His team is responsible for the design and deployment of smart grid infrastructure across multiple major metropolitan areas.</p>
+        <h2>Achievements</h2>
+        <p>Led the development and commercialization of a <strong>patented high-efficiency energy storage solution</strong> that successfully stabilized a regional grid's reliance on intermittent solar power, leading to a <strong>15% reduction in peak-hour energy costs</strong>.</p>
+        <h2>Professional Involvement</h2>
+        <p><strong>Senior Member of the Institute of Electrical and Electronics Engineers (IEEE)</strong>, serving on the <strong>Power &amp; Energy Society (PES)</strong> working group for next-generation smart grid standards. Active member of the <strong>American Public Power Association (APPA)</strong>.</p>
+        <h2>Community Involvement</h2>
+        <p>Established and manages an engineering mentorship program for high school students, focusing on recruiting talent from disadvantaged backgrounds into STEM fields through the <strong>Boys &amp; Girls Clubs of America</strong>.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Recipient of the <strong>IEEE PES Award for Excellence in Power Distribution Engineering</strong> (2024). Awarded the <strong>Utilities &amp; Energy Innovation Award</strong> from the Energy Systems Integration Group (ESIG).</p>
+        <h2>Education</h2>
+        <p><strong>Ph.D. in Electrical Engineering</strong> from <strong>Stanford University</strong>. <strong>M.S. and B.S. in Electrical Engineering</strong> from the <strong>University of California, Berkeley</strong>.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T195059Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

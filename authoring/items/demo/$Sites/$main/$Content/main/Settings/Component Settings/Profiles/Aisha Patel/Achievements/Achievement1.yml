@@ -1,0 +1,26 @@
+﻿---
+ID: "b03fd918-b494-4670-8157-2f89d0c1934c"
+Parent: "ff50b07c-d4f1-4f27-bacc-2bd2455a3432"
+Template: "4e773ebc-ccf1-4fa9-9da1-fbeda98fc280"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Aisha Patel/Achievements/Achievement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T175252Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8a5a11-3098-428e-a122-95238b617ca7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Led digital transformation initiatives for 15+ Fortune 500 companies, resulting in an average 40% increase in operational efficiency
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251107T030935Z

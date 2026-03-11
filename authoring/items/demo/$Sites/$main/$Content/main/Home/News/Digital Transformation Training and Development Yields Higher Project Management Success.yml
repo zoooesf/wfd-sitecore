@@ -1,0 +1,98 @@
+﻿---
+ID: "6a6357cc-d5b2-40ed-a460-fc859b14059d"
+Parent: "a017f997-3fde-4fc4-9875-18551875c698"
+Template: "740d9507-e20d-486d-9f70-c89210c503d8"
+Path: /sitecore/content/Sites/main/Home/News/Digital Transformation Training and Development Yields Higher Project Management Success
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {D9518380-54CC-40B4-BDB1-30BA616F9DB4}
+    {0E59078D-1124-4E3D-8F3D-CC1FEA8C6CA6}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{7F94B936-A981-4048-986F-5A0D58FFB471}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3fe61314-3049-4116-a8a5-1830c017d46c"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{AC8D12AD-AE41-4E44-83EE-58A9D0083863}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1D9C2F46-1B25-4507-92CF-EE6C3722D516}"
+          s:par="GridParameters&amp;FieldNames={970E953E-6B00-433C-B314-A809DF4372EB}&amp;Styles={598C7743-668A-438C-8B64-048F7F1FD3A3}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" />
+        <r
+          uid="{D833E4BD-8439-4641-85F8-E8CBD9204817}"
+          s:par="GridParameters&amp;FieldNames={970E953E-6B00-433C-B314-A809DF4372EB}&amp;Styles={598C7743-668A-438C-8B64-048F7F1FD3A3}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2" />
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames={970E953E-6B00-433C-B314-A809DF4372EB}&amp;Styles={598C7743-668A-438C-8B64-048F7F1FD3A3}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{902053F2-5639-45A4-9588-D57107E543F8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{EF447068-4F4F-4967-81CB-05251F8E4EDF}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T175517Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Digital Transformation Training and Development Yields Higher Project Management Success
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{EF447068-4F4F-4967-81CB-05251F8E4EDF}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "671a5055-f51b-4b26-8296-d2c92017ecbe"
+      Hint: displayDateTime
+      Value: 20250120T084500Z
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81ada21f-3a52-42b3-83f7-97088cd7908b"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250120T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Digital Transformation Training & Development Yields Higher Project Management Success
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Internal Case Study Shows Correlation Between Targeted Training and Project Outcomes.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: "An internal case study analyzed the impact of a dedicated <strong>Training &amp; Development</strong> program focused on agile methodologies. The results indicate a direct correlation: teams that completed the new curriculum saw a 20% improvement in on-time delivery for complex <strong>Project Management </strong>assignments."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251121T162200Z

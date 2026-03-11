@@ -1,0 +1,15 @@
+fragment RecipeCardFieldsFragment on RecipePage {
+  name
+  ...ImageFieldFragment
+  ...HeadingFieldFragment
+  ...UrlPathFragment
+  title {
+    jsonValue
+  }
+  prepTime {
+    jsonValue
+  }
+  cookTime {
+    jsonValue
+  }
+}

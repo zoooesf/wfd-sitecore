@@ -1,0 +1,38 @@
+﻿---
+ID: "3d561732-fe98-428e-8b9a-4c9f8e43ebc6"
+Parent: "38fa31b0-9dbb-4791-840c-b17e13790e4e"
+Template: "4b5b1733-69bd-4c16-8e44-08b62ddfff3f"
+Path: /sitecore/content/Sites/main/Home/About us/Get Involved/Donate/Data/Button 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T162654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "089deccf-3b03-469b-9692-cc7c8c739b14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="de977dbd29224e8db18052c0274470e2" anchor="" querystring="" target="" class="" text="Contact for Corporate Giving" title=""/>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251014T161143Z

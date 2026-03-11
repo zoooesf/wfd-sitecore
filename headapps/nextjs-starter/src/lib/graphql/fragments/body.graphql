@@ -1,0 +1,5 @@
+fragment BodyFieldFragment on _Body {
+  body {
+    jsonValue
+  }
+}

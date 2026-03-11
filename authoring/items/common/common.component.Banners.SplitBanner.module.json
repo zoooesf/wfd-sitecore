@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Banners-SplitBanner",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Banners/$SplitBanner/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Banners/SplitBanner",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Banners/$SplitBanner/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Banners/SplitBanner",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Banners/$SplitBanner/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Banners/Banners Headless Site Setup/Add Split Banners Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+query GetContentTreeNavigation($pageID: String!, $language: String!, $templateId: String!) {
+  item(path: $pageID, language: $language) {
+    ...PageFieldsFragment
+    children(includeTemplateIDs: [$templateId]) {
+      total
+      results {
+        ...PageFieldsFragment
+      }
+    }
+    parent {
+      ...PageFieldsFragment
+      children(includeTemplateIDs: [$templateId]) {
+        total
+        results {
+          ...PageFieldsFragment
+        }
+      }
+    }
+  }
+}

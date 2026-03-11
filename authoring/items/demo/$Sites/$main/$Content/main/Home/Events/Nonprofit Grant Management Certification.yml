@@ -1,0 +1,162 @@
+﻿---
+ID: "6914fcea-87b8-4985-a625-54c6e77f87e5"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Nonprofit Grant Management Certification
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {E4398AA0-10ED-4623-94C5-2F1A04535B66}
+    {7873384A-BBFA-4F95-91F2-81D0EAA3F0FF}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {28D97BA4-68DE-4820-904A-48B819E9058F}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2600
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{7A23C33C-5B39-4A28-AA00-FFDF9FC72B2D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "53106e00-9d74-411c-85df-8f1fedf90595"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{4F7ED673-AD85-4C4C-894F-9E93102616DA}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {834F83C1-9E24-4E8A-BA4F-6D8F7911ACA0}
+    {3BC6EC1D-DBA6-441A-A23E-903BFDD77F34}
+    {EFA68045-6826-42FC-B40F-EDA8C61A6062}
+    {7DEBB766-31C5-4867-88F2-40CAF7D73E8A}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{CD89ADA2-0EF2-4563-B93A-03D9BDBCA68D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {C5C74771-6E6B-4099-B2F8-72D79D7D6451}
+        {8E69F72D-F511-4AF8-97A5-44F8A3454669}
+        {9E846405-9D75-4DD9-90A3-085E75B29E3B}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260429T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T231400Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Nonprofit Grant Management Certification
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "9:00am-4:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260501T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0177387-50de-4b5b-8db5-fbd10f066f5e"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Nonprofit Grant Management Certification
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Maximizing Impact Through Strategic Grant Programs</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This comprehensive three-day certification program equips nonprofit professionals with the skills needed to effectively manage grant programs from application through reporting. Participants will learn grant writing best practices, budget development, compliance requirements, impact measurement, and relationship management with funding organizations.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li><strong>Grant Writing</strong> Fundamentals and Best Practices</li>
+            <li><strong>Grant Landscape</strong> and Funding Trends</li>
+            <li><strong>Grant Research</strong> and Identification</li>
+            <li><strong>Budget Development</strong> and Compliance/Reporting Requirements</li>
+            <li><strong>Grant Management Systems</strong> and Tools</li>
+            <li><strong>Impact Measurement and Evaluation</strong></li>
+            <li>Building <strong>Funder Relationships</strong></li>
+        </ul>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - April 29</strong></p>
+        <ul>
+            <li>9:00am - Welcome &amp; Program Overview</li>
+            <li>9:30am - Grant Landscape and Funding Trends by Sarah Mitchell</li>
+            <li>11:00am - Workshop: Grant Research and Identification</li>
+            <li>12:30pm - Lunch</li>
+            <li>1:30pm - Grant Writing Fundamentals by Aisha Patel</li>
+            <li>3:00pm - Practice Exercise: Proposal Development</li>
+            <li>4:00pm - Day 1 Close</li>
+        </ul>
+        <p><strong>Day 2 - April 30</strong></p>
+        <ul>
+            <li>9:00am - Budget Development for Grant Proposals</li>
+            <li>10:30am - Compliance and Reporting Requirements</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Grant Management Systems and Tools by Samantha Brooks</li>
+            <li>2:30pm - Workshop: Building Funder Relationships</li>
+            <li>4:00pm - Day 2 Close</li>
+        </ul>
+        <p><strong>Day 3 - May 1</strong></p>
+        <ul>
+            <li>9:00am - Impact Measurement and Evaluation</li>
+            <li>10:30am - Panel: Success Stories and Lessons Learned with Rachel Thompson</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:00pm - Final Project: Complete Grant Proposal</li>
+            <li>3:00pm - Presentations and Feedback</li>
+            <li>4:00pm - Certificate Ceremony</li>
+        </ul>
+        <h3>Who Should Attend</h3>
+        <ul>
+            <li>Nonprofit Professionals</li>
+            <li>Individuals focused on Grant Programs, Advocacy, Training &amp; Development, and Planning Tools</li>
+        </ul>
+        <h2>Industry Testimonials</h2>
+        <blockquote>
+        <p>"I feel fully prepared to manage our organization's $2 million grant portfolio now. The deep dive into compliance and reporting requirements was essential for certification." &mdash; <em>Mark Davis, Grant Program Coordinator, Youth Services Network</em></p>
+        </blockquote>
+        <blockquote>
+        <p>"The best professional development I've had all year. The instruction on funder relationship management provided the strategic perspective I needed to move from tactical writing to strategic program development." &mdash; <em>Jennifer Kim, Development Director, Environmental Advocacy Fund</em></p>
+        </blockquote>
+        <h2>Location Details</h2>
+        <p><strong>Washington DC Nonprofit Center</strong></p>
+        <p>1400 I St NW<br />
+        Washington, DC <br />
+        20005</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204736Z

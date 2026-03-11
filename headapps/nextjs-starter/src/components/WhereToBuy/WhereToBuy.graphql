@@ -1,0 +1,59 @@
+fragment BusinessProfileFragment on BusinessProfile {
+  contentName {
+    value
+  }
+  address {
+    value
+  }
+  email {
+    value
+  }
+  phone {
+    value
+  }
+  hours {
+    value
+  }
+  lat {
+    value
+  }
+  long {
+    value
+  }
+  website {
+    jsonValue
+  }
+  services {
+    jsonValue
+  }
+}
+
+query GetBusinessProfiles(
+  $pageID: String!
+  $language: String!
+  $endCursor: String
+  $first: Int = 5
+  $templateId: String!
+) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: CONTAINS }
+        { name: "_path", value: $pageID, operator: CONTAINS }
+        { name: "_language", value: $language, operator: EQ }
+      ]
+    }
+    first: $first
+    after: $endCursor
+  ) {
+    total
+    pageInfo {
+      endCursor
+      hasNext
+    }
+    results {
+      id
+      ...BusinessProfileFragment
+    }
+  }
+}

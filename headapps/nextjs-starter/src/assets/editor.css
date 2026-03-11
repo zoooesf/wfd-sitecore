@@ -1,0 +1,18 @@
+.hero-banner {
+  &.scEnabledChrome {
+    @apply md:min-h-hero-lg;
+  }
+}
+
+.three-card-banner .sc-jss-empty-placeholder,
+.link-column .sc-jss-empty-placeholder {
+  @apply w-full;
+}
+
+.ql-container {
+  @apply w-full;
+}
+
+.ck-editor__editable {
+  @apply w-full;
+}

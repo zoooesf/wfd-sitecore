@@ -1,0 +1,45 @@
+﻿---
+ID: "25bc78d0-9e89-4f37-bc96-8129e3f43b22"
+Parent: "355186da-b1f2-49f5-a0eb-411c5408c130"
+Template: "5685baa8-f223-4d06-869b-c2f14fafd488"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/People Landing/Data/CTABlock 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T190033Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ec4dd45-5226-4ee3-a6ba-9cc80aeebe53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Ready to Find the Expertise You Need, Instantly?"
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" querystring="" id="d95f9e88-72fd-46c1-b5ac-86ee9a5a1297" anchor="" target="" title="" linktype="internal" text="Search Experts" url="/Sites/main/Home/People" />
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Stop struggling with static directories. Implement People Listing to put the right knowledge and people at your users' fingertips.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251209T134247Z

@@ -1,0 +1,174 @@
+﻿---
+ID: "953b084d-b68b-48e2-ad74-e80d93aa5aa3"
+Parent: "095f234c-ec38-4310-8616-f94ecd12681d"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Grids/Icon Feature Card Grid
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{04718959-5FD5-4BC9-A498-4966F8CB1ACD}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "10dbefa9-2f78-4ca9-a8a3-d00d6cb3b597"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{635284B4-D70D-4CD0-826C-D4CBEA83D77B}"
+          p:before="*"
+          s:ds="local:/Data/Icon Feature Card Grid Banner"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=16"
+          s:ph="headless-main" />
+        <r
+          uid="{E3BDC4DD-5871-4EB2-87F6-A156732A546E}"
+          p:after="r[@uid='{635284B4-D70D-4CD0-826C-D4CBEA83D77B}']"
+          s:ds="86439956-7ab9-4a09-821a-eda8154566a4"
+          s:id="{1B8A9932-1383-4D81-AEDD-0E86025C0A98}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D%7C%7B7FD58C99-E58F-4474-B4C1-11746D6FC2CF%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{84FBC8AA-F3BF-46FB-9509-13EB2C801E8E}"
+          p:after="r[@uid='{E3BDC4DD-5871-4EB2-87F6-A156732A546E}']"
+          s:ds="dc8a6a62-061a-4684-a539-ba3bc59b9579"
+          s:id="{1B8A9932-1383-4D81-AEDD-0E86025C0A98}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{ED04C9CA-66F1-495C-B195-A38ACA966AEA}"
+          p:after="r[@uid='{84FBC8AA-F3BF-46FB-9509-13EB2C801E8E}']"
+          s:ds="18f9806d-ed4e-4417-af35-34e956fe1601"
+          s:id="{1B8A9932-1383-4D81-AEDD-0E86025C0A98}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=11"
+          s:ph="headless-main" />
+        <r
+          uid="{E119BCAC-2C06-4691-82D3-9497A8664184}"
+          p:after="r[@uid='{ED04C9CA-66F1-495C-B195-A38ACA966AEA}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/iconfeaturecardgrid-1" />
+        <r
+          uid="{61BA6F4E-2E3B-4C79-8F31-C10299F2820A}"
+          p:after="r[@uid='{E119BCAC-2C06-4691-82D3-9497A8664184}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/iconfeaturecardgrid-1" />
+        <r
+          uid="{910E379E-1BE0-46A8-AC38-C873F0302DD3}"
+          p:after="r[@uid='{61BA6F4E-2E3B-4C79-8F31-C10299F2820A}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/iconfeaturecardgrid-1" />
+        <r
+          uid="{C9027FBA-9492-4751-B0D2-F3B6CE26BEAD}"
+          p:after="r[@uid='{910E379E-1BE0-46A8-AC38-C873F0302DD3}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/iconfeaturecardgrid-1" />
+        <r
+          uid="{8EB93FEF-DC92-4570-AF61-12E8264C6667}"
+          p:after="r[@uid='{C9027FBA-9492-4751-B0D2-F3B6CE26BEAD}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/iconfeaturecardgrid-11" />
+        <r
+          uid="{F769B1FF-CD53-4F79-A8AB-1DC0D7227A40}"
+          p:after="r[@uid='{8EB93FEF-DC92-4570-AF61-12E8264C6667}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/iconfeaturecardgrid-11" />
+        <r
+          uid="{F9AB7F87-B2F4-4FAA-84D1-FB9ABB026CAA}"
+          p:after="r[@uid='{F769B1FF-CD53-4F79-A8AB-1DC0D7227A40}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/iconfeaturecardgrid-11" />
+        <r
+          uid="{266A5B8E-8E8D-4D17-9CB3-C1531D2D6E30}"
+          p:after="r[@uid='{F9AB7F87-B2F4-4FAA-84D1-FB9ABB026CAA}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/iconfeaturecardgrid-11" />
+        <r
+          uid="{5BB223B6-4314-41D1-BA21-062768FEA790}"
+          p:after="r[@uid='{266A5B8E-8E8D-4D17-9CB3-C1531D2D6E30}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/iconfeaturecardgrid-6" />
+        <r
+          uid="{2DE36050-8013-4CE8-8631-395D556C81AF}"
+          p:after="r[@uid='{5BB223B6-4314-41D1-BA21-062768FEA790}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B1CDBD732-EAD4-4B18-9654-E8506170C542%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/iconfeaturecardgrid-6" />
+        <r
+          uid="{202696AA-139F-45BE-A787-17BFA12AC5D3}"
+          p:after="r[@uid='{2DE36050-8013-4CE8-8631-395D556C81AF}']"
+          s:ds="b663c17e-8774-4c22-9ad7-d2b4272933c1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/iconfeaturecardgrid-6" />
+        <r
+          uid="{A7F3EFC5-137C-4732-B797-F420CF51BDAC}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/IconFeatureCard 1"
+          s:id="{A4F9FF7A-3B2F-46B5-A2CA-EE9AEE97FAC7}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/iconfeaturecardgrid-6" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T155832Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Icon Feature Card Grid
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20241210T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c585c39-8a12-4da9-9848-0d7b8a88f1c3"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20241210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Icon Feature Card Grid
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251023T134354Z

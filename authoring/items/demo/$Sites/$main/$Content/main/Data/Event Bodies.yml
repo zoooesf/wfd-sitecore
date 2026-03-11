@@ -1,0 +1,23 @@
+﻿---
+ID: "8e7b68ff-c478-4700-ae2a-15296c1906dc"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "5b2d57ce-4d5f-4061-b640-9c435c9118e2"
+Path: /sitecore/content/Sites/main/Data/Event Bodies
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250508T192236Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e3075c2-66c2-4c5d-baf1-889fca89255d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T192236Z

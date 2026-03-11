@@ -1,0 +1,35 @@
+﻿---
+ID: "2a2287fc-3a4e-43af-8a75-bfb21f0f5640"
+Parent: "49507400-9fc1-47b0-9fb6-4b4e82ced825"
+Template: "7e89c966-e6e7-45ea-b2ed-bc7f7b40e6f4"
+Path: /sitecore/content/Sites/main/Data/Headers/Manufacturing/Products and Services/Key Capabilities
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251014T175053Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fc94bf2-cc76-4618-8b12-c15a5031eb50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Core Offerings" anchor="" linktype="internal" class="" title=""  querystring="" id="{17976AE7-34A8-4123-8A2F-3BBF6352CFE1}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251015T145944Z

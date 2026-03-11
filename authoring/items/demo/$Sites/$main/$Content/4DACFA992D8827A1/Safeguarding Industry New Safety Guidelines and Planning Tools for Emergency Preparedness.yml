@@ -1,0 +1,145 @@
+﻿---
+ID: "adf18eae-4e38-47fb-b131-c99fbeb12232"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Safeguarding Industry New Safety Guidelines and Planning Tools for Emergency Preparedness
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {91D274C3-5803-44C4-8F6A-63B817FF57A4}
+    {9DCC5736-4419-46B6-AEF2-B4F4FCF7FDBF}
+    {28D97BA4-68DE-4820-904A-48B819E9058F}
+    {1860D515-6E7C-47D4-BCF9-358FD4D29DB2}
+    {827D1007-4C86-49FB-B6B8-873BFABC9DD0}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {3AE499E3-1E19-4150-9831-76E5C10BBE30}
+    {FC702CC2-555E-45B9-8801-FD46AF52C7DB}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{714BF21F-B1CC-45D6-A438-6992B22C4234}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "cbf0189f-e99f-41cb-a03a-06118fb60d29"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{49243F89-7510-4014-96EA-9900F963CB1A}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{98E8E7CA-FE22-4E77-A678-F71B0C7DF646}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T225715Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Safeguarding Industry New Safety Guidelines and Planning Tools for Emergency Preparedness
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5f6c63d-3c5c-414d-b4d6-eeb08cfac5d3"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250310T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Safeguarding Industry: New Safety Guidelines & Planning Tools for Emergency Preparedness"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        Innovations in <span data-token-index="1" class="notion-enable-hover">Industrial</span> safety protocols, digital <span data-token-index="3" class="notion-enable-hover">Planning Tools</span>, and comprehensive <span data-token-index="5" class="notion-enable-hover">Emergency Preparedness</span> for a resilient and secure operational environment.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>The <strong>Industrial</strong> sector, encompassing everything from manufacturing plants to chemical processing facilities, inherently faces a higher degree of operational risk. Ensuring robust <strong>Public Safety</strong> and minimizing environmental harm requires not only adherence to strict <strong>Safety Guidelines</strong> but also the continuous evolution of <strong>Emergency Preparedness</strong> strategies. The latest innovations focus on leveraging digital <strong>Planning Tools</strong> and integrating real-time data to create more dynamic, responsive, and ultimately, safer industrial environments.</p>
+        <p>Industrial accidents, though infrequent, can have catastrophic consequences for human life, property, and the environment. A comprehensive study by OSHA found that industries with advanced safety programs experience <strong>20-40% fewer incidents</strong> compared to those with basic compliance. This underscores the value of moving beyond minimum requirements to proactive safety management.</p>
+        <h3><strong>Evolution of Industrial Safety &amp; Preparedness</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Aspect</th>
+                    <th>Traditional Approach</th>
+                    <th>Innovative Approach (Digital &amp; Proactive)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Risk Assessment</strong></td>
+                    <td style="text-align:left;">Manual checklists, periodic site inspections.</td>
+                    <td style="text-align:left;">IoT sensors for real-time hazard detection; AI-powered predictive analytics for equipment failure.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Emergency Planning</strong></td>
+                    <td style="text-align:left;">Static paper plans, infrequent drills.</td>
+                    <td style="text-align:left;">Interactive digital <strong>Planning Tools</strong>; virtual reality (VR) simulations for realistic training; dynamic incident response.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Safety Guidelines</strong></td>
+                    <td style="text-align:left;">Text-based manuals, classroom training.</td>
+                    <td style="text-align:left;">Gamified e-learning modules; augmented reality (AR) for on-the-job safety instruction.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Incident Response</strong></td>
+                    <td style="text-align:left;">Ad-hoc communication, manual dispatch.</td>
+                    <td style="text-align:left;">Automated alert systems; drone-based surveillance for incident assessment; real-time communication platforms.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Training &amp; Drills</strong></td>
+                    <td style="text-align:left;">Annual drills, limited scenarios.</td>
+                    <td style="text-align:left;">Frequent micro-drills; personalized feedback systems; scenario-based training for diverse threats.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>The integration of IoT (Internet of Things) sensors provides real-time monitoring of critical parameters such as temperature, pressure, and air quality within facilities. This data, analyzed by AI algorithms, can predict potential equipment failures or hazardous leaks before they escalate, allowing for preventative action. These <strong>Custom Solutions</strong> are transforming <strong>Process Optimization</strong> from a reactive fix to a predictive strategy.</p>
+        <blockquote>
+        <p>"In industrial environments, safety isn't a department; it's an embedded culture. Modern Emergency Preparedness integrates technology, continuous training, and proactive planning to safeguard every worker and the surrounding community."</p>
+        </blockquote>
+        <p>Furthermore, digital <strong>Planning Tools</strong> are replacing static paper-based emergency plans. These interactive platforms allow for dynamic updates, real-time communication with emergency responders, and immediate access to critical information, such as facility layouts, hazardous material inventories, and evacuation routes. Virtual reality (VR) and augmented reality (AR) are also emerging as powerful tools for realistic <strong>Training &amp; Development</strong>, allowing workers to practice emergency procedures in a safe, simulated environment.</p>
+        <p>Beyond the technological advancements, the emphasis remains on fostering a strong safety culture through consistent <strong>Training &amp; Development</strong> and <strong>Community Outreach</strong>. This involves regular safety briefings, near-miss reporting systems, and encouraging employees to be active participants in identifying and mitigating risks. The goal is to empower every individual to be a first responder for themselves and their colleagues, reinforcing <strong>Public Safety</strong> from the ground up.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154019Z

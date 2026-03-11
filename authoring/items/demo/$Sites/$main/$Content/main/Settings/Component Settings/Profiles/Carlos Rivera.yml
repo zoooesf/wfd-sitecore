@@ -1,0 +1,96 @@
+﻿---
+ID: "07645d6a-b498-4e7b-af47-269ee13cbf7e"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Carlos Rivera
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {84794097-75F2-4FA8-99B5-34C042986BC0}
+    {8B6082E5-B687-4557-989F-3446814BDCBE}
+    {4C4B3871-2410-44AA-8868-EAAD91CE3A11}
+    {B4E5CE78-5C62-4028-9115-9E7B00885A77}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{8B679AF6-37FC-4094-8559-28CE338EB5E7}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Carlos
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "815ac1e0-6cb2-4f5c-adab-49b19b81acca"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Rivera
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: carlos.rivera@buildrightgroup.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{EA1B0EEB-6B19-4291-A9EF-C7B89CEECA0B}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Senior VP of Operations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T192224Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(602) 555-0718"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{EA1B0EEB-6B19-4291-A9EF-C7B89CEECA0B}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: BuildRight Construction Group
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "735feba9-33fc-48ed-aa5d-95e368e6a8e3"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Carlos Rivera is a construction industry veteran with 27 years of experience delivering complex infrastructure projects on time and within budget. As Senior Vice President of Operations at BuildRight Construction Group, he oversees multiple concurrent projects with combined values exceeding $2 billion, including highways, bridges, commercial buildings, and industrial facilities. Carlos has built a reputation for operational excellence, with his projects consistently achieving top safety ratings and quality benchmarks.</p>
+        <p>Carlos began his career as a field engineer and has held progressively responsible positions in project management, estimating, and operations. He holds a degree in Civil Engineering from Arizona State University and multiple project management certifications. Under his leadership, BuildRight has won numerous awards for project excellence and safety performance. Carlos is deeply committed to workforce development, having established apprenticeship programs that have trained hundreds of skilled tradespeople. He serves on the board of the Associated General Contractors and advocates for infrastructure investment and construction industry innovation.</p>
+        <!--<h2>Experience</h2>
+        <p>Carlos is a construction industry veteran with 27 years of experience delivering complex infrastructure projects on time and within budget. As SVP of Operations, he oversees multiple concurrent projects with combined values exceeding $2 billion, including highways, bridges, and industrial facilities.</p>
+        <h2>Achievements</h2>
+        <p>Successfully delivered the $500 million "Trans-State Bridge" project six months ahead of schedule and $15 million under budget. Established comprehensive apprenticeship programs that have trained hundreds of skilled tradespeople. His projects consistently achieve top safety ratings and quality benchmarks.</p>
+        <h2>Professional Involvement</h2>
+        <p>Serves on the board of the Associated General Contractors (AGC), where he advocates for infrastructure investment and construction industry innovation. Holds the Certified Director of Safety (CDS) designation from the North American Transportation Management Institute (NATMI).</p>
+        <h2>Community Involvement</h2>
+        <p>Volunteers his construction management expertise to Rebuilding Together to renovate and retrofit homes for low-income elderly residents. He also chairs the annual "STEM in Construction" awareness day for local middle school students.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Winner of the TCA Safety Professional of the Year &ndash; Clare C. Casey Award for enhancing safety on North America's highways (2023). BuildRight won the Associated Builders and Contractors (ABC) Excellence in Construction award under his operational leadership.</p>
+        <h2>Education</h2>
+        <p>B.S. in Civil Engineering from Arizona State University. Holds multiple project management and OSHA certifications.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T194730Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

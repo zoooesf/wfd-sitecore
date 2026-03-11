@@ -1,0 +1,110 @@
+﻿---
+ID: "b10218d6-074b-4bc3-b4dc-22d12d5a78fa"
+Parent: "ca05b187-fa4a-43a2-945e-5d665ce13b82"
+Template: "bb7addc1-3a17-4088-aa73-6e53e0177ca1"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Business Profiles/Rain City Retail
+SharedFields:
+- ID: "34fb2379-2954-47a6-9d91-779c49de0983"
+  Hint: lat
+  Value: 49.2861
+- ID: "78126368-682d-4190-9fff-a7f904a509d0"
+  Hint: long
+  Value: "-123.1189"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "956c196f-347e-4000-b0b6-e39f462319d2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: sales@raincity.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T160902Z
+    - ID: "69107e03-200c-4390-9d61-3dab0cdfa9e4"
+      Hint: services
+      Value: "{ACAC50CD-E790-4FC9-9B9F-694FA4EE1CC6}"
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 789 W Pender St, Vancouver, BC V6C 1H2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d71e13c7-3155-42b1-b128-82e6a08fbcd1"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="raincity.com" linktype="external" url="https://www.raincity.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T162834Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Rain City Retail
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: |
+        Monday: 9am-6pm
+        Tuesday: 9am-6pm
+        Wednesday: 9am-6pm
+        Thursday: Closed
+        Friday: 9am-6pm
+        Saturday: 10 am–5 pm
+        Sunday: 10 am–5 p.m
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: sales@raincity.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T160954Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(778) 555-1122"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 789 W Pender St, Vancouver, BC V6C 1H2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1357d3b-92cc-4c87-9c27-a8e27c2ea704"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="raincity.com" linktype="external" url="https://www.raincity.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T161154Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Rain City Retail
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: |
+        Monday: 9am-6pm
+        Tuesday: 9am-6pm
+        Wednesday: 9am-6pm
+        Thursday: Closed
+        Friday: 9am-6pm
+        Saturday: 10 am–5 pm
+        Sunday: 10 am–5 p.m

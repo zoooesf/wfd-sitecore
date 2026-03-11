@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-EventListingWithFilters",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$EventListingWithFilters/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/EventListingWithFilters",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$EventListingWithFilters/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/EventListingWithFilters",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$EventListingWithFilters/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add Event Listing With Filters Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

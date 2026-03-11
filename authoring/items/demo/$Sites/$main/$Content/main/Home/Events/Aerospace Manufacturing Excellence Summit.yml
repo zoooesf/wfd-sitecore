@@ -1,0 +1,157 @@
+﻿---
+ID: "1f604352-f074-4392-a492-6a6cd32780ec"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Aerospace Manufacturing Excellence Summit
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {3AD028EF-640B-47C9-9DC4-8F15539A5D2E}
+    {2E806A86-403F-470E-BAA9-9A5D3C18B5B3}
+    {51958C7A-2629-4C41-88B3-1317A08263F5}
+    {89A9EBF8-4E5C-43B4-BCFA-F8044A429819}
+    {D3C653EF-F740-404D-B230-F4A6992A2BC1}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5844E204-18AA-4BF1-8FAB-D38C4B2C0F02}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ce200ec5-941f-4c61-95e8-5f3df7e2eb12"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{C46E80F0-FEC8-4B3A-A8D3-8941D436DEB2}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {10708415-3D65-412F-9679-4CC2D225B105}
+    {6A0B9814-D0D3-484E-8305-ED1BDF835C60}
+    {53B74AB5-9063-4A1F-9B52-7596D488422F}
+    {07645D6A-B498-4E7B-AF47-269EE13CBF7E}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{11C7B4FB-5CEC-4CBA-AFAD-30214E7BBD60}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {9E846405-9D75-4DD9-90A3-085E75B29E3B}
+        {892B089C-330C-4506-8231-3F9E902B8748}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260414T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T164219Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Aerospace Manufacturing Excellence Summit
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{3D5D6C23-F5B0-4812-A13D-5041A9A0022F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:00am-5:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260416T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd3b9cba-d288-4b08-b79b-a217195fec2b"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251008T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Aerospace Manufacturing Excellence Summit
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Precision, Innovation, and Quality in Aerospace Production</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>The Aerospace Manufacturing Excellence Summit brings together aerospace manufacturers, suppliers, and engineers to explore advanced manufacturing techniques, quality systems, and operational excellence strategies specific to the aerospace industry. This three-day summit features technical presentations, facility tours, and collaborative sessions focused on meeting the stringent requirements of aerospace production.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li><strong>Aerospace Manufacturing</strong> in the Modern Era</li>
+            <li><strong>Quality Standards</strong> and Certification Requirements</li>
+            <li>Technical Session: <strong>Advanced Composites Manufacturing</strong></li>
+            <li>Workshop: <strong>Lean Aerospace Operations</strong></li>
+            <li><strong>Engineering Excellence</strong> in Aerospace</li>
+            <li><strong>Supply Chain Management</strong> for Aerospace</li>
+            <li><strong>Innovation</strong> in Aerospace Manufacturing</li>
+        </ul>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - April 14</strong></p>
+        <ul>
+            <li>8:00am - Registration &amp; Breakfast</li>
+            <li>9:00am - Opening Keynote: "Aerospace Manufacturing in the Modern Era" by Emily Rodriguez</li>
+            <li>10:30am - Quality Standards and Certification Requirements</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Technical Session: Advanced Composites Manufacturing</li>
+            <li>3:30pm - Workshop: Lean Aerospace Operations by Thomas Anderson</li>
+            <li>5:00pm - Welcome Reception</li>
+        </ul>
+        <p><strong>Day 2 - April 15</strong></p>
+        <ul>
+            <li>8:00am - Breakfast</li>
+            <li>9:00am - Engineering Excellence in Aerospace by David Kowalski</li>
+            <li>10:30am - Supply Chain Management for Aerospace</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Facility Tour: Boeing Production System (Transportation Provided)</li>
+            <li>4:00pm - Networking Event</li>
+            <li>5:00pm - Day 2 Close</li>
+        </ul>
+        <p><strong>Day 3 - April 16</strong></p>
+        <ul>
+            <li>8:00am - Breakfast</li>
+            <li>9:00am - Panel: Innovation in Aerospace Manufacturing</li>
+            <li>10:30am - Case Studies: Operational Excellence Achievements</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Closing Keynote: "The Future of Aerospace Production" by Carlos Rivera</li>
+            <li>3:00pm - Summit Conclusion</li>
+        </ul>
+        <h2>Who Should Attend</h2>
+        <ul>
+            <li>Aerospace Manufacturers and Suppliers</li>
+            <li>Engineers</li>
+            <li>Individuals focused on Aerospace, Manufacturing Solutions, Quality Assurance, Engineering, and Operations</li>
+        </ul>
+        <h2>Location Details</h2>
+        <p><strong>Seattle Aerospace Center</strong></p>
+        <p>9725 E Marginal Way S<br />
+        Seattle, WA <br />
+        98108</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204733Z

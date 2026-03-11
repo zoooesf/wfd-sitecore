@@ -1,0 +1,51 @@
+﻿---
+ID: "fdf2174f-1e49-4187-8554-a25fe10b997a"
+Parent: "b61ebdf1-e774-469c-a106-396dd14e4fd2"
+Template: "b61ebdf1-e774-469c-a106-396dd14e4fd2"
+Path: /sitecore/templates/Project/Sites/Pages/Home Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A7A46A68-A7E1-439D-BDD1-C5011DADDD6F}
+    {300F3D1B-52EF-4734-8EAB-AE2E2A422759}
+    {7A6105A8-F696-4A58-865A-510E8998956B}
+    {959F1C50-F8F6-4C59-9CD0-2F8F21301835}
+    {13DB779E-4AE1-44F9-B83D-1500EF844ADC}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {AEBA6E45-26A3-4F97-A7F0-E76A3F852D18}
+    {64E3BE7C-32E5-417E-A540-D59F9EAED502}
+    {3BF160F3-9328-4591-87FA-4383A4ABBE2E}
+    {739F1C8E-E25A-4D57-8A69-4842BAE5B91F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a8122a6f-63e2-4c51-93c5-6d9c4a942421"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T131343Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd23bdf1-e94c-4bbe-847e-f2d008cfc510"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250910T164803Z

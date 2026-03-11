@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-PageContent-Image",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$PageContent/$Image/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Page Content/Image",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$PageContent/$Image/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Page Content/Image",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$PageContent/$Image/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Page Content/Page Content Headless Site Setup/Add Images Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

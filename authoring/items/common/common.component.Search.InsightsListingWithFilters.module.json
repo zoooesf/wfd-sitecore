@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-InsightsListingWithFilters",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$InsightsListingWithFilters/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/InsightsListingWithFilters",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$InsightsListingWithFilters/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/InsightsListingWithFilters",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$InsightsListingWithFilters/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add Insights Listing with Filters Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

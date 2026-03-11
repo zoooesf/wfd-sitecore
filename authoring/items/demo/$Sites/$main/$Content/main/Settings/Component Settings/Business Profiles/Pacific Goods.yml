@@ -1,0 +1,93 @@
+﻿---
+ID: "f37466a4-7776-400a-9290-2aa95f1ede4b"
+Parent: "ca05b187-fa4a-43a2-945e-5d665ce13b82"
+Template: "bb7addc1-3a17-4088-aa73-6e53e0177ca1"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Business Profiles/Pacific Goods
+SharedFields:
+- ID: "34fb2379-2954-47a6-9d91-779c49de0983"
+  Hint: lat
+  Value: 49.2805
+- ID: "78126368-682d-4190-9fff-a7f904a509d0"
+  Hint: long
+  Value: "-123.1281"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0cba0c28-91fe-4429-86ce-013df826aeb6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: support@pacificgoods.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T161506Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(604) 555-3344"
+    - ID: "69107e03-200c-4390-9d61-3dab0cdfa9e4"
+      Hint: services
+      Value: "{ACAC50CD-E790-4FC9-9B9F-694FA4EE1CC6}"
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 1010 Burrard St, Vancouver, BC V6Z 2R9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba0a4190-2b1a-4570-ac62-0beda2407833"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="pacificgoods.com" linktype="external" url="https://www.pacificgoods.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T162825Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Pacific Goods
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: support@pacificgoods.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T161211Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(604) 555-3344"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: "1010, rue Burrard, Vancouver (C.-B.) V6Z 2R9"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2f26145-f7dd-415d-b0d4-d1ecb5a7ac37"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="pacificgoods.com" linktype="external" url="https://www.pacificgoods.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T161500Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Pacific Goods

@@ -1,0 +1,23 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-PageContent-Separator",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$PageContent/$Separator/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Page Content/Separator",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$PageContent/$Separator/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Page Content/Separator",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

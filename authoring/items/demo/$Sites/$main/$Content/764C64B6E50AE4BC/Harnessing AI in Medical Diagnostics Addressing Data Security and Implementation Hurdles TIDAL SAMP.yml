@@ -1,0 +1,45 @@
+﻿---
+ID: "7fdc3b93-deb5-4d59-bc91-0630afb8bf5b"
+Parent: "187f8dfc-f481-4454-b41a-845db25eb95a"
+Template: "d7129f3e-903b-48c6-9a0c-00924c601d05"
+Path: /sitecore/content/Sites/main/Data/Knowledge Center Resources/Harnessing AI in Medical Diagnostics Addressing Data Security and Implementation Hurdles TIDAL SAMP
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {4DA2E751-BAD8-4F69-9C70-850504662FDD}
+    {42AC350D-6F04-4512-A8BF-B3FF54384F43}
+    {B475771B-2A39-452D-99A4-64A20EC4C796}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d348bcdd-25ed-4a12-a394-5e10f869c713"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T004829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "628f20a7-9fb9-4b77-b6c2-a545efe622f3"
+    - ID: "95b9b827-2ee6-4465-901b-f963242b1684"
+      Hint: file
+      Value: |
+        <file mediaid="{4AB9C48A-AC1D-472A-80AD-DCC13B7212A6}" src="-/media/4ab9c48aac1d472a80addcc13b7212a6.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T004927Z

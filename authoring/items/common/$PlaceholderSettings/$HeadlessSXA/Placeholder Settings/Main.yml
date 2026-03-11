@@ -1,0 +1,170 @@
+﻿---
+ID: "284d388a-9d4e-4742-a298-ec6871592d4b"
+Parent: "d0b8e95c-6ced-4423-bc03-4f5b140d9b00"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Foundation/JSS Experience Accelerator/Placeholder Settings/Main
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "headless-main"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0ee6f7ef-1a26-47ab-87ff-e45d6179ebd9"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {57C51166-B04D-47EF-AD66-2D9B566BC436}
+    {C03D8136-D9F7-498C-B6DC-A0DB7EF4AA91}
+    {5E9D7B60-F61B-407B-B04B-2EEBA60B0EC0}
+    {F22C31F6-9A23-406B-8285-4391A49926F7}
+    {E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}
+    {77685258-DCA2-4A26-90AB-1844F73548F7}
+    {C764D302-9571-4FA3-B2C0-A239C6A77A7D}
+    {4180EDC5-2601-4B67-BEA5-586BDD311311}
+    {E78B588A-A213-411D-BFAE-DD607FFD2C8B}
+    {1B8A9932-1383-4D81-AEDD-0E86025C0A98}
+    {91821AA1-E6BE-4404-8D00-CF6E859CDF0B}
+    {3C809C09-2839-4FEC-840C-43BF6F68ACC3}
+    {358EAADD-3A03-4FE8-8A04-6D0BF849BF13}
+    {A4EB594D-4284-40CE-8D5A-ADE133FB3707}
+    {D5C1D2D5-959B-478B-BE7D-50B1CD6B5AB9}
+    {D8158778-D624-40E3-9FF1-C5BFFE97B195}
+    {9BC49A3B-23FB-49D9-811F-0B949F04C1A0}
+    {BDEAB144-1774-4171-B9B5-9CB4133E4400}
+    {8CB91616-D630-4732-B520-4D3A0C4931E4}
+    {45D05C34-9EDF-48D5-9226-FF2C7BC3ABB4}
+    {8C914279-4A11-4DE7-A6BC-EF0C9D9D253A}
+    {E276274F-5C13-4B76-AC83-D7A867975696}
+    {A5968DB4-1D40-437E-9E9D-23733660F793}
+    {21EF8E28-97A9-4B50-850E-AB87FA7DC0DC}
+    {AF4506A4-555C-4847-BC15-58EF83108DEA}
+    {C152F7DC-6C01-4380-BABB-97C9F080CF00}
+    {E47956BB-0DD7-47FA-A28C-2C9B3358C0F9}
+    {5CE3099C-120E-474D-99FE-165EB5804DB5}
+    {15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}
+    {5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}
+    {C19FBDF2-75E8-4462-BE2E-0C6E8B055886}
+    {C63E40D8-C58E-452F-91B6-CB500D550CCA}
+    {DCE5F413-FEC0-4CBB-9C08-0F5A1D670A01}
+    {36673E6E-EC10-4685-B065-1D07EDF99CEF}
+    {7C191FDD-39D0-4327-B1AF-8546048B5062}
+    {648113AB-A10B-4FEF-ADAB-5F278C015800}
+    {365CB673-473F-4638-A967-6F5FCD22A6B4}
+    {4EB27E8A-5300-44CB-A4C0-6EC525DD5216}
+    {F34EB1C4-DA48-48BC-95D5-383558DFA3BD}
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Haupt
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241120T224538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cd8076a-e229-4a87-93fd-55405c31a0ef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241216T181414Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211104T110653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fa11780-ed3e-42a2-8830-7a921697a960"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251209T205300Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: メイン
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241120T224538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "104d3da0-2551-427e-8cc5-33d04c4d1f3c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241216T181413Z
+- Language: "zh-CN"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 主要
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241120T224538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a373cf05-b8da-4d52-91b7-d09cc648ab94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241216T181413Z

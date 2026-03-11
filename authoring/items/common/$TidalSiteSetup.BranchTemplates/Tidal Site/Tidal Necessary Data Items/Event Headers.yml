@@ -1,0 +1,23 @@
+﻿---
+ID: "14083811-2fa5-454d-af2f-2a9cc4b885e4"
+Parent: "9da7a6a1-3b43-4043-80b7-0f8b20588dd4"
+Template: "d5ca30bd-b204-4e09-b6ef-3db2be4887f7"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Event Headers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250508T192251Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46abf0fd-23fc-4f7c-acad-d6f2f3cfe7a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T192251Z

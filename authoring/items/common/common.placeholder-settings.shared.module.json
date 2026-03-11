@@ -1,0 +1,22 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-placeholdersettings-shared",
+    "references": [
+        "common-commonfolders"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$PlaceholderSettings/$Shared",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/Shared",
+                "scope": "DescendantsOnly"
+            },
+            {
+                "name": "$PlaceholderSettings/$HeadlessSXA",
+                "path": "/sitecore/layout/Placeholder Settings/Foundation/JSS Experience Accelerator/Placeholder Settings",
+                "scope": "DescendantsOnly"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+query GetFooterLegalSocialLinks(
+  $datasourcePath: String!
+  $language: String!
+  $templateId: String!
+) {
+  item(path: $datasourcePath, language: $language) {
+    socialLinks: children(includeTemplateIDs: [$templateId]) {
+      results {
+        ... on FooterSocialLink {
+          name
+          socialIcon {
+            value
+          }
+          link {
+            ...LinkFieldFragment
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Banners-ContentBanner",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Banners/$ContentBanner/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Banners/ContentBanner",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Banners/$ContentBanner/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Banners/ContentBanner",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Banners/$ContentBanner/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Banners/Banners Headless Site Setup/Add Content Banners Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

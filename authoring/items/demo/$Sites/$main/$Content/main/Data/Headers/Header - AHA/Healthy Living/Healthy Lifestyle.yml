@@ -1,0 +1,49 @@
+﻿---
+ID: "81ef560f-339d-417c-8da6-449ae0adcc27"
+Parent: "493ce296-8435-410b-b404-0a23132888d6"
+Template: "7e89c966-e6e7-45ea-b2ed-bc7f7b40e6f4"
+Path: "/sitecore/content/Sites/main/Data/Headers/Header - AHA/Healthy Living/Healthy Lifestyle"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T133559Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a867e69-01a1-4298-9bcb-6385b32222b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" querystring="" id="{E88ADE78-C278-46D5-8BD8-5F0F9B764DFB}" anchor="" target="" title="" linktype="internal" text="Healthy Lifestyle" url="/Sites/main/Home/Components/Carousels" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133559Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c3481ca-b04c-4804-a8c8-80f4d0667090"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link class="" id="{E88ADE78-C278-46D5-8BD8-5F0F9B764DFB}" querystring="" anchor="" target="" title="" linktype="internal" text="Healthy Lifestyle" url="/Sites/main/Home/Components/Carousels" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133559Z

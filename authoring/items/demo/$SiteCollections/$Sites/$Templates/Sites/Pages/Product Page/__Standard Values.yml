@@ -1,0 +1,60 @@
+﻿---
+ID: "f39f1966-9ce5-47df-9d10-d1a5e819b683"
+Parent: "536bcaa5-048f-465f-8bf5-6a60f25eb040"
+Template: "536bcaa5-048f-465f-8bf5-6a60f25eb040"
+Path: /sitecore/templates/Project/Sites/Pages/Product Page/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b6594056-9101-4ed9-ae13-1ef7179d2619"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          id="{F2B2608C-1E3B-4073-A5C8-911BF5605EB8}"
+          ph="headless-main"
+          uid="{E34055A4-F917-4102-B708-26F94298855C}" />
+        <r
+          id="{7CE575B4-2B03-4650-A325-22DB4E7349CE}"
+          ph="headless-main"
+          uid="{27A0A6A7-C7A6-4C00-98E2-CC11BFFDFD7B}" />
+        <r
+          id="{2811B4C4-D991-453C-A045-78A8187A2E06}"
+          ph="headless-main"
+          uid="{E9C88298-A8F3-40AD-AC68-3BA01E95CB5D}" />
+        <r
+          id="{A5785100-904A-4A4D-A4A9-384CBBFC4160}"
+          ph="headless-main"
+          uid="{E919F173-9F32-4D0A-A1BA-87C5A23DAAC2}" />
+        <r
+          id="{F55FCC88-6710-4571-9C7D-A440E35AC287}"
+          ph="headless-main"
+          uid="{A180E57E-44AD-4E3C-9167-4FD3ACD68F98}" />
+        <r
+          id="{CFB7B695-6BCE-4E2C-B9AB-A8E2D95E6FAC}"
+          ph="headless-main"
+          uid="{F10030F8-E04C-46B4-BBFD-4EABD8CF13C9}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251117T174544Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d81d9bd-09db-4119-be07-e90ca362088f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251118T155257Z

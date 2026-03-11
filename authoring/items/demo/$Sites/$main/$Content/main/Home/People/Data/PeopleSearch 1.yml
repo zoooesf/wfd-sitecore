@@ -1,0 +1,81 @@
+﻿---
+ID: "d9c94dec-1157-4ecf-8aa8-5c2f56675c5a"
+Parent: "62d1db4f-d425-4168-acf7-f86e0b6ccb48"
+Template: "2b654bff-36a8-4c7c-a75f-16a1393d1dfb"
+Path: /sitecore/content/Sites/main/Home/People/Data/PeopleSearch 1
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "aca097c1-4b61-4d64-a071-6126c9fad216"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T190014Z
+    - ID: "388556be-a132-4603-a54e-a27f17db21ac"
+      Hint: facetsToExpand
+      Value: 3
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_8
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6789018f-53d7-4fb2-b4de-082e6e913674"
+    - ID: "a2461125-107b-4e8d-bd4f-4f574292476d"
+      Hint: PageSizeCount
+      Value: 6
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251212T184128Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250908T190445Z
+    - ID: "388556be-a132-4603-a54e-a27f17db21ac"
+      Hint: facetsToExpand
+      Value: 3
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_8
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdf9a0fe-6c01-48ca-b1f8-8a8d38099b30"
+    - ID: "a2461125-107b-4e8d-bd4f-4f574292476d"
+      Hint: PageSizeCount
+      Value: 6
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251022T151152Z

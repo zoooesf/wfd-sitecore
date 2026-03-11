@@ -1,0 +1,114 @@
+﻿---
+ID: "43a66e66-49c4-4230-b841-051ab723070d"
+Parent: "b5fbd1fa-2103-46cd-8d66-733437409b44"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Partial Designs/Navigation/Footer
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D7CC5B4F-CDC9-49D3-971B-F889507A843D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "63d46332-1ff2-4433-8508-9e1a6414cb73"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D17B61D0-979A-4959-B8D3-5D85BACC5DD2}"
+          p:before="*"
+          s:ds="query:$site/Data/Footer Mains/FooterMain"
+          s:id="{D63F334E-D240-47DA-87B6-2C61C6413F8A}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="headless-footer" />
+        <r
+          uid="{C5EDD1F8-7CD3-4605-9C17-DC765F3CFDE4}"
+          p:after="r[@uid='{D17B61D0-979A-4959-B8D3-5D85BACC5DD2}']"
+          s:ds="query:$site/Data/Footer Menus/FooterMenu"
+          s:id="{A6F3622C-D750-4887-8A4B-22A3BD0F4E87}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-footer" />
+        <r
+          uid="{E74529C5-0EF9-402A-A327-F3270F585EB1}"
+          p:after="r[@uid='{C5EDD1F8-7CD3-4605-9C17-DC765F3CFDE4}']"
+          s:ds="query:$site/Data/Footer Legals/FooterLegal"
+          s:id="{77D7145D-775C-4FAC-9191-BDB7AD03DE9F}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="headless-footer" />
+        <r
+          uid="{121E8B2B-D15F-4CCC-A1F7-607EC38A7189}"
+          p:after="r[@uid='{E74529C5-0EF9-402A-A327-F3270F585EB1}']"
+          s:ds="query:$site/Data/Footer Mains/FooterMain/Main Menu"
+          s:id="{267EC5A1-36D9-4A3C-92B2-620A56806568}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-footer/footermenu-1" />
+        <r
+          uid="{E78D8A10-5143-42DF-AF8E-AA5F590579F7}"
+          p:after="r[@uid='{121E8B2B-D15F-4CCC-A1F7-607EC38A7189}']"
+          s:ds="query:$site/Data/Footer Menus/FooterMenu/Footer Column 1"
+          s:id="{267EC5A1-36D9-4A3C-92B2-620A56806568}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-footer/footermenu-3" />
+        <r
+          uid="{3EC8CB38-867A-4E69-8402-4575B061676A}"
+          p:after="r[@uid='{E78D8A10-5143-42DF-AF8E-AA5F590579F7}']"
+          s:ds="query:$site/Data/Footer Menus/FooterMenu/Footer Column 2"
+          s:id="{267EC5A1-36D9-4A3C-92B2-620A56806568}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-footer/footermenu-3" />
+        <r
+          uid="{243CA3FD-10A7-42C7-B449-4345393F8C07}"
+          p:after="r[@uid='{3EC8CB38-867A-4E69-8402-4575B061676A}']"
+          s:ds="query:$site/Data/Footer Menus/FooterMenu/Footer Column 3"
+          s:id="{267EC5A1-36D9-4A3C-92B2-620A56806568}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-footer/footermenu-3" />
+        <r
+          uid="{973B5A7E-61A8-4822-8BFF-CCEBD7AC135D}"
+          p:after="r[@uid='{243CA3FD-10A7-42C7-B449-4345393F8C07}']"
+          s:ds="query:$site/Data/Footer Menus/FooterMenu/Footer Column 4"
+          s:id="{267EC5A1-36D9-4A3C-92B2-620A56806568}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-footer/footermenu-3" />
+        <r
+          uid="{498811B9-1852-4DC0-A312-20955DCDA6F1}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{267EC5A1-36D9-4A3C-92B2-620A56806568}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-footer/footermenu-9" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T132017Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8418e26-4190-4923-a9b0-b6494eabb9ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250820T211324Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "9601fbc0-b9cc-414f-98cd-d54517647ce2"
+Parent: "28fdc490-b9cc-41f9-8c7d-67b64c6f645f"
+Template: "7e89c966-e6e7-45ea-b2ed-bc7f7b40e6f4"
+Path: /sitecore/content/Sites/main/Data/Headers/Education/About/Overview
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8b701c58-c875-4645-a449-67d3c963b6fd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251023T150613Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a36f4d0-0366-4bb6-8d98-b909e46306c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Overview" anchor="" linktype="internal" class="" title=""  querystring="" id="{B3288EBF-9E89-41D8-AD71-7110F25B7F91}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251023T151951Z

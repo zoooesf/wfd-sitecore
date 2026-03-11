@@ -1,0 +1,31 @@
+﻿---
+ID: "8fae4d6a-7e19-479f-a76f-39d6d7bda8ba"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "d8a243d8-d0e3-4b13-adbc-768750f4b863"
+Path: /sitecore/content/Sites/main/Data/Where To Buy Folder
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T221206Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b15d550-a76f-44e5-8a0d-3cde35a9f05b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T221206Z

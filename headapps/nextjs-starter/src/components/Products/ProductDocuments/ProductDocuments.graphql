@@ -1,0 +1,19 @@
+query GetProductDocuments($locationFolderPath: String!, $language: String!) {
+  item(path: $locationFolderPath, language: $language) {
+    folder_documents: children {
+      results {
+        name
+        file_fields: children {
+          results {
+            url {
+              url
+            }
+            fields {
+              value
+            }
+          }
+        }
+      }
+    }
+  }
+}

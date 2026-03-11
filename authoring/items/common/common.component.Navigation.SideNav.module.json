@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Navigation-SideNav",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Navigation/$SideNav/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Navigation/SideNav",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Navigation/$SideNav/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Navigation/SideNav",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Navigation/$SideNav/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Navigation/Navigation Headless Site Setup/Add Side Navs Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

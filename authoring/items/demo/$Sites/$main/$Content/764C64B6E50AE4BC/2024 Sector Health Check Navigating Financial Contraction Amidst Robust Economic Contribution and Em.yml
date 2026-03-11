@@ -1,0 +1,46 @@
+﻿---
+ID: "6fa46f98-aca2-4771-8e8d-6d24d95f8751"
+Parent: "187f8dfc-f481-4454-b41a-845db25eb95a"
+Template: "d7129f3e-903b-48c6-9a0c-00924c601d05"
+Path: /sitecore/content/Sites/main/Data/Knowledge Center Resources/2024 Sector Health Check Navigating Financial Contraction Amidst Robust Economic Contribution and Em
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {97BBD37E-B3C6-4B90-8828-6802DCE3FE71}
+    {42AC350D-6F04-4512-A8BF-B3FF54384F43}
+    {600F4687-15B6-4D29-A5E3-8F5433D0C58B}
+    {A67CF5BD-CB3D-4C9F-B493-53D376C9DF37}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a849b8c0-0758-4ed7-a280-b526a9838638"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T190914Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5494d0b-99bf-4629-b5fd-086b721eb03f"
+    - ID: "95b9b827-2ee6-4465-901b-f963242b1684"
+      Hint: file
+      Value: |
+        <file mediaid="{38D640AD-98C0-414A-AF2A-FF0B6A4C821B}" src="-/media/38d640ad98c0414aaf2aff0b6a4c821b.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251008T191508Z

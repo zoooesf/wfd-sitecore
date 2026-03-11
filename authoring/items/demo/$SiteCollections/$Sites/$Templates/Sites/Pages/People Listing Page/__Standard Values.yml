@@ -1,0 +1,30 @@
+﻿---
+ID: "a7137611-3996-4db1-88b5-d7c841a31070"
+Parent: "aeba6e45-26a3-4f97-a7f0-e76a3f852d18"
+Template: "aeba6e45-26a3-4f97-a7f0-e76a3f852d18"
+Path: /sitecore/templates/Project/Sites/Pages/People Listing Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{0D42B59A-EAD1-4F28-9D34-CC80B81A3343}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d72accf6-12c2-491b-a6ef-353735e1cb2e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250812T191245Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6433108-4777-45c8-adf3-5da2311139e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250812T191641Z

@@ -1,0 +1,33 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Cards-CardGrid",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Cards/$CardGrid/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Cards/CardGrid",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Cards/$CardGrid/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Cards/CardGrid",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Cards/$CardGrid/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/Cards/CardGrid",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Cards/$CardGrid/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Cards/Cards Headless Site Setup/Add Card Grids Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+﻿---
+ID: "5258e7ba-e1cb-4722-9d54-e49e541f3ef9"
+Parent: "7ff7bbb2-c772-44d2-bec6-5f7205c5f9a2"
+Template: "8ee1438c-df21-46c8-8f4e-e02793e54167"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Insights Landing/Data/AccordionDrawer 1_var4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185700Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "053be381-dea8-4b89-bcc8-7cc232d33df2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Is the Event Search Listing mobile-friendly?"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Absolutely. The Event Search Listing is fully responsive and optimized for mobile devices. All filtering options, deep links, and search functionality work seamlessly on smartphones and tablets. The interface adapts to smaller screens while maintaining full functionality, ensuring users can discover and register for events from anywhere.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T215847Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "3859c12e-3d27-454a-a956-54c14ebb602a"
+Parent: "7ec030ed-b502-48aa-8a07-5bc990d70238"
+Template: "e2af24b0-74f1-4053-a5d1-80b32bb71714"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Data/Callout 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T190013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b98ee7bd-412d-4289-8d73-c09154ad984d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Mix and Match Security
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><blockquote><h5>Layer both authentication and attestation requirements for maximum protection. Combine user login verification with attestation acknowledgment to ensure both identity confirmation and informed consent for your most sensitive content.</h5></blockquote></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251212T144657Z

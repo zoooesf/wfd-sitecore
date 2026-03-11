@@ -1,0 +1,148 @@
+﻿---
+ID: "28e06915-a650-44ec-a124-001c84ecf57d"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Clean Energy Infrastructure Forum
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {07E79D59-0018-4869-B819-1EDA03D735FE}
+    {8F2B35AD-DD81-42C8-A71C-45075E64D533}
+    {DDFA5008-0751-460E-A624-FD9515D15590}
+    {76596B5B-2EA6-417F-ACB2-C181B008C925}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3DAF797D-1604-4914-BF8D-B29EF814F492}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ed1a990b-dc0a-4352-a4bf-c9947d3e9cda"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{5E9ED441-774F-494F-B15B-EB3D9C8E19FF}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {1A9DA7DB-CF28-4334-8229-64EEF7416E12}
+    {19C736D2-EEAB-4BCE-A08D-2EFE4C191586}
+    {8318640F-8801-4556-A743-D4DC60CE780C}
+    {0281D04A-9FDA-4586-B6D4-DBD82CCF6F1E}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{3F8CACBC-20CB-49C4-B72F-7992466057DD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {4CA9104A-652F-41EC-91A2-5A7930ABE336}
+        {8E69F72D-F511-4AF8-97A5-44F8A3454669}
+        {9E846405-9D75-4DD9-90A3-085E75B29E3B}
+        {622B6BFD-778E-4C01-9A24-C1E4CC8D81C4}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{EF447068-4F4F-4967-81CB-05251F8E4EDF}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260608T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T221958Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Clean Energy Infrastructure Forum
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{EF447068-4F4F-4967-81CB-05251F8E4EDF}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:00am-6:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260610T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acaaf5ea-b9cb-4ff2-a375-57f327f3420f"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Clean Energy Infrastructure Forum
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Building Tomorrow's Sustainable Power Grid</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>The Clean Energy Infrastructure Forum convenes utility executives, energy engineers, and policy makers to address the critical challenges and opportunities in transitioning to sustainable energy systems. This three-day event features technical sessions on smart grid technologies, regulatory updates, and innovative approaches to renewable energy integration. Participants will explore practical solutions for modernizing energy infrastructure while meeting environmental goals.</p>
+        <h2>What to Expect</h2>
+        <p>A three-day forum including an opening keynote on "The Smart Grid Revolution" by <strong>Linda Nguyen</strong>, technical sessions on grid technologies, a workshop on <strong>Renewable Energy Integration Strategies</strong>, a panel on <strong>Environmental Impact</strong>, and a closing keynote by <strong>Angela Davis</strong>.</p>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - June 8</strong></p>
+        <ul>
+            <li>8:00am - Registration &amp; Continental Breakfast</li>
+            <li>9:00am - Opening Keynote: "The Smart Grid Revolution" by Linda Nguyen</li>
+            <li>10:30am - Technical Sessions: Grid Modernization Technologies</li>
+            <li>12:30pm - Lunch</li>
+            <li>2:00pm - Workshop: Renewable Energy Integration Strategies</li>
+            <li>4:00pm - Regulatory Compliance Update by Patricia Johnson</li>
+            <li>6:00pm - Networking Reception</li>
+        </ul>
+        <p><strong>Day 2 - June 9</strong></p>
+        <ul>
+            <li>8:00am - Breakfast</li>
+            <li>9:00am - Panel: Environmental Impact and Sustainability Metrics</li>
+            <li>11:00am - Breakout Sessions: Solar, Wind, and Storage Solutions</li>
+            <li>1:00pm - Lunch</li>
+            <li>2:30pm - Engineering Innovations Showcase</li>
+            <li>4:30pm - Round Table Discussions</li>
+            <li>6:00pm - Evening Networking</li>
+        </ul>
+        <p><strong>Day 3 - June 10</strong></p>
+        <ul>
+            <li>8:00am - Breakfast</li>
+            <li>9:00am - Case Studies: Successful Grid Transformation Projects</li>
+            <li>11:00am - Closing Keynote: "Powering the Future" by Angela Davis</li>
+            <li>12:30pm - Forum Conclusion</li>
+        </ul>
+        <h2>A Must-Attend Event For</h2>
+        <p>Professionals seeking <strong>practical solutions</strong> for modernizing energy infrastructure, integrating renewable energy, and meeting environmental goals.</p>
+        <h2>Industry Testimonials</h2>
+        <blockquote>
+        <p>"As a regulator, the panel on environmental impact and sustainability metrics provided a clear roadmap for our new reporting standards. This forum is essential for policy alignment." &mdash; <em>Dr. Helen Zhu, Energy Policy Analyst, State Commission</em></p>
+        </blockquote>
+        <h2>Location Details</h2>
+        <p><strong>Austin Energy Convention Hall</strong></p>
+        <p>4815 Mueller Blvd<br />
+        Austin, TX <br />
+        78723</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204733Z

@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-scriptlibrary",
+    "references": [
+        "common-commonfolders"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$ScriptLibrary",
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/Common",
+                "scope": "DescendantsOnly"
+            }
+        ]
+    }
+}

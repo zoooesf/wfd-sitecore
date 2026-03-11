@@ -1,0 +1,141 @@
+﻿---
+ID: "b8876a86-36d2-4b6d-870d-cd7a4cf27e60"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Corporate Finance Leadership Summit
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {600F4687-15B6-4D29-A5E3-8F5433D0C58B}
+    {42AC350D-6F04-4512-A8BF-B3FF54384F43}
+    {B475771B-2A39-452D-99A4-64A20EC4C796}
+    {97BBD37E-B3C6-4B90-8828-6802DCE3FE71}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4C8951B4-F972-4AC4-BD21-0AC7268EE69B}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e73eb92f-17cc-477b-9450-6a3cbd841c5a"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{C46E80F0-FEC8-4B3A-A8D3-8941D436DEB2}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {4CC6E145-BC9C-4C1B-9F46-76C5DAA4E809}
+    {26E9C9EE-A683-493A-9F3A-62732CF47344}
+    {D6FA0696-9723-40FE-B361-A33C3222DD15}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{A52D7FF3-A559-4936-A5BB-C34B8D298389}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: "{892B089C-330C-4506-8231-3F9E902B8748}"
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{97D450DF-6D12-4A8D-A942-4785244A86BA}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260328T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T222351Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Corporate Finance Leadership Summit
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{97D450DF-6D12-4A8D-A942-4785244A86BA}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "9:00am"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260328T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d3dca8c-8d61-41f1-9484-1ca4d4426a71"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Corporate Finance Leadership Summit
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Driving Financial Performance Through Strategic Planning</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This executive summit brings together CFOs, finance directors, and corporate controllers to explore emerging trends in corporate finance, risk management, and regulatory compliance. Attendees will gain insights into financial planning strategies, treasury management best practices, and approaches to navigating complex compliance requirements in today's dynamic business environment.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li><strong>Strategic Finance</strong> in the Modern Era</li>
+            <li><strong>Risk Management</strong> in Volatile Markets</li>
+            <li><strong>Treasury Optimization</strong></li>
+            <li><strong>Compliance Automation</strong> and Regulatory Compliance</li>
+            <li>Financial Planning Strategies and Workshop</li>
+        </ul>
+        <h2>What to Expect</h2>
+        <p>A single-day executive summit featuring an opening keynote on "Strategic Finance in the Modern Era" by <strong>Marcus Chen</strong>, a panel discussion on <strong>Risk Management</strong>, breakout sessions on <strong>Treasury Optimization</strong> and <strong>Compliance Automation</strong>, and a <strong>Financial Planning Workshop</strong> with <strong>Jonathan Lee</strong>.</p>
+        <h2>Agenda</h2>
+        <ul>
+            <li>9:00am - Registration &amp; Networking Breakfast</li>
+            <li>10:00am - Opening Keynote: "Strategic Finance in the Modern Era" by Marcus Chen</li>
+            <li>11:30am - Panel Discussion: Risk Management in Volatile Markets</li>
+            <li>1:00pm - Lunch &amp; Peer Networking</li>
+            <li>2:30pm - Breakout Sessions: Treasury Optimization, Compliance Automation</li>
+            <li>4:00pm - Financial Planning Workshop with Jonathan Lee</li>
+            <li>5:30pm - Closing Remarks &amp; Reception</li>
+        </ul>
+        <h2>Who Should Attend</h2>
+        <ul>
+            <li>CFOs</li>
+            <li>Finance Directors</li>
+            <li>Corporate Controllers</li>
+            <li>Individuals interested in Corporate Finance, Risk Management, and Compliance Solutions</li>
+        </ul>
+        <h2>Industry Testimonials</h2>
+        <blockquote>
+        <p>"The breakout on Compliance Automation alone will save our department hundreds of hours annually. A highly efficient and targeted use of my time." &mdash; <em>Robert Sullivan, Corporate Controller, TechSolve Inc.</em></p>
+        </blockquote>
+        <blockquote>
+        <p>"Excellent discussion on strategic finance&mdash;it helped us shift our focus from reporting to true value-add business partnership. Marcus Chen's keynote was inspiring." &mdash; <em>Eliza Rodriguez, CFO, Nexus Group</em></p>
+        </blockquote>
+        <h2>Location Details</h2>
+        <p><strong>New York Financial District Center</strong></p>
+        <p>120 Broadway<br />
+        New York, NY <br />
+        10271</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204734Z

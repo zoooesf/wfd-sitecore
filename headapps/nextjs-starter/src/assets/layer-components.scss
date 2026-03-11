@@ -1,0 +1,116 @@
+@tailwind components;
+
+@layer components {
+  .menu-link {
+    @apply flex select-none items-center justify-between gap-[2px] rounded-[4px] px-3 py-2 text-lg font-extralight leading-none text-primary outline-none hover:bg-primary/5 focus:shadow-[0_0_0_2px];
+  }
+
+  /* Heading sizes */
+  .heading-xs {
+    @apply text-xs font-heading font-bold leading-tight;
+  }
+
+  .heading-sm {
+    @apply text-sm font-heading font-bold leading-tight;
+  }
+
+  .heading-base {
+    @apply text-base font-heading font-bold leading-tight;
+  }
+
+  .heading-lg {
+    @apply text-lg font-heading font-bold leading-tight;
+  }
+
+  .heading-xl {
+    @apply text-xl font-heading font-bold leading-tight;
+  }
+
+  .heading-2xl {
+    @apply text-2xl font-heading font-black leading-tight;
+  }
+
+  .heading-3xl {
+    @apply text-3xl font-heading font-black leading-tight;
+  }
+
+  .heading-4xl {
+    @apply text-4xl font-heading font-black leading-tight;
+  }
+
+  .heading-5xl {
+    @apply text-5xl font-heading font-black leading-tight;
+  }
+
+  .heading-6xl {
+    @apply text-6xl font-heading font-black leading-tight;
+  }
+
+  .heading-7xl {
+    @apply text-7xl font-heading font-black leading-none;
+  }
+
+  .heading-8xl {
+    @apply text-8xl font-heading font-black leading-none;
+  }
+
+  .heading-9xl {
+    @apply text-9xl font-heading font-black leading-none;
+  }
+
+  .copy-xs {
+    @apply text-xs font-body;
+  }
+
+  .copy-sm {
+    @apply text-sm font-body;
+  }
+
+  .copy-base {
+    @apply text-base font-body;
+  }
+
+  .copy-lg {
+    @apply text-lg font-body;
+  }
+
+  .copy-xl {
+    @apply text-xl font-body;
+  }
+
+  .copy-2xl {
+    @apply text-2xl font-body;
+  }
+
+  .copy-3xl {
+    @apply text-3xl font-body;
+  }
+
+  .copy-4xl {
+    @apply text-4xl font-body;
+  }
+
+  .copy-5xl {
+    @apply text-5xl font-body;
+  }
+
+  .copy-6xl {
+    @apply text-6xl font-body;
+  }
+
+  .copy-7xl {
+    @apply text-7xl font-body;
+  }
+
+  .copy-8xl {
+    @apply text-8xl font-body;
+  }
+
+  .eyebrow {
+    @apply text-xs font-heading uppercase font-bold;
+  }
+
+  .grid-rtl {
+    direction: rtl;
+  }
+}

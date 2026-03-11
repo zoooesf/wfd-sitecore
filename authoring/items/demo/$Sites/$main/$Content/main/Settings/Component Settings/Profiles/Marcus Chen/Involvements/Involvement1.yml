@@ -1,0 +1,37 @@
+﻿---
+ID: "29194cf4-de90-42c8-8e0f-a65ca729414b"
+Parent: "f41293da-08a7-4a6f-ab44-b0b92a5f06ca"
+Template: "3374fc7c-bc84-45f6-a9dc-36ed93c75934"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Marcus Chen/Involvements/Involvement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T172946Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7481b226-bcea-4da4-94ef-2ded2708f0e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Professional Involvement
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: "Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), serving on the Power &amp; Energy Society (PES) working group for next-generation smart grid standards. Active member of the American Public Power Association (APPA)."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T172957Z

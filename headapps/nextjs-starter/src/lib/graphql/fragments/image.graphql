@@ -1,0 +1,8 @@
+fragment ImageFieldFragment on _Image {
+  image {
+    jsonValue
+  }
+  imageMobile {
+    jsonValue
+  }
+}

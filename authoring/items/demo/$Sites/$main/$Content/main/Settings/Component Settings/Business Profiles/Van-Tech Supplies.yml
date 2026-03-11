@@ -1,0 +1,106 @@
+﻿---
+ID: "387ecab2-6a0d-4fcc-b02d-42453165c484"
+Parent: "ca05b187-fa4a-43a2-945e-5d665ce13b82"
+Template: "bb7addc1-3a17-4088-aa73-6e53e0177ca1"
+Path: "/sitecore/content/Sites/main/Settings/Component Settings/Business Profiles/Van-Tech Supplies"
+SharedFields:
+- ID: "34fb2379-2954-47a6-9d91-779c49de0983"
+  Hint: lat
+  Value: 49.2854
+- ID: "78126368-682d-4190-9fff-a7f904a509d0"
+  Hint: long
+  Value: "-123.1162"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9d439e58-901c-4394-b1b7-58db7600cbf6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: contact@vantech.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250918T174212Z
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 456 Granville St, Vancouver, BC V6C 1V4
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85509131-9dab-4943-b286-1bf0ec5f6f5f"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="vantech.com" linktype="external" url="https://www.vantech.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T160714Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: "Van-Tech Supplies"
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: |
+        Monday: 9am-6pm
+        Tuesday: 9am-6pm
+        Wednesday: 9am-6pm
+        Thursday: Closed
+        Friday: 9am-6pm
+        Saturday: 10 am–5 pm
+        Sunday: 10 am–5 p.m
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: contact@vantech.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T154651Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(604) 555-1234"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "69107e03-200c-4390-9d61-3dab0cdfa9e4"
+      Hint: services
+      Value: "{A01FDEFB-4F6C-4841-8BCF-5A8732842B14}"
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 456 Granville St, Vancouver, BC V6C 1V4
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62a7f481-03ed-4b28-949a-a5ddfd1e3b79"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T160730Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: "Van-Tech Supplies"
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: |
+        Monday: 9am-6pm
+        Tuesday: 9am-6pm
+        Wednesday: 9am-6pm
+        Thursday: Closed
+        Friday: 9am-6pm
+        Saturday: 10 am–5 pm
+        Sunday: 10 am–5 p.m

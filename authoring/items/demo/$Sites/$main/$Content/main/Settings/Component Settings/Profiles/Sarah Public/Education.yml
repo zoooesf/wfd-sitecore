@@ -1,0 +1,31 @@
+﻿---
+ID: "cf22c128-7d8d-41c5-97fa-c199238f8df2"
+Parent: "febabbda-3f17-40cc-b2be-904202db8ee3"
+Template: "412178fd-1df6-4ff6-81a0-7de9fbbf490a"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Sarah Public/Education
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T152601Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62fb02e4-603a-43ca-90ee-347f3cbbb642"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T152601Z

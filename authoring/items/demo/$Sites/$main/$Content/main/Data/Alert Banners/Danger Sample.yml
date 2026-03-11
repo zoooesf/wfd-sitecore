@@ -1,0 +1,40 @@
+﻿---
+ID: "95487d2b-4955-4992-aa08-22a4a99b33f3"
+Parent: "5b7ddea7-f9f8-4f77-809c-6c957bb0ccc5"
+Template: "cbc97581-f28b-4a5c-964c-b6011fbfc0f4"
+Path: /sitecore/content/Sites/main/Data/Alert Banners/Danger Sample
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06373d83-109d-4eb9-8b87-e907d8016720"
+      Hint: alertCategory
+      Value: warning
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241114T171500Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "763e2dd2-8b43-4808-a8a6-b6cfce8b4141"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Tidal Accelerator
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: <p>Standby, currently under construction.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250620T172226Z

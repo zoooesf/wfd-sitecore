@@ -1,0 +1,48 @@
+﻿---
+ID: "c55c62b5-82bb-43c2-b168-44d07cecef2a"
+Parent: "b22d82ef-d042-4360-92f8-ead0c8f1ec9d"
+Template: "bb3f8c27-7898-4395-8eb6-131f6db64cd7"
+Path: /sitecore/content/Sites/main/Home/Contact us/FAQ/Emergency Reporting/Data/SplitBanner 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="c03cf5f8-bb03-4c08-b86c-cd5edbc46fe7" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251013T205530Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c55ff574-a039-4b48-971e-d830518e1101"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Step 2: Call Our Dedicated Emergency Line"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: 
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>This line is staffed 24 hours a day, 7 days a week, and is for <i><span class="notion-enable-hover" data-token-index="1">emergencies only</span></i>. <span class="notion-enable-hover" data-token-index="3"><strong>PHONE NUMBER:</strong></span> <span class="notion-enable-hover" data-token-index="5"><strong>1-800-CRITICAL</strong></span></p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251013T210404Z

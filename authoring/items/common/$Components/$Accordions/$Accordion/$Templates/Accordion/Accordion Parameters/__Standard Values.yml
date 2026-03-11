@@ -1,0 +1,34 @@
+﻿---
+ID: "d8869f37-eb99-4d9d-8cf6-70b83e3e1dc6"
+Parent: "7b356407-0750-4dfa-8efe-b637db029a29"
+Template: "7b356407-0750-4dfa-8efe-b637db029a29"
+Path: /sitecore/templates/Feature/Common/Accordions/Accordion/Accordion Parameters/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "759e8e38-0b41-4c3b-8fb3-8938ff79055d"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f93b0ffa-f08d-465b-a167-38ee6be42179"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250616T124925Z

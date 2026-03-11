@@ -1,0 +1,37 @@
+﻿---
+ID: "4056f2c9-44bf-4b47-b95b-ff2c27065b29"
+Parent: "f41293da-08a7-4a6f-ab44-b0b92a5f06ca"
+Template: "3374fc7c-bc84-45f6-a9dc-36ed93c75934"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Marcus Chen/Involvements/Involvement2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T173001Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b93a3f7-3680-43ae-b178-291bd6858524"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Community Involvement
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: Established and manages an engineering mentorship program for high school students, focusing on recruiting talent from disadvantaged backgrounds into STEM fields through the Boys &amp; Girls Clubs of America.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T173014Z

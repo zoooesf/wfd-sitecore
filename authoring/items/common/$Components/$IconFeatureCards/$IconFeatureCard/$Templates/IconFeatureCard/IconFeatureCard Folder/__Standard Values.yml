@@ -1,0 +1,43 @@
+﻿---
+ID: "7ad9bb1f-5fa6-401a-9290-bcb8a47ad79b"
+Parent: "cba22cc8-612c-4b9f-a857-9128891e966f"
+Template: "cba22cc8-612c-4b9f-a857-9128891e966f"
+Path: /sitecore/templates/Feature/Common/IconFeatureCards/IconFeatureCard/IconFeatureCard Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E61A1436-8633-4B68-9921-9DB4F30CD33A}
+    {CBA22CC8-612C-4B9F-A857-9128891E966F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1347f929-a3ba-4a50-aadf-1591e7d919ae"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241023T181724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48c47926-6677-4334-b10c-6429452e0c55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250616T124932Z

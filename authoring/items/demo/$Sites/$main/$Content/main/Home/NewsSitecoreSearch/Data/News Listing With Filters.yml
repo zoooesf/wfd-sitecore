@@ -1,0 +1,73 @@
+﻿---
+ID: "2aaf0c17-f5ff-41aa-8e3a-0c7b6669ac7f"
+Parent: "38504369-7acd-4176-88e3-d34bd2ff26e8"
+Template: "f23d863e-381f-405d-8228-99a5fc48c843"
+Path: /sitecore/content/Sites/main/Home/NewsSitecoreSearch/Data/News Listing With Filters
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "219548f9-75fa-4200-95f3-b28e46ca5549"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251001T180649Z
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_15
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38806941-77f5-41a1-af47-3abb2ce94409"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: News Listing Heading
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T171542Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251001T180813Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "84724478-3343-4df1-bb70-12ff1b5b6dc9"
+      Hint: tagsHeading
+      Value: "Filtré par tag(s) :"
+    - ID: "882a71e3-ddbb-4f58-9f42-6a4b809ef17f"
+      Hint: widgetId
+      Value: rfkid_15
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5839665-4d2e-45af-afab-8215114055e9"
+    - ID: "b5f50f8f-e4fe-4417-9ab6-24ad823249af"
+      Hint: noResultsText
+      Value: "Aucun élément ne correspond à la condition de filtre, affichez-les tous à la place."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Titre de la liste des actualités
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251117T185700Z

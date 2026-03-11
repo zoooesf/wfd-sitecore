@@ -1,0 +1,103 @@
+﻿---
+ID: "001d3088-7eb1-429e-9176-f624cfab069c"
+Parent: "ca05b187-fa4a-43a2-945e-5d665ce13b82"
+Template: "bb7addc1-3a17-4088-aa73-6e53e0177ca1"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Business Profiles/Coastal Connect
+SharedFields:
+- ID: "34fb2379-2954-47a6-9d91-779c49de0983"
+  Hint: lat
+  Value: 49.2796
+- ID: "78126368-682d-4190-9fff-a7f904a509d0"
+  Hint: long
+  Value: "-123.1245"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1fd1b231-fe08-477c-adbc-30cd1b8f7ed3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: info@coastalconnect.ca
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T205159Z
+    - ID: "69107e03-200c-4390-9d61-3dab0cdfa9e4"
+      Hint: services
+      Value: "{ACAC50CD-E790-4FC9-9B9F-694FA4EE1CC6}"
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: 123 Robson St, Vancouver, BC V6B 5E4
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddf16116-5d72-4281-9786-4006cd2c26b8"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="coastalconnect.ca" linktype="external" url="https://www.coastalconnect.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T162818Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Coastal Connect
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: |
+        Monday: 9am-6pm
+        Tuesday: 9am-6pm
+        Wednesday: 9am-6pm
+        Thursday: Closed
+        Friday: 9am-6pm
+        Saturday: 10 am–5 pm
+        Sunday: 10 am–5 p.m
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T154721Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(604) 555-5678"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "851be994-1de1-4728-a57e-09acd1d739cb"
+      Hint: address
+      Value: "123, rue Robson, Vancouver (C.-B.) V6B 5E4"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b542223-cbd7-4503-ba76-aae60738c4ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T163043Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Coastal Connect
+    - ID: "fa7fbc78-6579-473d-8327-10742796b036"
+      Hint: hours
+      Value: |
+        Monday: 9am-6pm
+        Tuesday: 9am-6pm
+        Wednesday: 9am-6pm
+        Thursday: Closed
+        Friday: 9am-6pm
+        Saturday: 10 am–5 pm
+        Sunday: 10 am–5 p.m

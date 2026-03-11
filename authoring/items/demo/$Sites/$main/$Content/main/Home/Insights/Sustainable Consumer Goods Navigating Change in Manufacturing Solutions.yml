@@ -1,0 +1,140 @@
+﻿---
+ID: "be3e3319-97e3-4c6b-9243-5c4c0f5073b3"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Sustainable Consumer Goods Navigating Change in Manufacturing Solutions
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {19CC4CAA-4025-4CF5-B12B-A122EE7A755B}
+    {2E806A86-403F-470E-BAA9-9A5D3C18B5B3}
+    {9AE7113C-3A23-4B4F-B766-4418FA306D9F}
+    {0363D11D-C1B1-4216-BE14-E154CEE770B8}
+    {8C666B5A-BF50-45D8-9E4B-C3B5FBA48E48}
+    {3AE499E3-1E19-4150-9831-76E5C10BBE30}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {B0E8C7A1-24C1-43A6-9A9A-921863EA81CD}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6D4DC9D5-47C8-4E1B-92F4-E176DD28A0B3}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0f9693d9-86ff-4428-a90b-80c1c07882f0"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{E27B183D-DF12-4079-A47D-3EA2D50B3837}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{10708415-3D65-412F-9679-4CC2D225B105}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{A7735275-7613-4958-966A-7C6B70951482}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T224111Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sustainable Consumer Goods Navigating Change in Manufacturing Solutions
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{A7735275-7613-4958-966A-7C6B70951482}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50b993d1-435c-4862-8588-080a2213043c"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240712T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Sustainable Consumer Goods: Navigating Change in Manufacturing Solutions"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        How <span data-token-index="1" class="notion-enable-hover">Consumer Goods</span> companies are leveraging <span data-token-index="3" class="notion-enable-hover">Change Management</span> and innovative <span data-token-index="5" class="notion-enable-hover">Manufacturing Solutions</span> to meet demand for eco-friendly products and processes.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>The <strong>Consumer Goods</strong> industry is undergoing a profound transformation driven by increasing consumer demand for sustainable products and responsible manufacturing practices. From packaging redesigns to circular economy initiatives, companies are rethinking every stage of their value chain. This shift necessitates not only innovative <strong>Manufacturing Solutions</strong> but also effective <strong>Change Management</strong> strategies to ensure that these complex transformations are successfully implemented across global operations.</p>
+        <p>A recent global survey indicated that <strong>66% of consumers</strong> are willing to pay more for sustainable brands. This growing preference is compelling companies to invest heavily in sustainable manufacturing, a market expected to reach <strong>\$1.8 trillion by 2030</strong>. However, the transition involves significant operational adjustments, technological upgrades, and cultural shifts within organizations.</p>
+        <h3><strong>Key Drivers &amp; Challenges in Sustainable Manufacturing Transformation</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Driver</th>
+                    <th>Challenge</th>
+                    <th>Change Management Strategy</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Consumer Demand</strong></td>
+                    <td style="text-align:left;">High initial investment in new eco-friendly materials or processes.</td>
+                    <td style="text-align:left;">Clearly communicate long-term ROI and brand value to stakeholders.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Regulatory Pressure</strong></td>
+                    <td style="text-align:left;">Complex and evolving international environmental standards.</td>
+                    <td style="text-align:left;">Establish a dedicated <strong>Compliance Solutions</strong> team and ongoing <strong>Training &amp; Development</strong>.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Brand Reputation</strong></td>
+                    <td style="text-align:left;">Risk of "greenwashing" if sustainability claims are not authentic.</td>
+                    <td style="text-align:left;">Transparent reporting, third-party certifications, and clear internal communication.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Resource Scarcity</strong></td>
+                    <td style="text-align:left;">Dependence on finite resources.</td>
+                    <td style="text-align:left;">Research into alternative materials (<strong>R&amp;D Capabilities</strong>) and circular production models.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Implementing new, sustainable manufacturing processes often requires a complete overhaul of existing production lines, the adoption of new machinery, and retraining of the workforce. This is where robust <strong>Change Management</strong> becomes critical. Without it, even the most promising sustainable innovations can fail due to employee resistance, lack of understanding, or insufficient support infrastructure.</p>
+        <blockquote>
+        <p>"True sustainability in consumer goods manufacturing isn't an add-on; it's a fundamental reimagining of how we produce. This demands strong leadership, transparent communication, and an agile workforce ready to embrace new processes."</p>
+        </blockquote>
+        <p>Successful transitions often begin with a pilot program, allowing companies to test new <strong>Manufacturing Solutions</strong> on a smaller scale, gather feedback, and refine processes before a full rollout. This iterative approach minimizes risk and builds internal confidence. Furthermore, partnerships with <strong>Technology Partners</strong> specializing in sustainable materials or energy-efficient machinery can accelerate the adoption of these new solutions.</p>
+        <p>One example is the transition from single-use plastics to biodegradable or recycled materials. This impacts everything from material sourcing (<strong>Supply Chain</strong>) to packaging machinery. Effective <strong>Change Management</strong> ensures that procurement teams, production line workers, and marketing departments are all aligned with the new sustainable objectives, understanding their roles in the larger transformation.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154051Z

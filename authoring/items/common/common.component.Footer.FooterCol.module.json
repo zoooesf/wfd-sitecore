@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Footer-FooterCol",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Footer/$FooterCol/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Footer/FooterCol",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Footer/$FooterCol/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Footer/FooterCol",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Footer/$FooterCol/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Footer/Footer Headless Site Setup/Add Footer Cols Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

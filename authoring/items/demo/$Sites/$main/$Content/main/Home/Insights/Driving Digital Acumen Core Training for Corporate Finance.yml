@@ -1,0 +1,134 @@
+﻿---
+ID: "2349f4a6-edd4-4bf7-896c-d7ec303e16c0"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Driving Digital Acumen Core Training for Corporate Finance
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {600F4687-15B6-4D29-A5E3-8F5433D0C58B}
+    {3102B98B-BBF4-4652-B996-EA6701025276}
+    {97BBD37E-B3C6-4B90-8828-6802DCE3FE71}
+    {FC702CC2-555E-45B9-8801-FD46AF52C7DB}
+    {42AC350D-6F04-4512-A8BF-B3FF54384F43}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4EA60B57-300C-4E6A-ACC1-424A9B2B870E}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "16e12e34-7263-4f3a-aadb-f9d6173085e6"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{E27B183D-DF12-4079-A47D-3EA2D50B3837}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{9E519296-D74A-4A5F-B572-AE1D52D9CA16}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T221805Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Driving Digital Acumen Core Training for Corporate Finance
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b00bb633-0232-4ab0-944d-2a751be7c23c"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20231201T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Driving Digital Acumen: Core Training for Corporate Finance"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Preparing financial professionals for the future of investment planning and corporate strategy through targeted upskilling.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p>The role of the <strong>Corporate Finance</strong> professional in <strong>Financial Services</strong> has rapidly evolved from a gatekeeper of historical data to a strategic partner driving future decisions. This shift, powered by the rise of data analytics and AI, necessitates targeted <strong>Training &amp; Development</strong> in areas that bridge traditional finance expertise with digital acumen.</p>
+        <p>The biggest need is to equip teams with the skills to move beyond retrospective analysis and embrace predictive modeling, which is crucial for modern <strong>Investment Planning</strong> and strategic capital allocation. The market for financial services consulting, which often drives these training needs, is expanding, with a <strong>40% growth in AI and machine learning advisory projects</strong> alone.</p>
+        <h3><strong>Essential Upskilling Paths for Corporate Finance Teams (2024)</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Training Path</th>
+                    <th>Key Competency Gained</th>
+                    <th>Strategic Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>Advanced Data Analytics</strong></td>
+                    <td style="text-align: left;">Predictive modeling, data visualization (Power BI, Tableau), statistical analysis.</td>
+                    <td style="text-align: left;">Enhances forecasting accuracy and supports faster, data-driven executive decisions.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>ESG Integration</strong></td>
+                    <td style="text-align: left;">Non-financial data reporting, sustainability risk analysis.</td>
+                    <td style="text-align: left;">Supports compliance and attracts capital from ESG-focused investors.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Automation &amp; RPA</strong></td>
+                    <td style="text-align: left;">Understanding and managing robotic process automation for routine tasks.</td>
+                    <td style="text-align: left;">Frees up staff for high-value strategic work; increases <strong>Process Optimization</strong>.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;"><strong>Cybersecurity</strong></td>
+                    <td style="text-align: left;">Data governance, risk identification for financial systems.</td>
+                    <td style="text-align: left;">Critical for <strong>Risk Management</strong> and protecting sensitive client and company data.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Firms are increasingly using a "learning by doing" approach, pairing finance professionals with technical experts on joint projects to accelerate the adoption of new tools and skills. This hands-on method proves more effective than traditional classroom-only settings.</p>
+        <blockquote>
+        <p>"The corporate finance team of tomorrow must be as fluent in the language of data science as they are in accounting. Investing in this upskilling is not an HR cost; it's a strategic investment in future revenue streams and competitive intelligence."</p>
+        </blockquote>
+        <p>Effective training also extends to soft skills like strategic communication, ensuring that complex financial models and <strong>Investment Planning</strong> recommendations can be clearly and persuasively presented to non-finance executive stakeholders.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T153232Z

@@ -1,0 +1,29 @@
+fragment EventCardFieldsFragment on EventPage {
+  ...HeadingFieldFragment
+  ...SubheadingFieldFragment
+  ...UrlPathFragment
+  ...ImageFieldFragment
+  startDate {
+    formattedDateValue
+  }
+  endDate {
+    formattedDateValue
+  }
+  pageCategory {
+    jsonValue
+  }
+  profiles {
+    targetItems {
+      id
+      name
+      displayName
+    }
+  }
+  location {
+    value
+    jsonValue
+  }
+  eventTime {
+    value
+  }
+}

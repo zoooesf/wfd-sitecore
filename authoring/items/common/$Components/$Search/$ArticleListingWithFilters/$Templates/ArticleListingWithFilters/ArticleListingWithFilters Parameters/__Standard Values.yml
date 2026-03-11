@@ -1,0 +1,34 @@
+﻿---
+ID: "9f1a8163-86c6-4b55-8386-e13fc030e987"
+Parent: "5cb89fa3-e13b-4472-825b-516993de51da"
+Template: "5cb89fa3-e13b-4472-825b-516993de51da"
+Path: /sitecore/templates/Feature/Common/Search/ArticleListingWithFilters/ArticleListingWithFilters Parameters/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "23758bf4-152a-4db4-9f81-947655b72f47"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1877f1be-cbcf-4435-b4e2-a950d46eca6a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250811T190046Z

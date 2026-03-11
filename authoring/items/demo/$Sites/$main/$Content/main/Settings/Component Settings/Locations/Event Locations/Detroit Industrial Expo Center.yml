@@ -1,0 +1,34 @@
+﻿---
+ID: "9ac4e0e7-6ad6-42a4-a10e-741dade1a86f"
+Parent: "d7aea89f-0518-4684-a684-78b6399344fe"
+Template: "54971594-c0ab-4bfb-bd0b-ef6506e5a7c3"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Locations/Event Locations/Detroit Industrial Expo Center
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T202650Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a75037d6-fc58-4208-82e8-bcee41000c50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T202650Z
+    - ID: "edddb457-78e2-47db-9bed-16474f13c0ce"
+      Hint: contentName
+      Value: Detroit Industrial Expo Center

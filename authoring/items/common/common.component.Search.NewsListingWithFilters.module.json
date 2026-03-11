@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-NewsListingWithFilters",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$NewsListingWithFilters/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/NewsListingWithFilters",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$NewsListingWithFilters/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/NewsListingWithFilters",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$NewsListingWithFilters/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add News Listing with Filters Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

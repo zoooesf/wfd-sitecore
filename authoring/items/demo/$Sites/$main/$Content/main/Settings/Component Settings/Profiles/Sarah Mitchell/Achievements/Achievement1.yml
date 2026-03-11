@@ -1,0 +1,34 @@
+﻿---
+ID: "783096b7-3b0d-4b79-8d8f-d707e33021a4"
+Parent: "26edf8bb-f32d-40b6-9698-8cc0ed66b1fb"
+Template: "4e773ebc-ccf1-4fa9-9da1-fbeda98fc280"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Sarah Mitchell/Achievements/Achievement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T174959Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f1bdbe5-76d3-46a5-815e-d238b4dc64b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: "Spearheaded a corporate restructuring initiative for a Fortune 500 retail client that resulted in a 30% increase in market capitalization over two years. She also developed and successfully implemented a proprietary, AI-driven market analysis framework now used firm-wide across all major client engagements."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T175007Z

@@ -1,0 +1,29 @@
+/* Default Heading Styles when no class is applied */
+h1:not([class*='heading-']):not([class*='copy-']):not([class*='body-']) {
+  @apply lg:heading-6xl md:heading-5xl heading-4xl;
+}
+h2:not([class*='heading-']):not([class*='copy-']):not([class*='body-']) {
+  @apply lg:heading-5xl md:heading-4xl heading-3xl;
+}
+h3:not([class*='heading-']):not([class*='copy-']):not([class*='body-']) {
+  @apply lg:heading-4xl md:heading-3xl heading-2xl;
+}
+h4:not([class*='heading-']):not([class*='copy-']):not([class*='body-']) {
+  @apply lg:heading-3xl md:heading-2xl heading-xl;
+}
+h5:not([class*='heading-']):not([class*='copy-']):not([class*='body-']) {
+  @apply lg:heading-2xl md:heading-xl heading-lg;
+}
+h6:not([class*='heading-']):not([class*='copy-']):not([class*='body-']) {
+  @apply lg:heading-xl md:heading-lg heading-base;
+}
+
+/* Enable hyphenation on all headings when they overflow */
+h1, h2, h3, h4, h5, h6 {
+  @apply hyphens-auto break-words text-wrap max-w-full;
+}
+
+/* Make parent elements of headings full width if it doesn't have a width set */
+*:has(> h1, h2, h3, h4, h5, h6) {
+  @apply max-w-full;
+}

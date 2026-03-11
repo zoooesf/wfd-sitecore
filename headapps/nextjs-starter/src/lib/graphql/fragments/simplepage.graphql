@@ -1,0 +1,5 @@
+fragment SimplePageListingFragment on CommonBasePage {
+  ...ImageFieldFragment
+  ...HeadingFieldFragment
+  ...SubheadingFieldFragment
+}

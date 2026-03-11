@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Articles-LatestArticleGrid",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Articles/$LatestArticleGrid/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Articles/LatestArticleGrid",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Articles/$LatestArticleGrid/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Articles/LatestArticleGrid",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Articles/$LatestArticleGrid/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Articles/Articles Headless Site Setup/Add Latest Article Grids Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

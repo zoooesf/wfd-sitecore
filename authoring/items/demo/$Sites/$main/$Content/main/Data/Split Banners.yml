@@ -1,0 +1,23 @@
+﻿---
+ID: "72a98e05-acd3-4997-ad21-330888c50353"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "6599979c-9892-475f-8e9b-c76aff03c10f"
+Path: /sitecore/content/Sites/main/Data/Split Banners
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T131857Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6779a86c-aa14-4147-b756-71047e048c8b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250508T173300Z

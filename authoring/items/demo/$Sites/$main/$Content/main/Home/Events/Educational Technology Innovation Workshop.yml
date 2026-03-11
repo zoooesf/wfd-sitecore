@@ -1,0 +1,149 @@
+﻿---
+ID: "e5fa8054-1694-475a-a9f4-ab56a8f978e1"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Educational Technology Innovation Workshop
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {8478DEB8-C43B-4A4C-96A3-2E273A1E5442}
+    {F30F840E-3C93-4833-9E00-D6F24840DF00}
+    {CFC444BE-AE5A-40B7-9697-1FD86158F82B}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {CBD22768-538C-4C96-9EB4-AD0B5A2A333A}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{35375495-5AC4-4582-B504-9FA8F71E8D8B}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4c90583f-8cf8-4181-8b80-69bc1da5ad65"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{4F7ED673-AD85-4C4C-894F-9E93102616DA}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {3BC6EC1D-DBA6-441A-A23E-903BFDD77F34}
+    {902053F2-5639-45A4-9588-D57107E543F8}
+    {7DEBB766-31C5-4867-88F2-40CAF7D73E8A}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{B34615E9-84D7-46B4-AB8F-7D867F6585EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {4CA9104A-652F-41EC-91A2-5A7930ABE336}
+        {8E69F72D-F511-4AF8-97A5-44F8A3454669}
+        {9E846405-9D75-4DD9-90A3-085E75B29E3B}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{DC55C6D1-976F-4607-A143-EEA333B67ED7}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260415T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T222728Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Educational Technology Innovation Workshop
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{DC55C6D1-976F-4607-A143-EEA333B67ED7}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "9:00am-4:30pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260416T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99fd11c0-a56d-466c-8d18-22201c2dba4a"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Educational Technology Innovation Workshop
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Transforming Learning Through Digital Solutions</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This hands-on workshop explores the latest innovations in educational technology and their practical applications in diverse learning environments. Educational leaders, instructional designers, and technology coordinators will discover proven strategies for implementing digital learning solutions, measuring educational outcomes, and creating engaging learning experiences that prepare students for future success.</p>
+        <h2>Key Topics</h2>
+        <ul>
+            <li><strong>Digital Transformation</strong> in Education</li>
+            <li><strong>Learning Management Systems</strong> (LMS)</li>
+            <li>Designing Effective <strong>Online Learning</strong></li>
+            <li><strong>Educational Analytics</strong></li>
+            <li>Implementing <strong>Digital Learning Solutions</strong></li>
+            <li>Technology Showcase &amp; <strong>Demonstrations</strong></li>
+        </ul>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - April 15</strong></p>
+        <ul>
+            <li>9:00am - Welcome &amp; Coffee</li>
+            <li>9:30am - Keynote: "Digital Transformation in Education" by Aisha Patel</li>
+            <li>11:00am - Interactive Session: Learning Management Systems</li>
+            <li>12:30pm - Lunch</li>
+            <li>1:30pm - Workshop: Designing Effective Online Learning</li>
+            <li>3:30pm - Technology Showcase &amp; Demonstrations</li>
+            <li>4:30pm - Day 1 Conclusion</li>
+        </ul>
+        <p><strong>Day 2 - April 16</strong></p>
+        <ul>
+            <li>9:00am - Continental Breakfast</li>
+            <li>9:30am - Best Practices Panel with Jennifer Kim and Samantha Brooks</li>
+            <li>11:00am - Hands-on Lab: Educational Analytics</li>
+            <li>12:30pm - Lunch</li>
+            <li>1:30pm - Implementation Planning Session</li>
+            <li>3:30pm - Closing &amp; Certificate Distribution</li>
+        </ul>
+        <h2>A Must-Attend Event For</h2>
+        <p>Professionals looking for <strong>hands-on experience</strong> and <strong>proven strategies</strong> to implement digital learning solutions and measure educational outcomes effectively.</p>
+        <h2>Industry Testimonials</h2>
+        <blockquote>
+        <p>"The hands-on lab for Educational Analytics gave us the practical skills we needed to finally move beyond basic completion rates and measure real learning outcomes." &mdash; <em>Jessica Wu, Instructional Designer, University of the Coast</em></p>
+        </blockquote>
+        <blockquote>
+        <p>"Aisha Patel's presentation on digital transformation provided the necessary framework to secure budget approval for our new LMS implementation. Highly recommended for EdTech leaders." &mdash; <em>Kenneth Miller, Director of Educational Technology, City School District</em></p>
+        </blockquote>
+        <h2>Location Details</h2>
+        <p><strong>Seattle Education Innovation Hub</strong></p>
+        <p>1200 12th Ave S<br />
+        Seattle, WA <br />
+        98144</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204734Z

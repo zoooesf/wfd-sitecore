@@ -1,0 +1,22 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-medialibrary",
+    "references": [
+        "common-commonfolders"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$FoundationMediaLibrary",
+                "path": "/sitecore/media library/Foundation/Common",
+                "scope": "DescendantsOnly"
+            },
+            {
+                "name": "$FeatureMediaLibrary",
+                "path": "/sitecore/media library/Feature/Common",
+                "scope": "DescendantsOnly"
+            }
+        ]
+    }
+}

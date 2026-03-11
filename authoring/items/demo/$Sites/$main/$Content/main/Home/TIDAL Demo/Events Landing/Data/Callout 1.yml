@@ -1,0 +1,41 @@
+﻿---
+ID: "fd1f081f-ff79-4f7a-88d7-23320a9a3591"
+Parent: "8cdad22c-857a-4f6b-8ef9-c27fb2487c82"
+Template: "e2af24b0-74f1-4053-a5d1-80b32bb71714"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Events Landing/Data/Callout 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T190013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4fb7e339-d1b6-43be-a935-8f6776d02bd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: 
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><blockquote><h5>Create a library of pre-built deep links for your most common event searches. Store these in a shared document for your team, making it easy for anyone to grab the right URL for emails, social media posts, or website features. This ensures consistency across all communications and saves time on repetitive filtering.</h5></blockquote></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251212T153950Z

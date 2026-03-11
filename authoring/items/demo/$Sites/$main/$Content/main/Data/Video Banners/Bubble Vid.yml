@@ -1,0 +1,33 @@
+﻿---
+ID: "bd9110d6-cc06-4218-98ff-1457a94d72f8"
+Parent: "0bcdcc27-8d8e-4cd5-8d3a-bf65ba8ab5c8"
+Template: "94c6d2e3-3474-4603-a19a-e167592f7c10"
+Path: /sitecore/content/Sites/main/Data/Video Banners/Bubble Vid
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241206T220505Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd8ec87f-a432-49ad-b956-b6078b8419c3"
+    - ID: "a6cf0354-12e8-41e9-9ed6-1b80b53738fb"
+      Hint: backgroundVideo
+      Value: |
+        <file mediaid="{C22D909B-3DFD-4D4D-92A3-568BF828B795}" src="-/media/c22d909b3dfd4d4d92a3568bf828b795.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Default Video Banner
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250518T113957Z

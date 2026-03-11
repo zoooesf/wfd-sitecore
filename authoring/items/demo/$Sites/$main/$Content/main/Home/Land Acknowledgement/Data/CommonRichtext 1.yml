@@ -1,0 +1,38 @@
+﻿---
+ID: "7d27aea8-d17e-44d7-9318-4adbc5b8ae26"
+Parent: "0b20338e-3cc1-4277-a9b5-116d6c8dcc6d"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Home/Land Acknowledgement/Data/CommonRichtext 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T135136Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1808a86-0f20-4339-a569-1a65ceddd2cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><h4>Our Commitment to Reconciliation</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sem quis justo ultricies vehicula. We commit to a long-term process of learning, listening, and taking meaningful action to support Indigenous communities and uphold the principles of reconciliation. Nunc venenatis tellus non eros volutpat, ut elementum neque tincidunt.</p><h4>Statement of Acknowledgment</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec vehicula metus, ac laoreet neque. Integer congue dui vestibulum vulputate dictum. Vestibulum dapibus porta egestas. Donec nunc eros, hendrerit a finibus at, tincidunt vitae est. Phasellus condimentum dui eu scelerisque vehicula. Cras in interdum nibh. Mauris ultricies vehicula mi, in ultrices urna. Vestibulum id mattis turpis, vitae dignissim purus. Praesent aliquet justo diam, eget pretium nibh blandit quis. Vestibulum ut velit in nunc tincidunt tincidunt in id erat. Curabitur ultricies, neque ut aliquet faucibus, tellus mauris pellentesque quam, vitae hendrerit augue lectus in neque. Aenean justo diam, posuere in arcu scelerisque, iaculis ultrices lorem. Vestibulum nec semper metus. Suspendisse hendrerit justo accumsan, finibus enim quis, fringilla elit. Curabitur sit amet rhoncus augue, vitae dignissim elit. Duis finibus ex et metus fermentum, quis condimentum erat elementum. Ut tincidunt quam sit amet turpis iaculis, dictum dictum eros facilisis. Nulla suscipit ex vel odio cursus pretium. Vivamus tincidunt neque quis nunc suscipit varius. Suspendisse semper gravida risus, in finibus nisl maximus vel.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T135232Z

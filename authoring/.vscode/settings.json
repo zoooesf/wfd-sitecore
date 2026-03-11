@@ -1,0 +1,11 @@
+{
+  // Language-specific settings for JSON SCS module files
+  "[json]": {
+    "editor.autoIndent": "full",
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 4
+  },
+}

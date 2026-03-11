@@ -1,0 +1,43 @@
+﻿---
+ID: "d50deb00-8ffe-4c77-83cc-c2b53971ebe1"
+Parent: "d89aa572-c475-4ca7-8d6b-6e7f1c8b69b3"
+Template: "5e098290-c20c-439f-bbee-fd7d9f159c24"
+Path: /sitecore/content/Sites/main/Home/SimplePageListing/Data/SimplePageListing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260109T181242Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5c4221c-d18f-4bce-8fc2-8bdb81e0493c"
+    - ID: "913a77ef-2522-40b7-b5f0-e72532d89bce"
+      Hint: selectedPage
+      Value: "{B132D115-7893-49AA-A06F-F1719A8704E3}"
+    - ID: "91e37c57-2ef2-48a3-8c9c-18b0ba46aae8"
+      Hint: filterByTags
+      Value: 
+    - ID: "a2461125-107b-4e8d-bd4f-4f574292476d"
+      Hint: PageSizeCount
+      Value: 2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260113T142538Z

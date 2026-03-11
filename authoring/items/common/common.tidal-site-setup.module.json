@@ -1,0 +1,24 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-tidal-site-setup",
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$TidalSiteSetup.PowerShellScripts",
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/JSS SXA/Tidal Site",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$TidalSiteSetup.Settings",
+                "path": "/sitecore/system/Settings/Feature/JSS Experience Accelerator/Tidal Site",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$TidalSiteSetup.BranchTemplates",
+                "path": "/sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}

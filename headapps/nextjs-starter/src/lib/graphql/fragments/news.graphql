@@ -1,0 +1,24 @@
+fragment NewsCardFieldsFragment on NewsPage {
+  name
+  ...ImageFieldFragment
+  ...HeadingFieldFragment
+  ...SubheadingFieldFragment
+  ...BodyFieldFragment
+  ...UrlPathFragment
+  datePublished {
+    formattedDateValue
+  }
+  displayDateTime {
+    jsonValue
+  }
+  pageCategory {
+    jsonValue
+  }
+  profiles {
+    targetItems {
+      id
+      name
+      displayName
+    }
+  }
+}

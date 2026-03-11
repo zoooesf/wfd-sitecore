@@ -1,0 +1,38 @@
+﻿---
+ID: "78f70287-2d92-4383-8dd8-9b48b67acbfa"
+Parent: "8cdad22c-857a-4f6b-8ef9-c27fb2487c82"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Events Landing/Data/CommonRichtext 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251211T225039Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c257614-670f-4c85-adc9-98b78c0a17bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><h2>How It Works</h2><p>The Event Search Listing feature streamlines your event discovery process in three simple steps. First, access the search interface through our main navigation or via direct links from emails and communications. Second, use the intuitive filters and search bar to narrow down events by type, date, topic, or keyword. Finally, click through to detailed event pages where you can learn more and register instantly. The system remembers your preferences and can be bookmarked with specific filters already applied, making repeat searches even faster.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T225128Z

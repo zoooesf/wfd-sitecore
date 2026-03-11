@@ -1,0 +1,146 @@
+﻿---
+ID: "2c8e482e-60db-461e-a1e1-a03f896c2473"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Scaling EdTech Strategic Project Management for Educations Digital Frontier
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {D9518380-54CC-40B4-BDB1-30BA616F9DB4}
+    {0E59078D-1124-4E3D-8F3D-CC1FEA8C6CA6}
+    {B0E8C7A1-24C1-43A6-9A9A-921863EA81CD}
+    {19CC4CAA-4025-4CF5-B12B-A122EE7A755B}
+    {01E03FA1-25C0-4CCF-BA0B-893EE0E6BC60}
+    {51958C7A-2629-4C41-88B3-1317A08263F5}
+    {CD7E8CB2-4DF0-42F1-B30E-094D39B55E68}
+    {45AC36C1-1ABB-40EF-A4C1-275BB957468D}
+    {504D9C9A-8BB3-42E1-84B9-4FEEDC657492}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C941154C-45D4-4967-9399-688DDE516F7E}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ce17a484-6c31-4b4d-98bb-04cb45317c5a"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{5A5B0011-81E1-46CE-8DAF-5FA4F56D5448}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{D6FA0696-9723-40FE-B361-A33C3222DD15}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D70A1CC4-0D85-47CA-BA87-C12D062353F9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T223534Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Scaling EdTech Strategic Project Management for Educations Digital Frontier
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D70A1CC4-0D85-47CA-BA87-C12D062353F9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be8360fd-f247-455f-b54b-4823a5dbadfa"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250801T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Scaling EdTech: Strategic Project Management for Education's Digital Frontier"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Implementing robust frameworks and collaborating with Technology Partners to drive successful digital transformations across educational institutions.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>The <strong>Education</strong> sector is undergoing an unprecedented digital transformation, accelerated by remote learning imperatives and the growing demand for personalized, technology-enhanced learning experiences. From integrating Learning Management Systems (<strong>LMS</strong>) to deploying institution-wide student information systems, these projects are complex, high-stakes, and require exemplary <strong>Project Management</strong>. Partnering with experienced <strong>Technology Partners</strong> becomes crucial for success, ensuring that solutions are not just innovative, but also scalable, secure, and user-friendly.</p>
+        <p>The global EdTech market is projected to reach over <strong>$600 billion by 2027</strong>, highlighting the immense investment and potential. However, a significant number of these projects fail to meet their objectives due to inadequate planning, poor stakeholder engagement, and insufficient change management. This underscores the need for a strategic, rather than purely tactical, approach to <strong>Project Management</strong> within educational institutions.</p>
+        <h3><strong>Critical Success Factors for EdTech Project Management</strong></h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Factor</th>
+                    <th>Description in Education Context</th>
+                    <th>Mitigating Challenges</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Clear Scope Definition</strong></td>
+                    <td style="text-align:left;">Defining specific goals (e.g., improve student engagement by 15% through gamified content).</td>
+                    <td style="text-align:left;">Involve <strong>Faculty Research</strong> and <strong>Student Research</strong> early; use iterative development with <strong>Technology Partners</strong>.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Robust Stakeholder Engagement</strong></td>
+                    <td style="text-align:left;">Actively involving faculty, students, IT staff, and administrators.</td>
+                    <td style="text-align:left;">Regular communication (town halls, surveys); create a cross-functional project steering committee.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Change Management Strategy</strong></td>
+                    <td style="text-align:left;">Preparing users for new technologies and workflows.</td>
+                    <td style="text-align:left;">Comprehensive <strong>Training &amp; Development</strong> programs; designated change champions.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Resource Allocation</strong></td>
+                    <td style="text-align:left;">Securing adequate budget, personnel, and infrastructure.</td>
+                    <td style="text-align:left;">Detailed financial <strong>Business Analysis</strong>; phased rollout plans.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Vendor Management</strong></td>
+                    <td style="text-align:left;">Selecting and managing <strong>Technology Partners</strong> effectively.</td>
+                    <td style="text-align:left;">Clear SLAs (Service Level Agreements); regular performance reviews; joint project plans.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Many education projects, especially those involving new software or hardware, fall short because they prioritize technology over the people who will use it. This highlights the importance of <strong>Change Management</strong>&mdash;a discipline often overlooked but critical for ensuring user adoption and long-term success.</p>
+        <blockquote>
+        <p>"The best EdTech solution is useless if it's not embraced by educators and students. Effective Project Management in education isn't just about deadlines; it's about people, culture, and ensuring that technology genuinely enhances the learning experience."</p>
+        </blockquote>
+        <p>Furthermore, the scale of data involved in modern educational systems demands robust <strong>Quality Assurance</strong> processes. From data migration to system integration testing, every step must be meticulously managed to prevent errors that could disrupt learning or compromise sensitive student information. <strong>Technology Partners</strong> bring specialized expertise in these areas, offering solutions like cloud migration, cybersecurity, and data analytics.</p>
+        <h3><strong>Infographic: The EdTech Project Management Playbook</strong></h3>
+        <p><strong><img src="-/media/e7c6a60d8d9747ea808c086d056c3576.ashx" alt="Infographic: The EdTech Project Management Playbook" width="1024" height="1024" /></strong></p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154037Z

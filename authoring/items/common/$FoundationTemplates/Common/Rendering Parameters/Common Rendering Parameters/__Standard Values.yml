@@ -1,0 +1,27 @@
+﻿---
+ID: "f1eba079-e409-45e0-8f59-93a18cf46059"
+Parent: "f6c3c1e3-6b47-4fb5-8bd0-dbd44840bc08"
+Template: "f6c3c1e3-6b47-4fb5-8bd0-dbd44840bc08"
+Path: /sitecore/templates/Foundation/Common/Rendering Parameters/Common Rendering Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50169ccf-acba-4251-be4e-7e6ed55e93a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241030T190339Z

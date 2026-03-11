@@ -1,0 +1,37 @@
+﻿---
+ID: "c9251a76-d4e1-48b0-bb8e-68c46ffb9ced"
+Parent: "54d1aa57-a8e1-4311-8bad-1799e895dedb"
+Template: "0565a426-63ab-445f-b122-2dbdfbf41a40"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Necessary Data Items/Footer Mains/FooterMain
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241030T132123Z
+    - ID: "3ce62b1f-85a9-4199-b8a5-e52767528767"
+      Hint: logo
+      Value: |
+        <image mediaid="{1207CFBF-A252-4B4F-83D0-DA5014263BE2}" />
+    - ID: "5795e0c3-b800-4ffc-8a83-fcc877a810e6"
+      Hint: newsletterLink
+      Value: |
+        <link class="" querystring="" id="{B132D115-7893-49AA-A06F-F1719A8704E3}" anchor="" target="|Custom" title="" linktype="internal" text="Subscribe" url="/Sites/main/Home" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33089ab1-0a58-44c0-9123-ab9264740f01"
+    - ID: "aa4c201b-b59d-453e-9e64-0f63414c87e5"
+      Hint: newsletterBody
+      Value: Subscribe to our newsletter and get early access to new releases, special offers, and curated content. We only send what’s worth reading.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T133553Z
+    - ID: "e1422fd6-78c9-4e3d-8388-44a05308fe63"
+      Hint: newsletterHeading
+      Value: Subscribe to our newsletter

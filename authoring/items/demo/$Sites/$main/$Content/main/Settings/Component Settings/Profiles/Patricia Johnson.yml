@@ -1,0 +1,94 @@
+﻿---
+ID: "8318640f-8801-4556-a743-d4dc60ce780c"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Patricia Johnson
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {F85EA5A7-A72B-428A-A7BA-5271788B8419}
+    {CD50C12D-0BC8-4AFC-95C3-D152CD95BB3F}
+    {AE7F6BE1-E9CD-445C-98D7-96B53A62800C}
+    {70DF80ED-D98C-4C61-8F85-F524F8F84621}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{9EAC6E8D-18F0-4AA8-80C0-1C9F2332A1F5}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Patricia
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "00aec9bc-7aeb-4725-954b-b14639f46608"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Johnson
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: patricia.johnson@firstnationalbank.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{05A8DFE4-606E-4C30-A227-B803A6B24E21}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Chief Compliance Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T191959Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(704) 555-0893"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{05A8DFE4-606E-4C30-A227-B803A6B24E21}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: First National Bank
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bb46236-c709-4b1c-95ca-1dc59e5762b4"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Patricia Johnson has spent 24 years ensuring financial institutions operate with the highest standards of regulatory compliance and ethical conduct. As Chief Compliance Officer at First National Bank, she oversees enterprise-wide compliance programs covering anti-money laundering, consumer protection, fair lending, and privacy regulations. Her proactive compliance management approach has helped the bank navigate complex regulatory requirements while maintaining a strong reputation with regulators and customers alike.</p>
+        <p>Patricia holds a law degree from Wake Forest University and several compliance certifications including Certified Regulatory Compliance Manager (CRCM). She has successfully led the bank through multiple regulatory examinations with consistently strong results. Patricia has built a culture of compliance throughout the organization through comprehensive training programs and clear communication of regulatory expectations. She regularly presents at industry conferences on emerging compliance risks and best practices, and serves on the compliance advisory board for the American Bankers Association.</p>
+        <!--<h2>Experience</h2>
+        <p>24 years ensuring financial institutions operate with the highest standards of regulatory compliance. She oversees compliance programs covering anti-money laundering, consumer protection, fair lending, and privacy regulations.</p>
+        <h2>Achievements</h2>
+        <p>Her proactive approach has helped the bank navigate complex regulatory requirements. She has successfully led the bank through multiple regulatory examinations with consistently strong results.</p>
+        <h2>Professional Involvement</h2>
+        <p>Holds compliance certifications including Certified Regulatory Compliance Manager (CRCM). Serves on the compliance advisory board for the American Bankers Association.</p>
+        <h2>Community Involvement</h2>
+        <p>She built a culture of compliance throughout the organization through comprehensive training programs and clear communication.</p>
+        <h2>Education</h2>
+        <p>Holds a law degree from Wake Forest University.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200206Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

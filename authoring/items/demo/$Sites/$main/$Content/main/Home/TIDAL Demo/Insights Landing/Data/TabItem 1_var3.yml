@@ -1,0 +1,41 @@
+﻿---
+ID: "cd6dac45-4da6-4424-9950-72d63fa5cb5f"
+Parent: "7ff7bbb2-c772-44d2-bec6-5f7205c5f9a2"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Insights Landing/Data/TabItem 1_var3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43652c20-d197-4a2c-9adc-951f130d1b6d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Deep Linking & Integration
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Deep linking transforms the Insights Search Listing into a flexible content delivery system. By constructing URLs with specific query parameters, you can create direct pathways to pre-filtered content. This enables multiple use cases: email campaigns can link directly to relevant research categories, landing pages can feature content-specific search experiences, navigation menus can offer type-specific entry points, and third-party systems can integrate links that land users in exactly the right content subset. Parameters can be combined (e.g., #type=market-analysis&amp;topic=automotive&amp;date=last-year) to create highly targeted experiences. This makes the search listing a powerful hub that can be customized for different audiences, campaigns, and integration points without requiring separate pages for each content category.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251204T222742Z

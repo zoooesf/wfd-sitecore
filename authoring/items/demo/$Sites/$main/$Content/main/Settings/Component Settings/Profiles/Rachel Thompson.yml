@@ -1,0 +1,96 @@
+﻿---
+ID: "efa68045-6826-42fc-b40f-eda8c61a6062"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Rachel Thompson
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {1E93ACF8-5AED-41CC-B50C-2D430451A5FF}
+    {F775E0B4-0F52-4313-9BF4-38AA7F15E3B5}
+    {2C7D866E-0035-4E92-8106-1CFBAC9ADDA9}
+    {B08BE2B2-91B9-4A39-A875-0E869928750B}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{35DA6625-537E-4D3C-9CE1-05A5FF2C8296}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Rachel
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8f8054b7-b155-4e12-92c0-a0670b7be633"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Thompson
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: rachel.thompson@metroschools.org
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{520267DD-58E0-43B7-AAED-4C0E4BC88FEB}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Chief Academic Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T174719Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(602) 555-0167"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{520267DD-58E0-43B7-AAED-4C0E4BC88FEB}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Metropolitan School District
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15c08457-810b-49e3-8cdc-b46183972078"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Rachel Thompson is an education innovator with 21 years of experience as both a classroom teacher and district administrator. As Chief Academic Officer for Metropolitan School District, she oversees curriculum and instruction for 65,000 students across 120 schools. Rachel has led the district's transformation into a model for STEM education, implementing project-based learning approaches and integrating technology in ways that have significantly improved student engagement and achievement scores.</p>
+        <p>A former National Teacher of the Year finalist, Rachel holds a Doctorate in Educational Leadership from Arizona State University. She has secured millions in grants to support teacher professional development and educational technology initiatives. Rachel is passionate about closing achievement gaps and ensuring all students have access to rigorous, relevant learning experiences. She frequently presents at national education conferences and has published articles on effective instructional leadership and equity in education.</p>
+        <!--<h2>Experience</h2>
+        <p>21 years of experience as both a classroom teacher and district administrator. She oversees curriculum and instruction for 65,000 students across 120 schools.</p>
+        <h2>Achievements</h2>
+        <p>She led the district's transformation into a model for STEM education, resulting in significantly improved student engagement and achievement scores. She secured millions in grants to support educational initiatives.</p>
+        <h2>Professional Involvement</h2>
+        <p>She frequently presents at national education conferences and has published articles on effective instructional leadership.</p>
+        <h2>Community Involvement</h2>
+        <p>She is passionate about closing achievement gaps and ensuring all students have access to rigorous, relevant learning experiences.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Former National Teacher of the Year finalist.</p>
+        <h2>Education</h2>
+        <p>Holds a Doctorate in Educational Leadership from Arizona State University</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200217Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

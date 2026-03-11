@@ -1,0 +1,94 @@
+﻿---
+ID: "7debb766-31c5-4867-88f2-40caf7d73e8a"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Samantha Brooks
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {DDD91939-EAE9-48CB-8958-51B8BB8CE53F}
+    {A1C1ADD3-3435-4359-AB96-6C579C30385C}
+    {D0469EAF-30AA-45B7-B9FA-BE2D7F75763B}
+    {AE7F6BE1-E9CD-445C-98D7-96B53A62800C}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{AE010F1C-84AA-4BBE-805F-92435D2D34AA}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Samantha
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "75be7426-a5a3-4711-aa6b-adfeb4b5f883"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Brooks
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: samantha.brooks@securetechsol.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{6FDEA829-C492-4917-9AD4-504FB0480766}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Chief Information Security Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T190745Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(408) 555-0956"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{6FDEA829-C492-4917-9AD4-504FB0480766}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: SecureTech Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f54e269-8614-471f-a34e-cc866c44d1a5"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Dr. Samantha Brooks is a cybersecurity expert with 16 years of experience protecting organizations from evolving digital threats. As Chief Information Security Officer at SecureTech Solutions, she develops comprehensive security strategies for enterprise clients across multiple industries. Her proactive approach to threat detection and incident response has protected clients from major breaches and helped them maintain compliance with stringent data privacy regulations including GDPR and CCPA.</p>
+        <p>Dr. Brooks holds a Ph.D. in Computer Science from Stanford University and multiple industry certifications including CISSP and CISM. She leads a team of security analysts and has built a security operations center that monitors threats 24/7. Samantha is a frequent speaker at cybersecurity conferences and has testified before Congress on cybersecurity policy. She is passionate about building security awareness cultures within organizations and developing the next generation of cybersecurity professionals through mentorship and industry partnerships.</p>
+        <!--<h2>Experience</h2>
+        <p>16 years of experience protecting organizations from evolving digital threats. She develops comprehensive security strategies for enterprise clients.</p>
+        <h2>Achievements</h2>
+        <p>Protected clients from major breaches and helped them maintain compliance with regulations including GDPR and CCPA. She built a security operations center that monitors threats 24/7.</p>
+        <h2>Professional Involvement</h2>
+        <p>Holds multiple industry certifications including CISSP and CISM. She has testified before Congress on cybersecurity policy.</p>
+        <h2>Community Involvement</h2>
+        <p>Passionate about building security awareness cultures. She develops the next generation of cybersecurity professionals through mentorship and industry partnerships.</p>
+        <h2>Education</h2>
+        <p>Ph.D. in Computer Science from Stanford University.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200243Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

@@ -1,0 +1,43 @@
+﻿---
+ID: "9637812b-b6d1-4efa-892f-6438a6a8eb70"
+Parent: "1428f00b-c140-4bf6-aca5-2b06cc97395b"
+Template: "1428f00b-c140-4bf6-aca5-2b06cc97395b"
+Path: /sitecore/templates/Feature/Common/Events/EventCard/EventCard Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {438177FB-B8AA-4ABB-8D4F-C5766C16CDA5}
+    {BBDDE3AE-0488-4CCB-90CC-97AFF2ED01E3}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a168422b-c6b2-4ef9-a1cb-7a297270d25a"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241023T181724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eaeb0699-d04e-45d1-bed0-7359752a1ca3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250616T124930Z

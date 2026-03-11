@@ -1,0 +1,43 @@
+﻿---
+ID: "578a221b-2da9-4bc5-8383-4b8c3f72cce9"
+Parent: "cc6ed4f3-3b6c-40d8-a056-ef35d4849abc"
+Template: "cc6ed4f3-3b6c-40d8-a056-ef35d4849abc"
+Path: /sitecore/templates/Feature/Common/Banners/TextBanner/TextBanner Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {592F504D-7041-43A7-A38A-9C6DC755BC3F}
+    {CC6ED4F3-3B6C-40D8-A056-EF35D4849ABC}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0405ee73-fc45-43f8-8fd0-cc82af5fc202"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241023T181724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58b8f2f7-9bfb-4481-a4e8-a6a24c952fdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250616T124926Z

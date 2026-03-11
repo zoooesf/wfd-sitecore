@@ -1,0 +1,27 @@
+﻿---
+ID: "ac1dfe1a-e7e1-4137-b1a4-118179ed0ed6"
+Parent: "54872288-fbde-460f-9b56-1375d80f284a"
+Template: "886c0e4d-fc27-417b-8c91-14edef43922a"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Article Categories
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241104T191225Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa473c7b-4c46-422b-9b95-d25a1c6a2384"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250824T153452Z

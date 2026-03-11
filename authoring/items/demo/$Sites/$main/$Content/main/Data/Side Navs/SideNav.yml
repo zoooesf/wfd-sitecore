@@ -1,0 +1,29 @@
+﻿---
+ID: "cdfec404-45e4-40c4-bdd3-06a677d7ae97"
+Parent: "7fa8e24d-75dc-433f-a2fc-2fc21be74023"
+Template: "c842c7e3-be59-45c8-9dc6-0f0c55ea2463"
+Path: /sitecore/content/Sites/main/Data/Side Navs/SideNav
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241128T150334Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b51ff52f-73d1-41e0-8f35-8cd7471dfd8a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: My Account
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250509T153900Z

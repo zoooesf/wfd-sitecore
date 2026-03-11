@@ -1,0 +1,137 @@
+﻿---
+ID: "3ef6a982-2b4f-40bc-8367-6f50fb9c2535"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Healthcare Quality and Patient Safety Workshop
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {4DA2E751-BAD8-4F69-9C70-850504662FDD}
+    {51958C7A-2629-4C41-88B3-1317A08263F5}
+    {91D274C3-5803-44C4-8F6A-63B817FF57A4}
+    {CFC444BE-AE5A-40B7-9697-1FD86158F82B}
+    {B475771B-2A39-452D-99A4-64A20EC4C796}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{BDAFE44F-CA2B-478F-85DB-E37934648C60}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0f3e2bd9-8ffb-42f5-94d6-d0ddb5e15cdb"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{4F7ED673-AD85-4C4C-894F-9E93102616DA}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {89EA0B3F-FD4A-49A1-9115-AE5EBD996A43}
+    {8318640F-8801-4556-A743-D4DC60CE780C}
+    {53B74AB5-9063-4A1F-9B52-7596D488422F}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{F92B2D11-726C-472A-BD8A-68CA01A0632B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {72F6574A-3E2E-4846-B415-7FCF19429C62}
+        {9E846405-9D75-4DD9-90A3-085E75B29E3B}
+        {892B089C-330C-4506-8231-3F9E902B8748}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{97D450DF-6D12-4A8D-A942-4785244A86BA}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260603T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T155725Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Healthcare Quality and Patient Safety Workshop
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{97D450DF-6D12-4A8D-A942-4785244A86BA}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:00am-4:30pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260604T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4cc215a-e556-462b-9537-f32fa907534c"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251008T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Healthcare Quality & Patient Safety Workshop
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Evidence-Based Practices for Clinical Excellence</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>This intensive workshop focuses on implementing quality improvement initiatives and patient safety protocols in healthcare settings. Clinical leaders, quality managers, and patient safety officers will explore evidence-based practices, regulatory compliance requirements, and systematic approaches to reducing errors and improving patient outcomes.</p>
+        <h2>What to Expect</h2>
+        <p>A two-day intensive workshop opening with a session on "<strong>Culture of Safety</strong>" by <strong>Maria Gonzalez</strong>, including an interactive exercise on <strong>Root Cause Analysis</strong>, a session on <strong>Patient Safety Protocols</strong> by <strong>Patricia Johnson</strong>, and coverage of <strong>Technology Tools for Quality Management</strong> by <strong>David Kowalski</strong>.</p>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - June 3</strong></p>
+        <ul>
+            <li>8:00am - Registration &amp; Breakfast</li>
+            <li>8:30am - Workshop Opening: "Culture of Safety" by Maria Gonzalez</li>
+            <li>10:00am - Quality Improvement Methodologies</li>
+            <li>11:30am - Interactive Exercise: Root Cause Analysis</li>
+            <li>12:30pm - Lunch</li>
+            <li>1:30pm - Patient Safety Protocols and Guidelines by Patricia Johnson</li>
+            <li>3:00pm - Workshop: Incident Reporting and Analysis</li>
+            <li>4:30pm - Day 1 Conclusion</li>
+        </ul>
+        <p><strong>Day 2 - June 4</strong></p>
+        <ul>
+            <li>8:00am - Continental Breakfast</li>
+            <li>8:30am - Compliance and Accreditation Requirements</li>
+            <li>10:00am - Technology Tools for Quality Management by David Kowalski</li>
+            <li>11:30am - Case Studies: Quality Improvement Success Stories</li>
+            <li>12:30pm - Lunch</li>
+            <li>1:30pm - Action Planning Workshop</li>
+            <li>3:30pm - Closing Session &amp; Certificate Distribution</li>
+        </ul>
+        <h2>A Must-Attend Event For</h2>
+        <p>Clinical leaders, quality managers, and safety officers who need to implement <strong>systematic approaches</strong> and <strong>evidence-based practices</strong> to reduce errors and improve patient outcomes.</p>
+        <h2>Location Details</h2>
+        <p><strong>Minneapolis Healthcare Institute</strong></p>
+        <p>710 S 2nd St<br />
+        Minneapolis, MN <br />
+        55401</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204735Z

@@ -1,0 +1,94 @@
+﻿---
+ID: "2695d980-4793-420a-b9a1-03d1cb779e81"
+Parent: "664f8e29-22b6-425d-b2a0-b311068b7ff3"
+Template: "029a814e-9596-4b17-8935-cad60f36a2b8"
+Path: /sitecore/content/Sites/main/Home/Contact us/FAQ/WhereToBuy/Data/New WhereToBuy
+SharedFields:
+- ID: "33f2838d-61aa-4013-a1b7-5a5272e08568"
+  Hint: userLocationIndicatorColor
+  Value: D12F36
+- ID: "6e09397c-f64f-4a97-8ed8-eeeaa1cdab20"
+  Hint: userLocationZoomLevel
+  Value: 10
+- ID: "7a6ac1bf-e26a-46c1-83ae-33001c8655dd"
+  Hint: individualLocationMarkerColor
+  Value: D12F36
+- ID: "94eab11b-4587-4f92-bbf4-b5272714f91e"
+  Hint: locationsPerPage
+  Value: 10
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "42cad7c0-4a94-4d7f-a440-4f66ea87e8ff"
+- ID: "e971b3e5-41f2-427c-9fce-01a21b51f63a"
+  Hint: clusterLocationMarkerBackgroundColor
+  Value: #ffffff
+- ID: "f39f4b65-2e8c-4323-8c2b-6f909e2548db"
+  Hint: businessLocationZoomLevel
+  Value: 14
+- ID: "f85e0641-c840-4122-8dff-b9c9f35ede77"
+  Hint: clusterLocationMarkerTextAndBorderColor
+  Value: #000000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250911T180925Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d48cac04-562d-4644-8ffc-f134487318bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Find a Location Near You
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>Connecting you with the services you need. Search for a local branch or service center by address, city, or postal code.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251027T165824Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250919T153327Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa262c02-36bf-40dd-a17a-17a762024e7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Emplacements
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250919T153753Z

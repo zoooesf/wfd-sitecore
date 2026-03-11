@@ -1,0 +1,41 @@
+﻿---
+ID: "ae83b771-41bf-49f0-88db-be7656c1a7e0"
+Parent: "d982b405-ed2d-423c-996d-d05ea118ef28"
+Template: "8ee1438c-df21-46c8-8f4e-e02793e54167"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Login Account Landing/Data/AccordionDrawer 1_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251208T190911Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50f418b8-cd63-4b92-912c-c3381e3eab41"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "What authentication methods are supported?"
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p>Login Account Locked Down supports a wide range of authentication methods including username/password, single sign-on (SSO) providers like Okta and Azure AD, SAML 2.0, OAuth 2.0, LDAP directories, social authentication (Google, Facebook, LinkedIn), and multi-factor authentication (MFA). You can configure multiple authentication methods simultaneously and let users choose their preferred login option.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251208T191817Z

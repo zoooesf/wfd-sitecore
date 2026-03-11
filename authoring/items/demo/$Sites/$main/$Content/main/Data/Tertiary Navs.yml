@@ -1,0 +1,23 @@
+﻿---
+ID: "5b441b1c-023b-4b20-b496-09d928d2ab06"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "258ccde3-9d52-4017-b53b-c885ccd4fd6d"
+Path: /sitecore/content/Sites/main/Data/Tertiary Navs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250509T155903Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b098d81f-2528-463e-88bf-a6554ef82e57"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250509T155912Z

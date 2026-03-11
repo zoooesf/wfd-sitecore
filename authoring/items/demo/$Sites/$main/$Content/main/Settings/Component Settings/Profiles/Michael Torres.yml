@@ -1,0 +1,94 @@
+﻿---
+ID: "19c736d2-eeab-4bce-a08d-2efe4c191586"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Michael Torres
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {BF128030-1DB5-4D69-9604-DEFF13EDE079}
+    {FFD07EB9-C661-46FA-8D06-258A455A9CC4}
+    {3B0B44E2-9B89-4ED8-9AE5-88B2E6EAF631}
+    {7C308428-8639-4811-BFAD-31CC43C70D73}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{E63F6C82-AB73-4685-A8B4-BAFF49302C3B}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Michael
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d7ad1fa7-5d46-485c-85de-f02fd34568c5"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Torres
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: michael.torres@nationalindustry.org
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{DD06C36B-AB26-49E5-B3FA-193FEF532BC8}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Chief Operating Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T190318Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(202) 555-0534"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{DD06C36B-AB26-49E5-B3FA-193FEF532BC8}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: National Industry Association
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a3fe13c-9ced-4d24-8bcb-92fd44543ee4"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Michael Torres has over 17 years of experience in association management, specializing in member engagement strategies and organizational growth. As Chief Operating Officer of the National Industry Association, he manages day-to-day operations for an organization serving 25,000 members across North America. Michael has been instrumental in modernizing the association's operations, implementing a new member management system, and growing membership by 40% over five years.</p>
+        <p>His expertise includes strategic planning, conference management, professional certification programs, and advocacy initiatives. Michael holds a Certified Association Executive (CAE) credential and a degree in Business Administration from Georgetown University. He has successfully organized annual conferences attracting over 5,000 attendees and has developed continuing education programs that have become revenue drivers for the association. Michael is known for his innovative approach to member value creation and his ability to build consensus among diverse stakeholder groups.</p>
+        <!--<h2>Experience</h2>
+        <p>Over 17 years of experience in association management. He manages day-to-day operations for an organization serving 25,000 members. His expertise includes strategic planning, conference management, and advocacy initiatives.</p>
+        <h2>Achievements</h2>
+        <p>He grew membership by 40% over five years. He successfully organized annual conferences attracting over 5,000 attendees and developed continuing education programs that became revenue drivers.</p>
+        <h2>Professional Involvement</h2>
+        <p>Holds a Certified Association Executive (CAE) credential.</p>
+        <h2>Community Involvement</h2>
+        <p>Known for his ability to build consensus among diverse stakeholder groups.&nbsp;</p>
+        <h2>Education</h2>
+        <p>Holds a degree in Business Administration from Georgetown University.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200148Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

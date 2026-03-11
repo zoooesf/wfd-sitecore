@@ -1,0 +1,23 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Account-AccountInformation",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Account/$AccountInformation/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Account/AccountInformation",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Account/$AccountInformation/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Account/AccountInformation",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

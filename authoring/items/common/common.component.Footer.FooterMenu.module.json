@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Footer-FooterMenu",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Footer/$FooterMenu/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Footer/FooterMenu",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Footer/$FooterMenu/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Footer/FooterMenu",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Footer/$FooterMenu/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Footer/Footer Headless Site Setup/Add Footer Menus Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

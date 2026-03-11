@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Cards-Card",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Cards/$Card/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Cards/Card",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Cards/$Card/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Cards/Card",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Cards/$Card/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Cards/Cards Headless Site Setup/Add Cards Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

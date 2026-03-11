@@ -1,0 +1,21 @@
+fragment InsightCardFieldsFragment on InsightPage {
+  name
+  ...ImageFieldFragment
+  ...HeadingFieldFragment
+  ...SubheadingFieldFragment
+  ...BodyFieldFragment
+  ...UrlPathFragment
+  datePublished {
+    formattedDateValue
+  }
+  pageCategory {
+    jsonValue
+  }
+  profiles {
+    targetItems {
+      id
+      name
+      displayName
+    }
+  }
+}

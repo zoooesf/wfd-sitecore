@@ -1,0 +1,43 @@
+﻿---
+ID: "fdd4ab57-2736-4f02-b6ba-d12e25594833"
+Parent: "7214b8e4-277f-4c35-8edc-489bdec47693"
+Template: "7214b8e4-277f-4c35-8edc-489bdec47693"
+Path: /sitecore/templates/Feature/Common/Search/ArticleListingWithFilters/ArticleListingWithFilters Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {8CA06911-31F2-4DEA-9233-8FD630E856DC}
+    {7214B8E4-277F-4C35-8EDC-489BDEC47693}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8472c998-e78c-4862-84d8-045d3c1abc92"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241023T181724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7568c1e4-be91-4668-99bb-0533201bf30c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251023T185601Z

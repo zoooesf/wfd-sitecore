@@ -1,0 +1,34 @@
+﻿---
+ID: "ac1f5f5a-a95a-45a0-aa18-18c10b28c0bd"
+Parent: "0f649b33-c1c0-4db1-8cc8-1fd832c7f342"
+Template: "0f649b33-c1c0-4db1-8cc8-1fd832c7f342"
+Path: /sitecore/templates/Feature/Common/IconFeatureCards/IconFeatureCard/IconFeatureCard Parameters/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "93ef12b9-fcfd-4c67-bcfa-91080ae135cb"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d302ff9f-2258-4d16-81c2-a208a9148952"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rbarbedo@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250616T124932Z

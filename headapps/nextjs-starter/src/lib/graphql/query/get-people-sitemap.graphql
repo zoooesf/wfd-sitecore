@@ -1,0 +1,54 @@
+query GetPeoplePageDisplayName($peoplePageId: String!) {
+  item(path: $peoplePageId, language: "en") {
+    languages {
+      language {
+        name
+      }
+      displayName
+    }
+  }
+}
+
+query GetSiteItemData($siteName: String!) {
+  layout(site: $siteName, routePath: "/", language: "en") {
+    item {
+      contentRoot: parent {
+        id
+        path
+      }
+    }
+  }
+}
+
+query GetAllProfiles($templateId: String!, $siteId: String!, $first: Int!, $after: String) {
+  search(
+    where: {
+      AND: [
+        { name: "_templates", value: $templateId, operator: EQ }
+        { name: "_path", value: $siteId, operator: CONTAINS }
+      ]
+    }
+    first: $first
+    after: $after
+  ) {
+    pageInfo {
+      hasNext
+      endCursor
+    }
+    results {
+      displayName
+      updatedDateTime: field(name: "__Updated") {
+        value
+      }
+      language {
+        name
+      }
+      sitemapPriority: field(name: "priority") {
+        jsonValue
+      }
+      sitemapChangeFreq: field(name: "ChangeFrequency") {
+        jsonValue
+      }
+    }
+  }
+}

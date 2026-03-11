@@ -1,0 +1,23 @@
+﻿---
+ID: "7a313246-24e8-4e08-adca-794ab018924a"
+Parent: "b3dcb0ab-b826-458e-b2e6-66394a852c54"
+Template: "7f2180ab-7b3d-41c1-a7e1-beb20e85fdc3"
+Path: /sitecore/templates/Branches/Foundation/Common/Profile Manager/PeopleProfile/$name/Involvements
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251105T180209Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d49ecab-0f72-4ba3-948a-2b6828d33c0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T180209Z

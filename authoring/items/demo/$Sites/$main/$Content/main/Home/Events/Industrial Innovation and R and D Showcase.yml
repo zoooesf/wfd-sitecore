@@ -1,0 +1,141 @@
+﻿---
+ID: "59c207e1-91cf-4076-b8ba-c92e51ea80d3"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Industrial Innovation and R and D Showcase
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {8C666B5A-BF50-45D8-9E4B-C3B5FBA48E48}
+    {2E806A86-403F-470E-BAA9-9A5D3C18B5B3}
+    {98C950EC-7030-4101-A08B-93EFD035A2BA}
+    {3AE499E3-1E19-4150-9831-76E5C10BBE30}
+    {CBD22768-538C-4C96-9EB4-AD0B5A2A333A}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1800
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3F774EDB-9DF6-4D93-8544-2ED358D3F7C9}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c912061c-cf7c-4261-a813-8d0e4525b518"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{5E9ED441-774F-494F-B15B-EB3D9C8E19FF}"
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{4CA272C1-B240-4827-8A8E-48B3D1D4659F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {9D7C3FDD-2A0A-4737-A2FC-1FF5404B0BA1}
+        {AEE6043C-8520-499A-B941-C600AE2A0992}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260623T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T230649Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Industrial Innovation and R and D Showcase
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{C75C91BB-4B0E-4E81-B3A7-9C7B35CE385F}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "9:00am-6:00pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251007T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260625T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fb33e4f-8708-4571-aa69-3f17c14054c8"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251007T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Industrial Innovation & R&D Showcase
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Advancing Manufacturing Through Research and Development</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>The Industrial Innovation &amp; R&amp;D Showcase highlights breakthrough research and development in manufacturing technologies, materials science, and industrial processes. This three-day event features technical presentations, demonstration labs, patent discussions, and collaboration opportunities for engineers, researchers, and manufacturing leaders seeking to drive innovation in their organizations.</p>
+        <h2>What to Expect</h2>
+        <p>A three-day showcase with an opening keynote on "Innovation as Competitive Advantage" by <strong>Emily Rodriguez</strong>, a <strong>Patent Strategy Workshop</strong> by <strong>David Kowalski</strong>, <strong>Innovation Lab Demonstrations</strong>, breakout sessions on cutting-edge technologies like <strong>Robotics and IoT Integration</strong>, and a closing keynote by <strong>Maria Gonzalez</strong>.</p>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - June 23</strong></p>
+        <ul>
+            <li>9:00am - Registration &amp; Exhibition Opening</li>
+            <li>10:00am - Opening Keynote: "Innovation as Competitive Advantage" by Emily Rodriguez</li>
+            <li>11:30am - R&amp;D Capabilities Presentations</li>
+            <li>1:00pm - Networking Lunch</li>
+            <li>2:30pm - Technical Track: Advanced Materials and Electronics</li>
+            <li>4:30pm - Patent Strategy Workshop by David Kowalski</li>
+            <li>6:00pm - Welcome Reception</li>
+        </ul>
+        <p><strong>Day 2 - June 24</strong></p>
+        <ul>
+            <li>9:00am - Continental Breakfast</li>
+            <li>10:00am - Innovation Lab Demonstrations</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Panel: Custom Solutions Development</li>
+            <li>3:00pm - Breakout Sessions: Additive Manufacturing, Robotics, IoT Integration</li>
+            <li>5:00pm - Poster Session &amp; Networking</li>
+            <li>6:00pm - Innovation Awards Dinner</li>
+        </ul>
+        <p><strong>Day 3 - June 25</strong></p>
+        <ul>
+            <li>9:00am - Breakfast</li>
+            <li>10:00am - Case Studies: From R&amp;D to Production by Thomas Anderson and Carlos Rivera</li>
+            <li>12:00pm - Lunch</li>
+            <li>1:30pm - Closing Keynote: "The Future of Industrial Innovation" by Maria Gonzalez</li>
+            <li>3:00pm - Showcase Conclusion</li>
+        </ul>
+        <h2>Who Should Attend</h2>
+        <ul>
+            <li>Engineers and Researchers</li>
+            <li>Manufacturing Leaders</li>
+            <li>Individuals focused on R&amp;D Capabilities, Innovation, Manufacturing Solutions, and Patents</li>
+        </ul>
+        <h2>Location Details</h2>
+        <p><strong>Pittsburgh Industrial Research Park</strong></p>
+        <p>100 Technology Dr<br />
+        Pittsburgh, PA <br />
+        15219</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204735Z

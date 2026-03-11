@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-GlobalSearch",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$GlobalSearch/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/GlobalSearch",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$GlobalSearch/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/SearchResults",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$GlobalSearch/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add Global Search Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

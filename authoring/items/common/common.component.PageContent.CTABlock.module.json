@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-PageContent-CTABlock",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$PageContent/$CTABlock/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Page Content/CTABlock",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$PageContent/$CTABlock/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Page Content/CTABlock",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$PageContent/$CTABlock/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Page Content/Page Content Headless Site Setup/Add CTA Blocks Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

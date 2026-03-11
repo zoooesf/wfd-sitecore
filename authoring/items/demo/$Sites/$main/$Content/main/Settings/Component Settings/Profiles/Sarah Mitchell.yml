@@ -1,0 +1,96 @@
+﻿---
+ID: "834f83c1-9e24-4e8a-ba4f-6d8f7911aca0"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Sarah Mitchell
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {B52E5980-F212-4B15-9AD7-86FB89C87D91}
+    {AE659D1B-6075-4D1A-8016-91DD1EEF4EA9}
+    {6CCBFB84-E5EE-47B5-9F2A-3939E64DF8A4}
+    {72AAC47C-1AF6-4B04-959B-4A795A79BEBF}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{A4AB640A-1C14-4796-9EE9-1AC03C0CFCB8}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Sarah
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e31239dd-92a9-477a-a082-a73177077340"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Mitchell
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: sarah.mitchell@apexconsulting.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{5F6DDFB0-A082-40BD-8B59-A7CC148E8A06}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Chief Strategy Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T164613Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(212) 555-0147"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{5F6DDFB0-A082-40BD-8B59-A7CC148E8A06}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Apex Consulting Group
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71775743-380b-4658-9f2c-e8833f6b8bd7"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Sarah Mitchell brings over 18 years of experience in strategic consulting, specializing in helping Fortune 500 companies navigate complex organizational transformations. Her expertise spans digital transformation initiatives, change management frameworks, and enterprise-wide strategic planning. Sarah has led consulting engagements across multiple industries, including financial services, healthcare, and technology.</p>
+        <p>Prior to joining Apex Consulting Group, Sarah spent a decade at a Big Four consulting firm where she directed the North American Change Management practice. She holds an MBA from Harvard Business School and is a frequent speaker at industry conferences on the future of work and organizational resilience. Sarah's client-centric approach and data-driven methodologies have helped organizations achieve measurable improvements in operational efficiency and employee engagement.</p>
+        <!--<h2>Experience</h2>
+        <p>Sarah has <strong>20 years of experience</strong> in top-tier management consulting, with a focus on corporate strategy, digital transformation, and large-scale M&amp;A integration. Prior to her CSO role, she was a Partner, leading the Technology Strategy practice for the Northeast region.</p>
+        <h2>Achievements</h2>
+        <p>Spearheaded a <strong>corporate restructuring initiative</strong> for a Fortune 500 retail client that resulted in a <strong>30% increase in market capitalization</strong> over two years. She also developed and successfully implemented a proprietary, AI-driven market analysis framework now used firm-wide across all major client engagements.</p>
+        <h2>Professional Involvement</h2>
+        <p>Member of the <strong>Association of Strategic Planning (ASP)</strong>. Serves on the advisory board for the <strong>Professional Services Council (PSC)</strong>. She is also a Fellow at the <strong>Management Consulting Institute (MCI)</strong>.</p>
+        <h2>Community Involvement</h2>
+        <p>Serves as a volunteer business mentor for <strong>SCORE</strong> (Service Corps of Retired Executives), providing pro bono consulting to small business owners in underserved communities. She is the founding Chair for the <strong>Women in Leadership</strong> scholarship fund at her graduate alma mater.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Recognized with <strong>Consulting Magazine's Top 25 Consultants Award</strong> (2020). Recipient of the <strong>Brandon Hall Gold Award for Best Strategy for Corporate Citizenship</strong> (2023).</p>
+        <h2>Education</h2>
+        <p><strong>MBA</strong> from <strong>Harvard Business School</strong>. <strong>B.A. in Economics</strong> from <strong>Yale University</strong>.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T194852Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

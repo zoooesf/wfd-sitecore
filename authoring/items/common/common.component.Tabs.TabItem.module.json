@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Tabs-TabItem",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Tabs/$TabItem/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Tabs/TabItem",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Tabs/$TabItem/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Tabs/TabItem",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Tabs/$TabItem/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Tabs/Tabs Headless Site Setup/Add Tabs Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

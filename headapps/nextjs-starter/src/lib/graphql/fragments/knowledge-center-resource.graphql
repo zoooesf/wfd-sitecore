@@ -1,0 +1,28 @@
+fragment KnowledgeCenterResourceFragment on KnowledgeCenterResource {
+  id
+  name
+  displayName
+  language {
+    name
+  }
+  # Get the Knowledge Center resource item's last updated date
+  updatedDateTime: field(name: "__Updated") {
+    value
+  }
+  sxaTags{
+    targetItems {
+      id
+      name
+      displayName
+      ... on Tag {
+        title {
+          value
+        }
+      }
+    }
+  }
+  # File field linked media library item
+  file {
+    jsonValue
+  }
+}

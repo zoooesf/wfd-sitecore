@@ -1,0 +1,41 @@
+﻿---
+ID: "e09588d8-bfaf-4045-b4a7-cc76876fd2b7"
+Parent: "7dcd819e-3ebb-46f9-b4a4-94a8096d2e6b"
+Template: "02d02cd0-d8bb-4437-83e2-bc327ff6b4e4"
+Path: /sitecore/content/Sites/main/Home/Components/Navigation/Content Tree Side Nav/Get Involved/Data/CLHIA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241129T164303Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93176886-22fa-4430-b53d-2675c4a7d4b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hmiranda@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel lacinia orci. Phasellus tincidunt lorem lectus, id
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p><span style="color:rgb(0,0,0);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:&quot;Roboto Flex&quot;;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel lacinia orci. Phasellus tincidunt lorem lectus, id volutpat tellus venenatis eget. Duis eu lorem at mi dignissim finibus. Donec et nisl ultrices orci hendrerit consectetur. Quisque blandit su</span></span></p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250704T171845Z

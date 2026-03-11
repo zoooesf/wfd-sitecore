@@ -1,0 +1,37 @@
+﻿---
+ID: "c576be7d-7160-4d77-866d-9f377f986874"
+Parent: "abf07c0d-7c95-427f-839e-7379ce56b6b8"
+Template: "3374fc7c-bc84-45f6-a9dc-36ed93c75934"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Robert Sullivan/Involvements/Involvement1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251114T174555Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8949f15c-dc6d-4b89-abd6-d75522d1af88"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Professional Involvement
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: He is a Certified Financial Planner (CFP) and Chartered Financial Analyst (CFA). He has served on the board of the Financial Planning Association.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251114T174607Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "18f9806d-ed4e-4417-af35-34e956fe1601"
+Parent: "2be7dfea-7001-400c-bd73-9514200235cf"
+Template: "957a9c48-d0e6-466b-b391-cc70b721016e"
+Path: "/sitecore/content/Sites/main/Data/Icon Feature Card Grids/IconFeatureCardGrid - Blue Colour Theme"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241211T230220Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\edimech@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba094bd6-fb0b-4ab2-b4e4-e1c6975324d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Icon Feature Card Grid - Tertiary"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel lacinia orci. Phasellus tincidunt lorem lectus, id sum dolor sit amet, consectetur adipiscing elit. Vivamus vel lacinia orci.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251008T214504Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "c77d3a41-1203-4fcb-9166-5ea33b8318de"
+Parent: "7ec030ed-b502-48aa-8a07-5bc990d70238"
+Template: "08ec350a-46a7-48b3-b150-766467ccce83"
+Path: /sitecore/content/Sites/main/Home/TIDAL Demo/Access Control Landing/Data/TabItem 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251204T185919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b505bbd5-704f-4f94-b06a-7713f48f5d76"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: How It Works
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content"><p><strong>Access Control operates through a straightforward three-step process:</strong></p><ol><li><strong>Configure Your Requirements</strong><br />Select the access level that matches your content sensitivity. Choose between user authentication, attestation requirements, or combine multiple layers for enhanced security.</li><li><strong>Apply to Content</strong><br />Assign access rules to individual pages, sections, or entire content libraries. Our flexible system lets you protect exactly what needs protection while keeping other content publicly accessible.</li><li><strong>Manage and Monitor</strong><br />Track access attempts, review attestation compliance, and adjust permissions as your needs evolve. Real-time analytics help you understand how users interact with protected content.</li></ol></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251205T231021Z

@@ -1,0 +1,88 @@
+---
+description: XM Cloud Starter repository context and constraints
+alwaysApply: true
+globs: []
+---
+
+# Project Context
+
+## Repository Overview
+
+This is the **TIDAL XM Cloud Front End Application Starter Kit** repository containing a Next.js starter application for Sitecore XM Cloud development.
+
+Repository Structure:
+- `/headapps/` - Contains starter front-end application (Next.js)
+- `/authoring/` - Sitecore content items, templates, and deployment configurations  
+- `/local-containers/` - Docker setup for local development environments
+- `xmcloud.build.json` - Primary configuration for XM Cloud deployment
+
+## Starter Applications
+
+Available Examples:
+- `nextjs-starter` - TIDAL Next.js starter kit
+
+The starter kit demonstrates:
+- Tailwind-based styling
+- Personalized homepage via URL parameters
+- Modular component architecture with variants
+- Localization support for English (en) and Canadian French (fr-CA)
+
+## Technology Stack
+
+Core Technologies:
+- **Next.js 15+** - React framework with Pages Router support
+- **TypeScript** - Strict type safety throughout all components
+- **Sitecore XM Cloud** - Headless content management and delivery
+- **Sitecore Content SDK** - Modern SDK for XM Cloud integration
+- **Tailwind CSS** - Utility-first CSS with container queries (@container)
+
+Additional Libraries:
+- **next-localization** - Internationalization with dictionary support
+
+Development Tools:
+- **Docker** - Containerized local development with Sitecore CM
+- **Node.js LTS** - JavaScript runtime environment
+- **npm** - Package management across all starter applications
+
+## Development Principles
+
+Architecture:
+- Common XM Cloud integration patterns
+
+Content-First Development:
+- Components are designed around Sitecore data structures
+- Field-driven rendering with proper fallbacks
+- Support for both connected and disconnected development modes
+- Proper handling of content authoring scenarios
+
+## Constraints and Guidelines
+
+- Copy `.env.remote.example` to `.env.local` for local development
+- Required environment variables: `SITECORE_EDGE_CONTEXT_ID`, `NEXT_PUBLIC_DEFAULT_SITE_NAME`, `SITECORE_EDITING_SECRET`
+- Docker containers available for full local Sitecore development stack
+
+Local Development Setup:
+```bash
+# Navigate to any starter
+cd headapps/nextjs-starter
+
+# Copy environment template
+cp .env.remote.example .env.local
+
+# Edit .env.local with your XM Cloud values
+# Install dependencies and start
+npm install
+npm run dev
+```
+
+Deployment:
+- Uses `xmcloud.build.json` for rendering host configuration
+- Supports multiple rendering hosts in single repository
+- Automatic editing host creation when split deployment is disabled
+- Environment-specific configuration through XM Cloud Deploy Portal
+
+Referenced:
+@headapps/
+@xmcloud.build.json
+@authoring/
+@local-containers/

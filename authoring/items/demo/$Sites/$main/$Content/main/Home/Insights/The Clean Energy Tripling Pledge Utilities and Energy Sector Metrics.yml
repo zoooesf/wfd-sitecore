@@ -1,0 +1,139 @@
+﻿---
+ID: "f12362b3-000e-4df4-ad4a-d8ecc08435ed"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/The Clean Energy Tripling Pledge Utilities and Energy Sector Metrics
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {07E79D59-0018-4869-B819-1EDA03D735FE}
+    {8F2B35AD-DD81-42C8-A71C-45075E64D533}
+    {DDFA5008-0751-460E-A624-FD9515D15590}
+    {6EE48822-3FF7-47E6-8560-C389F09536FD}
+    {42DD9D6F-3CD2-4D3F-AD7C-773600263EA9}
+    {41E189D3-7E59-4D3A-8985-CCABD72ED61A}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8C8B92D4-9C0E-40DE-9C29-596D346E540D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1a51efd2-9506-4d11-8285-09fe57dcde88"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{C960458F-38F4-40DB-8689-AD5E0F58D611}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{1A9DA7DB-CF28-4334-8229-64EEF7416E12}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{97D450DF-6D12-4A8D-A942-4785244A86BA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T213943Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: The Clean Energy Tripling Pledge Utilities and Energy Sector Metrics
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{97D450DF-6D12-4A8D-A942-4785244A86BA}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89a9b281-5943-48da-ae8d-b080f45408f2"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20240815T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "The Clean Energy Tripling Pledge: Utilities & Energy Sector Metrics"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Tracking the monumental rise in global renewable capacity and the core metrics for Clean Energy adoption through 2030.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>The global commitment to triple renewable energy capacity by 2030 places the <strong>Utilities &amp; Energy</strong> sector at the center of the largest transformation in its history. This endeavor requires not only massive investment but also a rigorous framework of metrics to track progress in <strong>Clean Energy</strong> adoption.</p>
+        <p>Global annual renewable capacity additions are forecast to rise from <strong>666 GW in 2024</strong> to almost <strong>935 GW by 2030</strong>. This growth, largely driven by Solar PV and wind (accounting for 95% of additions), is a direct result of declining generation costs and supportive policies.</p>
+        <h3><strong>Forecasted Global Renewable Capacity Expansion (2024-2030)</strong></h3>
+        <p>The chart below illustrates the forecast for cumulative capacity additions in gigawatts (GW) by major technology and region, emphasizing the scale of the expansion.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Region / Technology</th>
+                    <th>2024 Capacity Additions (GW)</th>
+                    <th>2030 Forecast Additions (GW)</th>
+                    <th>Cumulative Capacity Growth (2024-2030)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Global Total (Main Case)</strong></td>
+                    <td style="text-align:left;">666</td>
+                    <td style="text-align:left;">935</td>
+                    <td style="text-align:left;"><strong>5,520+ GW</strong></td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>China (Total Renewables)</strong></td>
+                    <td style="text-align:left;">-</td>
+                    <td style="text-align:left;">-</td>
+                    <td style="text-align:left;"><strong>3,207 GW</strong></td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>United States (Total Renewables)</strong></td>
+                    <td style="text-align:left;">-</td>
+                    <td style="text-align:left;">-</td>
+                    <td style="text-align:left;"><strong>~500 GW</strong></td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Solar PV (Utility-scale &amp; Distributed)</strong></td>
+                    <td style="text-align:left;">-</td>
+                    <td style="text-align:left;">-</td>
+                    <td style="text-align:left;"><strong>~80% of Total Expansion</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <p>A key metric is the growth of <strong>distributed applications</strong> (residential, commercial, industrial), which are projected to make up almost <strong>40% of the overall PV expansion</strong>. This shift points to the democratization of energy production.</p>
+        <p><strong>Challenges to Watch:</strong> While capacity is surging, critical challenges for the sector include slow grid infrastructure expansion, high financing costs for new projects, and long permitting wait times that reduce the volume of projects capable of participating in competitive auctions. Policy certainty remains a major lever for sustained deployment, underscoring the importance of national strategies like Canada's Clean Electricity Strategy.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T154110Z

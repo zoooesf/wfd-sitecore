@@ -1,0 +1,13 @@
+query GetFooterColumnLinks($datasourcePath: String!, $language: String!, $templateId: String!) {
+  item(path: $datasourcePath, language: $language) {
+    links: children(includeTemplateIDs: [$templateId]) {
+      results {
+        ... on FooterLink {
+          link {
+            ...LinkFieldFragment
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+﻿---
+ID: "5e776471-3281-4142-a656-f04488c1bf9f"
+Parent: "e88ade78-c278-46d5-8bd8-5f0f9b764dfb"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Carousels/Card Carousel
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3FDE79E2-EA4E-4DC5-9864-A163B58A7720}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7fd8dd30-5fb1-405e-90b9-50f3af10b0cc"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{66F156DB-9B89-4993-A633-C6F7C35A7256}"
+          p:before="*"
+          s:ds="local:/Data/Card Carousel"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B1EF4481B-B875-4A5A-8CAB-FB3BABC68428%7D%7C%7B4E36BEAA-7471-43AF-8EC5-2D7424957AAA%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{7290A78D-D263-4B2E-B975-8CDDD095CE97}"
+          p:after="r[@uid='{66F156DB-9B89-4993-A633-C6F7C35A7256}']"
+          s:ds="6c72bb80-e25a-4a2b-9040-a5796875c661"
+          s:id="{4180EDC5-2601-4B67-BEA5-586BDD311311}"
+          s:par="FieldNames=%7BFBA38897-0C49-4DDA-8B0F-C5814D3AED41%7D&amp;RenderingIdentifier&amp;Styles=%7C%7BEC0CD525-02B9-4253-A46A-71F9038434D3%7D%7C%7B789E5108-F684-4DFB-A5A7-0D1BD9BAE693%7D%7C%7B3FB74F2E-66FF-41C4-83DA-30CD6B78AD67%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{E7A050DF-EC58-467E-94D6-7837D3EA4D61}"
+          p:after="r[@uid='{7290A78D-D263-4B2E-B975-8CDDD095CE97}']"
+          s:ds="b9311207-aeba-49b9-8a57-347b0b65bdd6"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/cardcarousel-2" />
+        <r
+          uid="{844F5296-F081-4922-8E04-DAA950DD665B}"
+          p:after="r[@uid='{E7A050DF-EC58-467E-94D6-7837D3EA4D61}']"
+          s:ds="9c68c607-10f1-46e6-b420-170caf06cf8b"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/cardcarousel-2" />
+        <r
+          uid="{6F01E2DD-D8FD-4A60-9D40-74A839BCA54D}"
+          p:after="r[@uid='{844F5296-F081-4922-8E04-DAA950DD665B}']"
+          s:ds="f7703b48-f0e4-43fa-bce5-8ac56a7ad0e3"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/cardcarousel-2" />
+        <r
+          uid="{2421984D-6E36-4FEF-8E61-CCC5C559360A}"
+          p:after="r[@uid='{6F01E2DD-D8FD-4A60-9D40-74A839BCA54D}']"
+          s:ds="bde0fe8c-520a-409f-acf9-d75a24d2855d"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/cardcarousel-2" />
+        <r
+          uid="{EA79FDD7-4470-429E-A80C-F7F85615880E}"
+          p:after="*[1=2]"
+          s:ds="6aecd141-1dd0-467d-9e82-6cd429a71420"
+          s:id="{022420B6-3DB0-4EAB-9EA5-1F57E0F345BF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/cardcarousel-2" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T155758Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Card Carousel
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20241210T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51baa75d-daf9-4dd3-9c3c-e635e4184528"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20241210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Card Carousel
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251009T145719Z

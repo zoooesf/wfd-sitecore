@@ -1,0 +1,6 @@
+fragment PageFieldsFragment on Item {
+  id
+  name
+  displayName
+  ...UrlPathFragment
+}

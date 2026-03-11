@@ -1,0 +1,32 @@
+[data-component='SearchResultsList'] > div,
+[data-component='EventListingWithFiltersResults'] > div,
+[data-component='SearchListingWithFiltersResults'] > div,
+[data-component='ArticleListingWithFiltersResults'] > div {
+  .search-card-image {
+    @apply relative w-full max-w-full overflow-hidden;
+
+    /* Fallback for older browsers */
+    &::before {
+      @apply block w-full;
+      content: '';
+      padding-top: 100%; /* 1:1 aspect ratio (square) */
+    }
+
+    img {
+      @apply absolute left-0 top-0 aspect-square w-full object-cover;
+    }
+  }
+
+  /* Modern browsers with aspect-ratio support */
+  @supports (aspect-ratio: 16/9) {
+    .search-card-image {
+      &::before {
+        @apply hidden;
+      }
+
+      img {
+        @apply static w-full;
+      }
+    }
+  }
+}

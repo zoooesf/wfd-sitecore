@@ -1,0 +1,56 @@
+query GetSiteInfoPath($siteName: String!) {
+  site {
+    siteInfo(site: $siteName) {
+      rootPath
+    }
+  }
+}
+
+query GetSiteRootInfo($siteName: String!, $language: String!) {
+  layout(site: $siteName, routePath: "/", language: $language) {
+    item {
+      homeItemPath: path
+      contentRoot: parent {
+        id
+        path
+      }
+    }
+  }
+}
+
+query GetPeoplePageId($siteSettingsPath: String!) {
+  item(path: $siteSettingsPath, language: "en") {
+    peoplePage: field(name: "peoplePage") {
+      ... on LinkField {
+        targetItem {
+          id
+        }
+      }
+    }
+  }
+}
+
+query GetAuthConfig($siteSettingsPath: String!) {
+  item(path: $siteSettingsPath, language: "en") {
+    accountPageLink: field(name: "accountPageLink") {
+      ... on LinkField {
+        targetItem {
+          id
+          url {
+            path
+          }
+        }
+      }
+    }
+    signOutPageLink: field(name: "signOutPageLink") {
+      ... on LinkField {
+        targetItem {
+          id
+          url {
+            path
+          }
+        }
+      }
+    }
+  }
+}

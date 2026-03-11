@@ -1,0 +1,134 @@
+﻿---
+ID: "323cd6f1-3d24-448a-9437-d1eb128d9729"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Measuring the Unseen Quantifying ROI in Financial Services Strategy Consulting
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {C518AC87-4A6B-4790-8EB9-FAFFBCA9BEDF}
+    {97BBD37E-B3C6-4B90-8828-6802DCE3FE71}
+    {42AC350D-6F04-4512-A8BF-B3FF54384F43}
+    {B475771B-2A39-452D-99A4-64A20EC4C796}
+    {600F4687-15B6-4D29-A5E3-8F5433D0C58B}
+    {CD7E8CB2-4DF0-42F1-B30E-094D39B55E68}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9F4E44DA-F3E5-435B-9E9D-7CFE5A894870}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7bd06a6a-3fc1-46f1-b22c-18c09ae360bd"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: "{D16507AB-6524-48B9-9BC8-100C2C8F22F4}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: "{10708415-3D65-412F-9679-4CC2D225B105}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T212636Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Measuring the Unseen Quantifying ROI in Financial Services Strategy Consulting
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{62B3B181-7B79-4C1F-AB5B-3C093E776618}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250910T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98b246ce-9349-4848-90b7-9b9c06075460"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250910T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: "Measuring the Unseen: Quantifying ROI in Financial Services Strategy Consulting"
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Leveraging data analytics and emerging technology to demonstrate the tangible value of strategic advisory projects.
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <div class="ck-content">
+        <p>In the <strong>Financial Services</strong> sector, the value of <strong>Strategy Consulting</strong> often extends beyond simple cost savings, encompassing complex regulatory compliance, technological transformation, and competitive positioning. As consulting budgets increase&mdash;with a reported <strong>65% of financial institutions</strong> increasing budgets to address regulatory and technological challenges&mdash;proving a clear Return on Investment (<strong>ROI</strong>) is critical.</p>
+        <p>A major focus for consulting engagements is the integration of digital strategies. Approximately <strong>70% of consulting projects</strong> now include digital components such as AI, cloud computing, and blockchain. This shift is driving market growth, projected to reach <strong>$182.3 billion by 2033</strong>, with a Compound Annual Growth Rate (CAGR) of 6.67%.</p>
+        <h3><strong>Key Drivers and Metrics of Consulting ROI in Financial Services (2024)</strong></h3>
+        <p>The core of measurable ROI often lies in three areas: <strong>Cost Optimization</strong>, <strong>Revenue Growth through Digital Adoption</strong>, and <strong>Risk Mitigation</strong> through improved <strong>Compliance Solutions</strong>.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Project Focus Area</th>
+                    <th>Key Consulting Metric</th>
+                    <th>Data-Driven Impact (Example)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align:left;"><strong>Digital Transformation</strong></td>
+                    <td style="text-align:left;">Digital Revenue as % of Total</td>
+                    <td style="text-align:left;"><strong>35% surge</strong> in Data Analytics projects for customer insight.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Process Re-engineering</strong></td>
+                    <td style="text-align:left;">Operational Cost Reduction Rate</td>
+                    <td style="text-align:left;"><strong>30%</strong> of banking clients use consulting for process re-engineering.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>Regulatory Change</strong></td>
+                    <td style="text-align:left;">Compliance Breach Incidents (Decrease)</td>
+                    <td style="text-align:left;"><strong>65%</strong> of firms increase budget to specifically address regulatory needs.</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;"><strong>ESG &amp; Sustainability</strong></td>
+                    <td style="text-align:left;">Integration of ESG into Business Models</td>
+                    <td style="text-align:left;"><strong>15%</strong> of financial firms now integrate ESG metrics into models (doubled since 2022).</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>The challenge for firms remains in overcoming internal barriers, with <strong>30% of firms</strong> citing budget limitations and lack of internal expertise as primary obstacles to consulting adoption. However, for those that invest strategically, particularly in AI and machine learning advisory (which has seen <strong>40% growth</strong> in advisory projects), the long-term competitive advantage in predictive modeling and customer personalization is invaluable.</p>
+        <p>The demonstrable ROI in compliance and <strong>Risk Management</strong> alone&mdash;preventing multi-million dollar regulatory fines&mdash;often justifies the entire cost of a strategic engagement.</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T153528Z

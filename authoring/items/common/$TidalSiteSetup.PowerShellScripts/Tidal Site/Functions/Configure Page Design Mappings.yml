@@ -1,0 +1,113 @@
+﻿---
+ID: "3d48d4b2-dc22-40b6-a862-2d48b83180f6"
+Parent: "3d0abd5f-73e5-47b7-8e03-b4f878441620"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/JSS SXA/Tidal Site/Functions/Configure Page Design Mappings
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    function Invoke-ModuleScriptBody {
+        [CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0)]
+            [Item]$Site,
+    
+            [Parameter(Mandatory = $true, Position = 1)]
+            [Item[]]$TenantTemplates
+        )
+    
+        begin {
+            $sitePath = $Site.Paths.Path
+            $sitePageDesignsPath   = "$sitePath/Presentation/Page Designs"
+            $branchPageDesignsPath = "/sitecore/templates/Branches/Feature/JSS Experience Accelerator/Tidal Site/Tidal Page Design Folder/Page Designs"
+        }
+    
+        process {
+            # Get branch Page Designs folder
+            $branchPageDesigns = Get-Item -Path $branchPageDesignsPath -ErrorAction SilentlyContinue
+            if (-not $branchPageDesigns) { return }
+    
+            $branchTemplatesMapping = $branchPageDesigns.Fields["TemplatesMapping"].Value
+            if ([string]::IsNullOrWhiteSpace($branchTemplatesMapping)) { return }
+    
+            # Decode mapping and split into template=pageDesign pairs
+            $decodedMapping = [System.Web.HttpUtility]::UrlDecode($branchTemplatesMapping)
+            $pairs = $decodedMapping -split "&"
+    
+            $newPairs = @()
+    
+            # Get site Page Designs folder
+            $sitePageDesigns = Get-Item -Path $sitePageDesignsPath -ErrorAction SilentlyContinue
+            if (-not $sitePageDesigns) { return }
+    
+            foreach ($pair in $pairs) {
+                $kv = $pair -split "="
+                if ($kv.Length -ne 2) { continue }
+    
+                $templateGuid = $kv[0]  # Keep braces {}
+                $pageDesignGuid = $kv[1] # Keep braces {}
+    
+                # Get template item
+                $templateItem = Get-Item -Path $templateGuid -ErrorAction SilentlyContinue
+                if (-not $templateItem) { continue }
+    
+                # Determine corresponding site page design name
+                $templateName = $templateItem.Name
+                $pageDesignName = if ($templateName -eq "Error Page") { "404 Page" } else { $templateName }
+    
+                # Find matching site page design
+                $sitePageDesignItem = Get-ChildItem -Path $sitePageDesignsPath -Recurse |
+                    Where-Object { $_.TemplateName -eq "Page Design" -and $_.Name -eq $pageDesignName }
+    
+                if (-not $sitePageDesignItem) { continue }
+    
+                $newPairs += "{0}={1}" -f $templateGuid, $sitePageDesignItem.ID
+            }
+    
+            # Re-encode and save
+            $newMappingValue = [System.Web.HttpUtility]::UrlEncode(($newPairs -join "&"))
+    
+            $sitePageDesigns.Editing.BeginEdit()
+            try {
+                $sitePageDesigns.Fields["TemplatesMapping"].Value = $newMappingValue
+                $sitePageDesigns.Editing.EndEdit()
+            }
+            catch {
+                $sitePageDesigns.Editing.CancelEdit()
+                throw $_
+            }
+        }
+    
+        end { }
+    }
+    
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "82e1cd6e-d8b3-47e0-b4a3-ee214d821479"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250821T163353Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4ff409c-8d94-4065-bebd-a0576766d319"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jmurphy@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250821T174406Z

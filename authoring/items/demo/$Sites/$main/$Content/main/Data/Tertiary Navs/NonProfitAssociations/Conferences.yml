@@ -1,0 +1,35 @@
+﻿---
+ID: "e06ccdef-6817-4bfb-8557-57207355dfaa"
+Parent: "1bbc79e7-39c8-4ef5-b002-58c8b63a6122"
+Template: "1da6bf90-0437-449b-8c53-b854a3d934fe"
+Path: /sitecore/content/Sites/main/Data/Tertiary Navs/NonProfitAssociations/Conferences
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251010T082928Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e01b0d4-3ba2-4c6b-9752-88df133cf8d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "c3c96bdc-1256-42a3-935f-6870e85eefe8"
+      Hint: link
+      Value: |
+        <link text="Conferences" anchor="" linktype="internal" class="" title=""  querystring="" id="{2323C2D8-8424-4DF9-86F4-5975A85F4E30}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251010T125814Z

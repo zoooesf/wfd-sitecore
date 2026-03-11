@@ -1,0 +1,107 @@
+﻿---
+ID: "0a295bdc-7744-4861-9ffa-b3e6aa75f95f"
+Parent: "d2df9782-d261-4ea2-87c8-e9414050ace6"
+Template: "300f3d1b-52ef-4734-8eab-ae2e2a422759"
+Path: /sitecore/content/Sites/main/Home/Components/Page Content/Accordion
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0C6E7EE1-D0AC-48AC-B2AE-C69B22C96355}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7945505d-1f9d-425e-8173-15cfc5957678"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{431D84FC-3EDF-4C03-8E38-A0D6D681C973}"
+          p:before="*"
+          s:ds="local:/Data/Accordion"
+          s:id="{E1C23B3A-A5FD-45B3-A686-6E08A04A5FE6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7BB5BE3145-F380-455F-B064-9D75F8DD01B3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{CE47E8DC-F4A2-494A-924F-1D64548F453C}"
+          p:after="r[@uid='{431D84FC-3EDF-4C03-8E38-A0D6D681C973}']"
+          s:ds="69eb2ea1-b38c-4474-9b36-6ab0f4c2a62e"
+          s:id="{8CB91616-D630-4732-B520-4D3A0C4931E4}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B6B4908F0-3A70-45C6-AE06-7F36E0A98936%7D%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{85E2370F-912E-493A-A432-1BE984DA084A}"
+          p:after="r[@uid='{CE47E8DC-F4A2-494A-924F-1D64548F453C}']"
+          s:ds="76556072-ee5c-4673-8ed8-bb6d5501c47e"
+          s:id="{8CB91616-D630-4732-B520-4D3A0C4931E4}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7C%7B80FAB90E-B7EE-4FE8-90EB-0630FA1DB429%7D%7C%7B7D6B7FB6-6781-4920-86D3-A149924FCDDC%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{0C29D082-8EC9-4E4B-B4C5-F971ECEE6EF9}"
+          p:after="r[@uid='{85E2370F-912E-493A-A432-1BE984DA084A}']"
+          s:ds="8f5c1a48-10ca-4470-aff2-de6982e70493"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/accordion-2" />
+        <r
+          uid="{811E228F-4539-41CC-A4A7-B3309A1FB686}"
+          p:after="r[@uid='{0C29D082-8EC9-4E4B-B4C5-F971ECEE6EF9}']"
+          s:ds="8f5c1a48-10ca-4470-aff2-de6982e70493"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/accordion-3" />
+        <r
+          uid="{82BC73C0-5376-4D19-A585-D87149FC2A4B}"
+          p:after="*[1=2]"
+          s:ds="fe8b31f0-4816-422e-9c62-c053f1452225"
+          s:id="{4E1DF4D2-A674-4502-A9E0-7828A9536CD9}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/accordion-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T214807Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Accordion
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20241210T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "259cf017-d6a0-4e00-b19c-8da5e57020f1"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20241210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Accordion
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span style="color: #666666; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251014T174804Z

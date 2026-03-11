@@ -1,0 +1,202 @@
+﻿---
+ID: "860ca220-f71b-409c-be74-2ee45c368276"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Christmas Multiday
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{300F3D1B-52EF-4734-8EAB-AE2E2A422759}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{23468B66-C720-4C15-B463-703566F0550D}"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{E234D81F-361E-4CEE-9E7D-AAB49B78EE29}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B0EABD95-475D-41A2-AED2-DC440DFBDFF2}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "064e95ef-b5a2-48a9-b462-3f98c0e4ce00"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{98519373-B6DD-442B-8EA7-F18B6BB5DA10}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{6A2B659B-9265-4C7C-90AE-2AC7C19A3B51}"
+          p:before="*"
+          s:ds="30cae304-9c83-4834-bc93-6ae1fd777ff2"
+          s:id="{46136932-C423-4152-BC38-ABF8D242F881}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-featuredevents/featuredevents-1" />
+        <r
+          uid="{566E15C9-018C-4FF1-8878-D9F773BD9164}"
+          p:after="*[1=2]"
+          s:ds="e1eeb985-0172-4b52-8ab2-6c0db1265e24"
+          s:id="{46136932-C423-4152-BC38-ABF8D242F881}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-featuredevents/featuredevents-1" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {899DF5BA-801B-4601-9BEF-088A7D46EF3B}
+    {2C825391-CF0B-471E-9D3C-E8210106FD9B}
+    {870A22B6-10C3-48DE-80CA-C1B65D6C5DCC}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: |
+    {99524D43-7353-40F7-A956-E20A2620050D}
+    {88FE4C1A-CE0C-4739-AD6C-559312EFF05B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: "{6561BDFE-BB81-494D-B1BE-77CC7C6D39B7}"
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{7A4827D0-55C8-44DC-A4D9-D3D31DDE1046}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20251224T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T214254Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Christmas
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{7A4827D0-55C8-44DC-A4D9-D3D31DDE1046}" />
+    - ID: "780fd510-12f3-4330-86df-1570a6989efb"
+      Hint: eventLinkTitle
+      Value: "How do I join the Industry Associate and Affiliate program?"
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "2:00 PM EST"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250820T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20251225T040000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da7fed57-82a3-477e-a4d7-53dc042274d8"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250820T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Christmas (Multiday)
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam placerat leo dui, et sagittis massa molestie sit amet.
+    - ID: "d2ba9aca-6440-4135-a175-542349732b3a"
+      Hint: eventLink
+      Value: |
+        <link text="CTA" linktype="external" url="http://#" anchor="" target="" />
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales vitae velit ut semper. Sed a nibh fermentum, faucibus turpis vitae, malesuada quam. Ut lobortis venenatis leo sed iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi porta diam diam, at pulvinar ex molestie sed. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ac mollis nisl. Nulla vel tempor libero. Duis mollis neque quis justo pellentesque, et mollis est placerat. Integer cursus diam lectus, non imperdiet purus pellentesque tincidunt. Curabitur et egestas velit. Proin tempor, ligula et iaculis accumsan, leo sem tincidunt dui, eu luctus quam nunc ac lacus. Maecenas fringilla augue id magna porta malesuada.</p>
+        <p>Sed bibendum, velit eget ultricies efficitur, tortor mi aliquam augue, in aliquet neque nisl ut enim. Curabitur varius metus in nisi hendrerit iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia imperdiet bibendum. Curabitur eget rhoncus sapien. Mauris eu elementum nunc. Suspendisse in odio erat. Mauris porta auctor pellentesque. In non ipsum orci. Morbi varius lacinia neque, eu hendrerit nibh venenatis ac.</p>
+        <p>Duis ullamcorper elit in justo facilisis malesuada. Aliquam neque est, elementum eget fermentum sollicitudin, hendrerit et quam. Nulla quis placerat libero. Donec leo nibh, pulvinar a lacinia et, consectetur sit amet elit. Curabitur luctus ipsum in augue tempor condimentum. Nulla dignissim consectetur nulla, eget fermentum risus dignissim nec. Vivamus dignissim lorem justo, ac rutrum nunc vulputate vel. Suspendisse cursus justo in ante pulvinar, a dapibus ante porta.</p>
+        <p>Proin eget libero arcu. Sed et commodo erat. Etiam diam ante, vestibulum id ipsum id, sodales fermentum ligula. Cras convallis diam ac mi scelerisque fermentum. Nullam diam orci, ultrices quis mollis in, lacinia in dui. Donec non purus quis diam eleifend fringilla. Aenean accumsan posuere felis ut rutrum. Sed sit amet tincidunt risus, in mattis ante. Aliquam vulputate posuere massa, a egestas nisi. Donec lacinia sapien lacus, sit amet venenatis odio efficitur vitae. Integer convallis felis convallis quam pretium, eu fermentum est malesuada. Praesent nec est rutrum, pulvinar velit a, fermentum nunc. Ut a nisl et nibh hendrerit mollis. Morbi malesuada erat sit amet interdum convallis.</p>
+        <p>Vivamus vitae sollicitudin nibh. Vivamus eu sapien dapibus, mollis dui vitae, ultricies purus. Nulla euismod posuere suscipit. Donec quis magna neque. Mauris fermentum orci a aliquam malesuada. Cras vel ex congue, congue sem eget, tristique magna. Pellentesque vel eros quis nisi facilisis dapibus. Integer in magna eros. Donec fringilla vitae nulla in feugiat. Sed et mattis dolor, eu luctus erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204733Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "7feac3c5-f73d-4d03-9c02-934b08c4b771"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Noël sur plusieurs jours
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: "{6561BDFE-BB81-494D-B1BE-77CC7C6D39B7}"
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20251224T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T163149Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "780fd510-12f3-4330-86df-1570a6989efb"
+      Hint: eventLinkTitle
+      Value: "Comment puis-je rejoindre le programme Industry Associate et Affiliate ?"
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "2:00 PM EST"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250814T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20251225T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e677889e-adfa-43e3-92c5-3f29de4ebd06"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250814T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Noël sur plusieurs jours
+    - ID: "d2ba9aca-6440-4135-a175-542349732b3a"
+      Hint: eventLink
+      Value: |
+        <link text="CTA" linktype="external" url="http://#" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250908T210020Z

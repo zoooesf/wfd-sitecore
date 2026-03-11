@@ -1,0 +1,94 @@
+﻿---
+ID: "6a0b9814-d0d3-484e-8305-ed1bdf835c60"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Thomas Anderson
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {8B7C7995-1486-428D-8F36-DC2BE9CB34AA}
+    {CEF6A348-3902-4329-A012-B74681463DFD}
+    {DC46F23D-3B32-44AD-93F0-9EC711D45760}
+    {8DBD6D89-1B58-41E3-A7D0-1C1C38C05709}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{DFF76296-859E-4C7E-9855-E67E4EFD72E9}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Thomas
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "678a8d4d-2cb5-4aeb-b229-071671b977fb"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Anderson
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: thomas.anderson@regionalpowerlight.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{F7DDEA41-7815-4171-9C24-F24336A57395}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Senior Director of Operations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T190954Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(612) 555-0445"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{F7DDEA41-7815-4171-9C24-F24336A57395}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Regional Power & Light
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "534d53cc-a1a2-45c9-9f57-bc4420ef8911"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Thomas Anderson has dedicated 26 years to ensuring reliable power delivery for communities across the Upper Midwest. As Senior Director of Operations at Regional Power &amp; Light, he manages the operation and maintenance of electrical infrastructure serving 1.2 million customers. Thomas has successfully navigated the utility through multiple major weather events, implementing emergency response protocols that have minimized outage durations and improved customer communication during crises.</p>
+        <p>His expertise spans transmission and distribution operations, vegetation management, regulatory compliance, and workforce development. Thomas holds a degree in Electrical Engineering from the University of Minnesota and has earned multiple certifications in utility operations and safety management. He has been instrumental in modernizing the utility's grid infrastructure, implementing advanced metering systems, and integrating renewable energy sources. Thomas serves on industry committees focused on grid reliability standards and is respected for his commitment to safety, reliability, and customer service.</p>
+        <!--<h2>Experience</h2>
+        <p>26 years dedicated to ensuring reliable power delivery. He manages electrical infrastructure serving 1.2 million customers. His expertise includes transmission and distribution operations and workforce development.</p>
+        <h2>Achievements</h2>
+        <p>Implemented emergency response protocols that have minimized outage durations during multiple major weather events. Instrumental in modernizing the utility's grid infrastructure and integrating renewable energy sources.</p>
+        <h2>Professional Involvement</h2>
+        <p>Earned multiple certifications in utility operations and safety management. He serves on industry committees focused on grid reliability standards.</p>
+        <h2>Community Involvement</h2>
+        <p>Respected for his commitment to safety, reliability, and customer service.</p>
+        <h2>Education</h2>
+        <p>Holds a degree in Electrical Engineering from the University of Minnesota.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T195127Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com" anchor="" target="" />

@@ -1,0 +1,91 @@
+﻿---
+ID: "1207cfbf-a252-4b4f-83d0-da5014263be2"
+Parent: "a2cbc425-7db0-4af6-8db3-6f6a0c9e0511"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Sites/main/Logos/placeholder-logo"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1207cfbfa2524b4f83d0da5014263be2.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "304dfdbf-3fb9-4e2b-89eb-71d6e4357d03"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgNjAwIDYwMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI0RERERERCIvPjxwYXRoIGZpbGw9IiM5OTk5OTkiIGQ9Ik0xNDQuMTQgMzMxLjU2aDM2LjQxdjEzLjk5aC01My4zNnYtOTEuMWgxNi45NXpNMjc5LjUyIDMwMHEwIDEwLjAyLTMuMyAxOC41NS0zLjMxIDguNTQtOS4zNiAxNC43OC02LjA1IDYuMjMtMTQuNTUgOS43My04LjUxIDMuNS0xOC45IDMuNS0xMC4zNCAwLTE4Ljg0LTMuNS04LjUxLTMuNS0xNC41OC05LjczLTYuMDgtNi4yNC05LjQyLTE0Ljc4LTMuMzQtOC41My0zLjM0LTE4LjU1dDMuMzQtMTguNTVxMy4zNC04LjU0IDkuNDItMTQuNzggNi4wNy02LjIzIDE0LjU4LTkuNzMgOC41LTMuNSAxOC44NC0zLjUgNi45MyAwIDEzLjA0IDEuNjF0MTEuMjEgNC41NCA5LjE3IDcuMTJxNC4wNiA0LjE4IDYuOSA5LjM1IDIuODMgNS4xNyA0LjMxIDExLjIyIDEuNDggNi4wNCAxLjQ4IDEyLjcybS0xNy4zMiAwcTAtNy41LTIuMDItMTMuNDUtMi4wMS01Ljk1LTUuNzMtMTAuMTF0LTkuMDQtNi4zNnEtNS4zMy0yLjIxLTEyLTIuMjEtNi42OCAwLTEyIDIuMjEtNS4zMyAyLjItOS4wOCA2LjM2dC01Ljc2IDEwLjExcS0yLjAyIDUuOTUtMi4wMiAxMy40NXQyLjAyIDEzLjQ1cTIuMDEgNS45NiA1Ljc2IDEwLjA4IDMuNzUgNC4xMyA5LjA4IDYuMzMgNS4zMiAyLjIxIDEyIDIuMjEgNi42NyAwIDEyLTIuMjEgNS4zMi0yLjIgOS4wNC02LjMzIDMuNzItNC4xMiA1LjczLTEwLjA4IDIuMDItNS45NSAyLjAyLTEzLjQ1bTc3LjExLS4xMmgzMC4yNHYzNi44NXEtNi45MyA1LjEtMTQuNzcgNy40Ny03Ljg1IDIuMzYtMTYuNzkgMi4zNi0xMS4xNSAwLTIwLjE5LTMuNDctOS4wNS0zLjQ2LTE1LjQ0LTkuNjQtNi4zOS02LjE3LTkuODYtMTQuNzQtMy40Ni04LjU3LTMuNDYtMTguNzEgMC0xMC4yNyAzLjMzLTE4Ljg0IDMuMzQtOC41NiA5LjQ5LTE0Ljc0IDYuMTQtNi4xNyAxNC45LTkuNTcgOC43NS0zLjQxIDE5LjY1LTMuNDEgNS41NSAwIDEwLjM3Ljg5IDQuODEuODggOC45NCAyLjQyIDQuMTMgMS41NSA3LjUzIDMuNzUgMy40IDIuMjEgNi4yNCA0Ljg1bC00Ljg1IDcuNjlxLTEuMTQgMS44Mi0yLjk3IDIuMjMtMS44Mi40MS0zLjk2LS45MS0yLjA4LTEuMi00LjE2LTIuMzktMi4wOC0xLjItNC42My0yLjA4LTIuNTUtLjg5LTUuNzQtMS40NS0zLjE4LS41Ny03LjM0LS41Ny02Ljc0IDAtMTIuMTkgMi4yN3QtOS4yOSA2LjQ5LTUuOTIgMTAuMTQtMi4wOCAxMy4yM3EwIDcuODEgMi4yNCAxMy45NiAyLjIzIDYuMTQgNi4zIDEwLjM5IDQuMDYgNC4yNSA5Ljc5IDYuNDkgNS43NCAyLjI0IDEyLjc5IDIuMjQgNS4wNCAwIDkuMDEtMS4wNyAzLjk3LTEuMDggNy43NS0yLjlWMzEyLjZoLTExLjQ3cS0xLjYzIDAtMi41NS0uOTEtLjkxLS45Mi0uOTEtMi4yNHptMTMzLjUuMTJxMCAxMC4wMi0zLjMxIDE4LjU1LTMuMzEgOC41NC05LjM2IDE0Ljc4LTYuMDQgNi4yMy0xNC41NSA5LjczLTguNSAzLjUtMTguOSAzLjUtMTAuMzMgMC0xOC44NC0zLjUtOC41LTMuNS0xNC41OC05LjczLTYuMDgtNi4yNC05LjQyLTE0Ljc4LTMuMzQtOC41My0zLjM0LTE4LjU1dDMuMzQtMTguNTVxMy4zNC04LjU0IDkuNDItMTQuNzggNi4wOC02LjIzIDE0LjU4LTkuNzMgOC41MS0zLjUgMTguODQtMy41IDYuOTMgMCAxMy4wNCAxLjYxdDExLjIyIDQuNTRxNS4xIDIuOTMgOS4xNiA3LjEyIDQuMDcgNC4xOCA2LjkgOS4zNSAyLjg0IDUuMTcgNC4zMiAxMS4yMiAxLjQ4IDYuMDQgMS40OCAxMi43Mm0tMTcuMzMgMHEwLTcuNS0yLjAxLTEzLjQ1LTIuMDItNS45NS01Ljc0LTEwLjExLTMuNzEtNC4xNi05LjA0LTYuMzYtNS4zMi0yLjIxLTEyLTIuMjF0LTEyIDIuMjFxLTUuMzIgMi4yLTkuMDcgNi4zNnQtNS43NyAxMC4xMXEtMi4wMSA1Ljk1LTIuMDEgMTMuNDV0Mi4wMSAxMy40NXEyLjAyIDUuOTYgNS43NyAxMC4wOCAzLjc1IDQuMTMgOS4wNyA2LjMzIDUuMzIgMi4yMSAxMiAyLjIxdDEyLTIuMjFxNS4zMy0yLjIgOS4wNC02LjMzIDMuNzItNC4xMiA1Ljc0LTEwLjA4IDIuMDEtNS45NSAyLjAxLTEzLjQ1Ii8+PC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2118
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ab378013-61a2-4dd0-acdf-078837320ea5"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250423T170611Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Placeholder logo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b255195-70c1-4125-bd35-b4274ecdbf9a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\daustin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250815T203103Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T184030Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Logo d'espace réservé
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f71f1004-75b6-47c4-abb8-d2539b76c82a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250814T184106Z

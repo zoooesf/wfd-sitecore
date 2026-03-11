@@ -1,0 +1,90 @@
+﻿---
+ID: "98e8e7ca-fe22-4e77-a678-f71b0c7df646"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Gregory Walsh
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {77A60A4D-685A-415A-9190-DBB0FC4E31EC}
+    {3640336F-7EED-4400-886B-F0AB2F64B10E}
+    {9CC4241A-5B6B-4994-B8E3-598090541F8A}
+    {9C1087E8-F34B-4EB7-AC1E-8F8D54E6CCCA}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{D0EDCCDB-204B-4A4D-839D-9F2C79DC3D34}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Gregory
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "58175a73-ed28-4a0d-940a-b310249f8832"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Walsh
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: gregory.walsh@indequipservices.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{F4D0B56D-1B3C-4A59-AF36-CB56E7B00883}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: VP of Service Operations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T175354Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(412) 555-0723"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{F4D0B56D-1B3C-4A59-AF36-CB56E7B00883}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Industrial Equipment Services
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99b9e9ce-50cb-413c-8957-3c362dbc2867"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Gregory Walsh has built a 23-year career in industrial equipment maintenance and fleet management, becoming one of the industry's foremost experts in predictive maintenance technologies. At Industrial Equipment Services, he oversees service operations for a fleet of over 5,000 pieces of heavy machinery serving mining, construction, and manufacturing clients. By implementing IoT sensors and data analytics, Gregory has helped clients reduce unplanned downtime by 60% and extend equipment lifecycles by 30%.</p>
+        <p>Gregory began his career as a field service technician and worked his way up through progressively responsible positions. He holds certifications in multiple equipment types and has developed training programs that have certified over 1,000 technicians. His innovative maintenance strategies have been featured in industry publications, and he regularly speaks at conferences about the role of technology in improving equipment reliability. Gregory's practical, hands-on approach combined with his embrace of emerging technologies has made him a trusted partner to industrial clients nationwide.</p>
+        <!--<h2>Experience</h2>
+        <p>23-year career in industrial equipment maintenance and fleet management. He oversees service operations for a fleet of over 5,000 pieces of heavy machinery. He began his career as a field service technician.</p>
+        <h2>Achievements</h2>
+        <p>Helped clients reduce unplanned downtime by 60% and extend equipment lifecycles by 30%. Developed training programs that have certified over 1,000 technicians.</p>
+        <h2>Professional Involvement</h2>
+        <p>Holds certifications in multiple equipment types. His maintenance strategies have been featured in industry publications.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200045Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

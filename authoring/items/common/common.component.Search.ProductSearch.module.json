@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Search-ProductSearch",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Search/$ProductSearch/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Search/ProductSearch",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Search/$ProductSearch/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Search/ProductSearch",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Search/$ProductSearch/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Search/Search Headless Site Setup/Add Product Search Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

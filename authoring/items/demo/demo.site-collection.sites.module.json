@@ -1,0 +1,48 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "demo-sitecollections-sites",
+    "references": [
+        "common-templates-project",
+        "common-component-*"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$SiteCollections/$Sites/$SiteCollection",
+                "path": "/sitecore/content/Sites",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$SiteCollections/$Sites/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Project/Sites",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$SiteCollections/$Sites/$Renderings",
+                "path": "/sitecore/layout/Renderings/Project/Sites",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$SiteCollections/$Sites/$MediaLibrary",
+                "path": "/sitecore/media library/Project/Sites",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$SiteCollections/$Sites/$Settings",
+                "path": "/sitecore/system/Settings/Project/Sites",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$SiteCollections/$Sites/$Templates",
+                "path": "/sitecore/templates/Project/Sites",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$SiteCollections/$Sites/$BranchTemplates",
+                "path": "/sitecore/templates/Branches/Project/Sites",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}

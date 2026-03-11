@@ -1,0 +1,160 @@
+﻿---
+ID: "3b4377f2-ce89-48de-9006-32e89c50b2b6"
+Parent: "065a51eb-1f09-45c6-86b4-68c4dd118001"
+Template: "df4b050b-1365-4f9e-8250-dda7aca9d660"
+Path: /sitecore/content/Sites/main/Home/Insights/Insight D
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: 
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {501C010D-E961-4FA1-95AA-93C891E9AA32}
+    {D9E4E588-28BE-4F16-947B-EFEE69765D99}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{561357BA-7D4A-42BA-8A07-6D68E600F8E0}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{714E3D6C-FA34-4628-AD57-779EF56F1851}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6a8ea23b-b3c6-4563-b58d-7320cf01ad65"
+- ID: "e769428c-0961-458b-b298-0dae55669272"
+  Hint: pageCategory
+  Value: |
+    {DBF8D057-5537-445C-8202-6B094531738E}
+    {FF9475C3-3AC8-4B88-921A-AF13534AC2CE}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EF62CAE3-D58E-4FA5-AB7E-2A8C1B0B2BA4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B598C7743-668A-438C-8B64-048F7F1FD3A3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId" />
+      </d>
+    </r>
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {2C825391-CF0B-471E-9D3C-E8210106FD9B}
+    {FEBABBDA-3F17-40CC-B2BE-904202DB8EE3}
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "faa6ff07-fda8-4248-b10a-b77bb1c0f5f8"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="215081da-0a6b-4ebe-9ce9-3c59b01e4683" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T152137Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Best Hiking Trails in Saskatchewan
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zferguson@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250415T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b423cec-913e-4e6e-af52-d87bc67a3f7c"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250415T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gencabo@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <p style="color: #000000; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique felis ac faucibus tincidunt. Suspendisse eget justo a nunc fringilla mattis. Maecenas rhoncus interdum lobortis. Etiam quis fermentum massa, porta varius felis. Maecenas hendrerit orci nec eros elementum finibus. Quisque aliquet laoreet tincidunt. In viverra, dui at dapibus varius, turpis lacus finibus magna, quis condimentum lorem justo in ex. Phasellus viverra iaculis turpis vel fringilla. Phasellus dignissim lacus vel est dapibus tempor. Mauris eu ornare velit.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Curabitur quis nisi vel enim suscipit semper et et lacus. Nullam sit amet pellentesque nisi. Aenean mattis ante ut diam imperdiet porttitor. Aenean at felis sit amet magna pretium feugiat. Sed quis iaculis ante. Vestibulum vel tempor ex, id laoreet lorem. Proin lacinia urna risus, vel consequat metus finibus euismod. Pellentesque viverra tempus felis a suscipit. Sed lacinia neque metus.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Praesent gravida eros a vulputate dictum. Nunc sit amet augue sed massa sodales imperdiet in quis justo. Nullam tempus metus nulla, a blandit odio sagittis eget. Fusce at iaculis leo, in aliquam arcu. Sed vel lorem a nunc porttitor venenatis eu eget quam. Nam ac rutrum nunc, non pharetra dui. Phasellus nec magna eleifend, egestas diam ut, semper magna. Nulla ullamcorper enim vitae orci pulvinar lobortis. Vestibulum ut dolor at eros ullamcorper egestas. Aenean cursus, augue sollicitudin luctus ornare, nisi velit varius lectus, ut tempus est lacus ut turpis. Cras sit amet auctor sem. Donec imperdiet justo et pretium suscipit. Curabitur lobortis felis viverra nisi ullamcorper dapibus. Duis ut lacinia tellus, posuere congue velit.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Sed ut justo ullamcorper, fringilla orci sed, volutpat sem. Curabitur a rhoncus urna. Fusce convallis auctor est ac congue. Nunc molestie, ligula non scelerisque maximus, orci sapien tristique augue, et congue nibh est et ipsum. In bibendum pulvinar neque, quis accumsan lorem dictum in. Vestibulum dui ipsum, rhoncus euismod ligula nec, mollis porta nulla. Aenean elementum porttitor sem eu finibus. Quisque venenatis, turpis id volutpat volutpat, ipsum neque rutrum libero, at tempus est mi non erat. Donec faucibus viverra neque id interdum. Nulla feugiat purus lacus, vitae pulvinar tellus imperdiet quis. Praesent mollis ligula sed enim convallis, gravida pretium sem egestas. In efficitur arcu at nibh bibendum iaculis.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Nulla quis pretium ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed rhoncus lorem tortor, non imperdiet mauris vehicula vel. Fusce commodo quam malesuada, iaculis mi ut, facilisis lacus. Praesent nisl est, facilisis quis varius et, dapibus sit amet diam. Sed non ligula diam. Suspendisse consequat odio in interdum porta. Phasellus mollis tellus enim, at mollis justo sodales eget. Aliquam tempor urna ultrices fringilla dignissim. Fusce mollis sapien sed nunc tempor euismod a convallis urna. Phasellus imperdiet, dolor at cursus convallis, odio diam bibendum purus, eget maximus mauris urna finibus diam.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T155122Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "a5d6125b-1ec2-45e5-a9fb-8e690a791994"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Insight D
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250814T152341Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aqin@getfishtank.ca
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20250814T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cfdde2a9-7967-4d6c-a977-63cf45674a3e"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20250814T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jflheureux@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Insight D
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250903T203515Z

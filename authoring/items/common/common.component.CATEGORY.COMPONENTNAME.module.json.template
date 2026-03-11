@@ -1,0 +1,33 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-CATEGORY-COMPONENTNAME",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$CATEGORY/$COMPONENTNAME/$Templates",
+                "path": "/sitecore/templates/Feature/Common/CATEGORY/COMPONENTNAME",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$CATEGORY/$COMPONENTNAME/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/CATEGORY/COMPONENTNAME",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$CATEGORY/$COMPONENTNAME/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/CATEGORY/COMPONENTNAME",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$CATEGORY/$COMPONENTNAME/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/CATEGORY/CATEGORY Headless Site Setup/Add COMPONENTNAMEs Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

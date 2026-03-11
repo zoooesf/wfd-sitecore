@@ -1,0 +1,33 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-component-Accordions-Accordion",
+    "references": [
+        "common-templates-foundation",
+        "common-sxamodules"
+    ],
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$Components/$Accordions/$Accordion/$Templates",
+                "path": "/sitecore/templates/Feature/Common/Accordions/Accordion",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Accordions/$Accordion/$Rendering",
+                "path": "/sitecore/layout/Renderings/Feature/Common/Accordions/Accordion",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "$Components/$Accordions/$Accordion/$PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Common/Accordions/Accordion",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "$Components/$Accordions/$Accordion/$SxaModuleActions",
+                "path": "/sitecore/system/Settings/Feature/Common/Accordions/Accordions Headless Site Setup/Add Accordions Data Item",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,275 @@
+﻿---
+ID: "e73beac4-1b0c-4971-b2a7-27e4e475cb27"
+Parent: "9eed4d98-dcfa-4dfb-9bae-6896a970270c"
+Template: "54682ae2-9d87-47ea-b5c7-7391a8869663"
+Path: /sitecore/content/Sites/main/Data/Common Richtexts/CommonRichtext
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241126T173354Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jflores@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb3f3348-3ba8-4b14-9a48-8a11afd8023a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        &#8203;<div class="ck-content">
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>heading 3</h3>
+        <h4>heading 4</h4>
+        <h5>heading 5</h5>
+        <h6>heading 6</h6>
+        <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. BOLD.</strong></p>
+        <p><s>Duis in semper augue. &nbsp;STRIKE.</s></p>
+        <p>Proin ultrices velit neque, et iaculis lectus posuere id.<sub> Subscript.</sub></p>
+        <p>Aliquam risus lacus, scelerisque vitae dolor in, vulputate vestibulum leo.<sup> Superscript.</sup></p>
+        <p style="text-align:left;">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&nbsp;</p>
+        <p style="text-align:center;">Maecenas suscipit finibus ex, a varius sem porttitor vel.&nbsp;</p>
+        <p style="text-align:right;">Pellentesque bibendum ultrices ligula, a ornare nisl scelerisque et.&nbsp;</p>
+        <p>Nam sit amet nulla quam. Fusce viverra diam quis purus eleifend, in lobortis arcu malesuada. Donec tristique auctor libero sit amet accumsan. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam viverra odio lectus. Etiam eget augue in urna mattis vulputate a vel mauris. This text is justified.</p>
+        <p style="margin-left:40px;">Some indented text here.</p>
+        <p><span style="text-decoration: underline;">Underline this text.</span></p>
+        <p><span style="text-decoration: underline;"><em>and with some italics.</em></span></p>
+        <p>&nbsp;</p>
+        <p><a href="https://www.google.ca">LINK TO GOOGLE</a></p>
+        <p>&nbsp;</p>
+        <figure class="table">
+        <table>
+            <thead>
+                <tr>
+                    <th>Heading 1</th>
+                    <th>Heading 2</th>
+                    <th>Heading 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Title 1</td>
+                    <td>Title 2</td>
+                    <td>Title 3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                </tr>
+            </tbody>
+        </table>
+        </figure><blockquote>
+        <p><q>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis in semper augue.</q></p>
+        <h5>Author</h5>
+        <p>Position</p>
+        </blockquote>
+        <h3>Heading 3<span style="background-color: #ffffff;">﻿</span></h3>
+        <ul>
+            <li>First Item</li>
+            <li class="rte-indent-2">Testing</li>
+            <li>Second Item
+            <ul>
+                <li>First Item</li>
+                <li class="rte-indent-2">Testing<br />
+                This is a p inside an LI. It will actually render a span, with a bogus paragraph class if it's done from Pages.</li>
+                <li>Second Item
+                <ul>
+                    <li>First Item</li>
+                    <li class="rte-indent-2">Testing</li>
+                    <li>Second Item
+                    <ul>
+                        <li>First Item</li>
+                        <li class="rte-indent-2">Testing</li>
+                        <li>Second Item</li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <p>&nbsp;</p>
+        <ol>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three
+            <ol>
+                <li>One</li>
+                <li>Two</li>
+                <li>Three
+                <ol>
+                    <li>One</li>
+                    <li>Two</li>
+                    <li>Three</li>
+                    <li>Four</li>
+                    <li>Five within a paragraph tag.
+                    <ol>
+                        <li>One</li>
+                        <li>Two</li>
+                        <li>Three</li>
+                    </ol>
+                    </li>
+                </ol>
+                </li>
+            </ol>
+            </li>
+        </ol>
+        <p>&nbsp;</p>
+        <ol style="list-style-type:upper-roman;">
+            <li>One</li>
+            <li>Two</li>
+            <li>Three
+            <ol style="list-style-type:upper-roman;">
+                <li>One</li>
+                <li>Two</li>
+                <li>Three
+                <ol style="list-style-type:upper-roman;">
+                    <li>One</li>
+                    <li>Two</li>
+                    <li>Three</li>
+                    <li>Four</li>
+                    <li>Five
+                    <ol style="list-style-type:upper-roman;">
+                        <li>One</li>
+                        <li>Two
+                        <ol>
+                            <li>Another one. Romans 5 OL deep.</li>
+                        </ol>
+                        </li>
+                    </ol>
+                    </li>
+                </ol>
+                </li>
+            </ol>
+            </li>
+        </ol>
+        <p>&nbsp;</p>
+        <p style="text-align: left;"><img alt="technology logo" src="-/media/7bd950a48f1f4d14b045308518b26ed8.ashx?h=188.8&amp;w=227.4" style="width: 227.4px; height: 188.8px;" /></p>
+        <p style="text-align: center;"><img height="612" alt="technology logo" width="612" src="-/media/7bd950a48f1f4d14b045308518b26ed8.ashx" style="width: 168.2px; height: 124.4px;" /></p>
+        <p style="text-align: right;"><img alt="technology logo" src="-/media/7bd950a48f1f4d14b045308518b26ed8.ashx?h=135.8&amp;w=188.2" style="width: 188.2px; height: 135.8px;" /></p>
+        <p style="text-align: justify;"><img height="612" alt="technology logo" width="612" src="-/media/7bd950a48f1f4d14b045308518b26ed8.ashx" style="left: 934.2px; width: 211.6px; height: 170.6px;" /></p>
+        <hr />
+        </div>
+        <figure><img src="https://b2f4490d-c9f6-474f-88d4-f6107dcef209.mdnplay.dev/shared-assets/images/examples/elephant.jpg" alt="Elephant at sunset" /><figcaption>An elephant at sunset</figcaption></figure>
+        <figure><blockquote>
+        <p>It was a bright cold day in April, and the clocks were striking thirteen.</p>
+        </blockquote> <figcaption>First sentence in <cite><a href="http://www.george-orwell.org/1984/0.html">Nineteen Eighty-Four</a></cite> by George Orwell (Part 1, Chapter 1).</figcaption>
+        </figure>
+        <pre>             S
+                     A
+                    LUT
+                     M
+                    O N
+                    D  E
+                    DONT
+                  JE SUIS
+                  LA  LAN
+                  G U E  &Eacute;
+                 L O Q U E N
+                TE      QUESA
+               B  O  U  C  H  E
+              O        P A R I S
+             T I R E   ET   TIRERA
+            T O U             JOURS
+           AUX                  A  L
+         LEM                      ANDS   - Apollinaire
+        <code>codeInsidePre()</code>
+        </pre>
+        <p>The <code>push()</code> method adds one or more elements to the end of an array and returns the new length of the array.</p>
+        <div class="iframe-wrapper"><iframe id="inlineFrameExample" title="Inline Frame Example" width="300" height="200" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&amp;layer=mapnik"></iframe></div>
+        <video width="400">
+        <source src="mov_bbb.mp4" type="video/mp4"></source>
+        <source src="mov_bbb.ogg" type="video/ogg"></source>
+        Your browser does not support HTML video.
+        </video>
+        <p>You can use <abbr>CSS</abbr> (Cascading Style Sheets) to style your <abbr>HTML</abbr> (HyperText Markup Language). Using style sheets, you can keep your <abbr>CSS</abbr> presentation layer and <abbr>HTML</abbr> content layer separate. This is called "separation of concerns."</p>
+        <address><a href="mailto:jim@example.com">jim@example.com</a><br />
+        <a href="tel:+14155550132">+1 (415) 555‑0132</a></address>
+        <p>Please press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to re-render an MDN page.</p>
+        <p><samp>Keyboard not found <br />
+        Press F1 to continue</samp></p>
+        <p>The volume of a box is <var>l</var> &times; <var>w</var> &times; <var>h</var>, where <var>l</var> represents the length, <var>w</var> the width and <var>h</var> the height of the box.</p>
+        <p>Cryptids of Cornwall:</p>
+        <dl>
+            <dt>Beast of Bodmin</dt>
+            <dd>A large feline inhabiting Bodmin Moor.</dd>
+            <dt>Morgawr</dt>
+            <dd>A sea serpent.</dd>
+            <dt>Owlman</dt>
+            <dd>A giant owl-like creature.</dd>
+        </dl>
+        <details>
+        <summary>Details</summary>
+        Something small enough to escape casual notice.
+        </details>
+        <p><small>Some small text.</small></p>
+        <p><time datetime="2018-07-07">July 7</time></p>
+        <div class="ck-widget">This is a ck widget.</div>
+        <div class="oembed-container media-wrapper" data-oembed-url="https://youtu.be/z5tQIjLNe8M">
+        There is a YouTube video here.
+        </div>
+        <div class="richtext-sm">
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <h6>
+        </h6>
+        </div>
+        <div class="richtext-lg">
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <h6>
+        </h6>
+        </div>
+        <div class="richtext-xl">
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <h6>
+        </h6>
+        </div>
+        <div class="richtext-2xl">
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <h6>
+        </h6>
+        </div>&#8203;
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251016T165331Z

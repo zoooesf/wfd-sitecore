@@ -1,0 +1,96 @@
+﻿---
+ID: "26e9c9ee-a683-493a-9f3a-62732cf47344"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Robert Sullivan
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {2726F56B-EB47-44BC-83D0-7E1F18698D4B}
+    {D52F32D2-5A0F-45AF-B31F-FF9A74ED2F59}
+    {4F01FB86-8F52-43D9-9F37-7F64C349679F}
+    {40CE8693-9052-4BBB-9597-001ECC1FE384}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{99BBD61D-C090-4345-A77A-3DFB89BBA259}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Robert
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b8984961-9a34-4f97-8797-46743adf7a78"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Sullivan
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: rob.sullivan@cornerstonefa.com
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{F4D0B56D-1B3C-4A59-AF36-CB56E7B00883}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Senior Managing Partner
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T173256Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(704) 555-0412"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{F4D0B56D-1B3C-4A59-AF36-CB56E7B00883}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Cornerstone Financial Advisors
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "867681b1-1942-4299-a358-5b2409d0048d"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Rob Sullivan is a seasoned financial advisor with over 25 years of experience helping high-net-worth individuals and families achieve their financial goals. As Senior Managing Partner at Cornerstone Financial Advisors, he leads a team of 30 advisors managing over $2 billion in client assets. Rob specializes in comprehensive wealth management, including investment portfolio construction, tax optimization strategies, estate planning, and retirement income planning.</p>
+        <p>A Certified Financial Planner (CFP) and Chartered Financial Analyst (CFA), Rob has been consistently recognized as one of the top financial advisors in the Southeast region. He holds a degree in Finance from the University of North Carolina and has served on the board of the Financial Planning Association. Rob is known for his client-first philosophy and his ability to simplify complex financial concepts, making him a trusted advisor to business owners, executives, and multi-generational families.</p>
+        <!--<h2>Experience</h2>
+        <p>Over 25 years of experience helping high-net-worth individuals and families. He leads a team of 30 advisors managing over $2 billion in client assets. He specializes in comprehensive wealth management, tax optimization strategies, and estate planning.</p>
+        <h2>Achievements</h2>
+        <p>He is consistently recognized as one of the top financial advisors in the Southeast region. Known for his ability to simplify complex financial concepts.</p>
+        <h2>Professional Involvement</h2>
+        <p>He is a Certified Financial Planner (CFP) and Chartered Financial Analyst (CFA). He has served on the board of the Financial Planning Association.</p>
+        <h2>Community Involvement</h2>
+        <p>Known for his client-first philosophy.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Consistently recognized as one of the top financial advisors in the Southeast region.</p>
+        <h2>Education</h2>
+        <p>Holds a degree in Finance from the University of North Carolina.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200230Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

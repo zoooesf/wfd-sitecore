@@ -1,0 +1,31 @@
+﻿---
+ID: "630720be-57b0-4ab0-97f7-e1b3f8f1c2d2"
+Parent: "0963d97a-dc94-407d-bc3b-cc5b720b7cf0"
+Template: "1d81ca6f-131b-477c-a8dd-c23c559d53d7"
+Path: /sitecore/content/Sites/main/Data/Simple Page Listings With Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250813T153458Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7fd615b-09a2-4c7f-86f8-e51ec39907f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250813T153458Z

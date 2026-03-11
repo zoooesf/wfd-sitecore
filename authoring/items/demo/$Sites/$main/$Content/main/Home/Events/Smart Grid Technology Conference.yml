@@ -1,0 +1,154 @@
+﻿---
+ID: "186efd3d-62b3-4284-9288-e7b9351f60a4"
+Parent: "2323c2d8-8424-4df9-86f4-5975a85f4e30"
+Template: "b1df3406-1061-4200-a833-16650b0c16eb"
+Path: /sitecore/content/Sites/main/Home/Events/Smart Grid Technology Conference
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {8F2B35AD-DD81-42C8-A71C-45075E64D533}
+    {F30F840E-3C93-4833-9E00-D6F24840DF00}
+    {D3C653EF-F740-404D-B230-F4A6992A2BC1}
+    {ED1F4BDC-39A3-40FC-B614-6EEDDBE189DC}
+    {802072A8-C161-4741-A3E5-D4995778AF7A}
+    {1860D515-6E7C-47D4-BCF9-358FD4D29DB2}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3000
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F7DDE103-D642-4EC0-B707-05CFD443B380}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5075fe4c-c715-449a-9ee0-60e0c4f2dc8c"
+- ID: "e733e641-f594-43e4-bb60-ef35b3f78656"
+  Hint: pageCategory
+  Value: "{98519373-B6DD-442B-8EA7-F18B6BB5DA10}"
+- ID: "ff6234d2-beb9-471a-8d48-88944fde7875"
+  Hint: profiles
+  Value: |
+    {1A9DA7DB-CF28-4334-8229-64EEF7416E12}
+    {19C736D2-EEAB-4BCE-A08D-2EFE4C191586}
+    {8318640F-8801-4556-A743-D4DC60CE780C}
+    {9E519296-D74A-4A5F-B572-AE1D52D9CA16}
+- ID: "fff562d9-0ce4-46b0-8db7-cfb450c582ea"
+  Hint: location
+  Value: "{D4DA20DE-F45A-4290-9BC4-97CE0B1294E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05de6264-c9d8-42a0-b192-20f227275cd1"
+      Hint: sponsors
+      Value: |
+        {892B089C-330C-4506-8231-3F9E902B8748}
+        {9E846405-9D75-4DD9-90A3-085E75B29E3B}
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "1650cd0c-a96e-41dc-b507-3ce27f86ef04"
+      Hint: startDate
+      Value: 20260325T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T153301Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Smart Grid Technology Conference
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{D60C51C9-15D7-40E6-9C72-E54D13CCF23E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "79663bcc-8ff9-4b2d-a2b9-cf7d73ab81b6"
+      Hint: eventTime
+      Value: "8:30am-5:30pm"
+    - ID: "7f289a5a-f12e-46b4-aa8d-7ab26f6f8571"
+      Hint: lastUpdated
+      Value: 20251008T000000Z
+    - ID: "8552e4b4-d69a-4063-8ced-7e35d3455645"
+      Hint: endDate
+      Value: 20260327T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfd0aacf-a882-4f98-bf31-b94d374eb228"
+    - ID: "b7679bcb-b43f-4b45-a6d7-e317757cfbc0"
+      Hint: datePublished
+      Value: 20251008T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\thoad@getfishtank.ca
+    - ID: "c23b27d3-398e-4a60-994a-b2257fb29b63"
+      Hint: heading
+      Value: Smart Grid Technology Conference
+    - ID: "c3c248a3-843e-4b19-a2e6-40d9a1352126"
+      Hint: subheading
+      Value: |
+        <span data-token-index="0" class="notion-enable-hover">Integrating Digital Solutions for Energy Distribution</span>
+    - ID: "d71bc2be-4f73-46f8-808c-86cbe11ad047"
+      Hint: body
+      Value: |
+        <h2>Overview</h2>
+        <p>The annual Smart Grid Technology Conference explores cutting-edge solutions for modernizing electrical distribution systems across residential, commercial, and industrial sectors. Utility engineers, technology providers, and energy professionals will discover innovative approaches to grid optimization, demand response, distributed energy resources, and cybersecurity for critical infrastructure.</p>
+        <h2>What to Expect</h2>
+        <p>A three-day annual conference with an opening keynote by <strong>Linda Nguyen</strong>, a workshop on <strong>Grid Analytics and Data Management</strong>, sessions on <strong>Commercial and Industrial Grid Solutions</strong> by <strong>Michael Torres</strong> and <strong>Engineering Best Practices</strong> by <strong>Patricia Johnson</strong>, and a closing keynote by <strong>Kevin O'Brien</strong>.</p>
+        <h3>Key Topics</h3>
+        <ul>
+            <li>The Evolution of <strong>Smart Grid Systems</strong></li>
+            <li><strong>Advanced Metering Infrastructure</strong> (AMI)</li>
+            <li><strong>Grid Analytics</strong> and Data Management</li>
+            <li><strong>Cybersecurity</strong> for Smart Grid Infrastructure</li>
+            <li><strong>Commercial and Industrial Grid Solutions</strong></li>
+            <li><strong>Engineering Best Practices</strong></li>
+            <li>Innovation Showcase and <strong>Grid of Tomorrow</strong></li>
+        </ul>
+        <h2>Agenda</h2>
+        <p><strong>Day 1 - March 25</strong></p>
+        <ul>
+            <li>8:30am - Registration &amp; Continental Breakfast</li>
+            <li>9:30am - Opening Keynote: "The Evolution of Smart Grid Systems" by Linda Nguyen</li>
+            <li>11:00am - Technical Sessions: Advanced Metering Infrastructure</li>
+            <li>12:30pm - Lunch &amp; Technology Expo</li>
+            <li>2:00pm - Workshop: Grid Analytics and Data Management</li>
+            <li>4:00pm - Residential Applications Panel</li>
+            <li>5:30pm - Networking Reception</li>
+        </ul>
+        <p><strong>Day 2 - March 26</strong></p>
+        <ul>
+            <li>8:30am - Breakfast</li>
+            <li>9:30am - Commercial and Industrial Grid Solutions by Michael Torres</li>
+            <li>11:00am - Cybersecurity for Smart Grid Infrastructure</li>
+            <li>12:30pm - Lunch</li>
+            <li>2:00pm - Engineering Best Practices by Patricia Johnson</li>
+            <li>3:30pm - Case Studies: Successful Deployments</li>
+            <li>5:30pm - Day 2 Close</li>
+        </ul>
+        <p><strong>Day 3 - March 27</strong></p>
+        <ul>
+            <li>8:30am - Breakfast</li>
+            <li>9:30am - Innovation Showcase</li>
+            <li>11:00am - Closing Keynote: "Building the Grid of Tomorrow" by Kevin O'Brien</li>
+            <li>12:30pm - Conference Conclusion</li>
+        </ul>
+        <h2>A Must-Attend Event For</h2>
+        <p>Utility engineers, technology providers, and energy professionals who need to integrate <strong>digital solutions</strong> and innovative approaches for grid optimization and critical infrastructure security.</p>
+        <h2>Location Details</h2>
+        <p><strong>Houston Energy Innovation Center</strong></p>
+        <p>3201 Allen Pkwy<br />
+        Houston, TX <br />
+        77019</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251110T204736Z

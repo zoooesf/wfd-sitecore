@@ -1,0 +1,134 @@
+﻿---
+ID: "82c3ea9c-4e75-42d0-9ae3-131fe6951d3b"
+Parent: "299281f8-380c-4b08-a455-4d72e5018a80"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/Sites/main/Presentation/Page Branches
+BranchID: "aa6c7b9e-a399-47ae-82b8-0d88c695249b"
+SharedFields:
+  - ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+    Hint: Rule
+    Value: |
+      <ruleset>
+        <rule
+          uid="{1F340D9B-FBE0-4B5E-A3DF-7F2FBEB5556B}">
+          <conditions>
+            <condition
+              id="{D0810F9D-734C-452D-BBB6-4730368D68F1}"
+              uid="89368D0E54364D8BB02F215A62921638"
+              templateid="{0603681D-37AA-4430-A159-8C0E9EE04328}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="F38D44E8496947BDBF81BE36393A8DE4"
+              PageBranchId="{6BC3C4C0-08D3-41CA-9155-0F4499926FB6}" />
+          </actions>
+        </rule>
+        <rule
+          uid="{D73E6214-D529-49DC-ABA2-4E1F067A2DE5}">
+          <conditions>
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="6CAD65FE97F2409F8669AF316D0ADBDF"
+              templateid="{7A6105A8-F696-4A58-865A-510E8998956B}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="B8C5F842C18D4737A624DA3E20AA25F8"
+              PageBranchId="{168D9149-0E91-4EEF-AC8C-B242F8CFE6F0}" />
+          </actions>
+        </rule>
+        <rule
+          uid="{6F874345-4DC9-455B-816F-C0F73E1E7A82}">
+          <conditions>
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="63BA72B7BBB54730AFAC012B9F0AAC34"
+              templateid="{959F1C50-F8F6-4C59-9CD0-2F8F21301835}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="0F4E3A9919C64AF29EB22B22E119390A"
+              PageBranchId="{08ED947E-188B-4615-AD6B-DEC1DE897E46}" />
+          </actions>
+        </rule>
+        <rule
+          uid="{A91A6E29-CA85-481E-ABBD-AA27C066FB09}">
+          <conditions>
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="7A5A920D9D124376AA24269192224FBC"
+              templateid="{3BF160F3-9328-4591-87FA-4383A4ABBE2E}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="71D39E1E0B554443B79E07A82B4DCD08"
+              PageBranchId="{07FEFC8D-0246-415E-8105-9246E29B099B}" />
+          </actions>
+        </rule>
+        <rule
+          uid="{3880C916-0283-42DB-9C7C-2EF59E324C01}">
+          <conditions>
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="89B3CD3EF43144F3AD478137B9039BFF"
+              templateid="{739F1C8E-E25A-4D57-8A69-4842BAE5B91F}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="281ED0D30E4E4E3ABAA097DBDA6ABF22"
+              PageBranchId="{26FBE5D5-3EB2-4E26-AFAA-87DA4878DA13}" />
+          </actions>
+        </rule>
+        <rule
+          uid="{7D4D02E4-2F1E-47FB-837D-6342FC06D7DD}">
+          <conditions>
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="127BDA6B6B0441E98CD16B49CE442EDF"
+              templateid="{2304C92F-7324-4F8B-8AE4-D5BE0A96F767}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="E43CA809BBA740D0966CFA70CBFBC3F9"
+              PageBranchId="{516BCBC9-6F41-4518-8E00-9EC791EECE56}" />
+          </actions>
+        </rule>
+      </ruleset>
+  - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+    Hint: __Shared revision
+    Value: "c3e07156-b931-41f7-b8a8-81abc1e8ee15"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{63D0F6B2-D72F-4C31-BBA2-1709C4B68B7B}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20241030T131456Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\jflores@getfishtank.ca
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\jflores@getfishtank.ca
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "912ab367-93ef-4ccd-be44-59914a76c78a"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\daustin@getfishtank.ca
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20251125T200353Z

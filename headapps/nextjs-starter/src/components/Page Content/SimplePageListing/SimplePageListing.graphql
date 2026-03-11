@@ -1,0 +1,55 @@
+query SimplePageListing(
+  $pageID: String!
+  $language: String!
+  $endCursor: String
+  $first: Int = 5
+  $templateId: String!
+) {
+  item(path: $pageID, language: $language) {
+    pages: children(includeTemplateIDs: [$templateId], first: $first, after: $endCursor) {
+      total
+      pageInfo {
+        endCursor
+        hasNext
+      }
+      results {
+        name
+        url {
+          path
+        }
+        ... on CommonBasePage {
+          ...ImageFieldFragment
+          ...HeadingFieldFragment
+          ...SubheadingFieldFragment
+        }
+      }
+    }
+  }
+}
+
+query SimplePageListingWithTags(
+  $pageID: String!
+  $language: String!
+  $endCursor: String
+  $first: Int = 5
+  $templateId: String!
+) {
+  item(path: $pageID, language: $language) {
+    pages: children(includeTemplateIDs: [$templateId], first: $first, after: $endCursor) {
+      total
+      pageInfo {
+        endCursor
+        hasNext
+      }
+      results {
+        id
+        name
+        displayName
+        url {
+          path
+        }
+        ...TagsDetailsFragment
+      }
+    }
+  }
+}

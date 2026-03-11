@@ -1,0 +1,23 @@
+query GetKnowledgeCenterResources(
+  $sitePath: String!
+  $language: String!
+  $first: Int!
+  $after: String
+) {
+  item(path: $sitePath, language: $language) {
+    id
+    name
+    displayName
+    children(first: $first, after: $after) {
+      pageInfo {
+        endCursor
+        hasNext
+      }
+      results {
+        ... on KnowledgeCenterResource {
+          ...KnowledgeCenterResourceFragment
+        }
+      }
+    }
+  }
+}

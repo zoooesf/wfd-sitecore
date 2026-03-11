@@ -1,0 +1,46 @@
+﻿---
+ID: "8fc71605-a632-4414-a13b-942aac8039e9"
+Parent: "187f8dfc-f481-4454-b41a-845db25eb95a"
+Template: "d7129f3e-903b-48c6-9a0c-00924c601d05"
+Path: /sitecore/content/Sites/main/Data/Knowledge Center Resources/A Regulatory Framework Outlook for Decentralized Finance DeFi and Stablecoins TIDAL SAMPLE DOC
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    {97BBD37E-B3C6-4B90-8828-6802DCE3FE71}
+    {76596B5B-2EA6-417F-ACB2-C181B008C925}
+    {B475771B-2A39-452D-99A4-64A20EC4C796}
+    {A67CF5BD-CB3D-4C9F-B493-53D376C9DF37}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "31a8dcb1-9336-4a24-bc31-0445d546ab2f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251008T191852Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f63fb99-39f0-4a38-96af-3828a7b23747"
+    - ID: "95b9b827-2ee6-4465-901b-f963242b1684"
+      Hint: file
+      Value: |
+        <file mediaid="{3846EEDE-4B28-4392-BBD0-EBD866B52C7D}" src="-/media/3846eede4b284392bbd0ebd866b52c7d.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aborsi@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251008T192104Z

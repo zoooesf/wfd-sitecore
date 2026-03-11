@@ -1,0 +1,30 @@
+﻿---
+ID: "5cce2237-bbcb-4c5e-8171-662031f65f60"
+Parent: "2304c92f-7324-4f8b-8ae4-d5be0a96f767"
+Template: "2304c92f-7324-4f8b-8ae4-d5be0a96f767"
+Path: /sitecore/templates/Project/Sites/Pages/Product Listing Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{536BCAA5-048F-465F-8BF5-6A60F25EB040}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "567f03b6-0c4f-4a15-bad7-73f738ee7fda"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251119T173140Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f565cbd-2925-478b-8bde-c67161442bd5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251120T144031Z

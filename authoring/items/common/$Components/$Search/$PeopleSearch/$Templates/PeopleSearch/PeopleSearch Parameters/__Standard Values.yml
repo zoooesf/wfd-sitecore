@@ -1,0 +1,31 @@
+﻿---
+ID: "53357f02-d327-4721-8ba0-bfeb93444d13"
+Parent: "ad333bc9-d2cf-4ba6-b2cd-cc174321e39e"
+Template: "ad333bc9-d2cf-4ba6-b2cd-cc174321e39e"
+Path: /sitecore/templates/Feature/Common/Search/PeopleSearch/PeopleSearch Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250813T155723Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\apathan@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a971621-69ea-4841-b6a6-53973b0b3beb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kparks@getfishtank.ca
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250827T160449Z

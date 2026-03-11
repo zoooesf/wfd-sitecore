@@ -1,0 +1,96 @@
+﻿---
+ID: "902053f2-5639-45a4-9588-d57107e543f8"
+Parent: "cca6f4be-0aec-4732-ac32-ffb72ba3b1c9"
+Template: "8f70bf89-a234-4137-8b8f-2116351e3218"
+Path: /sitecore/content/Sites/main/Settings/Component Settings/Profiles/Jennifer Kim
+SharedFields:
+- ID: "3e57e7ce-3884-485e-9502-fb0a2fef9f19"
+  Hint: expertise
+  Value: |
+    {6EDB630A-DCEF-4863-AFF9-1C3360F11535}
+    {D97103F9-7493-447E-92C5-2BC70378F28C}
+    {E9CAA5D0-E451-46EF-A6AA-98F262E07BEB}
+    {BBC7C851-E15A-49A9-B01E-E99A0C1807FE}
+- ID: "9bed59e1-5afc-4f21-80de-038a9c24b691"
+  Hint: location
+  Value: "{BC0B3074-1AA1-44AC-B3AC-43114EE5ED9B}"
+- ID: "9e6812bf-dac1-4a70-a8fe-0271b23f19f1"
+  Hint: firstName
+  Value: Jennifer
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ce8788d2-ef4d-4ec4-a9b4-8ffeff0ec1a4"
+- ID: "e63afad3-e46e-4e44-b9a0-44330b5e7de9"
+  Hint: lastName
+  Value: Kim
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0257b7ce-b381-485b-8b4f-4a75b9af95ae"
+      Hint: email
+      Value: jennifer.kim@acri.org
+    - ID: "06fe7e7f-2451-47c0-b0cf-dc6bfeca6744"
+      Hint: image
+      Value: |
+        <image mediaid="{520267DD-58E0-43B7-AAED-4C0E4BC88FEB}" />
+    - ID: "0c1df2a1-f99b-45b7-a449-bb275c7354ac"
+      Hint: role
+      Value: Director of Clinical Research
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T174344Z
+    - ID: "3a6c4450-48e3-48cf-af71-e57e41d782be"
+      Hint: phone
+      Value: "(617) 555-0891"
+    - ID: "50a77fd2-3915-4295-84df-06211e645283"
+      Hint: imageMobile
+      Value: |
+        <image mediaid="{520267DD-58E0-43B7-AAED-4C0E4BC88FEB}" />
+    - ID: "520e58f2-0126-41ea-b75e-b9911bf41a2d"
+      Hint: company
+      Value: Advanced Cancer Research Institute
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "166b88a1-b656-4f39-b0cb-68f1592a50c1"
+    - ID: "b3bb7a8d-aade-4fd7-bbc5-d71005a50376"
+      Hint: website
+      Value: |
+        <link text="Website" linktype="external" url="http://www.getfishtank.ca" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kdickinson@getfishtank.ca
+    - ID: "cd8a16cc-973a-45a2-aa9d-707f27b19b77"
+      Hint: description
+      Value: |
+        <p>Dr. Jennifer Kim is a leading oncologist and clinical researcher dedicated to advancing cancer treatment through innovative research. As Director of Clinical Research at the Advanced Cancer Research Institute, she oversees multiple phase II and phase III clinical trials investigating novel immunotherapy and targeted therapy approaches. Her research has contributed to FDA approvals of three new cancer treatments, offering hope to thousands of patients with previously limited treatment options.</p>
+        <p>Dr. Kim completed her medical degree and oncology fellowship at Columbia University and has published over 75 peer-reviewed articles in prestigious medical journals. She maintains an active clinical practice, treating patients while simultaneously conducting groundbreaking research. Her patient-centered approach ensures that clinical trial design considers quality of life alongside survival outcomes. Dr. Kim has received numerous awards for her contributions to cancer research and serves as a mentor to the next generation of physician-scientists.</p>
+        <!--<h2>Experience</h2>
+        <p>A leading oncologist and clinical researcher. She oversees multiple phase II and phase III clinical trials and maintains an active clinical practice.</p>
+        <h2>Achievements</h2>
+        <p>Her research has contributed to FDA approvals of three new cancer treatments. She has published over 75 peer-reviewed articles in prestigious medical journals.</p>
+        <h2>Professional Involvement</h2>
+        <p>Serves as a mentor to the next generation of physician-scientists.</p>
+        <h2>Community Involvement</h2>
+        <p>Her patient-centered approach ensures that clinical trial design considers quality of life alongside survival outcomes.</p>
+        <h2>Awards &amp; Recognition</h2>
+        <p>Received numerous awards for her contributions to cancer research.</p>
+        <h2>Education</h2>
+        <p>Completed her medical degree and oncology fellowship at Columbia University.</p>-->
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T200101Z
+    - ID: "fc3a9258-06fd-435d-80dd-f341d2252ebf"
+      Hint: linkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/" anchor="" target="" />

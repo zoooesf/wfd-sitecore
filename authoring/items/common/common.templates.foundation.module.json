@@ -1,0 +1,28 @@
+﻿{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "common-templates-foundation",
+    "references": [
+        "common-commonfolders"
+    ],
+    "_comment": "Tags are serialized because we change the sort order",
+    "items": {
+        "path": "./",
+        "includes": [
+            {
+                "name": "$FoundationTemplates",
+                "path": "/sitecore/templates/Foundation/Common",
+                "scope": "DescendantsOnly"
+            },
+            {
+                "name": "$FoundationBranchTemplates",
+                "path": "/sitecore/templates/Branches/Foundation/Common",
+                "scope": "DescendantsOnly"
+            },
+            {
+                "name": "$FoundationTaggableTemplates",
+                "path": "/sitecore/templates/Foundation/Experience Accelerator/Taxonomy/_Taggable",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}
